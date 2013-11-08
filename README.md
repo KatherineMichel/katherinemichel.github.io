@@ -1,4 +1,4 @@
 katherinemichel.github.io
 =========================
 
-For Flat UI, Jekyll Powered Web Design
+For Flat UI, Git-Hub Powered Web Design
