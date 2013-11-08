@@ -1,4 +1,4 @@
 katherinemichel.github.io
 =========================
 
-For Flat UI, Git-Hub Powered Web Design
+For Beautiful Flat UI, Git-Hub Powered Web Design
