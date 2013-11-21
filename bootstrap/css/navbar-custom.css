@@ -13,7 +13,7 @@
  /* set the background of the menu items to pink and default color to white */ 
 
  .navbar .nav > li > a { 
- background-color: black; 
+ background-color: white; 
  color: black; 
 
  } 
