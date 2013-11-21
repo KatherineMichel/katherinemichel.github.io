@@ -1,5 +1,5 @@
-alternative-landing-page
+katherinemichel.github.io
 ========================
 
 Beautiful, Responsive, Git-Hub Powered Web Design <br>
-Alternative Landing Page for http://katherinemichel.github.io <br>
+Home Page for http://katherinemichel.github.io <br>
