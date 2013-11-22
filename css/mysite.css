@@ -12,7 +12,7 @@ div {
 	background-color: black;
 	height: 80px;
 	width: 100%;
-	position: fixed;
+	background-position: fixed;
 }
 
 ul {
