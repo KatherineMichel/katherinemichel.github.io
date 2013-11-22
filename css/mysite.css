@@ -8,11 +8,20 @@ body {
   	margin: 0; 
 }
 
+
 div {
 	background-color: black;
 	height: 80px;
 	width: 100%;
 	background-position: fixed;
+}
+
+a {
+	outline: none; 
+}
+ 
+a img {
+	outline: none; 
 }
 
 ul {
