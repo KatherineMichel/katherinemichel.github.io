@@ -16,6 +16,10 @@ div {
 	background-position: fixed;
 }
 
+img{
+	border-width:0px;
+}
+
 a:active {
     	outline: none;
 }
