@@ -8,6 +8,10 @@ ul {
 	margin-left: 0; 
 	padding-left: 0;
 }
+
+li {
+ 	display:inline;
+}
     	
 div {
 	background-color: black;
