@@ -17,7 +17,7 @@ div {
 }
 
 a:active {
-    outline: none;
+    	outline: none;
 }
 
 a {
@@ -26,6 +26,10 @@ a {
  
 a img {
 	outline: none; 
+}
+
+a.toggle:active,a.toggle:focus {
+ 	outline:transparent;
 }
 
 ul {
