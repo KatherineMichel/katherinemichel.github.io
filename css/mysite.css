@@ -12,11 +12,12 @@ ul {
 	list-style: none; 
 	margin-left: 0; 
 	padding-left: 0;
+	float: right;
 }
 
 li {
  	display: inline;
- 	float: right;
+ 	float: left;
 }
     	
 div {
