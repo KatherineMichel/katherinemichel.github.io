@@ -36,6 +36,10 @@ a.toggle:active,a.toggle:focus {
  	outline:transparent;
 }
 
+:focus {
+    	outline: 5px black!important;
+}
+
 ul {
 	list-style: none; 
 	margin-left: 0; 
