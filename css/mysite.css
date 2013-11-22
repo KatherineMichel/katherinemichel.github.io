@@ -13,7 +13,7 @@ div {
 	background-color: black;
 	height: 80px;
 	width: 100%;
-	background-position: fixed;
+	position: relative;
 }
 
 img{
