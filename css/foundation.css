@@ -28,11 +28,12 @@ meta.foundation-mq-xxlarge {
 
 html,
 body {
-  font-size: 100%; }
+  font-size: 100%; 
+    color: #333333; }
 
 body {
   background: white;
-  color: #333333;
+  color: #FFF;
   padding: 0;
   margin: 0;
   font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
