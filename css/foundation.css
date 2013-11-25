@@ -1440,7 +1440,7 @@ meta.foundation-mq-topbar {
 /* Wrapped around .top-bar to contain to grid width */
 .contain-to-grid {
   width: 100%;
-  background: #333333; }
+  background: #000000; }
   .contain-to-grid .top-bar {
     margin-bottom: 0; }
 
@@ -1468,7 +1468,7 @@ meta.foundation-mq-topbar {
   height: 45px;
   line-height: 45px;
   position: relative;
-  background: #333333;
+  background: #000000;
   margin-bottom: 0; }
   .top-bar ul {
     margin-bottom: 0;
@@ -1543,7 +1543,7 @@ meta.foundation-mq-topbar {
     height: auto;
     background: transparent; }
     .top-bar.expanded .title-area {
-      background: #333333; }
+      background: #000000; }
     .top-bar.expanded .toggle-topbar a {
       color: #888888; }
       .top-bar.expanded .toggle-topbar a span {
@@ -1561,7 +1561,7 @@ meta.foundation-mq-topbar {
     width: 100%;
     height: auto;
     display: block;
-    background: #333333;
+    background: #000000;
     font-size: 16px;
     margin: 0; }
   .top-bar-section .divider,
@@ -1579,9 +1579,9 @@ meta.foundation-mq-topbar {
     font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
     font-size: 0.8125rem;
     font-weight: normal;
-    background: #333333; }
+    background: #000000; }
     .top-bar-section ul li > a.button {
-      background: #333333;
+      background: #000000;
       font-size: 0.8125rem;
       padding-right: 15px;
       padding-left: 15px; }
@@ -1603,7 +1603,7 @@ meta.foundation-mq-topbar {
     background: #272727;
     color: white; }
   .top-bar-section ul li.active > a {
-    background: #333333;
+    background: #000000;
     color: white; }
     .top-bar-section ul li.active > a:hover {
       background: #262626; }
@@ -1661,7 +1661,7 @@ meta.foundation-mq-topbar {
 
 @media only screen and (min-width: 40.063em) {
   .top-bar {
-    background: #333333;
+    background: #000000;
     *zoom: 1;
     overflow: visible; }
     .top-bar:before, .top-bar:after {
@@ -1681,7 +1681,7 @@ meta.foundation-mq-topbar {
       position: relative;
       top: 7px; }
     .top-bar.expanded {
-      background: #333333; }
+      background: #000000; }
 
   .contain-to-grid .top-bar {
     max-width: 62.5em;
@@ -1707,7 +1707,7 @@ meta.foundation-mq-topbar {
     .top-bar-section li a:not(.button) {
       padding: 0 15px;
       line-height: 45px;
-      background: #333333; }
+      background: #000000; }
       .top-bar-section li a:not(.button):hover {
         background: #272727; }
     .top-bar-section .has-dropdown > a {
@@ -1744,10 +1744,10 @@ meta.foundation-mq-topbar {
         line-height: 1;
         white-space: nowrap;
         padding: 12px 15px;
-        background: #333333; }
+        background: #000000; }
       .top-bar-section .dropdown li label {
         white-space: nowrap;
-        background: #333333; }
+        background: #000000; }
       .top-bar-section .dropdown li .dropdown {
         left: 100%;
         top: 0; }
@@ -1759,7 +1759,7 @@ meta.foundation-mq-topbar {
       height: 45px;
       width: 0; }
     .top-bar-section .has-form {
-      background: #333333;
+      background: #000000;
       padding: 0 15px;
       height: 45px; }
     .top-bar-section ul.right li .dropdown {
@@ -1772,7 +1772,7 @@ meta.foundation-mq-topbar {
     background: #272727;
     color: white; }
   .no-js .top-bar-section ul li:active > a {
-    background: #333333;
+    background: #000000;
     color: white; }
   .no-js .top-bar-section .has-dropdown:hover > .dropdown {
     display: block; } }
