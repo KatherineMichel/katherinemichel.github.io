@@ -2,4 +2,7 @@
    Author's custom styles
    ========================================================================== */
 
-
+h1 {
+  margin-top: 42px;
+  margin-bottom: 15px !important;
+}
