@@ -1,7 +1,7 @@
-var skills = [" Responsive, Web Development",
+var skills = [" Beautiful, Responsive, Web Development",
 " Project Management",
 " Social Media Platforms",
 " Mobile App Development",
-" Beautiful Artistry and Design",
+" Artistry and Design",
 " Solutions Architecture",
 " Networking and Infrastructure"];
