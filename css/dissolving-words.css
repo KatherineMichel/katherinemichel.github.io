@@ -16,7 +16,8 @@ a {
   color: white;
 }
 #content {
-  display: center;
+  display: none;
+  text-align: center;
   font-size: 2.5em;
   font-style: italic;
 }
