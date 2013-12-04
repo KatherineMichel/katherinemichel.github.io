@@ -3,6 +3,6 @@ var skills = [" Beautiful, Responsive, Web Development",
 " Social Media Platforms",
 " New Technology Trends",
 " Mobile App Development",
-" Artistry, Music and Design",
+" Artistry, Music, and Design",
 " Solutions Architecture",
 " Networking and Infrastructure"];
