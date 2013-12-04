@@ -2,13 +2,7 @@
    Author's custom styles
    ========================================================================== */
 
-/*.clearfix() {
-  &:before,
-  &:after {
-    content: " ";
-    display: table;
-  }
-  &:after {
-    clear: both;
-  }
-}*/
+.navbar-default {
+  background-color: #000000;
+  border-color: #000000;
+}
