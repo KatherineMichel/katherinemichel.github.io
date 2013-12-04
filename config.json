@@ -1,13 +1,9 @@
 {
   "vars": {
-    "@brand-primary": "#000000",
-    "@body-bg": "#333333",
-    "@link-color": "#000000",
-    "@navbar-height": "80px",
     "@navbar-default-color": "#000000",
     "@navbar-default-bg": "#000000",
-    "@nav-tabs-border-color": "#000000",
-    "@dropdown-bg": "#000000"
+    "@navbar-default-border": "#000000",
+    "@jumbotron-bg": "#000000"
   },
   "css": [
     "print.less",
