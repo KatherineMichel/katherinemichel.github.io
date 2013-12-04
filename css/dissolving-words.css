@@ -1,4 +1,4 @@
-body {
+/*body {
   margin: 30px;
   font-family: sans-serif;
   background: black;
@@ -14,14 +14,14 @@ h3 {
 }
 a {
   color: white;
-}
+}*/
 #content {
   display: none;
   text-align: center;
   font-size: 2em;
   font-style: italic;
 }
-#foot {
+/*#foot {
   position: fixed;
   bottom: 0;
   width: 100%;
