@@ -10,4 +10,5 @@ Made using template repo
 * [Home Page](http://katherinemichel.github.io/home-page) 
 * [Blog](http://katherinemichel.github.io/blog) 
 * [About Me](http://katherinemichel.github.io/aboutme)
+* [Contact Me](http://katherinemichel.github.io/contactme)
 * [Resume'](http://katherinemichel.github.io/resume)
