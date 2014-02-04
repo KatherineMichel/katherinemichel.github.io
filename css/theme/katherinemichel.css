@@ -19,7 +19,7 @@ body {
   font-size: 36px;
   font-weight: normal;
   letter-spacing: -0.02em;
-  color: #333; }
+  color: black; }
 
 ::selection {
   color: white;
@@ -36,7 +36,7 @@ body {
 .reveal h5,
 .reveal h6 {
   margin: 0 0 20px 0;
-  color: black;
+  color: #333;
   font-family: "News Cycle", Impact, sans-serif;
   line-height: 0.9em;
   letter-spacing: 0.02em;
