@@ -1,3 +1,57 @@
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+
+/*********************************************************************************/
+/* Nav                                                                           */
+/*********************************************************************************/
+
+	#nav
+	{
+		background-color: #282828;
+		text-align: center;
+		position: fixed;
+		left: 0;
+		top: 0;
+		width: 100%;
+		z-index: 10000;
+		cursor: default;
+	}
+	
+		#nav ul
+		{
+			margin-bottom: 0;
+		}
+	
+		#nav li
+		{
+			display: inline-block;
+		}
+		
+		#nav a
+		{
+			position: relative;
+			display: block;
+			color: #fff;
+			text-decoration: none;
+			outline: 0;
+		}
+		
+			#nav a:hover
+			{
+				color: #fff !important;
+			}
+			
+			#nav a.active:before
+			{
+				content: '';
+				display: block;
+				position: absolute;
+				bottom: -0.6em;
+				left: 50%;
+				margin-left: -0.75em;
+				border-left: solid 0.75em transparent;
+				border-right: solid 0.75em transparent;
+				border-top: solid 0.6em #282828;
+			}
+			
