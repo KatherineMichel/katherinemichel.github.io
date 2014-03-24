@@ -8,7 +8,7 @@
 	
 	body
 	{
-		background: url('../images/gradient.jpg') important!;
+		background: url('../images/gradient.jpg') !important!;
 		font-family: 'Times New Roman' !important;
 	}
 
