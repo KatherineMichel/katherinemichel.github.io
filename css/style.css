@@ -574,7 +574,8 @@
 	#header
 	{
 		position: relative;
-		/*background: #d64760;*/		
+		/*background: #d64760;*/
+		background: #428bca;
 		color: #fff;
 	}
 	
