@@ -5,3 +5,16 @@
 	{
 		background: #428bca !important;
 	}
+	
+	body
+	{
+		background: url('../images/gradient.jpg');
+		font-family: 'Times New Roman' !important;
+	}
+
+
+		body:after
+		{
+			/*background: url('../images/bottom1.jpg');*/
+		}
+
