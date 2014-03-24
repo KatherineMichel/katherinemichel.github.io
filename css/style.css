@@ -28,7 +28,8 @@
 		background-size: cover;
 		color: #999;
 		color: rgba(255,255,255,0.6);
-		font-family: 'Source Sans Pro';
+		/*font-family: 'Source Sans Pro';*/
+		font-family: 'Times New Roman';
 		font-weight: 300;
 		/*text-transform: lowercase;*/
 	}
