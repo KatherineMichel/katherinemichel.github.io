@@ -8,13 +8,9 @@
 	
 	body
 	{
-		background: url('../images/gradient.jpg');
+		background: url('../images/gradient.jpg') important!;
 		font-family: 'Times New Roman' !important;
 	}
 
 
-		body:after
-		{
-			/*background: url('../images/bottom1.jpg');*/
-		}
 
