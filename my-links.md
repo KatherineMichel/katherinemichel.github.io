@@ -1,13 +1,4 @@
-              <div class="panel panel-default">
-                        <div class="panel-heading">
-                            <h4 class="panel-title">
-                                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseMysocialmedialinks">
-                    My Social Media Links
-                  </a>
-                            </h4>
-                        </div>
-                        <div id="collapseMysocialmedialinks" class="panel-collapse collapse">
-                            <div class="panel-body">
+
                                 <a href="https://angel.co/katimichel" target="_blank">AngelList</a>
                                 <a href="https://app.asana.com/0/31099737955561/31099737955561" target="_blank">Asana</a>
                                 <a href="http://katherinemichel.blogspot.co.uk" target="_blank">Blogspot</a><br>
@@ -29,6 +20,4 @@
                                 <a href="https://twitter.com/KatiMichel" target="_blank">Twitter</a><br>
                                 <a href="https://twitter.com/KatiMichel/lists" target="_blank">Twitter Lists</a><br>
                                 <a href="http://www.youtube.com/user/KatiEileen1" target="_blank">Youtube</a><br>
-                            </div>
-                        </div>
-                    </div>
+
