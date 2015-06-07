@@ -1,23 +1,28 @@
+Social Media and Entertainment
+*   [Blogspot](http://katherinemichel.blogspot.co.uk) 
+*   [Facebook](https://facebook.com/katherine.michel.5) 
+*   [Google+](https://plus.google.com/u/0/112490330070859885485)
+*   [Spotify](http://open.spotify.com/user/1111062770) 
+*   [Twitter](https://twitter.com/KatiMichel)
+*   [Tumblr Homepage](http://katimichel.tumblr.com) 
+*   [Tumblr Homepage](http://katherineeileenmichel.tumblr.com)
+*   [Youtube](http://www.youtube.com/user/KatiEileen1)
 
-                                <a href="https://angel.co/katimichel" target="_blank">AngelList</a>
-                                <a href="https://app.asana.com/0/31099737955561/31099737955561" target="_blank">Asana</a>
-                                <a href="http://katherinemichel.blogspot.co.uk" target="_blank">Blogspot</a><br>
-                                <a href="https://dribbble.com/KatherineMichel" target="_blank">Dribble</a><br>
-                                <a href="https://www.duolingo.com/KatherineMichel" target="_blank">Duolingo</a><br>
-                                <a href="https://facebook.com/katherine.michel.5" target="_blank">Facebook</a><br>
-                                <a href="https://github.com/KatherineMichel" target="_blank">GitHub</a><br>
-                                <a href="http://katherinemichel.github.io/blog" target="_blank">GitHub Blog</a><br>
-                                <a href="http://katherinemichel.github.io" target="_blank">GitHub Web Site</a><br>
-                                <a href="https://plus.google.com/u/0/112490330070859885485" target="_blank">Google+</a><br>
-                                <a href="http://www.linkedin.com/in/katherinemichel" target="_blank">Linkedin</a><br>
-                                <a href="http://www.producthunt.com/katimichel" target="_blank">Product Hunt</a><br>
-                                <a href="https://readthedocs.org/profiles/KatherineMichel" target="_blank">Read the Docs</a>
-                                <a href="https://katherinemichel.slack.com" target="_blank">Slack</a>
-                                <a href="http://www.slideshare.net/KatiMichel" target="_blank">SlideShare</a><br>
-                                <a href="http://open.spotify.com/user/1111062770" target="_blank">Spotify</a>
-                                <a href="http://katimichel.tumblr.com" target="_blank">Tumblr Homepage</a><br>
-                                <a href="http://katherineeileenmichel.tumblr.com" target="_blank">Tumblr Homepage</a><br>
-                                <a href="https://twitter.com/KatiMichel" target="_blank">Twitter</a><br>
-                                <a href="https://twitter.com/KatiMichel/lists" target="_blank">Twitter Lists</a><br>
-                                <a href="http://www.youtube.com/user/KatiEileen1" target="_blank">Youtube</a><br>
+Professional
+*   [AngelList](https://angel.co/katimichel)
+*   [Dribble](https://dribbble.com/KatherineMichel)
+*   [Duolingo](https://www.duolingo.com/KatherineMichel)
+*   [LinkedIn](http://www.linkedin.com/in/katherinemichel)
+*   [Product Hunt](http://www.producthunt.com/katimichel)
+*   [SlideShare](http://www.slideshare.net/KatiMichel)
+*   [Twitter Lists](https://twitter.com/KatiMichel/lists)
 
+Project Management
+*   [Asana](https://app.asana.com/0/31099737955561/31099737955561)
+*   [GitHub](https://github.com/KatherineMichel) 
+*   [Read the Docs](https://readthedocs.org/profiles/KatherineMichel)
+*   [Slack](https://katherinemichel.slack.com)
+
+Portfolio
+*   [GitHub Web Site](http://katherinemichel.github.io)
+*   [GitHub Blog](http://katherinemichel.github.io/blog) 
