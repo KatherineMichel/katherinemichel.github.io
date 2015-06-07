@@ -2,6 +2,7 @@ Professional
 *   [AngelList](https://angel.co/katimichel)
 *   [Dribble](https://dribbble.com/KatherineMichel)
 *   [Duolingo](https://www.duolingo.com/KatherineMichel) and [Duolingo Words](https://www.duolingo.com/words)
+*   [GitBook Profile](http://katherinemichel.gitbooks.io) and [GitBook CMS](https://www.gitbook.com/book/katherinemichel)
 *   [Kindle Cloud Reader](https://read.amazon.com)
 *   [LinkedIn](http://www.linkedin.com/in/katherinemichel)
 *   [Office Live](https://office.live.com)
