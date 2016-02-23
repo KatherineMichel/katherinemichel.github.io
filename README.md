@@ -1,4 +1,4 @@
-[katherinemichel.github.io](katherinemichel.github.io)
+[http://katherinemichel.github.io](http://katherinemichel.github.io)
 =========================
 
 ![](images/portfolio-large.jpg)
