@@ -1,1 +1,26 @@
+---
+layout: default
+title: Organizations
+---
 
+    <div class="container">
+
+        <div class="row">
+            <div class="col-lg-12">
+                <h1 class="page-header">Katherine Michel
+                    <small>Organizations</small>
+                </h1>
+            </div>
+            
+
+    <div class="tab-content">
+      <div class="tab-pane fade in active" id="all">
+        <br>    
+<center>
+
+</center>
+      </div>
+
+    </div>
+  </div>
+</div>
