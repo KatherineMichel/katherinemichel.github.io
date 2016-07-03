@@ -1,7 +1,7 @@
 [http://katherinemichel.github.io](http://katherinemichel.github.io)
 =========================
 
-![](images/portfolio-large.jpg)
+![](images/prototypes.jpg)
 
 My Jekyll Portfolio: <br>
 Beautiful, Responsive, GitHub Powered Web Development <br>
