@@ -1,0 +1,3 @@
+---
+layout: detail-page
+---
