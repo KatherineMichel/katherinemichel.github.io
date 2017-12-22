@@ -25,5 +25,8 @@
 
 * 10x skills list
 * DjangoCon: code review, website maintenance, documentation, onboarding, scoring proposals
+* Eldarion/Pinax: release management/packaging, devops, testing, documentation, git, project management, community management, devrel, sprints
+* Hacktoberfest- spruced up website and gave talk about how to contribute, participation doubled
+
 
 
