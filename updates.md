@@ -6,7 +6,9 @@ Thumbnails needed
 * Eldarion
 * Pinax
 * Django Software Foundation- Individual Member (Appointed)
-* DjangoCon Website Chair
+* DjangoCon 2018 Website Chair
+
+Others
 * Co-operative Financial Services
 * Lancaster University
 
@@ -25,8 +27,9 @@ Thumbnails needed
 
 * 10x skills list
 * DjangoCon: code review, website maintenance, documentation, onboarding, scoring proposals
-* Eldarion/Pinax: release management/packaging, devops, testing, documentation, git, project management, community management, devrel, sprints
+* Eldarion/Pinax: release management/packaging, devops, testing, documentation, git, technical content, project management, community management, devrel, sprints, Django
 * Hacktoberfest- spruced up website and gave talk about how to contribute, participation doubled
+* Pinax community stats
 
 
 
