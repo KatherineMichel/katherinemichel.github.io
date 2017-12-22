@@ -2,11 +2,11 @@
 
 ## Possible Orgs
 
+Thumbnails needed
 * Eldarion
 * Pinax
 * Django Software Foundation- Individual Member (Appointed)
 * DjangoCon Website Chair
-* DjangoCon Website Thumbnail
 * Co-operative Financial Services
 * Lancaster University
 
