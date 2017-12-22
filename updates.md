@@ -32,9 +32,16 @@ Others
 * Eldarion/Pinax: release management/packaging, devops, testing, documentation, git, technical content, project management, community management, devrel, sprints, Django
 * Hacktoberfest- spruced up website and gave talk about how to contribute, participation doubled
 * Pinax community stats
+* Pinax packages contributed to on Warehouse
 
 <!--
+https://www.defna.org/announcements/2017/10/10/call-for-proposals-for-djangocon-2018-website | Call for Proposals for DjangoCon 2018 Website! — Django Events Foundation North America
+https://github.com/djangocon/2017.djangocon.us/ | djangocon/2017.djangocon.us: The DjangoCon US 2017 conference website
+https://www.djangoproject.com/foundation/individual-members/ | Django Software Foundation | Django
+https://www.djangoproject.com/weblog/ | News & Events | Django
+
 DEFNA
+* Created CFP
 * DjangoCon oversight
 * Expansion to regional and local events
 * Community development
