@@ -35,12 +35,19 @@ Others
 * Pinax packages contributed to on Warehouse
 
 <!--
+https://www.djangoproject.com/foundation/individual-members/ | Django Software Foundation | Django
+https://www.djangoproject.com/weblog/ | News & Events | Django
+
 https://www.defna.org/announcements/2017/10/10/call-for-proposals-for-djangocon-2018-website | Call for Proposals for DjangoCon 2018 Website! — Django Events Foundation North America
 https://github.com/djangocon/2017.djangocon.us/ | djangocon/2017.djangocon.us: The DjangoCon US 2017 conference website
 https://github.com/djangocon/2018.djangocon.us | djangocon/2018.djangocon.us: The DjangoCon US 2018 conference website
 
-https://www.djangoproject.com/foundation/individual-members/ | Django Software Foundation | Django
-https://www.djangoproject.com/weblog/ | News & Events | Django
+https://2017.djangocon.us/talks/get-a-jumpstart-on-collaboration-and-code-review-in-github/ | Get a Jumpstart on Collaboration and Code Review in GitHub | DjangoCon US
+
+https://djangogirls.org/spokane
+
+https://github.com/devict/hacktoberfest | devict/hacktoberfest: Our own little local version of hacktoberfest
+https://devict-hacktoberfest.herokuapp.com/ | Wichita Hacktoberfest 2017!
 
 DEFNA
 * Created CFP
