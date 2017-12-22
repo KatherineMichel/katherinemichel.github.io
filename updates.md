@@ -37,6 +37,8 @@ Others
 <!--
 https://www.defna.org/announcements/2017/10/10/call-for-proposals-for-djangocon-2018-website | Call for Proposals for DjangoCon 2018 Website! — Django Events Foundation North America
 https://github.com/djangocon/2017.djangocon.us/ | djangocon/2017.djangocon.us: The DjangoCon US 2017 conference website
+https://github.com/djangocon/2018.djangocon.us | djangocon/2018.djangocon.us: The DjangoCon US 2018 conference website
+
 https://www.djangoproject.com/foundation/individual-members/ | Django Software Foundation | Django
 https://www.djangoproject.com/weblog/ | News & Events | Django
 
