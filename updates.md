@@ -37,6 +37,7 @@ Others
 <!--
 Links
 http://eldarion.com/blog/2017/12/26/10-tips-upgrading-django-20/ | 10 Tips for Upgrading to Django 2.0 — Eldarion Blog
+https://www.reddit.com/r/django/comments/7mawy8/10_tips_for_upgrading_to_django_20/ | 10 Tips for Upgrading to Django 2.0 : django
 
 https://www.djangoproject.com/foundation/individual-members/ | Django Software Foundation | Django
 https://www.djangoproject.com/weblog/ | News & Events | Django
