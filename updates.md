@@ -6,7 +6,7 @@ Thumbnails needed
 * Eldarion
 * Pinax
 * Django Software Foundation- Individual Member (Appointed)
-* DjangoCon 2018 Website Chair
+* DjangoCon 2018 Website Chair (Website and Technical Lead): https://github.com/djangocon/djangocon-us-docs/blob/0afd4cfc6fb17ffddf732cf3b7a6189f3312b748/volunteers/roles.md
 * DjangoCon Europe 2018 Website Committee
 * DjangoCon 2017 Django Girls Event Organizer
 
