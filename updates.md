@@ -1,5 +1,11 @@
 # Updates
 
+## Improve External Links
+
+<!--
+https://developers.google.com/web/tools/lighthouse/audits/noopener
+-->
+
 ## Possible Orgs
 
 Thumbnails needed
@@ -35,6 +41,10 @@ Others
 * Pinax packages contributed to on Warehouse
 
 <!--
+Eldarion and Pinax: My Role: Overseeing Major Release of Pinax (dozens of Django projects and apps)
+
+https://github.com/KatherineMichel/eldarion-and-pinax
+
 Links
 http://eldarion.com/blog/2017/12/26/10-tips-upgrading-django-20/ | 10 Tips for Upgrading to Django 2.0 — Eldarion Blog
 https://www.reddit.com/r/django/comments/7mawy8/10_tips_for_upgrading_to_django_20/ | 10 Tips for Upgrading to Django 2.0 : django
