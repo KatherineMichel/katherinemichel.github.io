@@ -43,6 +43,9 @@ Others
 <!--
 Eldarion and Pinax: My Role: Overseeing Major Release of Pinax (dozens of Django projects and apps)
 
+Cloudspotting Contrib
+https://github.com/grahamu/cloudspotting2
+
 https://github.com/KatherineMichel/eldarion-and-pinax
 
 Links
