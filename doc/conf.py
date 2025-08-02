@@ -33,7 +33,7 @@ post_date_format = '%B %d, %Y'
 post_auto_image = 0
 post_show_prev_next = True
 # skip_injecting_base_ablog_templates = True
-ablog_inject_templates_after_theme = true
+ablog_inject_templates_after_theme = True
 
 # https://sphinxext-opengraph.readthedocs.io/en/latest/
 # https://sphinxext-opengraph.readthedocs.io/en/latest/socialcards.html
