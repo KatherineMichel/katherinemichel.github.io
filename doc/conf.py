@@ -47,11 +47,11 @@ post_show_prev_next = True
 html_theme = 'alabaster'
 html_static_path = ['_static']
 
-# html_sidebars = {
-#     "**": [
-#         # ablog sidebars
-#         "blog/recentposts.html",  # This adds the recent posts sidebar
-#         "blog/tagcloud.html",
-#         "blog/categories.html",
-#     ]
-# }
+html_sidebars = {
+    "**": [
+        # ablog sidebars
+        "recentposts.html",  # This adds the recent posts sidebar
+        "tagcloud.html",
+        "categories.html",
+    ]
+}
