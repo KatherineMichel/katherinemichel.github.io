@@ -30,15 +30,15 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 # https://ablog.readthedocs.io/en/stable/manual/ablog-configuration-options.html
 post_date_format = '%B %d, %Y'
-post_auto_image[0]
+post_auto_image = 0
 # post_show_prev_next = True
 
 # https://sphinxext-opengraph.readthedocs.io/en/latest/
 # https://sphinxext-opengraph.readthedocs.io/en/latest/socialcards.html
-ogp_site_url = 'https://katherinemichel.github.io/'
-ogp_description_length = 300
-ogp_type = "article"
-ogp_use_first_image = True
+# ogp_site_url = 'https://katherinemichel.github.io/'
+# ogp_description_length = 300
+# ogp_type = "article"
+# ogp_use_first_image = True
 
 
 # -- Options for HTML output -------------------------------------------------
