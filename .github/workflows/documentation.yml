@@ -13,7 +13,7 @@ jobs:
       - uses: actions/setup-python@v3
       - name: Install dependencies
         run: |
-          pip install sphinx ablog alabaster myst_parser sphinx-social-cards
+          pip install sphinx ablog alabaster myst_parser sphinxext-opengraph[social-cards]
       - name: Sphinx build
         run: |
           sphinx-build doc _build
