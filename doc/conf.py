@@ -49,6 +49,12 @@ post_show_prev_next = True
 html_theme = 'alabaster'
 html_static_path = ['_static']
 
+html_sidebars = {
+   "**": [
+      'navigation.html',
+    ]
+}
+
 # html_sidebars = {
 #     "blog": [
 #         # ablog sidebars
@@ -58,21 +64,21 @@ html_static_path = ['_static']
 #     ]
 # }
 
-html_sidebars = {
-   "**": [
-      # Comes from Alabaster theme
-      # 'about.html',
-      'searchfield.html',
-      'navigation.html',
-      'donation.html',
-      # Ablog sidebars
-      'postcard.html',
-      'recentposts.html',
-      'tagcloud.html',
-      'categories.html',
-      'archives.html',
-      # 'authors.html',
-      # 'languages.html',
-      'locations.html',
-    ]
-}
+# html_sidebars = {
+#    "**": [
+#       # Comes from Alabaster theme
+#       # 'about.html',
+#       'searchfield.html',
+#       'navigation.html',
+#       'donation.html',
+#       # Ablog sidebars
+#       'postcard.html',
+#       'recentposts.html',
+#       'tagcloud.html',
+#       'categories.html',
+#       'archives.html',
+#       # 'authors.html',
+#       # 'languages.html',
+#       # 'locations.html',
+#     ]
+# }
