@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Links'
+project = 'Portfolio'
 copyright = 'Katherine "Kati" Michel'
 author = 'Katherine "Kati" Michel'
 # release = '0.1'
@@ -32,8 +32,6 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 post_date_format = '%B %d, %Y'
 post_auto_image = 0
 post_show_prev_next = True
-# skip_injecting_base_ablog_templates = True
-# ablog_inject_templates_after_theme = True
 
 # https://sphinxext-opengraph.readthedocs.io/en/latest/
 # https://sphinxext-opengraph.readthedocs.io/en/latest/socialcards.html
@@ -49,8 +47,9 @@ post_show_prev_next = True
 html_theme = 'alabaster'
 html_static_path = ['_static']
 
+# Use 'blog' to apply sidebar to blog only
 html_sidebars = {
-   "**": [
+   '**': [
       'about.html',
       'searchfield.html',
       'navigation.html',
@@ -62,18 +61,9 @@ html_sidebars = {
 }
 
 # html_sidebars = {
-#     "blog": [
-#         # ablog sidebars
-#         'recentposts.html',  # This adds the recent posts sidebar
-#         'tagcloud.html',
-#         'categories.html',
-#     ]
-# }
-
-# html_sidebars = {
 #    "**": [
-#       # Comes from Alabaster theme
-#       # 'about.html',
+#       # Alabaster theme sidebars
+#       'about.html',
 #       'searchfield.html',
 #       'navigation.html',
 #       'donation.html',
@@ -83,8 +73,8 @@ html_sidebars = {
 #       'tagcloud.html',
 #       'categories.html',
 #       'archives.html',
-#       # 'authors.html',
-#       # 'languages.html',
-#       # 'locations.html',
+#       'authors.html',
+#       'languages.html',
+#       'locations.html',
 #     ]
 # }
