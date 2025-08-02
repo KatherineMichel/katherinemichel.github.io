@@ -33,7 +33,7 @@ post_date_format = '%B %d, %Y'
 post_auto_image = 0
 post_show_prev_next = True
 # skip_injecting_base_ablog_templates = True
-ablog_inject_templates_after_theme = True
+# ablog_inject_templates_after_theme = True
 
 # https://sphinxext-opengraph.readthedocs.io/en/latest/
 # https://sphinxext-opengraph.readthedocs.io/en/latest/socialcards.html
@@ -52,9 +52,9 @@ html_static_path = ['_static']
 # html_sidebars = {
 #     "blog": [
 #         # ablog sidebars
-#         "recentposts.html",  # This adds the recent posts sidebar
-#         "tagcloud.html",
-#         "categories.html",
+#         'recentposts.html',  # This adds the recent posts sidebar
+#         'tagcloud.html',
+#         'categories.html',
 #     ]
 # }
 
@@ -62,16 +62,18 @@ html_sidebars = {
    # "blog": [
    "**": [
       # Comes from Alabaster theme
-      "about.html",
-      "searchfield.html",
+      # 'about.html',
+      'searchfield.html',
+      'navigation.html',
+      'donation.html',
       # Ablog sidebars
-      "postcard.html",
-      "recentposts.html",
-      "tagcloud.html",
-      "categories.html",
-      "archives.html",
-      # "authors.html",
-      # "languages.html",
-      "locations.html",
+      'postcard.html',
+      'recentposts.html',
+      'tagcloud.html',
+      'categories.html',
+      'archives.html',
+      # 'authors.html',
+      # 'languages.html',
+      'locations.html',
     ]
 }
