@@ -48,29 +48,29 @@ skip_injecting_base_ablog_templates = True
 html_theme = 'alabaster'
 html_static_path = ['_static']
 
-# html_sidebars = {
-#     "blog": [
-#         # ablog sidebars
-#         "recentposts.html",  # This adds the recent posts sidebar
-#         "tagcloud.html",
-#         "categories.html",
-#     ]
-# }
-
 html_sidebars = {
-   # "blog": [
-   "**": [
-      # Comes from Alabaster theme
-      "about.html",
-      "searchfield.html",
-      # Ablog sidebars
-      "postcard.html",
-      "recentposts.html",
-      "tagcloud.html",
-      "categories.html",
-      "archives.html",
-      # "authors.html",
-      # "languages.html",
-      "locations.html",
+    "blog": [
+        # ablog sidebars
+        "recentposts.html",  # This adds the recent posts sidebar
+        "tagcloud.html",
+        "categories.html",
     ]
 }
+
+# html_sidebars = {
+#    # "blog": [
+#    "**": [
+#       # Comes from Alabaster theme
+#       "about.html",
+#       "searchfield.html",
+#       # Ablog sidebars
+#       "postcard.html",
+#       "recentposts.html",
+#       "tagcloud.html",
+#       "categories.html",
+#       "archives.html",
+#       # "authors.html",
+#       # "languages.html",
+#       "locations.html",
+#     ]
+# }
