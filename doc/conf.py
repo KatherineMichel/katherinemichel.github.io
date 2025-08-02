@@ -48,7 +48,7 @@ html_theme = 'alabaster'
 html_static_path = ['_static']
 
 html_sidebars = {
-    "**": [
+    "blog": [
         # ablog sidebars
         "recentposts.html",  # This adds the recent posts sidebar
         "tagcloud.html",
