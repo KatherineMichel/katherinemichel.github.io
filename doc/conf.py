@@ -71,5 +71,6 @@ html_sidebars = {
       "authors.html",
       "languages.html",
       "locations.html",
-   ]
+    ]
+    ]
 }
