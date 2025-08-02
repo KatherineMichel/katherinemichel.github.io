@@ -57,7 +57,7 @@ html_static_path = ['_static']
 # }
 
 html_sidebars = {
-   "blog": [
+   # "blog": [
    "**": [
       # Comes from Alabaster theme
       "about.html",
@@ -71,6 +71,5 @@ html_sidebars = {
       "authors.html",
       "languages.html",
       "locations.html",
-    ]
     ]
 }
