@@ -12,3 +12,9 @@ Welcome to Example's documentation!
 
    some-feature.md
    another-feature.md
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Thoughts:
+
+   a-lesson-in-leadership.md
