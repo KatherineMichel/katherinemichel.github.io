@@ -1,5 +1,11 @@
 # More features here
 
+---
+blogpost: true
+date: August 2, 2024
+category: Programming
+tags: tutorial
+---
 
 ## Some text
 
