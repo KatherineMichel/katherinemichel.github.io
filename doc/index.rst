@@ -11,3 +11,5 @@ Welcome to Example's documentation!
    :caption: Thoughts:
 
    a-lesson-in-leadership.md
+   some-feature.md
+   another-feature.md
