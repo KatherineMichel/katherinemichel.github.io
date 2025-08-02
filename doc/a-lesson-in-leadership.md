@@ -27,3 +27,6 @@ Imagine having someone in a significant position of leadership unexpectedly noti
 It goes beyond management to the inspiration of leadership. 
 
 Who could you notice and thank this coming week? It might make their day. 
+
+![](me-by-melanie.jpg)
+
