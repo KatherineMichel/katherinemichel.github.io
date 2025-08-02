@@ -14,8 +14,9 @@ author = 'Katherine "Kati" Michel'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
+# https://ablog.readthedocs.io/en/stable/
+# https://ablog.readthedocs.io/en/stable/manual/markdown.html
 
-# extensions = ['myst_parser']
 extensions = [
     'myst_parser',
     'ablog',
@@ -24,12 +25,14 @@ extensions = [
 ]
 myst_update_mathjax = False
 
+templates_path = ['_templates']
+exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
+
+# https://sphinxext-opengraph.readthedocs.io/en/latest/
+# https://sphinxext-opengraph.readthedocs.io/en/latest/socialcards.html
 ogp_site_url = 'https://katherinemichel.github.io/'
 ogp_description_length = 300
 ogp_type = "article"
-
-templates_path = ['_templates']
-exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 
 # -- Options for HTML output -------------------------------------------------
