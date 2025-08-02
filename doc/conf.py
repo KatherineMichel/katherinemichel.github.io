@@ -28,6 +28,10 @@ myst_update_mathjax = False
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
+# https://ablog.readthedocs.io/en/stable/manual/ablog-configuration-options.html
+post_date_format = '%d %b, %Y'
+post_auto_image = 0
+
 # https://sphinxext-opengraph.readthedocs.io/en/latest/
 # https://sphinxext-opengraph.readthedocs.io/en/latest/socialcards.html
 ogp_site_url = 'https://katherinemichel.github.io/'
