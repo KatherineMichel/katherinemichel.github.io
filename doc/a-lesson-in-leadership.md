@@ -1,3 +1,6 @@
+.. post:: 2025-08-02
+   :tags: python, sphinx, tutorial
+       
 # A Lesson in Leadership
 
 Last week at work, a leadership team was in town and answering employee questions at a fireside chat. 
