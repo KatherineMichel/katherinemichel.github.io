@@ -20,6 +20,7 @@ extensions = [
     'myst_parser',
     'ablog',
     'sphinx.ext.intersphinx',
+    'sphinx-social-previews',
 ]
 myst_update_mathjax = False
 
