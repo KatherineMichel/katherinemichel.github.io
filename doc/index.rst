@@ -8,13 +8,6 @@ Welcome to Example's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
-
-   some-feature.md
-   another-feature.md
-
-.. toctree::
-   :maxdepth: 2
    :caption: Thoughts:
 
    a-lesson-in-leadership.md
