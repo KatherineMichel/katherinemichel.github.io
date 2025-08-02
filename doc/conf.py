@@ -59,7 +59,6 @@ html_static_path = ['_static']
 # }
 
 html_sidebars = {
-   # "blog": [
    "**": [
       # Comes from Alabaster theme
       # 'about.html',
