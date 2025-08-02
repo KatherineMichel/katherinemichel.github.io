@@ -21,6 +21,7 @@ extensions = [
     'ablog',
     'sphinx.ext.intersphinx',
 ]
+myst_update_mathjax = False
 
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
