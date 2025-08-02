@@ -4,6 +4,7 @@ date: August 2, 2025
 location: Plano
 category: Business
 tags: leadership, inspiration
+image: 0
 ---
 
 # A Lesson in Leadership
