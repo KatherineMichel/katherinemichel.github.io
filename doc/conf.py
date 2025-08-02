@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Kati\'s Website'
+project = 'Links'
 copyright = 'Katherine "Kati" Michel'
 author = 'Katherine "Kati" Michel'
 # release = '0.1'
