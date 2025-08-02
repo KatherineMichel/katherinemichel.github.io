@@ -49,7 +49,7 @@ html_static_path = ['_static']
 
 # Use 'blog' to apply sidebar to blog only
 html_sidebars = {
-   '**': [
+   'blog': [
       'about.html',
       'searchfield.html',
       'navigation.html',
