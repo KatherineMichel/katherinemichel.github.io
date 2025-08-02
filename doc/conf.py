@@ -25,6 +25,8 @@ extensions = [
 myst_update_mathjax = False
 
 ogp_site_url = 'https://katherinemichel.github.io/'
+ogp_description_length = 300
+ogp_type = "article"
 
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
