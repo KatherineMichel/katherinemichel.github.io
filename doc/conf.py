@@ -32,7 +32,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 post_date_format = '%B %d, %Y'
 post_auto_image = 0
 post_show_prev_next = True
-skip_injecting_base_ablog_templates = True
+# skip_injecting_base_ablog_templates = True
 
 # https://sphinxext-opengraph.readthedocs.io/en/latest/
 # https://sphinxext-opengraph.readthedocs.io/en/latest/socialcards.html
