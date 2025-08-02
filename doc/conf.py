@@ -33,6 +33,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 ogp_site_url = 'https://katherinemichel.github.io/'
 ogp_description_length = 300
 ogp_type = "article"
+ogp_use_first_image = True
 
 
 # -- Options for HTML output -------------------------------------------------
