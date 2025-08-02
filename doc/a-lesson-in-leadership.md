@@ -1,10 +1,8 @@
 ---
 blogpost: true
 date: August 2, 2025
-author: Katherine Michel
-location: World
+location: Plano
 category: Manual
-language: English
 tags: python, sphinx, tutorial
 ---
 
