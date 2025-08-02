@@ -2,8 +2,8 @@
 blogpost: true
 date: August 2, 2025
 location: Plano
-category: Manual
-tags: python, sphinx, tutorial
+category: Business
+tags: leadership, inspiration
 ---
 
 # A Lesson in Leadership
