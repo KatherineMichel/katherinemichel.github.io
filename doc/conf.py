@@ -54,8 +54,8 @@ html_sidebars = {
       'about.html',
       'searchfield.html',
       'navigation.html',
-      'archives.html',
       'recentposts.html',
+      'archives.html',
       'tagcloud.html',
       'categories.html',
     ]
