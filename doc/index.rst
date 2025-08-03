@@ -13,5 +13,5 @@ Welcome to Kati's Website!
    blog/leadership/a-lesson-in-leadership.md
    some-feature.md
    another-feature.md
-   <https://hackberfest.com/>
+   Hacktoberfest <https://hackberfest.com/>
 
