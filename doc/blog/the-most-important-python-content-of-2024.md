@@ -1,3 +1,11 @@
+---
+blogpost: true
+date: 
+location: Plano
+category: Personal
+tags: about
+---
+
 # The Most Important Python Content of 2024
 
 <!--
