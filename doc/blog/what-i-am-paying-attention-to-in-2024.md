@@ -199,7 +199,7 @@ Several new-ish (or new-to-me) blogs that stand out
 * [The Developing Dev](https://www.developing.dev/)
 
 Perhaps this is dated, but I'd like to know more
-* [High Performance Web Sites Blog](http://stevesouders.com/)
+* [High Performance Web Sites Blog](https://stevesouders.com/)
 
 ## How Companies Do Things
 
@@ -207,7 +207,7 @@ A curated list of engineering blogs including most, if not all, of the leading t
 * [Engineering Blogs](https://github.com/kilimchoi/engineering-blogs) &#8987;
 
 A classic blog about system architecture. Also happens to be "for sale." See the December 11 post and respond if you are serious. 
-* [High Scalability](http://highscalability.com/) &#8987;
+* [High Scalability](https://highscalability.com/) &#8987;
 
 Information about how companies do testing and SRE 
 * [How They Test](https://github.com/abhivaikar/howtheytest)
@@ -266,7 +266,7 @@ A colleague made me aware of the concept of [Transformational Leadership](https:
 
 If you work in an agile/scrum environment, it's a good idea to revisit these evergreen resources from time-to-time. 
 * [Principles behind the Agile Manifesto](https://agilemanifesto.org/principles.html) &#x2713;
-* [Scrum Guides](http://www.scrumguides.org/scrum-guide.html) &#x2713;
+* [Scrum Guides](https://scrumguides.org/scrum-guide.html) &#x2713;
 
 ## Product
 

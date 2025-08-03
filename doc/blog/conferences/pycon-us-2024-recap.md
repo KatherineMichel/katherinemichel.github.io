@@ -523,7 +523,7 @@ New profile pic :)
 
 ### Juggling
 
-Not only does Ned Batchelder ([coverage.py](https://coverage.readthedocs.io/) Maintainer) maintain a powerful Python package and give popular conference talks (check out [People: The API User's Guide](https://nedbatchelder.com/text/key23.html)), he is also a juggling enthusiast. When I saw his juggling open space in progress, I couldn't resist stopping. I juggled for the first time in probably decades! It was also great to catch up with Paul Ganssle (Google, CPython Core Dev, pytz maintainer), and meet Rob Ludwick (Bank of NY Mellon) and William Higgins (Consumer Financial Protection Bureau). 
+Not only does Ned Batchelder ([coverage.py](https://coverage.readthedocs.io/en/7.10.1/) Maintainer) maintain a powerful Python package and give popular conference talks (check out [People: The API User's Guide](https://nedbatchelder.com/text/key23.html)), he is also a juggling enthusiast. When I saw his juggling open space in progress, I couldn't resist stopping. I juggled for the first time in probably decades! It was also great to catch up with Paul Ganssle (Google, CPython Core Dev, pytz maintainer), and meet Rob Ludwick (Bank of NY Mellon) and William Higgins (Consumer Financial Protection Bureau). 
 
 ![](pycon-us-2024-recap-images/me-juggling.png)
 
@@ -831,7 +831,7 @@ Why even upgrade?
 * Stepping stone for future improvements
 * Discover what newly deprecated APIs you are using
 
-The 3.13 beta is out now! See the full release notes at [What's New in Python 3.13](https://bit.ly/python313). 
+The 3.13 beta is out now! See the full release notes at [What's New in Python 3.13](https://docs.python.org/3.13/whatsnew/3.13.html). 
 
 Thomas noted that incoming release manager Hugo van Kemenade has proposed switching to CalVer. He gave a talk "[Should Python adopt CalVer](https://hugovk.github.io/python-calver/)" at the Language Summit. 
 
