@@ -8,14 +8,6 @@ tags: leadership, inspiration
 
 # A Lesson in Leadership
 
-![](skyscraper.jpg)
-
-<!--
-[Hacktoberfest](https://hackberfest.com/)
--->
-
-[Hacktoberfest](https://hacktoberfest.com/)
-
 Last week at work, a leadership team was in town and answering employee questions at a fireside chat. 
 
 The event was an extension of a quarterly meetup I helped launch a couple years ago. 
@@ -33,6 +25,3 @@ Imagine having someone in a significant position of leadership unexpectedly noti
 It goes beyond management to the inspiration of leadership. 
 
 Who could you notice and thank this coming week? It might make their day. 
-
-![](me-by-melanie.jpg)
-
