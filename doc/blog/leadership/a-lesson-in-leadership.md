@@ -10,6 +10,8 @@ tags: leadership, inspiration
 
 ![](skyscraper.jpg)
 
+[Hacktoberfest](https://hackberfest.com/)
+
 Last week at work, a leadership team was in town and answering employee questions at a fireside chat. 
 
 The event was an extension of a quarterly meetup I helped launch a couple years ago. 
