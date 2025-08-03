@@ -19,7 +19,9 @@ jobs:
       #     sphinx-build doc _build
       - name: Sphinx linkcheck
         run: |
-          sphinx-build doc _build linkcheck
+          cd doc
+          make linkcheck
+          # sphinx-build doc _build linkcheck
       #     sphinx-build doc make linkcheck
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
