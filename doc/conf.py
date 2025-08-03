@@ -24,6 +24,7 @@ extensions = [
     'sphinxext.opengraph',
 ]
 myst_update_mathjax = False
+# https://github.com/executablebooks/MyST-Parser/issues/519
 
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
