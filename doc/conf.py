@@ -52,12 +52,12 @@ html_sidebars = {
    '**': [
       'about.html',
       'searchfield.html',
-      'postcard.html',
-      'navigation.html',
-      'recentposts.html',
-      'archives.html',
-      'tagcloud.html',
-      'categories.html',
+      'ablog/postcard.html',
+      'ablog/navigation.html',
+      'ablog/recentposts.html',
+      'ablog/archives.html',
+      'ablog/tagcloud.html',
+      'ablog/categories.html',
     ]
 }
 
