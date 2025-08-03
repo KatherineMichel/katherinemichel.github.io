@@ -8,9 +8,10 @@ tags: about
 
 # PyCon US 2024 Recap
 
-<!-- Table of Contents
+Table of Contents
 -----------------
 
+<!-- 
 - [Intro](#intro)
 - [Wednesday](#wednesday)
     - [Sightseeing Downtown](#sightseeing-downtown)

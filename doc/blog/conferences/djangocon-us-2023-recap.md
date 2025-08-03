@@ -8,9 +8,10 @@ tags: about
 
 # DjangoCon US 2023 Recap
 
-<!-- Table of Contents
+Table of Contents
 -----------------
 
+<!-- 
 - [Intro](#intro)
 - [Pre-Conference Activities](#pre-conference-activities)
     - [DEFNA Board Dinner](#defna-board-dinner)

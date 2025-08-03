@@ -8,9 +8,10 @@ tags: about
 
 # DjangoCon US 2024 Recap
 
-<!-- Table of Contents
+Table of Contents
 -----------------
 
+<!-- 
 - [Intro](#intro)
     - [Venue Selection](#venue-selection)
     - [DjangoCon US Website and Design](#djangocon-us-website-and-design)
