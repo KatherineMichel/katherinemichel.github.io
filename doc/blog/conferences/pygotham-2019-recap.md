@@ -1,3 +1,11 @@
+---
+blogpost: true
+date: August 3, 2025
+location: Plano
+category: Personal
+tags: about
+---
+
 # PyGotham 2019 Recap
 
 Published: July 20, 2020

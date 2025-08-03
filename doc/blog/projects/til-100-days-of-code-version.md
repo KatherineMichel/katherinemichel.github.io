@@ -1,3 +1,11 @@
+---
+blogpost: true
+date: August 3, 2025
+location: Plano
+category: Personal
+tags: about
+---
+
 # TIL- 100 Days of Code Version
 
 In April, I was looking through my Twitter newsfeed and came across a [tweet](https://twitter.com/simonw/status/1252050046566055937) by Simon Willison that piqued my curiosity.  

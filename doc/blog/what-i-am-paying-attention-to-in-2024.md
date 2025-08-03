@@ -1,3 +1,11 @@
+---
+blogpost: true
+date: August 3, 2025
+location: Plano
+category: Personal
+tags: about
+---
+
 # What I Am Paying Attention to in 2024
 
 Disclaimer: the content of this post is a reflection of my career journey and not specific to my work at JPMorganChase.

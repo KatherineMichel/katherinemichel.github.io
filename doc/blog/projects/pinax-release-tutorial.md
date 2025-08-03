@@ -1,3 +1,11 @@
+---
+blogpost: true
+date: August 3, 2025
+location: Plano
+category: Personal
+tags: about
+---
+
 # Pinax Release Tutorial
 
 Pinax has been a popular group of projects, apps, and themes for around 15 years and still has many users. 

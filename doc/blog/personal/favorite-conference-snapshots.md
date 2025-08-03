@@ -1,3 +1,11 @@
+---
+blogpost: true
+date: August 3, 2025
+location: Plano
+category: Personal
+tags: about
+---
+
 # Favorite Conference Snapshots
 
 Although these snapshots do not include all of the people who are special to me, they give a taste of the fun and serendipity of my conference travels over the years. In the Python community, as they say, the world is your oyster. A huge thank you to everyone who has made these incredible experiences possible over the years. 

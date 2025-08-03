@@ -1,3 +1,11 @@
+---
+blogpost: true
+date: August 3, 2025
+location: Plano
+category: Personal
+tags: about
+---
+
 # 2020 Year in Review
 
 Thank you to [Dawn Wages](https://twitter.com/DawnWagesSays/status/1337212013014110209) for inspiring me to do a Year in Review blog post! 

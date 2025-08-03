@@ -1,3 +1,11 @@
+---
+blogpost: true
+date: August 3, 2025
+location: Plano
+category: Personal
+tags: about
+---
+
 # Reflections on Stanford Code in Place
 
 ## About Stanford Code in Place

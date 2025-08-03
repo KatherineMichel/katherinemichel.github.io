@@ -1,3 +1,11 @@
+---
+blogpost: true
+date: August 3, 2025
+location: Plano
+category: Personal
+tags: about
+---
+
 # Hacktoberfest PRs- 2020
 
 In the spirit of building in public and using accountability to improve, I decided to write a brief summary of my Hacktoberfest PRs.
