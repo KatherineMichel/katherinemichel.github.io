@@ -8,7 +8,9 @@ tags: about
 
 # 2024 Recap
 
-<!-- Table of Contents
+Table of Contents
+
+<!-- 
 -----------------
 
 - [This Year's Theme](#this-year-s-theme)
