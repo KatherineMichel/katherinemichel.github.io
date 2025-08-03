@@ -9,10 +9,9 @@ tags: about
 # 2024 Recap
 
 Table of Contents
-
-<!-- 
 -----------------
 
+<!-- 
 - [This Year's Theme](#this-year-s-theme)
 - [Work](#work)
 - [January](#january)
