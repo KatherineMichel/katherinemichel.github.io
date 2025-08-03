@@ -20,7 +20,7 @@ jobs:
       - name: Sphinx linkcheck
         run: |
           # sphinx-build doc _build linkcheck
-          sphinx-build doc make # linkcheck
+          sphinx-build -b doc make linkcheck
           # sphinx-build -b linkcheck
           # sphinx-build -b linkcheck _build _build/linkcheck
           # sphinx-build -b linkcheck doc doc/linkcheck
