@@ -10,7 +10,11 @@ tags: leadership, inspiration
 
 ![](skyscraper.jpg)
 
+<!--
 [Hacktoberfest](https://hackberfest.com/)
+-->
+
+[Hacktoberfest](https://hacktoberfest.com/)
 
 Last week at work, a leadership team was in town and answering employee questions at a fireside chat. 
 
