@@ -8,7 +8,7 @@ tags: about
 
 # PyCon US 2024 Recap
 
-Table of Contents
+<!-- Table of Contents
 -----------------
 
 - [Intro](#intro)
@@ -56,7 +56,7 @@ Table of Contents
         - [Pablo Galindo Salgado: Free-Threading Update (a.k.a. No GIL)](#pablo-galindo-salgado-free-threading-update-aka-no-gil)
     - [Dinner and Ice Cream](#dinner-and-ice-cream)
 - [Monday](#monday)
-- [Until Next Time](#until-next-time)
+- [Until Next Time](#until-next-time) -->
 
 ## Intro
 

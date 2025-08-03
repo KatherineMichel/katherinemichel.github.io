@@ -8,7 +8,7 @@ tags: about
 
 # 2024 Recap
 
-Table of Contents
+<!-- Table of Contents
 -----------------
 
 - [This Year's Theme](#this-year-s-theme)
@@ -91,7 +91,7 @@ Table of Contents
     - [Terry Black's Barbecue Pit](#terry-black-s-barbecue-pit)
     - [Dallas Zoo](#dallas-zoo)
     - [Yoshi Shabu Shabu September](#yoshi-shabu-shabu-september)
-    - [JPMorganChase Plano](#jpmorganchase-plano)
+    - [JPMorganChase Plano](#jpmorganchase-plano) -->
 
 Disclaimer: the content of this post is a reflection of my life journey and not specific to my work at JPMorganChase.
 

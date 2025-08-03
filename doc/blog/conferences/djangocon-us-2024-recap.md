@@ -8,7 +8,7 @@ tags: about
 
 # DjangoCon US 2024 Recap
 
-Table of Contents
+<!-- Table of Contents
 -----------------
 
 - [Intro](#intro)
@@ -66,7 +66,7 @@ Table of Contents
     - [Durham Market Culture](#durham-market-culture)
     - [Cousins Maine Lobster](#cousins-maine-lobster)
     - [Unscripted Rooftop Pool](#unscripted-rooftop-pool)
-    - [The Parlour](#the-parlour)
+    - [The Parlour](#the-parlour) -->
 
 ## Intro
 

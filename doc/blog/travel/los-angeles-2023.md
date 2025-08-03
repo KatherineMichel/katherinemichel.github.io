@@ -25,7 +25,7 @@ https://allthatsinteresting.com/cecil-hotel-los-angeles
 I wore a different outfit everyday, but because I took a handful of sweatshirts and wore them over t-shirts to stay warm, I look like I had on the same outfit everyday. 🤷‍♀️
 -->
 
-Table of Contents
+<!-- Table of Contents
 -----------------
 
 - [Intro](#intro)
@@ -77,7 +77,7 @@ Table of Contents
 - [Takeaways](#takeaways)
 - [Warner Brothers Studio Tour versus Universal Studios Tour](#warner-brothers-studio-tour-versus-universal-studios-tour)
     - [What Warner Brothers Had Going For It](#what-warner-brothers-had-going-for-it)
-    - [What Universal Studios Tour Had Going For It](#what-universal-studios-tour-had-going-for-it)
+    - [What Universal Studios Tour Had Going For It](#what-universal-studios-tour-had-going-for-it) -->
       
 ## Intro
 

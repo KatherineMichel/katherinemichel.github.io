@@ -8,7 +8,7 @@ tags: about
 
 # DjangoCon US 2023 Recap
 
-Table of Contents
+<!-- Table of Contents
 -----------------
 
 - [Intro](#intro)
@@ -50,7 +50,7 @@ Table of Contents
     - [Pizzeria Toro](#pizzeria-toro)
     - [Simon Says Dip This](#simon-says-dip-this)
     - [Press Coffee, Crepes, and Cocktails](#press-coffee-crepesand-cocktails)
-- [In Closing](#in-closing)
+- [In Closing](#in-closing) -->
 
 ## Intro
 
