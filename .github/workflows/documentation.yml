@@ -14,12 +14,15 @@ jobs:
       - name: Install dependencies
         run: |
           pip install sphinx ablog alabaster myst_parser sphinxext-opengraph[social-cards]
-      - name: Sphinx linkcheck
-        run: |
-          cd doc && make linkcheck
+      # - name: Sphinx linkcheck
+      #   run: |
+      #     cd doc && make linkcheck
       - name: Sphinx build
         run: |
           sphinx-build doc _build
+      - name: Sphinx linkcheck
+        run: |
+          cd _build && make linkcheck
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
