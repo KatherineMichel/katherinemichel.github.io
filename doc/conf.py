@@ -53,7 +53,7 @@ html_sidebars = {
    '**': [
       'about.html',
       'searchfield.html',
-      'ablog/postcard.html',
+      'postcard.html',
       'navigation.html',
       'ablog/recentposts.html',
       'ablog/archives.html',
