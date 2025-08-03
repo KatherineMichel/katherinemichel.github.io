@@ -10,6 +10,6 @@ Welcome to Kati's Website!
    :maxdepth: 2
    :caption: Thoughts:
 
-   blog/leaders/a-lesson-in-leadership.md
+   blog/leadershi/a-lesson-in-leadership.md
    some-feature.md
    another-feature.md
