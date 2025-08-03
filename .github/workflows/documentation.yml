@@ -19,7 +19,8 @@ jobs:
       #     cd doc && make linkcheck
       - name: Sphinx linkcheck
         run: |
-          sphinx-build -b linkcheck . _build/linkcheck
+          # sphinx-build -b linkcheck . _build/linkcheck
+          sphinx-build -b linkcheck doc/ _build/linkcheck
       - name: Sphinx build
         run: |
           sphinx-build doc _build
