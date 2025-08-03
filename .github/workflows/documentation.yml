@@ -22,7 +22,8 @@ jobs:
           # sphinx-build doc make linkcheck
           # sphinx-build -M linkcheck doc doc
           # sphinx-build doc make
-          make linkcheck
+          # make linkcheck
+          sphinx-build -b linkcheck -W -n -a -E doc _build/linkcheck
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
