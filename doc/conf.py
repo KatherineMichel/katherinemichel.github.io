@@ -54,7 +54,7 @@ html_sidebars = {
       'about.html',
       'searchfield.html',
       'ablog/postcard.html',
-      # 'ablog/navigation.html',
+      'navigation.html',
       'ablog/recentposts.html',
       'ablog/archives.html',
       'ablog/tagcloud.html',
