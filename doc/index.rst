@@ -10,8 +10,6 @@ Welcome to Kati's Website!
    :maxdepth: 2
    :caption: Thoughts:
 
-   blog/leadership/a-lesson-in-leadership.md
+   blog/leaders/a-lesson-in-leadership.md
    some-feature.md
    another-feature.md
-   Hacktoberfest <https://hackberfest.com/>
-
