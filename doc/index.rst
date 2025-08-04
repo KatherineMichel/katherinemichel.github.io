@@ -8,7 +8,15 @@ Welcome to Kati's Website!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Thoughts:
+   :caption: Me:
+
+   about.md
+   speaker-board-and-organizer-photos.md
+   favorite-conference-snapshots.md
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Popular Posts:
 
    blog/leadership/a-lesson-in-leadership.md
    some-feature.md
