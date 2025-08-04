@@ -10,7 +10,7 @@ Welcome to Kati's Website!
    :maxdepth: 1
    :caption: Me:
 
-   about.md
+   about-me.md
    speaker-board-and-organizer-photos.md
    favorite-conference-snapshots.md
 
