@@ -10,7 +10,7 @@ tags: about
 
 ## About Stanford Code in Place
 
-In late March, while I was looking through my Twitter news feed, I came across a [tweet](https://twitter.com/chrispiech/status/1244692768431038473) about a one-time [Python](https://www.python.org/) programming course called Stanford Code in Place. 
+In late March, while I was looking through my Twitter news feed, I came across a [tweet](https://x.com/chrispiech/status/1244692768431038473) about a one-time [Python](https://www.python.org/) programming course called Stanford Code in Place. 
 
 [Mehran Sahami](http://robotics.stanford.edu/users/sahami/bio.html) and [Chris Piech](https://stanford.edu/~cpiech/bio/index.html) teach Stanford's introductory Python course CS106A. Because of shelter-in-place, they decided to open the course to the public. They would teach the traditional CS106A version and public Code in Place version simultaneously.
 
@@ -199,4 +199,4 @@ In the past few months, I've also overseen an epic new [Pinax](https://github.co
 
 ## Contact Me
 
-Have questions or comments? I can be reached at kthrnmichel@gmail.com or on Twitter [@KatiMichel](https://twitter.com/KatiMichel).
+Have questions or comments? I can be reached at kthrnmichel@gmail.com or on Twitter [@KatiMichel](https://x.com/KatiMichel).
