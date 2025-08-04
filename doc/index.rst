@@ -7,7 +7,7 @@ Welcome to Kati's Website!
 ===================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Me:
 
    about.md
@@ -15,7 +15,7 @@ Welcome to Kati's Website!
    favorite-conference-snapshots.md
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Popular Posts:
 
    blog/leadership/a-lesson-in-leadership.md
