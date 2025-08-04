@@ -18,6 +18,8 @@ Welcome to Kati's Website!
    :maxdepth: 1
    :caption: Popular Posts:
 
-   blog/leadership/a-lesson-in-leadership.md
+   blog/conferences/pycon-us-2024-recap.md
+   blog/conferences/djangocon-us-2024-recap.md
+   blog/conferences/djangocon-us-2023-recap.md
    some-feature.md
    another-feature.md
