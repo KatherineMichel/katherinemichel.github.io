@@ -8,8 +8,6 @@ tags: python, django, djangocon, talks, inspiration
 
 # DjangoCon US 2023 Topics Inspiration List
 
-Published May 6, 2023
-
 New Features and Future Outlook
 * New Django features
 * New Python features of interest to Django devs

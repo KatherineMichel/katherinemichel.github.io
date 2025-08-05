@@ -8,8 +8,6 @@ tags: python, django, djangocon, talks, inspiration
 
 # DjangoCon US 2024 Topics Inspiration List
 
-Published March 3, 2024
-
 New Features and Future Outlook
 * New Django features
 * New Python features of interest to Django devs
