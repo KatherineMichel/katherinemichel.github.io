@@ -1,9 +1,9 @@
 ---
 blogpost: true
 date: June 1, 2019
-location: Cleveland
+location: Cleveland, Ohio
 category: Conferences
-tags: conference, django, python, travel
+tags: community, django, python, learning, networking, travel
 ---
 
 # PyCon US 2019 Recap
