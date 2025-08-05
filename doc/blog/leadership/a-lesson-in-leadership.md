@@ -1,9 +1,9 @@
 ---
 blogpost: true
-date: August 2, 2025
+date: July 27, 2025
 location: Plano
-category: Business
-tags: leadership, inspiration
+category: Leadership
+tags: excellence, inspiration, worklife
 ---
 
 # A Lesson in Leadership

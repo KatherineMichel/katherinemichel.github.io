@@ -10,9 +10,9 @@ Welcome to Kati's Website!
    :maxdepth: 1
    :caption: Me:
 
-   about-me.md
-   speaker-board-and-organizer-photos.md
-   favorite-conference-snapshots.md
+   blog/about-me.md
+   blog/speaker-board-and-organizer-photos.md
+   blog/favorite-conference-snapshots.md
 
 .. toctree::
    :maxdepth: 1
@@ -21,5 +21,3 @@ Welcome to Kati's Website!
    blog/conferences/pycon-us-2024-recap.md
    blog/conferences/djangocon-us-2024-recap.md
    blog/conferences/djangocon-us-2023-recap.md
-   some-feature.md
-   another-feature.md
