@@ -3,7 +3,7 @@ blogpost: true
 date: October 29, 2020
 location: Plano
 category: Coding
-tags: project, tutorial
+tags: python, project, tutorial
 ---
 
 # Building a Taco John's Scraper

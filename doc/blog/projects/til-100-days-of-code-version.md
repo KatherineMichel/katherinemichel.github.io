@@ -3,7 +3,7 @@ blogpost: true
 date: July 27, 2020
 location: Wichita Kansas
 category: Coding
-tags: project, tutorial
+tags: python, project, tutorial
 ---
 
 # TIL- 100 Days of Code Version

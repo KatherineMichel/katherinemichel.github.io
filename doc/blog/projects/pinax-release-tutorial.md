@@ -3,7 +3,7 @@ blogpost: true
 date: October 3, 2022
 location: Plano
 category: Coding
-tags: project, tutorial, release management
+tags: python, django, release management, project, tutorial, 
 ---
 
 # Pinax Release Tutorial
