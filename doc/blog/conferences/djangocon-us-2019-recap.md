@@ -1,7 +1,7 @@
 ---
 blogpost: true
 date: October 28, 2019
-location: San Diego, California
+location: San Diego California
 category: Conferences
 tags: community, django, python, learning, networking, travel
 ---

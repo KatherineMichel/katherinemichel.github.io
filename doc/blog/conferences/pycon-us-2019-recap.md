@@ -1,7 +1,7 @@
 ---
 blogpost: true
 date: June 1, 2019
-location: Cleveland, Ohio
+location: Cleveland Ohio
 category: Conferences
 tags: community, django, python, learning, networking, travel
 ---

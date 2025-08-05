@@ -1,7 +1,7 @@
 ---
 blogpost: true
 date: July 20, 2020
-location: New York City, New York
+location: New York City New York
 category: Conferences
 tags: community, django, python, learning, networking, travel
 ---

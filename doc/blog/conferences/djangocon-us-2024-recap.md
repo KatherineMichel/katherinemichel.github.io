@@ -1,7 +1,7 @@
 ---
 blogpost: true
 date: August 3, 2025
-location: Durham, North Carolina
+location: Durham North Carolina
 category: Conferences
 tags: community, django, python, learning, networking, travel
 ---
