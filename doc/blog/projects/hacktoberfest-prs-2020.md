@@ -1,9 +1,9 @@
 ---
 blogpost: true
-date: August 3, 2025
-location: Plano
-category: Personal
-tags: about
+date: October 30, 2020
+location: Wichita Kansas
+category: Coding
+tags: python, django, project, tutorial
 ---
 
 # Hacktoberfest PRs- 2020

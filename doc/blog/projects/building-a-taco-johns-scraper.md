@@ -1,7 +1,7 @@
 ---
 blogpost: true
 date: October 29, 2020
-location: Plano
+location: Wichita Kansas
 category: Coding
 tags: python, project, tutorial
 ---

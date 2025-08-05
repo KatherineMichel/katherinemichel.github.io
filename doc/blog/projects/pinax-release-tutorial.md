@@ -1,7 +1,7 @@
 ---
 blogpost: true
 date: October 3, 2022
-location: Plano
+location: Wichita Kansas
 category: Coding
 tags: python, django, release management, project, tutorial, 
 ---
