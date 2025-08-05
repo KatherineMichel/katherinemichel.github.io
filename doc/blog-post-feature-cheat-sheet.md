@@ -2,10 +2,10 @@
 blogpost: true
 date: May 31, 2019
 category: Blogging
-tags: style cheat-sheet tutorial
+tags: style tutorial
 ---
 
-# Some feature
+# Blog Post Feature Cheat Sheet
 
 ## Subsection
 
