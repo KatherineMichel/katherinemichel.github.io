@@ -3,7 +3,7 @@ blogpost: true
 date: December 18, 2020
 location: Wichita Kansas
 category: Annual Recap
-tags: accomplishments, inspiration, self-reflection
+tags: accomplishments, inspiration, self-reflection, travel
 ---
 
 # 2020 Recap

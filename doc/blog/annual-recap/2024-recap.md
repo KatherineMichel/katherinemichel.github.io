@@ -1,9 +1,9 @@
 ---
 blogpost: true
 date: December 10, 2024
-location: Wichita, Kansas
+location: Wichita Kansas
 category: Annual Recap
-tags: accomplishments, inspiration, self-reflection
+tags: accomplishments, inspiration, self-reflection, travel
 ---
 
 # 2024 Recap

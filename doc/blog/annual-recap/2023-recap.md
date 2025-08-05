@@ -3,7 +3,7 @@ blogpost: true
 date: December 26, 2023
 location: Wichita Kansas
 category: Annual Recap
-tags: accomplishments, inspiration, self-reflection
+tags: accomplishments, inspiration, self-reflection, travel
 ---
 
 # 2023 Recap
