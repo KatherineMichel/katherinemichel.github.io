@@ -2,7 +2,7 @@
 blogpost: true
 date: April 19, 2025
 location: Plano Texas
-category: Conferences
+category: Talk Topics
 tags: python, django, djangocon, talks, inspiration
 ---
 

@@ -1,9 +1,9 @@
 ---
 blogpost: true
-date: August 3, 2025
-location: Plano
+date: January 9, 2024
+location: Los Angeles California
 category: Personal
-tags: about
+tags: travel
 ---
 
 # Los Angeles 2023
