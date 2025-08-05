@@ -6,7 +6,7 @@ category: Annual Recap
 tags: accomplishments, inspiration, self-reflection
 ---
 
-# 2020 Year in Review
+# 2020 Recap
 
 Thank you to [Dawn Wages](https://x.com/DawnWagesSays/status/1337212013014110209) for inspiring me to do a Year in Review blog post! 
 
