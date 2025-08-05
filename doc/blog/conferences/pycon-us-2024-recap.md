@@ -1,9 +1,9 @@
 ---
 blogpost: true
-date: August 3, 2025
-location: Plano
-category: Personal
-tags: about
+date: June 1, 2024
+location: Pittsburgh Pennsylvania
+category: Conferences
+tags: python, django, pycon, community, networking, talks, travel
 ---
 
 # PyCon US 2024 Recap

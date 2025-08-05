@@ -2,8 +2,8 @@
 blogpost: true
 date: May 6, 2023
 location: Plano
-category: Personal
-tags: about
+category: Conferences
+tags: python, django, djangocon, talks, inspiration
 ---
 
 # DjangoCon US 2023 Topics Inspiration List

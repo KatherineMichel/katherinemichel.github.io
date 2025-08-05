@@ -2,8 +2,8 @@
 blogpost: true
 date: March 3, 2024
 location: Plano
-category: Personal
-tags: about
+category: Conferences
+tags: python, django, djangocon, talks, inspiration
 ---
 
 # DjangoCon US 2024 Topics Inspiration List

@@ -3,7 +3,7 @@ blogpost: true
 date: November 2, 2023
 location: Durham North Carolina
 category: Conferences
-tags: django, python, djangocon, community, learning, networking, travel
+tags: python, django, djangocon, community, networking, talks, travel
 ---
 
 # DjangoCon US 2023 Recap

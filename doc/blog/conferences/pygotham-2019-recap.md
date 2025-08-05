@@ -3,7 +3,7 @@ blogpost: true
 date: July 20, 2020
 location: New York City New York
 category: Conferences
-tags: django, python, pygotham, community, learning, networking, travel
+tags: python, django, pygotham, community, networking, talks, travel
 ---
 
 # PyGotham 2019 Recap
