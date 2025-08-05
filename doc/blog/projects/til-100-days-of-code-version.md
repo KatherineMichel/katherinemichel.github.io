@@ -2,7 +2,7 @@
 blogpost: true
 date: July 27, 2020
 location: Wichita Kansas
-category: Programming
+category: Coding
 tags: project, tutorial
 ---
 

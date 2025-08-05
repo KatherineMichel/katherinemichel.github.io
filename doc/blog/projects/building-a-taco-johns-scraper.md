@@ -1,9 +1,9 @@
 ---
 blogpost: true
-date: August 3, 2025
+date: October 29, 2020
 location: Plano
-category: Personal
-tags: about
+category: Coding
+tags: project, tutorial
 ---
 
 # Building a Taco John's Scraper
