@@ -1,9 +1,9 @@
 ---
 blogpost: true
-date: August 3, 2025
-location: Plano
-category: Personal
-tags: about
+date: December 26, 2023
+location: Wichita Kansas
+category: Annual Recap
+tags: accomplishments, inspiration, self-reflection
 ---
 
 # 2023 Recap
