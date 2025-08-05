@@ -1,7 +1,7 @@
 ---
 blogpost: true
 date: July 27, 2025
-location: Plano
+location: Plano Texas
 category: Leadership
 tags: excellence, inspiration, worklife
 ---

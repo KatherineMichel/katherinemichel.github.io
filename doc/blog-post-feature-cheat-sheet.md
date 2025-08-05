@@ -1,11 +1,25 @@
 ---
 blogpost: true
-date: August 2, 2024
-category: Programming
-tags: tutorial
+date: May 31, 2019
+category: Blogging
+tags: style cheat-sheet tutorial
 ---
 
-# More features here
+# Some feature
+
+## Subsection
+
+Exciting documentation in here.
+Let's make a list (empty surrounding lines required):
+
+- item 1
+
+  - nested item 1
+  - nested item 2
+
+- item 2
+- item 3
+
 
 ## Some text
 
