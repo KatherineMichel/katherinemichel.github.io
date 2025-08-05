@@ -8,8 +8,6 @@ tags: community, django, python, learning, networking, travel
 
 # PyGotham 2019 Recap
 
-Published: July 20, 2020
-
 ## Description
 
 PyGotham 2019 took place at Hotel Penn in New York City last fall. While sheltering-in-place, Eldarion’s Katherine Michel looked back at the wonderful experience she had there and looks forward to returning to a conference and city she loves.

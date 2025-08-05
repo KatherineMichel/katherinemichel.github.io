@@ -8,8 +8,6 @@ tags: community, django, python, learning, networking, travel
 
 # PyCon US 2019 Recap
 
-Published June 1, 2019
-
 ## Description
 
 PyCon US 2019 took place at Huntington Convention Center in downtown Cleveland, Ohio from May 1-10. Eldarion’s Katherine Michel wrote about what it was like to experience PyCon US for the first time!
