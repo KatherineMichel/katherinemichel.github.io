@@ -1,9 +1,9 @@
 ---
 blogpost: true
-date: August 3, 2025
-location: Plano
-category: Personal
-tags: about
+date: March 2, 2024
+location: Plano Texas
+category: Conferences
+tags: djangocon, pycon, pytexas, pycascades, github universe, strange loop, pygotham, community, travel
 ---
 
 # Favorite Conference Snapshots
