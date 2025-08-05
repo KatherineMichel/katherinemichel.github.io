@@ -3,7 +3,7 @@ blogpost: true
 date: October 28, 2019
 location: San Diego California
 category: Conferences
-tags: community, django, python, learning, networking, travel
+tags: django, python, djangocon, community, learning, networking, travel
 ---
 
 # DjangoCon US 2019 Recap
