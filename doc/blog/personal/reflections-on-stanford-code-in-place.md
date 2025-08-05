@@ -1,9 +1,9 @@
 ---
 blogpost: true
-date: August 3, 2025
-location: Plano
-category: Personal
-tags: about
+date: July 27, 2020
+location: Wichita Kansas
+category: Coding
+tags: python, learning
 ---
 
 # Reflections on Stanford Code in Place
