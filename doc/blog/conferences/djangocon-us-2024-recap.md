@@ -1,6 +1,6 @@
 ---
 blogpost: true
-date: August 3, 2025
+date: October 7, 2024
 location: Durham North Carolina
 category: Conferences
 tags: python, django, djangocon, community, networking, talks, travel

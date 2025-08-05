@@ -1,9 +1,9 @@
 ---
 blogpost: true
-date: August 3, 2025
-location: Plano
+date: July 13, 2025
+location: Plano, Texas
 category: Personal
-tags: about
+tags: django
 ---
 
 # Happy 20th Birthday, Django!
