@@ -1,9 +1,9 @@
 ---
 blogpost: true
-date: August 3, 2025
+date: October 3, 2022
 location: Plano
-category: Personal
-tags: about
+category: Coding
+tags: project, tutorial, release management
 ---
 
 # Pinax Release Tutorial
