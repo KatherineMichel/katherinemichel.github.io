@@ -1,9 +1,9 @@
 ---
 blogpost: true
 date: October 28, 2019
-location: Plano
-category: Personal
-tags: about
+location: San Diego
+category: Conferences
+tags: conference, django, python, travel
 ---
 
 # DjangoCon US 2019 Recap

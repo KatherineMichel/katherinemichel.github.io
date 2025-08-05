@@ -1,9 +1,9 @@
 ---
 blogpost: true
 date: June 1, 2019
-location: Plano
-category: Personal
-tags: about
+location: Cleveland
+category: Conferences
+tags: conference, django, python, travel
 ---
 
 # PyCon US 2019 Recap

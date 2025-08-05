@@ -1,9 +1,9 @@
 ---
 blogpost: true
 date: July 20, 2020
-location: Plano
-category: Personal
-tags: about
+location: New York City
+category: Conferences
+tags: conference, django, python, travel
 ---
 
 # PyGotham 2019 Recap

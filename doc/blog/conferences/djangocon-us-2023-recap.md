@@ -1,9 +1,9 @@
 ---
 blogpost: true
 date: August 3, 2025
-location: Plano
-category: Personal
-tags: about
+location: Durham
+category: Conferences
+tags: conference, django, python, travel
 ---
 
 # DjangoCon US 2023 Recap
