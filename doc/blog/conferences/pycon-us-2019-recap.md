@@ -1,6 +1,6 @@
 ---
 blogpost: true
-date: August 3, 2025
+date: June 1, 2019
 location: Plano
 category: Personal
 tags: about
