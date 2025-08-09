@@ -18,7 +18,7 @@ Welcome to Kati's Website!
    :maxdepth: 1
    :caption: My Work:
 
-   `My blog <https://katherinemichel.github.io/blog>`
+   `My blog <https://katherinemichel.github.io/blog>`_
 
 .. toctree::
    :maxdepth: 1
@@ -27,3 +27,5 @@ Welcome to Kati's Website!
    blog/conferences/pycon-us-2024-recap.md
    blog/conferences/djangocon-us-2024-recap.md
    blog/conferences/djangocon-us-2023-recap.md
+
+.. _My Blog: https://katherinemichel.github.io/blog
