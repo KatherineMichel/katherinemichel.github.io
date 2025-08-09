@@ -20,7 +20,7 @@ Welcome to Kati's Website!
 
    My Blog <https://katherinemichel.github.io/blog>
    My Blog Archive <https://katherinemichel.github.io/blog/archive>
-   blog/archive.html
+   :doc: `blog`
 
 .. toctree::
    :maxdepth: 1
