@@ -16,6 +16,12 @@ Welcome to Kati's Website!
 
 .. toctree::
    :maxdepth: 1
+   :caption: My Work:
+
+   blog/
+
+.. toctree::
+   :maxdepth: 1
    :caption: Popular Posts:
 
    blog/conferences/pycon-us-2024-recap.md
