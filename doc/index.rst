@@ -13,6 +13,8 @@ Welcome to Kati's Website!
    blog/about-me.md
    blog/speaker-board-and-organizer-photos.md
    blog/favorite-conference-snapshots.md
+   :doc: `/blog/`
+   :doc: `/blog/archive`
 
 .. toctree::
    :maxdepth: 1
