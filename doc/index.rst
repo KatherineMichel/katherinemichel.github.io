@@ -18,7 +18,7 @@ Welcome to Kati's Website!
    :maxdepth: 1
    :caption: My Work:
 
-   `My blog <https://katherinemichel.github.io/blog>`_
+   `My blog`_
 
 .. toctree::
    :maxdepth: 1
