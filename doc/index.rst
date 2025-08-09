@@ -18,7 +18,7 @@ Welcome to Kati's Website!
    :maxdepth: 1
    :caption: My Work:
 
-   blog/index
+   blog.html
 
 .. toctree::
    :maxdepth: 1
