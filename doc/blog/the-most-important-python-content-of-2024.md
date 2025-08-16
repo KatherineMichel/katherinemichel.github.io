@@ -1,6 +1,5 @@
 ---
 blogpost: true
-date: 
 location: Plano
 category: Personal
 tags: about
