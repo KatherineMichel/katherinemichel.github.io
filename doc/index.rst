@@ -18,7 +18,8 @@ Welcome to Kati's Website!
    :maxdepth: 1
    :caption: My Work:
 
-   blog/archive
+   My Blog <https://katherinemichel.github.io/blog>
+   My Blog Archive <https://katherinemichel.github.io/blog/archive>
 
 .. toctree::
    :maxdepth: 1
