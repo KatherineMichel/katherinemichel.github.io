@@ -1,6 +1,6 @@
 ---
 blogpost: true
-date: August 3, 2025
+date: December 31, 2023
 location: Plano
 category: Personal
 tags: about
