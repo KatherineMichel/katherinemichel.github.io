@@ -11,7 +11,6 @@ tags: python, django, djangocon, community, networking, talks, travel
 Table of Contents
 -----------------
 
-<!-- 
 - [Intro](#intro)
     - [Venue Selection](#venue-selection)
     - [DjangoCon US Website and Design](#djangocon-us-website-and-design)
@@ -67,7 +66,7 @@ Table of Contents
     - [Durham Market Culture](#durham-market-culture)
     - [Cousins Maine Lobster](#cousins-maine-lobster)
     - [Unscripted Rooftop Pool](#unscripted-rooftop-pool)
-    - [The Parlour](#the-parlour) -->
+    - [The Parlour](#the-parlour)
 
 ## Intro
 
