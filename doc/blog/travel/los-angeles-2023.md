@@ -28,7 +28,6 @@ I wore a different outfit everyday, but because I took a handful of sweatshirts 
 Table of Contents
 -----------------
 
-<!-- 
 - [Intro](#intro)
 - [My Top Picks](#my-top-picks)
 - [Wednesday](#wednesday)
@@ -78,7 +77,7 @@ Table of Contents
 - [Takeaways](#takeaways)
 - [Warner Brothers Studio Tour versus Universal Studios Tour](#warner-brothers-studio-tour-versus-universal-studios-tour)
     - [What Warner Brothers Had Going For It](#what-warner-brothers-had-going-for-it)
-    - [What Universal Studios Tour Had Going For It](#what-universal-studios-tour-had-going-for-it) -->
+    - [What Universal Studios Tour Had Going For It](#what-universal-studios-tour-had-going-for-it)
       
 ## Intro
 
