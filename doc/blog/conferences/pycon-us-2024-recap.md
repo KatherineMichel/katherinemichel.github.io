@@ -11,7 +11,6 @@ tags: python, django, pycon, community, networking, talks, travel
 Table of Contents
 -----------------
 
-<!-- 
 - [Intro](#intro)
 - [Wednesday](#wednesday)
     - [Sightseeing Downtown](#sightseeing-downtown)
@@ -57,7 +56,7 @@ Table of Contents
         - [Pablo Galindo Salgado: Free-Threading Update (a.k.a. No GIL)](#pablo-galindo-salgado-free-threading-update-aka-no-gil)
     - [Dinner and Ice Cream](#dinner-and-ice-cream)
 - [Monday](#monday)
-- [Until Next Time](#until-next-time) -->
+- [Until Next Time](#until-next-time)
 
 ## Intro
 
