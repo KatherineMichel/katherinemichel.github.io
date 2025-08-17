@@ -11,7 +11,6 @@ tags: python, django, djangocon, community, networking, talks, travel
 Table of Contents
 -----------------
 
-<!-- 
 - [Intro](#intro)
 - [Pre-Conference Activities](#pre-conference-activities)
     - [DEFNA Board Dinner](#defna-board-dinner)
@@ -51,7 +50,7 @@ Table of Contents
     - [Pizzeria Toro](#pizzeria-toro)
     - [Simon Says Dip This](#simon-says-dip-this)
     - [Press Coffee, Crepes, and Cocktails](#press-coffee-crepesand-cocktails)
-- [In Closing](#in-closing) -->
+- [In Closing](#in-closing)
 
 ## Intro
 
