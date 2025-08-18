@@ -83,14 +83,14 @@ In late March, while I was looking through my Twitter news feed, I came across a
 
 I applied and was chosen to participate. Although I was much more familiar with Python than some of the other participants, I used it as an opportunity to reinforce concepts and kickstart making some new fun and practical apps from scratch. Although my "section" had a dedicated leader, I was also able to provide some informal mentoring to other members of the group.
 
-I won't write much about my Stanford Code in Place experience here, because you can read about it in my [Reflections on Stanford Code in Place](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/reflections-on-stanford-code-in-place.md) blog post. It was a fun and unique experience and I think I got a lot out of it, including making [Simba Friends Twitter Bot](https://github.com/KatherineMichel/stanford-code-in-place-final-project).
+I won't write much about my Stanford Code in Place experience here, because you can read about it in my [Reflections on Stanford Code in Place](https://katherinemichel.github.io/blog/personal/reflections-on-stanford-code-in-place.html) blog post. It was a fun and unique experience and I think I got a lot out of it, including making [Simba Friends Twitter Bot](https://github.com/KatherineMichel/stanford-code-in-place-final-project).
 
 After Stanford Code in Place ended, I decided to keep the momentum of making apps going by participating in 100 Days of Code. The highlight has been completing several small projects and writing about the process I went through and what I learned. 
 
 A few of my favorite 100 Days of Code project blog posts from this year: 
-* [Building a Taco John's Scraper Blog Post](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/building-a-taco-johns-scraper.md)
-* [TIL- 100 Days of Code Version Blog Post](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/til-100-days-of-code-version.md) and [GitHub Repo](https://github.com/KatherineMichel/til-100-days-of-code-version/)
-* [Hacktoberfest PRs- 2020 Blog Post](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/hacktoberfest-prs-2020.md)
+* [Building a Taco John's Scraper Blog Post](https://katherinemichel.github.io/blog/projects/building-a-taco-johns-scraper.html)
+* [TIL- 100 Days of Code Version Blog Post](https://katherinemichel.github.io/blog/projects/til-100-days-of-code-version.html) and [GitHub Repo](https://github.com/KatherineMichel/til-100-days-of-code-version/)
+* [Hacktoberfest PRs- 2020 Blog Post](https://katherinemichel.github.io/blog/projects/hacktoberfest-prs-2020.html)
 
 ## Pinax Release
 
