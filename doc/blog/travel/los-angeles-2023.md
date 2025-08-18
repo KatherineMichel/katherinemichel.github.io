@@ -109,7 +109,7 @@ Good food
 * [Bruno's Ristorante Italiano](https://brunossantamonica.com/)
 * [République](https://republiquela.com/)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Wednesday
 
@@ -125,7 +125,7 @@ We've connected on LinkedIn, and I can't wait to get to know her work better and
 [YouTube](https://www.youtube.com/@Lovejonesproductions/videos) channel. 
 -->
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Santa Monica Pier at Night
 
@@ -150,7 +150,7 @@ Pacific Park ferris wheel overlooking the ocean waves...
 
 [Video](https://youtu.be/53oLr76JxuY?si=W2jQtuxPaf7SNMy5) of south of the Santa Monica Pier
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### North Italia
 
@@ -159,7 +159,7 @@ I was looking for a convenient, but decent place to eat dinner. I stumbled upon 
 ![](los-angeles-2023-images/north-italia.jpg)
 North Italia Crushed Meatball Ragu: beef meatball, porchetta, blistered onion, wild oregano, bucatini, pecorino
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Thursday
 
@@ -179,7 +179,7 @@ The best part of the meal was a delicious Turkish Latte ("creamy and a touch of 
 ![](los-angeles-2023-images/blue-daisy-latte.jpg)
 Turkish latte... beautiful and yummy!
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Santa Monica and Venice Beaches
 
@@ -241,7 +241,7 @@ Santa Monica Pier... the sun is going down.
 
 [Video](https://youtu.be/Fzv0tZ1zzQU?si=AmMmtc6kuHH13b7N) of Santa Monica Pier at sunset
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Friday
 
@@ -281,7 +281,7 @@ Warner Brothers Studio awards
 
 [Video](https://youtu.be/iL-cWXCyAsE?si=vg80ZuUTMV5A59Vg) of casting spells in Wizarding World
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Hollywood Walk of Fame, TCL Theatre, Hollywood Sign, Dolby Theater
 
@@ -309,7 +309,7 @@ The steps leading up to the [Dolby Theater Tour](https://dolbytheatre.com/), whe
 
 [Video](https://youtu.be/ihaYNCC3sU4?si=9IS5N8DZwYQ2lXkD) walking around Hollywood Boulevard
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Dolby Theater Tour
 
@@ -326,7 +326,7 @@ Having exited stage left just like the Academy Award winners do, we are walking 
 ![](los-angeles-2023-images/dolby-theater-winners-walk-2.jpg)
 This red carpet leads the winners to their press interview. 
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Santa Monica Beach at Sunset and Pier Burger
 
@@ -348,7 +348,7 @@ Tourist be touristing... I gave in and ate an overpriced hamburger, fries, and s
 
 [Video](https://youtu.be/y_R55NwD5PA?si=FTA12rl3sTd4p1s6) of Santa Monica Beach at sunset
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Saturday
 
@@ -370,7 +370,7 @@ République courtyard... a good view of the front of the original Charlie Chapli
 ![](los-angeles-2023-images/republique-front.jpg)
 République front
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Academy Museum of Motion Pictures
 
@@ -400,7 +400,7 @@ Academy Award statues room
 
 [Video](https://youtu.be/BM8AMYP3mL0?si=Jpd-JnuRdGW-eT4u) of the Academy Award statues room
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Petersen Automotive Museum
 
@@ -429,7 +429,7 @@ Back to the Future DeLorean
 ![](los-angeles-2023-images/petersen-back-to-the-future-close-up.jpg)
 Back to the Future flux capacitor!
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Sunday
 
@@ -461,7 +461,7 @@ Although I enjoyed the view of Los Angeles from the main Getty Center terrace, t
 
 [Video](https://youtu.be/TwIPtk2IA9A?si=ub_cBZedXZhjluZQ) of the ride down from The Getty Center
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Tacos 1986 and Santa Monica Beach at Sunset
 
@@ -483,7 +483,7 @@ The pier
 
 [Video](https://youtu.be/hgm-Dc5btlA?si=rZATV0HqXm3hNext) of the Santa Monica beach at sunset
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Monday
 
@@ -496,7 +496,7 @@ I did have some absolutely incredible tasting granola. It was beautifully presen
 ![](los-angeles-2023-images/republique-breakfast-2.jpg)
 Granola: straus organic yogurt, farmer’s market fruit, wildflower honey
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### The Grammy Museum
 
@@ -517,7 +517,7 @@ Thriller Album of the Year nomination
 ![](los-angeles-2023-images/grammy-museum-costumes.jpg)
 Grammy outfits worn by Taylor Swift, Harry Styles, Shania Twain, Lizzo, Olivia Rodrigo, and Samara Joy
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### The Cecil Hotel
 
@@ -535,7 +535,7 @@ The infamous water tanks where Elisa Lam drowned... it was speculated that she m
 
 [Video](https://youtu.be/4Jyj94ut0Mk?si=Gd6toD3jRr4On6tR) of the Hotel Cecil
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Downtown Los Angeles
 
@@ -546,7 +546,7 @@ Strangely, Skid Row is next to the Toy and Fashion Districts. I can't get over t
 ![](los-angeles-2023-images/downtown-la-skid-row.jpg)
 The homelessness in Los Angeles was a sad reality. A local told me it increased greatly due to the pandemic.
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Los Angeles City Hall Observation Deck
 
@@ -569,7 +569,7 @@ A view from one of the four sides
 
 [Video]([https://youtu.be/mGme3_W_BQc?si=xZ_PfOAzYDDktxUF) of the view from the City Hall Observation Deck
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Bruno's Ristorante Italiano
 
@@ -580,7 +580,7 @@ Oh boy, I wish I lived nearby so that I could eat there regularly. The fettucchi
 ![](los-angeles-2023-images/brunos-night-1.jpg)
 Fettuccine Alfredo with chicken... so good!
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Tuesday
 
@@ -624,7 +624,7 @@ https://www.universalstudioshollywood.com/web/en/us/things-to-do/rides-and-attra
 https://www.universalstudioshollywood.com/web/en/us/things-to-do/rides-and-attractions/fast-furious-supercharged
 -->
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### The Griffith Observatory
 
@@ -647,7 +647,7 @@ Multiple Lyft drivers told me the view is "spectacular" after dark, but frankly,
 
 [Video](https://youtu.be/_nZQzYq1Pnc?si=U7bHzHmFENE5ZAZP) of the Foucault Pendulum
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Comedy in English
 
@@ -658,7 +658,7 @@ There were awkward, confrontational jokes, excruciating silences, and big laughs
 ![](los-angeles-2023-images/comedy-show.jpg)
 The comedian before him was scream-y... this one was quiet and thoughtful. I thought he'd bomb, but he didn't! 
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Wednesday
 
@@ -674,7 +674,7 @@ Hollywood Boulevard was closed to cars due to the [Rebel Moon](https://en.wikipe
 
 [Video](https://youtu.be/owiHq5D2QRU?si=60DeIfk0kEvQhF4b) of the Rebel Moon Premier set up
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Celebrity Homes Bus Tour
 
@@ -700,7 +700,7 @@ Leonardo DiCaprio's house
 
 [Video](https://youtu.be/m5H2epDZf4Y?si=e9AJ9xj-U9jtIRVL) of Rodeo Drive, part 2 
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Rodeo Drive
 
@@ -717,7 +717,7 @@ Harry Winston
 
 [Video](https://youtu.be/aPwa4OlnCP0?si=P2X4uJ25YaVcFLYy) of Rodeo Drive Giorgio Armani storefront
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Via Alloro
 
@@ -732,7 +732,7 @@ I had the Fettuccini Boscaiola. Having never heard of this dish, I wasn't quite 
 ![](los-angeles-2023-images/via-alloro.jpg)
 Fettuccini Boscaiola: homemade fettuccini pasta with meat sauce, cream, green peas, mushrooms for $26.50
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Bruno's Ristorante Italiano
 
@@ -743,7 +743,7 @@ Spaghetti with meat sauce
 
 I'll be back. 
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Thursday
 
@@ -760,7 +760,7 @@ Santa Monica's Ice skating rink
 
 [Video](https://youtu.be/udvcou-cgV0?si=NXMn2PaAy2Vt917-) of ice skating
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Mel's Drive-In
 
@@ -774,7 +774,7 @@ The best chocolate milkshake that I've ever had.
 
 [Video](https://youtu.be/jTq31Q2034Q?si=NsgiEQ77am7aedDf) at the counter in Mel's Drive-in
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### End of Santa Monica Pier at Sunset
 
@@ -819,7 +819,7 @@ People watching
 
 [Video](https://youtu.be/xyXs-FP-3n4?si=UgdO0TWjZ5fcvAYR) of ferris wheel with Santa Claus
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Santa Monica Pier Carousel
 
@@ -828,7 +828,7 @@ Santa Monica Pier Carousel... Paul Newman worked there in the Sting. I rode it!
 
 [Video](https://youtu.be/TVL2gUfgNGk?si=CHgmEYUToBc9Eerr) riding Paul Newman's carousel :)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Santa Monica Promenade
 
@@ -838,7 +838,7 @@ Christmas decorations
 ![](los-angeles-2023-images/santa-monica-promenade-2.jpg)
 Christmas decorations
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Friday
 
@@ -851,7 +851,7 @@ Santa Monica, Venice, and Playa Del Rey Beaches, I believe
 
 I made it home from Los Angeles with one last momento: bronchitis. I believe it was caused by the smog. Walking for miles over nine days and riding around in an open air bus for two hours couldn't have helped. 
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Takeaways
 
@@ -870,7 +870,7 @@ Things to do next time:
 * Take the scenic Coast Starlight train
 * Visit Redondo Beach and Santa Barbara
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Warner Brothers Studio Tour versus Universal Studios Tour
 
@@ -886,7 +886,7 @@ Before and after the guided part of the tour, we had the opportunity to walk at 
 
 I spent 3 hours on the Warner Brothers tour. 
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### What Universal Studios Tour Had Going For It
 
@@ -896,4 +896,4 @@ However, the Universal Studios tour did include some very iconic backlots, and n
 
 I spent approximately 45 minutes on the Universal Studios Tour.  
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
