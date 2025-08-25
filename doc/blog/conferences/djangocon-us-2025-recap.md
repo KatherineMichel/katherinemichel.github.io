@@ -13,7 +13,7 @@ Table of Contents
 - [Intro](#intro)
 - [Pre-Conference Activities](#pre-conference-activities)
 - [Monday](#monday)
-    - [Kojo Idressa and Peter Grandstaff Kick Off the Conference](#kojo-idressa-and-peter-grandstaff-kick-off-the-conference)
+    - [Kojo Idressa and Keanya Phelps Kick Off the Conference](#kojo-idressa-and-keanya-phelps-kick-off-the-conference)
 - [Tuesday](#tuesday)
     - [Speaker and Organizer Dinner](#speaker-and-organizer-dinner)
 - [Wednesday](#wednesday)
@@ -25,6 +25,10 @@ Table of Contents
 
 Disclaimer: the content of this post is a reflection of my career journey and not specific to my work at JPMorganChase.
 
+<!--
+https://2025.djangocon.us/schedule/
+-->
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Pre-Conference Activities
@@ -33,7 +37,7 @@ Disclaimer: the content of this post is a reflection of my career journey and no
 
 ## Monday
 
-### Kojo Idressa and Peter Grandstaff Kick Off the Conference
+### Kojo Idressa and Keanya Phelps Kick Off the Conference
 
 ## Tuesday
 
@@ -44,6 +48,32 @@ Disclaimer: the content of this post is a reflection of my career journey and no
 ### Speaker and Organizer Dinner
 
 ## Wednesday
+
+Wednesday was deep-dive day. 
+
+### Keynote: Django Reimagined For The Age of AI
+
+<!--
+https://2025.djangocon.us/talks/keynote-wednesday/
+-->
+
+### High Performance Django at Ten: Old Tricks & New Picks
+
+<!--
+https://2025.djangocon.us/talks/high-performance-django-at-ten-old-tricks-new-picks/
+-->
+
+### Panel Discussion: Two Decades of Django: The Past, Present and Future
+
+<!--
+https://2025.djangocon.us/talks/panel-discussion-details/
+-->
+
+### What a Decade!
+
+<!--
+https://2025.djangocon.us/talks/what-a-decade/
+-->
 
 ### Conference Conclusion
 
