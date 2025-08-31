@@ -1,8 +1,22 @@
 ---
 blogpost: true
-location: Plano
+date: August 31, 2025
+location: Plano Texas
 category: Personal
 tags: about
 ---
 
 # About Me
+
+I am a software engineer at JPMorganChase & Co. 
+
+I specialize in:
+* Python, Django
+* Control plane and task orchestration
+* React, Typescript
+* Distributed Systems Engineering, System Design
+* Red Hat Enterprise Linux, Ansible
+* High scalability, resiliency, failover
+* CockroachDB
+
+In my free time, I enjoy watching documentaries, listening to music, traveling, eating well-made food, attending conferences.  
