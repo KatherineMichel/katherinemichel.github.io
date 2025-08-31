@@ -8,11 +8,11 @@ tags: about
 
 # About Me
 
-I am a software engineer at JPMorganChase & Co. 
+I am a software engineer at JPMorganChase & Co. working in Infrastracture Platforms Databases Department. 
 
 I specialize in:
 * Python, Django
-* Control plane, task orchestration
+* Control planes, task orchestration
 * Distributed systems engineering, system design
 * Red Hat Enterprise Linux, Ansible
 * High scalability, resiliency, failover
