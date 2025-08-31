@@ -8,7 +8,7 @@ tags: about
 
 # About Me
 
-I am a software engineer at JPMorganChase & Co. working in Infrastracture Platforms, Databases Department. 
+I am a software engineer at JPMorganChase & Co. working in Infrastructure Platforms, Databases Department. 
 
 I specialize in:
 * Python, Django
