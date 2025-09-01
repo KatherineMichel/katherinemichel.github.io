@@ -652,7 +652,7 @@ Multiple Lyft drivers told me the view is "spectacular" after dark, but frankly,
 
 ### Comedy in English
 
-That night, I attended a comedy show for the first time. It was called [Comedy in English](https://www.facebook.com/Comineng/) and features comedians who have appeared on The Tonight Show, Conan, Comedy Central, and Netflix. 
+That night, I attended a comedy show for the first time. It was called [Comedy in English](https://www.instagram.com/comedyinenglish)<!--(https://www.facebook.com/Comineng/)--> and features comedians who have appeared on The Tonight Show, Conan, Comedy Central, and Netflix. 
 
 There were awkward, confrontational jokes, excruciating silences, and big laughs. What a raw exercise!
 
