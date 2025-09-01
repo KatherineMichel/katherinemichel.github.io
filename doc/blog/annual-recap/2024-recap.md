@@ -11,7 +11,7 @@ tags: accomplishments, inspiration, self-reflection, travel
 Table of Contents
 -----------------
 
-- [This Year's Theme](#this-year-s-theme)
+* [This Year's Theme](#this-year-s-theme)
 - [Work](#work)
 - [January](#january)
     - [Los Angeles 2023 Trip Recap](#los-angeles-2023-trip-recap)
