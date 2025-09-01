@@ -30,7 +30,7 @@ Table of Contents
     - [JPMorganChase Eclipse Watch Party](#jpmorganchase-eclipse-watch-party)
     - [PyTexas 2024](#pytexas-2024)
     - [Austin Sightseeing](#austin-sightseeing)
-        - [Franklin's Barbecue](#franklin-s-barbecue)
+        - [Franklin's Barbecue](#franklins-barbecue)
         - [Downtown Austin](#downtown-austin)
         - [Lyndon B. Johnson Presidential Library](#lyndon-b-johnson-presidential-library)
         - [Bruce Springsteen Foundation Exhibit](#bruce-springsteen-foundation-exhibit)
@@ -59,7 +59,7 @@ Table of Contents
     - [Sightseeing in Dallas](#sightseeing-in-dallas)
         - [Dallas World Aquarium](#dallas-world-aquarium)
         - [Sixth Floor Museum](#sixth-floor-museum)
-        - [Terry Black's Barbecue](#terry-black-s-barbecue)
+        - [Terry Black's Barbecue](#terry-blacks-barbecue)
         - [JPMorganChase Dallas Zoo Employee Night](#jpmorganchase-dallas-zoo-employee-night)
     - [Cookbook](#cookbook)
     - [Winter Fun for My Nieces](#winter-fun-for-my-nieces)
@@ -83,12 +83,12 @@ Table of Contents
     - [McClaren Sports Cars](#mcclaren-sports-cars)
     - [Yoshi Shabu Shabu](#yoshi-shabu-shabu)
     - [T Swirl Japanese Crepe](#t-swirl-japanese-crepe)
-    - [Luci's Bakery](#luci-s-bakery)
+    - [Luci's Bakery](#lucis-bakery)
     - [Darna Mediterranean Eatery](#darna-mediterranean-eatery)
     - [Employee Appreciation Week](#employee-appreciation-week)
     - [Diwali](#diwali)
     - [Dallas World Aquarium Animals](#dallas-world-aquarium-animals)
-    - [Terry Black's Barbecue Pit](#terry-black-s-barbecue-pit)
+    - [Terry Black's Barbecue Pit](#terry-blacks-barbecue-pit)
     - [Dallas Zoo](#dallas-zoo)
     - [Yoshi Shabu Shabu September](#yoshi-shabu-shabu-september)
     - [JPMorganChase Plano](#jpmorganchase-plano)
@@ -288,6 +288,7 @@ All of the videos are available on the [PyTexas Youtube channel](https://www.you
 
 ### Austin Sightseeing
 
+(franklins-barbecue)=
 #### Franklin's Barbecue
 
 On a whim, I went straight from the airport to Franklin's Barbecue for some of their brisket. Many believe it to be the best in the United States. The meat was melt in your mouth with very little fat. It was the best brisket that I've ever had, but I waited in line for an hour and a half to get it. On the bright side, I chatted with an incredibly nice man in line, and he bought my meal.
@@ -605,6 +606,7 @@ The route
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+(terry-blacks-barbecue)=
 #### Terry Black's Barbecue
 
 After trying the world famous Franklin's Barbecue in Austin in April, I had the pleasure of trying Terry Black's Barbecue. Terry Black's Barbecue was a very different experience, but also great. The approaches of either establishment were very different! 
@@ -899,6 +901,7 @@ Strawberry banana crepe: sliced strawberries, sliced bananas, custard cream, whi
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+(lucis-bakery)=
 ### Luci's Bakery
 
 ![](2024-recap-images/lucis-bakery.jpg)
@@ -950,6 +953,7 @@ Love flamingos!
 ### Sixth Floor Museum
 -->
 
+(terry-blacks-barbecue-pit)=
 ### Terry Black's Barbecue Pit
 
 ![](2024-recap-images/pit-power.jpg)
