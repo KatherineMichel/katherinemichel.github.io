@@ -26,7 +26,7 @@ extensions = [
 myst_update_mathjax = False
 # https://github.com/executablebooks/MyST-Parser/issues/519
 # https://myst-parser.readthedocs.io/en/latest/syntax/optional.html?highlight=anchor#auto-generated-header-anchors
-myst_heading_anchors = 0
+myst_heading_anchors = 6
 
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
