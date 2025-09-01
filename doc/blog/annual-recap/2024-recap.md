@@ -97,6 +97,7 @@ Disclaimer: the content of this post is a reflection of my life journey and not 
 
 You can read my [2023 Recap](https://katherinemichel.github.io/blog/annual-recap/2023-recap.html) here. 
 
+(this-years-theme)=
 ## This Year's Theme
 
 While writing this recap, I found myself thinking the words, "I finally got organized and" a number of times. I felt a sense of cumulative momentum this year that came from building on prior knowledge and experience. 
