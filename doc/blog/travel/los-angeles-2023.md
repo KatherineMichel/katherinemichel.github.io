@@ -727,7 +727,7 @@ While I was on the celebrity home bus tour, we drove around Beverly Hills. As we
 
 After taking pics on Rodeo Drive, I decided to eat at Via Alloro. I knew if I didn't, I'd regret that I hadn't taken the opportunity to "rub shoulders" with the stars. 
 
-The prices were surprisingly reasonable and the food was delicious. It felt like a surprisingly normal experience. The waiter told me that they do have "too many" celebs around. Sometimes, everywhere you look. A quick [google search](https://www.google.com/search?q=via+alloro+daily+mail&sca_esv=595179528&sxsrf=AM9HkKl7xam2HHlNbSzt-XLzlojjw9_Jug:1704229408712&source=lnms&sa=X&ved=2ahUKEwjvmpakzb-DAxWpkmoFHQsSDt0Q0pQJegQIBhAC&biw=1440&bih=699&dpr=2#ip=1) reveals some of the many celebs. 
+The prices were surprisingly reasonable and the food was delicious. It felt like a surprisingly normal experience. The waiter told me that they do have "too many" celebs around. Sometimes, everywhere you look. A quick google search<!--https://www.google.com/search?q=via+alloro+daily+mail&sca_esv=595179528&sxsrf=AM9HkKl7xam2HHlNbSzt-XLzlojjw9_Jug:1704229408712&source=lnms&sa=X&ved=2ahUKEwjvmpakzb-DAxWpkmoFHQsSDt0Q0pQJegQIBhAC&biw=1440&bih=699&dpr=2#ip=1)--> reveals some of the many celebs. 
 
 I had the Fettuccini Boscaiola. Having never heard of this dish, I wasn't quite sure what it would be like, but I thought it sounded good. It was delicious! 
 
