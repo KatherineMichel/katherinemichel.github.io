@@ -77,7 +77,6 @@ https://www.artic.edu/
 ![](djangocon-us-2025-recap-images/art-institute-of-chicago-america-windows.jpg)
 ![](djangocon-us-2025-recap-images/art-institute-of-chicago-nighthawks.jpg)
 ![](djangocon-us-2025-recap-images/art-institute-of-chicago-a-sunday-on-la-grande-jatte-crowd.jpg)
-![](djangocon-us-2025-recap-images/art-institute-of-chicago-mr-pointy.jpg)
 ![](djangocon-us-2025-recap-images/art-institute-of-chicago-room.jpg)
 
 <!--
@@ -336,5 +335,6 @@ DjangoCon US will be in Chicago again next year.
 ![](djangocon-us-2025-recap-images/art-institute-of-chicago-a-sunday-on-la-grande-jatte-detail.jpg)
 ![](djangocon-us-2025-recap-images/art-institute-of-chicago-the-old-guitarist.jpg)
 ![](djangocon-us-2025-recap-images/art-institute-of-chicago-improvisation-no-30.jpg)
+![](djangocon-us-2025-recap-images/art-institute-of-chicago-mr-pointy.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
