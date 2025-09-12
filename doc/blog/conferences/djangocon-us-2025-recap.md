@@ -113,6 +113,7 @@ https://www.chicago.gov/city/en/sites/chicagoriverwalk/home.html.html
 
 <!--
 https://ophchicagoland.com/original-pancake-house-gold-coast/
+Conspicuously located directly across from the hotel
 -->
 
 ![](djangocon-us-2025-recap-images/original-house-of-pancakes-strawberry-crepes.jpg)
@@ -120,11 +121,27 @@ https://ophchicagoland.com/original-pancake-house-gold-coast/
 ![](djangocon-us-2025-recap-images/on-the-red-line.jpg)
 ![](djangocon-us-2025-recap-images/chicago-river-daylight.jpg)
 
-### Kojo Idressa and Keanya Phelps Kick Off the Conference
+### Orientation
+
+### Opening Remarks (Monday)
 
 <!--
+### Kojo Idressa and Keanya Phelps Kick Off the Conference
+
 ![](djangocon-us-2025-recap-images/djangocon-us-hey-we-dont-do-that-here.jpg)
 -->
+
+### Keynote: Lateral Thinking with Weathered Technology: How The Nintendo Philosophy Applies to Modern Web Development
+
+### Community Update: Django Events Foundation North America
+
+### Django for AI: Deploying Machine Learning Models with Django
+
+### Django's GeneratedField by example
+
+### Deploy Django: GitOps & Kubernetes Made Easy
+
+### How to Enjoy Debugging in Production
 
 ### Extras
 
@@ -147,6 +164,22 @@ https://freehandhotels.com/chicago/broken-shaker/
 ![](djangocon-us-2025-recap-images/broken-shaker-bar.jpg)
 
 ## Tuesday
+
+### Opening Remarks (Tuesday)
+
+### Keynote: All The Ways To Use Django
+
+### Community Update: Python Software Foundation
+
+### Winemaking with Mutable Event Sourcing in Django
+
+### Beyond Rate Limiting: Building an Active Learning Defense System in Django
+
+### Hidden Dangers Of AI In Developer Workflows: Navigating Security Risks with Human Insight
+
+### Cutting latency in half: What actually worked—and what didn’t
+
+### Django as a Database Documentation Tool: The Hidden Power of Model Comments
 
 ## Extras
 
@@ -179,6 +212,8 @@ Vanilla (Bourbon from Madagascar)
 https://www.amorino.com/ww/product/vanilla-bourbon-from-madagascar
 Amorino Chocolate
 https://www.amorino.com/ww/product/amorino-chocolate
+
+Documentary
 -->
 
 ![](djangocon-us-2025-recap-images/amorino-ice-cream-flash-mob.jpeg)
@@ -203,6 +238,8 @@ https://sixfeetup.com/
 <!--
 Wednesday was deep-dive day. 
 -->
+
+### Opening Remarks (Wednesday)
 
 ### Keynote: Django Reimagined For The Age of AI
 
