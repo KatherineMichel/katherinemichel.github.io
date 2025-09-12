@@ -102,6 +102,7 @@ https://www.hyatt.com/thompson-hotels/chith-thompson-chicago
 <!--
 https://www.tinytapp.com/
 https://www.chicago.gov/city/en/sites/chicagoriverwalk/home.html.html
+What a view. I decided to go to an informal pre-conference social event and was rewarded with this nighttime view of the buildings overlooking the Chicago river. I believe I took this from the La Salle Street Bridge, near my conference venue.
 -->
 
 ![](djangocon-us-2025-recap-images/chicago-river-at-night.jpg)
