@@ -130,7 +130,10 @@ First time, gelato, first time ice-cream selfie with Mariatta, first time foosba
 
 ### Amorino
 
-![](djangocon-us-2025-recap-images/amorino-vanilla-and-chocolate.jpg)
+<!--
+Vanilla and chocolate
+-->
+
 ![](djangocon-us-2025-recap-images/amorino-ice-cream-flash-mob.jpeg)
 ![](djangocon-us-2025-recap-images/amorino-me-and-mariatta.png)
 
@@ -188,6 +191,10 @@ Different types of pizza
 ![](djangocon-us-2025-recap-images/giordanos-pizza-crowd.jpg)
 ![](djangocon-us-2025-recap-images/giordanos-pizza.jpg)
 ![](djangocon-us-2025-recap-images/giordanos-me-jacob-tim-mariatta.png)
+
+<!--
+Post-conference activities
+-->
 
 ## In Closing
 
