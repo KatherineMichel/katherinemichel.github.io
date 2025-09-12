@@ -39,26 +39,19 @@ When?
 
 ### The View from Above
 
-![](djangocon-us-2025-recap-images/view-of-chicago-coast-going-forward.jpg)
 ![](djangocon-us-2025-recap-images/view-of-chicago-coast-looking-back.jpg)
 
 ### The Field Museum
 
 ![](djangocon-us-2025-recap-images/field-museum-patagotitan-maroyum.jpg)
 ![](djangocon-us-2025-recap-images/field-museum-imperal-topaz-pendant.jpg)
-
 ![](djangocon-us-2025-recap-images/field-museum-benld-meteorite-exhibit.jpg)
-
-![](djangocon-us-2025-recap-images/field-museum-chinese-masks.jpg)
-
-![](djangocon-us-2025-recap-images/field-museum-alaskan-brown-bears.jpg)
 ![](djangocon-us-2025-recap-images/field-museum-the-lions-of-tsavo.jpg)
 
 ![](djangocon-us-2025-recap-images/field-museum-the-chicago-archaeopteryx.jpg)
+
 ![](djangocon-us-2025-recap-images/field-museum-megalodon-shark-replica-jaw.jpg)
-
 ![](djangocon-us-2025-recap-images/field-museum-inside-ancient-egypt.jpg)
-
 ![](djangocon-us-2025-recap-images/field-museum-this-fish-dies-the-day-of-the-impact.jpg)
 
 ### Shaw's Crab House Lunch Special
@@ -136,9 +129,9 @@ First time, gelato, first time ice-cream selfie with Mariatta, first time foosba
 
 ### Amorino
 
+![](djangocon-us-2025-recap-images/amorino-vanilla-and-chocolate.jpg)
 ![](djangocon-us-2025-recap-images/amorino-ice-cream-flash-mob.jpeg)
 ![](djangocon-us-2025-recap-images/amorino-me-and-mariatta.png)
-![](djangocon-us-2025-recap-images/amorino-vanilla-and-chocolate.jpg)
 
 ### Six Feet Up Social Event
 
@@ -184,13 +177,16 @@ Wednesday- during conference
 
 <!--
 Wednesday- after conference
+Different types of pizza
 -->
 ![](djangocon-us-2025-recap-images/oak-street-beach.jpg)
-![](djangocon-us-2025-recap-images/wendella-boat-tour-kickoff.jpg)
+
 ![](djangocon-us-2025-recap-images/wendella-the-boat.jpg)
-![](djangocon-us-2025-recap-images/giordanos-me-jacob-tim-mariatta.png)
+![](djangocon-us-2025-recap-images/wendella-boat-tour-kickoff.jpg)
+
 ![](djangocon-us-2025-recap-images/giordanos-pizza-crowd.jpg)
 ![](djangocon-us-2025-recap-images/giordanos-pizza.jpg)
+![](djangocon-us-2025-recap-images/giordanos-me-jacob-tim-mariatta.png)
 
 ## Sight Seeing and More Food!
 
@@ -198,13 +194,20 @@ Wednesday- after conference
 I consider getting to know the host city to be an important part of the conference experience. 
 -->
 
-## The Field Museum- More
+### The View From Above
+
+![](djangocon-us-2025-recap-images/view-of-chicago-coast-going-forward.jpg)
+
+### The Field Museum- More
 
 ![](djangocon-us-2025-recap-images/field-museum-gold-nugget.jpg)
 ![](djangocon-us-2025-recap-images/field-museum-esquel-meteorite.jpg)
 ![](djangocon-us-2025-recap-images/field-museum-benld-meteorite.jpg)
 ![](djangocon-us-2025-recap-images/field-museum-coelacanth-replica.jpg)
 ![](djangocon-us-2025-recap-images/field-museum-apatosaurus-footprint-comparison.jpg)
+
+![](djangocon-us-2025-recap-images/field-museum-chinese-masks.jpg)
+![](djangocon-us-2025-recap-images/field-museum-alaskan-brown-bears.jpg)
 
 ### The Art Institute of Chicago- More
 
