@@ -11,7 +11,7 @@ Table of Contents
 -----------------
 
 - [Intro](#intro)
-- [Pre-Conference Activities](#pre-conference-activities)
+- [Pre-conference Activities](#pre-conference-activities)
 - [Monday](#monday)
     - [Kojo Idressa and Keanya Phelps Kick Off the Conference](#kojo-idressa-and-keanya-phelps-kick-off-the-conference)
 - [Tuesday](#tuesday)
@@ -35,13 +35,17 @@ When?
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-## Pre-Conference Activities
+## Pre-conference Activities
 
 ### The View from Above
 
 ![](djangocon-us-2025-recap-images/view-of-chicago-coast-looking-back.jpg)
 
 ### The Field Museum
+
+<!--
+https://www.fieldmuseum.org/
+-->
 
 ![](djangocon-us-2025-recap-images/field-museum-patagotitan-maroyum.jpg)
 ![](djangocon-us-2025-recap-images/field-museum-imperal-topaz-pendant.jpg)
@@ -59,11 +63,19 @@ https://www.fieldmuseum.org/exhibition/meet-the-chicago-archaeopteryx
 
 ### Shaw's Crab House Lunch Special
 
+<!--
+https://www.shawscrabhouse.com/events/3-course-lunch-2/
+-->
+
 ![](djangocon-us-2025-recap-images/shaws-shrimp-cocktail.jpg)
 ![](djangocon-us-2025-recap-images/shaws-cod.jpg)
 ![](djangocon-us-2025-recap-images/shaws-chocolate-cake.jpg)
 
 ### The Art Institute of Chicago
+
+<!--
+https://www.artic.edu/
+-->
 
 ![](djangocon-us-2025-recap-images/art-institute-of-chicago-outside.jpg)
 ![](djangocon-us-2025-recap-images/art-institute-of-chicago-america-windows.jpg)
@@ -81,10 +93,19 @@ https://www.artic.edu/my-museum-tour/5178
 
 ### My Incredible Room
 
+<!--
+https://www.hyatt.com/thompson-hotels/chith-thompson-chicago
+-->
+
 ![](djangocon-us-2025-recap-images/thompson-chicago-room.jpg)
 ![](djangocon-us-2025-recap-images/thompson-chicago-city-view.jpg)
 
 ### Pre-conference Social
+
+<!--
+https://www.tinytapp.com/
+https://www.chicago.gov/city/en/sites/chicagoriverwalk/home.html.html
+-->
 
 ![](djangocon-us-2025-recap-images/chicago-river-at-night.jpg)
 
@@ -92,37 +113,54 @@ https://www.artic.edu/my-museum-tour/5178
 
 ## Monday
 
+### Pre-conference
+
 <!--
-Monday- before conference
+https://ophchicagoland.com/original-pancake-house-gold-coast/
 -->
 
+![](djangocon-us-2025-recap-images/original-house-of-pancakes-strawberry-crepes.jpg)
 ![](djangocon-us-2025-recap-images/happy-times.jpg)
 ![](djangocon-us-2025-recap-images/on-the-red-line.jpg)
-![](djangocon-us-2025-recap-images/original-house-of-pancakes-strawberry-crepes.jpg)
 
 ### Kojo Idressa and Keanya Phelps Kick Off the Conference
 
-Monday- during conference
-![](djangocon-us-2025-recap-images/djangocon-us-python-distilled-signed.jpg)
+<!--
 ![](djangocon-us-2025-recap-images/djangocon-us-hey-we-dont-do-that-here.jpg)
+-->
+
+### Extras
+
+<!--
+Monday- during conference
+
+https://www.oreilly.com/library/view/python-distilled/9780134173399/
+-->
+
+![](djangocon-us-2025-recap-images/djangocon-us-python-distilled-signed.jpg)
 ![](djangocon-us-2025-recap-images/djangocon-us-me-afi-and-velda.png)
 ![](djangocon-us-2025-recap-images/djangocon-us-gifts-from-afi-and-velda.jpg)
 
 ### Lincoln Loop Social Event
 
+<!--
+https://freehandhotels.com/chicago/broken-shaker/
+-->
+
 ![](djangocon-us-2025-recap-images/broken-shaker-bar.jpg)
 
 ## Tuesday
 
-<!--
-Tuesday- during conference
-Tuesday- after conference
-First time, gelato, first time ice-cream selfie with Mariatta, first time foosball
--->
-
 ![](djangocon-us-2025-recap-images/djangocon-us-me-jeff-marlene-paolo.png)
 
+Tuesday was a day of firsts: first-time eating gelato, first-time taking an ice-cream selfie with Mariatta, and first-time playing foosball. 
+
 ### Speaker and Organizer Dinner
+
+<!--
+https://www.carnivalechicago.com/
+Menu
+-->
 
 ![](djangocon-us-2025-recap-images/carnivale-bar.jpg)
 ![](djangocon-us-2025-recap-images/carnivale-dining-room.jpg)
@@ -131,7 +169,11 @@ First time, gelato, first time ice-cream selfie with Mariatta, first time foosba
 ### Amorino
 
 <!--
-Vanilla and chocolate
+https://www.amorino.com/ww
+Vanilla (Bourbon from Madagascar)
+https://www.amorino.com/ww/product/vanilla-bourbon-from-madagascar
+Amorino Chocolate
+https://www.amorino.com/ww/product/amorino-chocolate
 -->
 
 ![](djangocon-us-2025-recap-images/amorino-ice-cream-flash-mob.jpeg)
@@ -139,11 +181,23 @@ Vanilla and chocolate
 
 ### Six Feet Up Social Event
 
+<!--
+Punch Bowl Social
+https://punchbowlsocial.com/location/chicago
+https://sixfeetup.com/
+-->
+
 ![](djangocon-us-2025-recap-images/punch-bowl-foosball.jpg)
 
 ## Wednesday
 
+### Pre-conference
+
+![](djangocon-us-2025-recap-images/oak-street-beach.jpg)
+
+<!--
 Wednesday was deep-dive day. 
+-->
 
 ### Keynote: Django Reimagined For The Age of AI
 
@@ -169,31 +223,30 @@ https://2025.djangocon.us/talks/panel-discussion-details/
 https://2025.djangocon.us/talks/what-a-decade/
 -->
 
+### Extras
+
+![](djangocon-us-2025-recap-images/djangocon-us-me-and-jon.jpeg)
+![](djangocon-us-2025-recap-images/djangocon-africa-raffle.jpg)
+
 ### Conference Conclusion
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-<!--
-Wednesday- during conference
--->
-![](djangocon-us-2025-recap-images/djangocon-us-me-and-jon.jpeg)
-![](djangocon-us-2025-recap-images/djangocon-africa-raffle.jpg)
+## Post-Conference
 
-<!--
-Wednesday- after conference
-Different types of pizza
--->
-![](djangocon-us-2025-recap-images/oak-street-beach.jpg)
+### Wendella Chicago Architecture Boat Tour
 
 ![](djangocon-us-2025-recap-images/wendella-the-boat.jpg)
 ![](djangocon-us-2025-recap-images/wendella-boat-tour-kickoff.jpg)
+
+### Giordano's
 
 ![](djangocon-us-2025-recap-images/giordanos-pizza-crowd.jpg)
 ![](djangocon-us-2025-recap-images/giordanos-pizza.jpg)
 ![](djangocon-us-2025-recap-images/giordanos-me-jacob-tim-mariatta.png)
 
 <!--
-Post-conference activities
+Different types of pizza
 -->
 
 ## In Closing
@@ -209,11 +262,7 @@ DjangoCon US will be in Chicago again next year.
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-## Sight Seeing and More Food!
-
-<!--
-I consider getting to know the host city to be an important part of the conference experience. 
--->
+## More Sight Seeing!
 
 ### More of The View From Above
 
