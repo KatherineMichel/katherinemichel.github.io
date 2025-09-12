@@ -279,6 +279,10 @@ https://2025.djangocon.us/talks/what-a-decade/
 
 ### Wendella Chicago Architecture Boat Tour
 
+<!--
+Photo credit to Tobias
+-->
+
 ![](djangocon-us-2025-recap-images/wendella-the-boat.jpg)
 ![](djangocon-us-2025-recap-images/wendella-boat-tour-kickoff.jpg)
 
