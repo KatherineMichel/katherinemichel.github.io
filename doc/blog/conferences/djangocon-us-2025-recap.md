@@ -45,7 +45,6 @@ https://www.fieldmuseum.org/
 -->
 
 ![](djangocon-us-2025-recap-images/field-museum-patagotitan-maroyum.jpg)
-![](djangocon-us-2025-recap-images/field-museum-imperal-topaz-pendant.jpg)
 ![](djangocon-us-2025-recap-images/field-museum-the-lions-of-tsavo.jpg)
 
 ![](djangocon-us-2025-recap-images/field-museum-the-chicago-archaeopteryx.jpg)
@@ -78,7 +77,6 @@ https://www.artic.edu/
 ![](djangocon-us-2025-recap-images/art-institute-of-chicago-america-windows.jpg)
 ![](djangocon-us-2025-recap-images/art-institute-of-chicago-nighthawks.jpg)
 ![](djangocon-us-2025-recap-images/art-institute-of-chicago-a-sunday-on-la-grande-jatte-crowd.jpg)
-![](djangocon-us-2025-recap-images/art-institute-of-chicago-a-sunday-on-la-grande-jatte-detail.jpg)
 ![](djangocon-us-2025-recap-images/art-institute-of-chicago-mr-pointy.jpg)
 ![](djangocon-us-2025-recap-images/art-institute-of-chicago-room.jpg)
 
@@ -318,13 +316,16 @@ DjangoCon US will be in Chicago again next year.
 
 ### More from The Field Museum
 
+<!--
+![](djangocon-us-2025-recap-images/field-museum-benld-meteorite.jpg)
 ![](djangocon-us-2025-recap-images/field-museum-gold-nugget.jpg)
+![](djangocon-us-2025-recap-images/field-museum-apatosaurus-footprint-comparison.jpg)
+-->
+
+![](djangocon-us-2025-recap-images/field-museum-imperal-topaz-pendant.jpg)
 ![](djangocon-us-2025-recap-images/field-museum-esquel-meteorite.jpg)
 ![](djangocon-us-2025-recap-images/field-museum-benld-meteorite-exhibit.jpg)
-![](djangocon-us-2025-recap-images/field-museum-benld-meteorite.jpg)
 ![](djangocon-us-2025-recap-images/field-museum-coelacanth-replica.jpg)
-![](djangocon-us-2025-recap-images/field-museum-apatosaurus-footprint-comparison.jpg)
-
 ![](djangocon-us-2025-recap-images/field-museum-chinese-masks.jpg)
 ![](djangocon-us-2025-recap-images/field-museum-alaskan-brown-bears.jpg)
 
@@ -332,6 +333,7 @@ DjangoCon US will be in Chicago again next year.
 
 ![](djangocon-us-2025-recap-images/art-institute-of-chicago-american-gothic.jpg)
 ![](djangocon-us-2025-recap-images/art-institute-of-chicago-self-portrait.jpg)
+![](djangocon-us-2025-recap-images/art-institute-of-chicago-a-sunday-on-la-grande-jatte-detail.jpg)
 ![](djangocon-us-2025-recap-images/art-institute-of-chicago-the-old-guitarist.jpg)
 ![](djangocon-us-2025-recap-images/art-institute-of-chicago-improvisation-no-30.jpg)
 
