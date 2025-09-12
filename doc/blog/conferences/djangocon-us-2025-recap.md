@@ -27,10 +27,6 @@ Disclaimer: the content of this post is a reflection of my career journey and no
 
 <!--
 https://2025.djangocon.us/schedule/
-
-When?
-![](djangocon-us-2025-recap-images/chicago-river-daylight.jpg)
-![](djangocon-us-2025-recap-images/djangocon-us-happy-birthday-django-cake.jpg)
 -->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
@@ -151,15 +147,22 @@ https://freehandhotels.com/chicago/broken-shaker/
 
 ## Tuesday
 
+## Extras
+
 ![](djangocon-us-2025-recap-images/djangocon-us-me-jeff-marlene-paolo.png)
 
+![](djangocon-us-2025-recap-images/djangocon-us-happy-birthday-django-cake.jpg)
+
+<!--
 Tuesday was a day of firsts: first-time eating gelato, first-time taking an ice-cream selfie with Mariatta, and first-time playing foosball. 
+-->
 
 ### Speaker and Organizer Dinner
 
 <!--
 https://www.carnivalechicago.com/
 Menu
+Story time!
 -->
 
 ![](djangocon-us-2025-recap-images/carnivale-bar.jpg)
@@ -169,6 +172,7 @@ Menu
 ### Amorino
 
 <!--
+Video
 https://www.amorino.com/ww
 Vanilla (Bourbon from Madagascar)
 https://www.amorino.com/ww/product/vanilla-bourbon-from-madagascar
@@ -263,6 +267,8 @@ DjangoCon US will be in Chicago again next year.
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## More Sight Seeing!
+
+![](djangocon-us-2025-recap-images/chicago-river-daylight.jpg)
 
 ### More of The View From Above
 
