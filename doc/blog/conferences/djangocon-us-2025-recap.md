@@ -45,10 +45,13 @@ When?
 
 ![](djangocon-us-2025-recap-images/field-museum-patagotitan-maroyum.jpg)
 ![](djangocon-us-2025-recap-images/field-museum-imperal-topaz-pendant.jpg)
-![](djangocon-us-2025-recap-images/field-museum-benld-meteorite-exhibit.jpg)
 ![](djangocon-us-2025-recap-images/field-museum-the-lions-of-tsavo.jpg)
 
 ![](djangocon-us-2025-recap-images/field-museum-the-chicago-archaeopteryx.jpg)
+
+<!--
+https://www.fieldmuseum.org/exhibition/meet-the-chicago-archaeopteryx
+-->
 
 ![](djangocon-us-2025-recap-images/field-museum-megalodon-shark-replica-jaw.jpg)
 ![](djangocon-us-2025-recap-images/field-museum-inside-ancient-egypt.jpg)
@@ -65,10 +68,8 @@ When?
 ![](djangocon-us-2025-recap-images/art-institute-of-chicago-outside.jpg)
 ![](djangocon-us-2025-recap-images/art-institute-of-chicago-america-windows.jpg)
 ![](djangocon-us-2025-recap-images/art-institute-of-chicago-nighthawks.jpg)
-![](djangocon-us-2025-recap-images/art-institute-of-chicago-the-old-guitarist.jpg)
 ![](djangocon-us-2025-recap-images/art-institute-of-chicago-a-sunday-on-la-grande-jatte-crowd.jpg)
 ![](djangocon-us-2025-recap-images/art-institute-of-chicago-a-sunday-on-la-grande-jatte-detail.jpg)
-![](djangocon-us-2025-recap-images/art-institute-of-chicago-improvisation-no-30.jpg)
 ![](djangocon-us-2025-recap-images/art-institute-of-chicago-mr-pointy.jpg)
 ![](djangocon-us-2025-recap-images/art-institute-of-chicago-room.jpg)
 
@@ -188,34 +189,6 @@ Different types of pizza
 ![](djangocon-us-2025-recap-images/giordanos-pizza.jpg)
 ![](djangocon-us-2025-recap-images/giordanos-me-jacob-tim-mariatta.png)
 
-## Sight Seeing and More Food!
-
-<!--
-I consider getting to know the host city to be an important part of the conference experience. 
--->
-
-### The View From Above
-
-![](djangocon-us-2025-recap-images/view-of-chicago-coast-going-forward.jpg)
-
-### The Field Museum- More
-
-![](djangocon-us-2025-recap-images/field-museum-gold-nugget.jpg)
-![](djangocon-us-2025-recap-images/field-museum-esquel-meteorite.jpg)
-![](djangocon-us-2025-recap-images/field-museum-benld-meteorite.jpg)
-![](djangocon-us-2025-recap-images/field-museum-coelacanth-replica.jpg)
-![](djangocon-us-2025-recap-images/field-museum-apatosaurus-footprint-comparison.jpg)
-
-![](djangocon-us-2025-recap-images/field-museum-chinese-masks.jpg)
-![](djangocon-us-2025-recap-images/field-museum-alaskan-brown-bears.jpg)
-
-### The Art Institute of Chicago- More
-
-![](djangocon-us-2025-recap-images/art-institute-of-chicago-american-gothic.jpg)
-![](djangocon-us-2025-recap-images/art-institute-of-chicago-self-portrait.jpg)
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
 ## In Closing
 
 ![](djangocon-us-2025-recap-images/djangocon-us-puzzle-swag.jpg)
@@ -229,3 +202,33 @@ DjangoCon US will be in Chicago again next year.
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+## Sight Seeing and More Food!
+
+<!--
+I consider getting to know the host city to be an important part of the conference experience. 
+-->
+
+### More of The View From Above
+
+![](djangocon-us-2025-recap-images/view-of-chicago-coast-going-forward.jpg)
+
+### More from The Field Museum
+
+![](djangocon-us-2025-recap-images/field-museum-gold-nugget.jpg)
+![](djangocon-us-2025-recap-images/field-museum-esquel-meteorite.jpg)
+![](djangocon-us-2025-recap-images/field-museum-benld-meteorite-exhibit.jpg)
+![](djangocon-us-2025-recap-images/field-museum-benld-meteorite.jpg)
+![](djangocon-us-2025-recap-images/field-museum-coelacanth-replica.jpg)
+![](djangocon-us-2025-recap-images/field-museum-apatosaurus-footprint-comparison.jpg)
+
+![](djangocon-us-2025-recap-images/field-museum-chinese-masks.jpg)
+![](djangocon-us-2025-recap-images/field-museum-alaskan-brown-bears.jpg)
+
+### More from The Art Institute of Chicago
+
+![](djangocon-us-2025-recap-images/art-institute-of-chicago-american-gothic.jpg)
+![](djangocon-us-2025-recap-images/art-institute-of-chicago-self-portrait.jpg)
+![](djangocon-us-2025-recap-images/art-institute-of-chicago-the-old-guitarist.jpg)
+![](djangocon-us-2025-recap-images/art-institute-of-chicago-improvisation-no-30.jpg)
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
