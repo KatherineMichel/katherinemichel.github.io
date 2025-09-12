@@ -27,14 +27,22 @@ Disclaimer: the content of this post is a reflection of my career journey and no
 
 <!--
 https://2025.djangocon.us/schedule/
+
+When?
+![](djangocon-us-2025-recap-images/chicago-river-daylight.jpg)
+![](djangocon-us-2025-recap-images/djangocon-us-happy-birthday-django-cake.jpg)
 -->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Pre-Conference Activities
 
+### The View from Above
+
 ![](djangocon-us-2025-recap-images/view-of-chicago-coast-going-forward.jpg)
 ![](djangocon-us-2025-recap-images/view-of-chicago-coast-looking-back.jpg)
+
+### The Field Museum
 
 ![](djangocon-us-2025-recap-images/field-museum-patagotitan-maroyum.jpg)
 ![](djangocon-us-2025-recap-images/field-museum-imperal-topaz-pendant.jpg)
@@ -50,11 +58,16 @@ https://2025.djangocon.us/schedule/
 ![](djangocon-us-2025-recap-images/field-museum-megalodon-shark-replica-jaw.jpg)
 
 ![](djangocon-us-2025-recap-images/field-museum-inside-ancient-egypt.jpg)
+
 ![](djangocon-us-2025-recap-images/field-museum-this-fish-dies-the-day-of-the-impact.jpg)
+
+### Shaw's Crab House Lunch Special
 
 ![](djangocon-us-2025-recap-images/shaws-shrimp-cocktail.jpg)
 ![](djangocon-us-2025-recap-images/shaws-cod.jpg)
 ![](djangocon-us-2025-recap-images/shaws-chocolate-cake.jpg)
+
+### The Art Institute of Chicago
 
 ![](djangocon-us-2025-recap-images/art-institute-of-chicago-outside.jpg)
 ![](djangocon-us-2025-recap-images/art-institute-of-chicago-america-windows.jpg)
@@ -67,25 +80,69 @@ https://2025.djangocon.us/schedule/
 ![](djangocon-us-2025-recap-images/art-institute-of-chicago-room.jpg)
 
 <!--
+Cameron famously said
 Ferris Bueller Tour
+https://www.artic.edu/my-museum-tour/5178
 -->
+
+### My Incredible Room
 
 ![](djangocon-us-2025-recap-images/thompson-chicago-room.jpg)
 ![](djangocon-us-2025-recap-images/thompson-chicago-city-view.jpg)
+
+### Pre-conference Social
+
+![](djangocon-us-2025-recap-images/chicago-river-at-night.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Monday
 
+<!--
+Monday- before conference
+-->
+
+![](djangocon-us-2025-recap-images/happy-times.jpg)
+![](djangocon-us-2025-recap-images/on-the-red-line.jpg)
+![](djangocon-us-2025-recap-images/original-house-of-pancakes-strawberry-crepes.jpg)
+
 ### Kojo Idressa and Keanya Phelps Kick Off the Conference
+
+Monday- during conference
+![](djangocon-us-2025-recap-images/djangocon-us-python-distilled-signed.jpg)
+![](djangocon-us-2025-recap-images/djangocon-us-hey-we-dont-do-that-here.jpg)
+![](djangocon-us-2025-recap-images/djangocon-us-me-afi-and-velda.png)
+![](djangocon-us-2025-recap-images/djangocon-us-gifts-from-afi-and-velda.jpg)
+
+### Lincoln Loop Social Event
+
+![](djangocon-us-2025-recap-images/broken-shaker-bar.jpg)
 
 ## Tuesday
 
 <!--
-#### Django Social T-Shirt
+Tuesday- during conference
+Tuesday- after conference
+First time, gelato, first time ice-cream selfie with Mariatta, first time foosball
 -->
 
+![](djangocon-us-2025-recap-images/djangocon-us-me-jeff-marlene-paolo.png)
+
 ### Speaker and Organizer Dinner
+
+![](djangocon-us-2025-recap-images/carnivale-bar.jpg)
+![](djangocon-us-2025-recap-images/carnivale-dining-room.jpg)
+![](djangocon-us-2025-recap-images/carnivale-dinner.jpg)
+
+### Amorino
+
+![](djangocon-us-2025-recap-images/amorino-ice-cream-flash-mob.jpeg)
+![](djangocon-us-2025-recap-images/amorino-me-and-mariatta.png)
+![](djangocon-us-2025-recap-images/amorino-vanilla-and-chocolate.jpg)
+
+### Six Feet Up Social Event
+
+![](djangocon-us-2025-recap-images/punch-bowl-foosball.jpg)
 
 ## Wednesday
 
@@ -119,17 +176,37 @@ https://2025.djangocon.us/talks/what-a-decade/
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+<!--
+Wednesday- during conference
+-->
+![](djangocon-us-2025-recap-images/djangocon-us-me-and-jon.jpeg)
+![](djangocon-us-2025-recap-images/djangocon-africa-raffle.jpg)
+
+<!--
+Wednesday- after conference
+-->
+![](djangocon-us-2025-recap-images/oak-street-beach.jpg)
+![](djangocon-us-2025-recap-images/wendella-boat-tour-kickoff.jpg)
+![](djangocon-us-2025-recap-images/wendella-the-boat.jpg)
+![](djangocon-us-2025-recap-images/giordanos-me-jacob-tim-mariatta.png)
+![](djangocon-us-2025-recap-images/giordanos-pizza-crowd.jpg)
+![](djangocon-us-2025-recap-images/giordanos-pizza.jpg)
+
 ## Sight Seeing and More Food!
 
 <!--
 I consider getting to know the host city to be an important part of the conference experience. 
 -->
 
+## The Field Museum- More
+
 ![](djangocon-us-2025-recap-images/field-museum-gold-nugget.jpg)
 ![](djangocon-us-2025-recap-images/field-museum-esquel-meteorite.jpg)
 ![](djangocon-us-2025-recap-images/field-museum-benld-meteorite.jpg)
 ![](djangocon-us-2025-recap-images/field-museum-coelacanth-replica.jpg)
 ![](djangocon-us-2025-recap-images/field-museum-apatosaurus-footprint-comparison.jpg)
+
+### The Art Institute of Chicago- More
 
 ![](djangocon-us-2025-recap-images/art-institute-of-chicago-american-gothic.jpg)
 ![](djangocon-us-2025-recap-images/art-institute-of-chicago-self-portrait.jpg)
@@ -138,56 +215,14 @@ I consider getting to know the host city to be an important part of the conferen
 
 ## In Closing
 
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-Sunday Night
-![](djangocon-us-2025-recap-images/chicago-river-at-night.jpg)
-
-Monday- before conference
-![](djangocon-us-2025-recap-images/happy-times.jpg)
-![](djangocon-us-2025-recap-images/on-the-red-line.jpg)
-![](djangocon-us-2025-recap-images/original-house-of-pancakes-strawberry-crepes.jpg)
-
-Monday- during conference
-![](djangocon-us-2025-recap-images/djangocon-us-python-distilled-signed.jpg)
-![](djangocon-us-2025-recap-images/djangocon-us-hey-we-dont-do-that-here.jpg)
-![](djangocon-us-2025-recap-images/djangocon-us-me-afi-and-velda.png)
-![](djangocon-us-2025-recap-images/djangocon-us-gifts-from-afi-and-velda.jpg)
-
-Monday- after conference
-![](djangocon-us-2025-recap-images/broken-shaker-bar.jpg)
-
-Tuesday- during conference
-![](djangocon-us-2025-recap-images/djangocon-us-me-jeff-marlene-paolo.png)
-
-Tuesday- after conference
-![](djangocon-us-2025-recap-images/carnivale-bar.jpg)
-![](djangocon-us-2025-recap-images/carnivale-dining-room.jpg)
-![](djangocon-us-2025-recap-images/carnivale-dinner.jpg)
-![](djangocon-us-2025-recap-images/amorino-ice-cream-flash-mob.jpeg)
-![](djangocon-us-2025-recap-images/amorino-me-and-mariatta.png)
-![](djangocon-us-2025-recap-images/amorino-vanilla-and-chocolate.jpg)
-![](djangocon-us-2025-recap-images/punch-bowl-foosball.jpg)
-First time, gelato, first time ice-cream selfie with Mariatta, first time foosball
-
-Wednesday- during conference
-![](djangocon-us-2025-recap-images/djangocon-us-me-and-jon.jpeg)
-![](djangocon-us-2025-recap-images/djangocon-africa-raffle.jpg)
-
-Wednesday- after conference
-![](djangocon-us-2025-recap-images/oak-street-beach.jpg)
-![](djangocon-us-2025-recap-images/wendella-boat-tour-kickoff.jpg)
-![](djangocon-us-2025-recap-images/wendella-the-boat.jpg)
-![](djangocon-us-2025-recap-images/giordanos-me-jacob-tim-mariatta.png)
-![](djangocon-us-2025-recap-images/giordanos-pizza-crowd.jpg)
-![](djangocon-us-2025-recap-images/giordanos-pizza.jpg)
-
-When?
-![](djangocon-us-2025-recap-images/chicago-river-daylight.jpg)
-![](djangocon-us-2025-recap-images/djangocon-us-happy-birthday-django-cake.jpg)
-
-End
-![](djangocon-us-2025-recap-images/djangocon-us-my-badge.jpg)
 ![](djangocon-us-2025-recap-images/djangocon-us-puzzle-swag.jpg)
 
+<!--
+Worked on website
+DjangoCon US will be in Chicago again next year. 
+-->
+
+![](djangocon-us-2025-recap-images/djangocon-us-my-badge.jpg)
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
