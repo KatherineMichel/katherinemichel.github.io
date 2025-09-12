@@ -26,6 +26,10 @@ Table of Contents
 
 Disclaimer: the content of this post is a reflection of my career journey and not specific to my work at JPMorganChase.
 
+In Ferris Bueller's Day Off, one of my favorite movies, after a day of adventures across Chicago, Cameron famously tells Ferris that he doesn't think he'd seen anything good. 
+
+I am happy to report that I saw everything good. 
+
 <!--
 https://2025.djangocon.us/schedule/
 -->
@@ -36,7 +40,7 @@ https://2025.djangocon.us/schedule/
 
 ### The View from Above
 
-When making my flight reservation, I googled for advice about the best side of the plane to be on for a great view when arriving in Chicago. As we approached, I feared that I had chosen the wrong side, but luckily, I hadn't! The downtown appeared to my left, then the pilot circled around above Lake Michigan, and I got another view from the other side.
+When making my flight reservation, I googled for advice about the best side of the plane to be on for the best view when arriving in Chicago. As we approached, I feared that I had chosen the wrong side, but luckily, I hadn't! The downtown appeared to my left, then the pilot circled around above Lake Michigan, and I got another view from the other side. 
 
 ![](djangocon-us-2025-recap-images/view-of-chicago-coast-looking-back.jpg)
 Downtown Chicago
@@ -62,13 +66,16 @@ https://www.fieldmuseum.org/exhibition/meet-the-chicago-archaeopteryx
 
 ### Shaw's Crab House Lunch Special
 
-<!--
-https://www.shawscrabhouse.com/events/3-course-lunch-2/
--->
+While researching Chicago, I came across many recommendations for Shaw's Crab House, a beloved, 40-year-old Chicago institution. I took a break from sightseeing to enjoy a reasonably-priced [gourmet 3-course lunch](https://www.shawscrabhouse.com/events/3-course-lunch-2/) there. The food was delicious, and the ambience left me feeling like I was a character in a movie. 
 
 ![](djangocon-us-2025-recap-images/shaws-shrimp-cocktail.jpg)
+Shrimp cocktail
+
 ![](djangocon-us-2025-recap-images/shaws-cod.jpg)
+Pan-seared Alaskan cod
+
 ![](djangocon-us-2025-recap-images/shaws-chocolate-cake.jpg)
+Mini chocolate cake
 
 ### The Art Institute of Chicago
 
@@ -83,30 +90,30 @@ https://www.artic.edu/
 ![](djangocon-us-2025-recap-images/art-institute-of-chicago-room.jpg)
 
 <!--
-Cameron famously said
-Ferris Bueller Tour
 https://www.artic.edu/my-museum-tour/5178
 -->
 
 ### My Incredible Room
 
-I was fortunate to stay at the 4-star [Thompson Chicago by Hyatt](https://www.hyatt.com/thompson-hotels/chith-thompson-chicago), perfectly situation in the fun [Gold Coast neighborhood](https://en.wikipedia.org/wiki/Gold_Coast_Historic_District_(Chicago)) filled with historic architecture, luxury shops, celebrated restaurants, and in close proximity to the Magnificent Mile and Oak Street Beach. 
+I was fortunate to stay at the 4-star [Thompson Chicago by Hyatt](https://www.hyatt.com/thompson-hotels/chith-thompson-chicago), perfectly situation in the fun [Gold Coast Neighborhood](https://en.wikipedia.org/wiki/Gold_Coast_Historic_District_(Chicago)) filled with historic architecture, luxury shops, celebrated restaurants, and in close proximity to the Magnificent Mile and Oak Street Beach. 
 
 ![](djangocon-us-2025-recap-images/thompson-chicago-room.jpg)
 I could get used to this... 
 
 ![](djangocon-us-2025-recap-images/thompson-chicago-city-view.jpg)
-City view
+Stunning city view
 
 ### Pre-conference Social
 
 <!--
-https://www.tinytapp.com/
 https://www.chicago.gov/city/en/sites/chicagoriverwalk/home.html.html
-What a view. I decided to go to an informal pre-conference social event and was rewarded with this nighttime view of the buildings overlooking the Chicago river. I believe I took this from the La Salle Street Bridge, near my conference venue.
+I believe I took this from the La Salle Street Bridge, near my conference venue.
 -->
 
+On Sunday night, I decided to go to an informal pre-conference social at [Tiny Tapp](https://www.tinytapp.com/) organized by Jon Gould of Foxley Talent. I was rewarded with this nighttime view of the buildings overlooking the Chicago River. 
+
 ![](djangocon-us-2025-recap-images/chicago-river-at-night.jpg)
+What a view!
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
