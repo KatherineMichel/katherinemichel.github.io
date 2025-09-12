@@ -6,7 +6,7 @@ category: Conferences
 tags: python, django, djangocon, community, networking, talks, travel
 ---
 
-# DjangoCon US 2023 Recap
+# DjangoCon US 2025 Recap
 
 Table of Contents
 -----------------
