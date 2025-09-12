@@ -118,6 +118,7 @@ https://ophchicagoland.com/original-pancake-house-gold-coast/
 ![](djangocon-us-2025-recap-images/original-house-of-pancakes-strawberry-crepes.jpg)
 ![](djangocon-us-2025-recap-images/happy-times.jpg)
 ![](djangocon-us-2025-recap-images/on-the-red-line.jpg)
+![](djangocon-us-2025-recap-images/chicago-river-daylight.jpg)
 
 ### Kojo Idressa and Keanya Phelps Kick Off the Conference
 
@@ -267,8 +268,6 @@ DjangoCon US will be in Chicago again next year.
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## More Sight Seeing!
-
-![](djangocon-us-2025-recap-images/chicago-river-daylight.jpg)
 
 ### More of The View From Above
 
