@@ -110,14 +110,15 @@ What a view. I decided to go to an informal pre-conference social event and was 
 
 ### Pre-conference
 
-<!--
-https://ophchicagoland.com/original-pancake-house-gold-coast/
-Conspicuously located directly across from the hotel
--->
-
 ![](djangocon-us-2025-recap-images/original-house-of-pancakes-strawberry-crepes.jpg)
+I couldn't resist getting breakfast at the [Original Pancake House](https://ophchicagoland.com/original-pancake-house-gold-coast/) conspicuously located directly cross from the hotel. The strawberry crepes were divine, and the coffee was perfectly strong. 
+
 ![](djangocon-us-2025-recap-images/happy-times.jpg)
+Ready for an adventure
+
 ![](djangocon-us-2025-recap-images/on-the-red-line.jpg)
+Taking the Red Line south
+
 ![](djangocon-us-2025-recap-images/chicago-river-daylight.jpg)
 
 ### Orientation
