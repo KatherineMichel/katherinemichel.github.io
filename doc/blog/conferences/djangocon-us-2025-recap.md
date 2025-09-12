@@ -90,7 +90,7 @@ https://www.artic.edu/my-museum-tour/5178
 
 ### My Incredible Room
 
-I was fortunate to stay at the 4-star [Thompson Chicago by Hyatt](https://www.hyatt.com/thompson-hotels/chith-thompson-chicago), perfectly situation in the fun Gold Coast neighborhood filled with historic architecture, luxury shops, celebrated restaurants, and in close proximity to the Magnificent Mile and Oak Street Beach. 
+I was fortunate to stay at the 4-star [Thompson Chicago by Hyatt](https://www.hyatt.com/thompson-hotels/chith-thompson-chicago), perfectly situation in the fun [Gold Coast neighborhood](https://en.wikipedia.org/wiki/Gold_Coast_Historic_District_(Chicago)) filled with historic architecture, luxury shops, celebrated restaurants, and in close proximity to the Magnificent Mile and Oak Street Beach. 
 
 ![](djangocon-us-2025-recap-images/thompson-chicago-room.jpg)
 I could get used to this... 
