@@ -56,20 +56,10 @@ Unearthed in Argentina, [Máximo Titanosaur](https://www.fieldmuseum.org/exhibit
 ![](djangocon-us-2025-recap-images/field-museum-the-lions-of-tsavo.jpg)
 The infamous [Tsavo Lions](https://www.fieldmuseum.org/blog/tsavo-lions) are two of the most high profile items in the collection. In 1898, they went on a man-eating spree, terrorizing railway construction workers in Kenya for nine months, until they were shot dead. They were the subject of the 1996 movie The Ghost and the Darkness, starring Val Kilmer.
 
-![](djangocon-us-2025-recap-images/field-museum-the-chicago-archaeopteryx.jpg)
-
-<!--
-https://www.fieldmuseum.org/exhibition/meet-the-chicago-archaeopteryx
--->
-
 ![](djangocon-us-2025-recap-images/field-museum-megalodon-shark-replica-jaw.jpg)
 ![](djangocon-us-2025-recap-images/field-museum-inside-ancient-egypt.jpg)
 
 ### Shaw's Crab House Lunch Special
-
-<!--
-Video
--->
 
 While researching Chicago, I came across many recommendations for Shaw's Crab House, a beloved, 40-year-old Chicago institution. I took a break from sightseeing to enjoy their reasonably-priced [gourmet 3-course lunch](https://www.shawscrabhouse.com/events/3-course-lunch-2/) special. The food was delicious, and the ambience left me feeling like I was a character in a movie. 
 
@@ -81,6 +71,10 @@ Pan-seared Alaskan cod
 
 ![](djangocon-us-2025-recap-images/shaws-chocolate-cake.jpg)
 Mini chocolate cake
+
+<!--
+Video
+-->
 
 ### The Art Institute of Chicago
 
@@ -180,7 +174,7 @@ https://www.oreilly.com/library/view/python-distilled/9780134173399/
 Me and my sweet friends Afi and Velda. They surprised me with gifts to show their appreciation for me. I felt so special! 
 
 ![](djangocon-us-2025-recap-images/djangocon-us-gifts-from-afi-and-velda.jpg)
-Beautiful flowers, Harrods spiced salted caramel shortbread, a British keychain, a postcard with handritten messages
+Gifts from Afi and Velda: beautiful flowers, Harrods spiced salted caramel shortbread, a British keychain, a postcard with handritten messages
 
 ### Lincoln Loop Social Event
 
@@ -211,7 +205,7 @@ https://freehandhotels.com/chicago/broken-shaker/
 ## Extras
 
 ![](djangocon-us-2025-recap-images/djangocon-us-me-jeff-marlene-paolo.png)
-Jeff, Marlene, me, Paolo
+Jeff, Marlene, me, Paolo. Marlene did a fascinating closing keynote. 
 
 ![](djangocon-us-2025-recap-images/djangocon-us-happy-birthday-django-cake.jpg)
 Django turned 20 this year. To commemorate the occasion, conference attendees were treated to delicious raspberry cake! 
@@ -238,19 +232,18 @@ A highlight of the evening was sharing stories of our close encounters with tech
 After dinner, a group of us walked to nearby [Amorino](https://www.amorino.com/ww) for delicious gelato. 
 
 ![](djangocon-us-2025-recap-images/amorino-ice-cream-flash-mob.jpeg)
-Ice cream flash mob
+Ice cream flash mob (photo credit: Mariatta)
+
+[Ice cream flash mob video](https://youtu.be/IGVAT4hLc9I) (video credit: Mariatta)
 
 This was my first time trying gelato, and I loved it. I had half [Vanilla (bourbon from Madagascar)](https://www.amorino.com/ww/product/vanilla-bourbon-from-madagascar), half [Amorino chocolate](https://www.amorino.com/ww/product/amorino-chocolate). 
 
 I also crossed an item off my bucket list: taking an ice cream selfie with Mariatta. 
 
 ![](djangocon-us-2025-recap-images/amorino-me-and-mariatta.png)
-Mariatta and me! Mariatta's gelato was flower-shaped. 
+Mariatta and me! Mariatta's gelato was flower-shaped. (photo credit: Mariatta)
 
-<!--
-Video
-Documentary
--->
+Mariatta was the first woman CPython Core Developer. She was featured in the new [Python documentary](https://youtu.be/GfH4QL4VqJ0?si=doJ39S2O_Tuc6Gau). Her impact is appreciated, and her voice clearly resonates with the community. 
 
 ### Six Feet Up Social Event
 
@@ -268,9 +261,7 @@ I knew Wednesday morning would likely be my last chance to make the short walk f
 ![](djangocon-us-2025-recap-images/oak-street-beach.jpg)
 Mild waves rolling in
 
-<!--
-Wednesday was deep-dive day. 
--->
+### Deep-Dive Day
 
 ### Opening Remarks (Wednesday)
 
@@ -367,6 +358,13 @@ DjangoCon US will be in Chicago again next year.
 ![](djangocon-us-2025-recap-images/field-museum-imperal-topaz-pendant.jpg)
 ![](djangocon-us-2025-recap-images/field-museum-esquel-meteorite.jpg)
 ![](djangocon-us-2025-recap-images/field-museum-benld-meteorite-exhibit.jpg)
+
+![](djangocon-us-2025-recap-images/field-museum-the-chicago-archaeopteryx.jpg)
+
+<!--
+https://www.fieldmuseum.org/exhibition/meet-the-chicago-archaeopteryx
+-->
+
 ![](djangocon-us-2025-recap-images/field-museum-coelacanth-replica.jpg)
 ![](djangocon-us-2025-recap-images/field-museum-chinese-masks.jpg)
 ![](djangocon-us-2025-recap-images/field-museum-alaskan-brown-bears.jpg)
