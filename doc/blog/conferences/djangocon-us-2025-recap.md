@@ -220,7 +220,7 @@ https://katherinemichel.github.io/blog/personal/happy-20th-birthday-django.html
 
 ### Speaker and Organizer Dinner
 
-The speaker and organizer dinner was at the incredible [Carnivale](https://www.carnivalechicago.com/) restaurant. 
+The speaker and organizer dinner was at the jaw-dropping [Carnivale](https://www.carnivalechicago.com/) restaurant. 
 
 ![](djangocon-us-2025-recap-images/carnivale-bar.jpg)
 Carnivale bar
@@ -229,13 +229,9 @@ Carnivale bar
 Carnivale dining room
 
 ![](djangocon-us-2025-recap-images/carnivale-dinner.jpg)
+Chipotle-lime salad, pollo en pipian, carnitas, vegan paella, arroz verde, guacamole
 
-<!--
-It was a pleeasure to 
-Menu
-Story time!
-Close encounters with tech royalty
--->
+A highlight of the evening was sharing stories of our close encounters with tech royalty! 
 
 ### Amorino
 
