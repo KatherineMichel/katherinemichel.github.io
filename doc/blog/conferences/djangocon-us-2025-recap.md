@@ -113,7 +113,7 @@ Stunning city view
 
 ### Pre-conference Social
 
-On Sunday night, I decided to go to an informal pre-conference social at [Tiny Tapp](https://www.tinytapp.com/) organized by Jon Gould of Foxley Talent. I was rewarded with this nighttime view of the buildings overlooking the Chicago River. 
+On Sunday night, I decided to go to an informal pre-conference social at [Tiny Tapp](https://www.tinytapp.com/) organized by Jon Gould of [Foxley Talent](https://foxleytalent.com/). I was rewarded with this nighttime view of the buildings overlooking the Chicago River. 
 
 ![](djangocon-us-2025-recap-images/chicago-river-at-night.jpg)
 What a view!
