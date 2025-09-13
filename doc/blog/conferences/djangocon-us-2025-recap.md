@@ -200,7 +200,7 @@ The bar area before the room soon reached full-capacity. Great event!
 ## Extras
 
 ![](djangocon-us-2025-recap-images/djangocon-us-me-jeff-marlene-paolo.png)
-Jeff, Marlene, me, Paolo. Marlene did a fascinating closing keynote. 
+Jeff, Marlene, me, Paolo. Marlene did a fascinating closing keynote Django Reimagined For The Age of AI. 
 
 ![](djangocon-us-2025-recap-images/djangocon-us-happy-birthday-django-cake.jpg)
 Django turned 20 this year. To commemorate the occasion, conference attendees were treated to delicious raspberry cake! 
@@ -229,8 +229,6 @@ After dinner, a group of us walked to nearby [Amorino](https://www.amorino.com/w
 ![](djangocon-us-2025-recap-images/amorino-ice-cream-flash-mob.jpeg)
 Ice cream flash mob (photo credit: Mariatta)
 
-[Ice cream flash mob video](https://youtu.be/IGVAT4hLc9I) (video credit: Mariatta)
-
 This was my first time trying gelato, and I loved it. I had half [Vanilla (bourbon from Madagascar)](https://www.amorino.com/ww/product/vanilla-bourbon-from-madagascar), half [Amorino chocolate](https://www.amorino.com/ww/product/amorino-chocolate). 
 
 I also crossed an item off my bucket list: taking an ice cream selfie with Mariatta. 
@@ -242,6 +240,8 @@ Mariatta was the first woman CPython Core Developer. She was featured in the new
 
 ![](djangocon-us-2025-recap-images/python-documentary-mariatta.png)
 130 likes, 16 reposts as of the writing of this
+
+[Ice cream flash mob video](https://youtu.be/IGVAT4hLc9I) (video credit: Mariatta)
 
 ### Six Feet Up Social Event
 
