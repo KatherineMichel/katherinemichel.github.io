@@ -26,7 +26,7 @@ Table of Contents
 
 Disclaimer: the content of this post is a reflection of my career journey and not specific to my work at JPMorganChase.
 
-In Ferris Bueller's Day Off, one of my favorite movies, after a day of adventures across Chicago, Cameron famously tells Ferris that [he doesn't think he'd seen anything good](https://youtu.be/o0iVd8b5QyA?si=wxTvTEL98johebOB). 
+In Ferris Bueller's Day Off, one of my favorite movies, after a day of adventures across Chicago, Cameron famously tells Ferris that [he doesn't think he's seen anything good](https://youtu.be/o0iVd8b5QyA?si=wxTvTEL98johebOB). 
 
 I am happy to report that I saw everything good!
 
