@@ -148,6 +148,7 @@ https://2025.djangocon.us/schedule/
 ### Kojo Idressa and Keanya Phelps Kick Off the Conference
 
 ![](djangocon-us-2025-recap-images/djangocon-us-hey-we-dont-do-that-here.jpg)
+Stacey's talk
 -->
 
 ### Keynote: Lateral Thinking with Weathered Technology: How The Nintendo Philosophy Applies to Modern Web Development
@@ -175,11 +176,10 @@ Gifts from Afi and Velda: beautiful flowers, Harrods spiced salted caramel short
 
 ### Lincoln Loop Social Event
 
-<!--
-https://freehandhotels.com/chicago/broken-shaker/
--->
+After the conference, I headed over to the [Broken Shaker Bar](https://freehandhotels.com/chicago/broken-shaker/) for a Lincoln Loop Social. 
 
 ![](djangocon-us-2025-recap-images/broken-shaker-bar.jpg)
+The bar area before the room soon reached full-capacity. Great event! 
 
 ## Tuesday
 
