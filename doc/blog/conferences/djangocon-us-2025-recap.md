@@ -64,7 +64,6 @@ https://www.fieldmuseum.org/exhibition/meet-the-chicago-archaeopteryx
 
 ![](djangocon-us-2025-recap-images/field-museum-megalodon-shark-replica-jaw.jpg)
 ![](djangocon-us-2025-recap-images/field-museum-inside-ancient-egypt.jpg)
-![](djangocon-us-2025-recap-images/field-museum-this-fish-dies-the-day-of-the-impact.jpg)
 
 ### Shaw's Crab House Lunch Special
 
@@ -304,20 +303,30 @@ https://2025.djangocon.us/talks/what-a-decade/
 
 <!--
 Photo credit to Tobias
+https://wendellaboats.com/
 -->
 
 ![](djangocon-us-2025-recap-images/wendella-the-boat.jpg)
+
+
 ![](djangocon-us-2025-recap-images/wendella-boat-tour-kickoff.jpg)
 
 ### Giordano's
 
-![](djangocon-us-2025-recap-images/giordanos-pizza-crowd.jpg)
-![](djangocon-us-2025-recap-images/giordanos-pizza.jpg)
-![](djangocon-us-2025-recap-images/giordanos-me-jacob-tim-mariatta.png)
-
 <!--
-Different types of pizza
+When did we go
+Fettuccine Alfredo
 -->
+
+Earlier in the week, I'd had a [Lou Malnati's](https://www.loumalnatis.com/) deep-dish, Chicago Classic with sausage, mozzarella, and tomato sauce on a Buttercrust™. The pizza was tasty, but it was surprisingly watery, and the crust was difficult to cut. [Giordano's](https://giordanos.com/) pizza sauce was a bit too sweet for me.  
+
+![](djangocon-us-2025-recap-images/giordanos-pizza-crowd.jpg)
+Hopping on a Wednesday night!
+
+![](djangocon-us-2025-recap-images/giordanos-pizza.jpg)
+
+![](djangocon-us-2025-recap-images/giordanos-me-jacob-tim-mariatta.png)
+Me, Jacob, Tim, Mariatta
 
 ## In Closing
 
@@ -352,6 +361,7 @@ DjangoCon US will be in Chicago again next year.
 ![](djangocon-us-2025-recap-images/field-museum-coelacanth-replica.jpg)
 ![](djangocon-us-2025-recap-images/field-museum-chinese-masks.jpg)
 ![](djangocon-us-2025-recap-images/field-museum-alaskan-brown-bears.jpg)
+![](djangocon-us-2025-recap-images/field-museum-this-fish-dies-the-day-of-the-impact.jpg)
 
 ### More from The Art Institute of Chicago
 
