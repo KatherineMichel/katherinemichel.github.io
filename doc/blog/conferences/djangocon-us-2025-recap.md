@@ -60,6 +60,7 @@ The infamous [Tsavo Lions](https://www.fieldmuseum.org/blog/tsavo-lions) are two
 Megalodon, the largest shark to ever live, preyed on whales and went extinct when oceans worldwide got colder. This jaw and teeth (replica cast) was dated 23-3.6 million years ago. 
 
 ![](djangocon-us-2025-recap-images/field-museum-inside-ancient-egypt.jpg)
+A three story replica of an ancient Egyptian tomb, including two authentic burial chambers that date to 2400 B.C. and contain 23 human and 30 animal mummies, one of the largest collections in the world, artifacts from everyday life and mummification rituals. 
 
 ### Shaw's Crab House Lunch Special
 
