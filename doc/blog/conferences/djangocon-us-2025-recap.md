@@ -30,6 +30,11 @@ In Ferris Bueller's Day Off, one of my favorite movies, after a day of adventure
 
 I am happy to report that I saw everything good!
 
+<!--
+Chicago
+Summary
+-->
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Pre-conference Activities
@@ -46,9 +51,10 @@ Downtown Chicago
 Thanks to my employer's generous financial support of Chicago area museums, I was able to enjoy some sightseeing perks, starting with the incredible [Field Museum](https://www.fieldmuseum.org/). 
 
 ![](djangocon-us-2025-recap-images/field-museum-patagotitan-maroyum.jpg)
-Unearthed in Argentina, Patagotitan Mayorum, the largest animal to have ever walked one earth, lived 101.6 million years ago. He or she was was estimated to have weighed 70 tons and spanned 122 feet long. Say cheese! 
+Unearthed in Argentina, [Máximo Titanosaur](https://www.fieldmuseum.org/exhibition/maximo-titanosaur) (Patagotitan Mayorum), the largest animal to have ever walked the earth that we know of, lived 101.6 million years ago. He or she was was estimated to have weighed 70 tons, spanned 122 feet long, and is 28 feet tall at the head. Say cheese! 
 
 ![](djangocon-us-2025-recap-images/field-museum-the-lions-of-tsavo.jpg)
+The infamous [Tsavo Lions](https://www.fieldmuseum.org/blog/tsavo-lions) are two of the most high profile items in the collection. In 1898, they went on a man-eating spree, terrorizing railway construction workers in Kenya for nine months, until they were shot dead. They were the subject of the 1996 movie The Ghost and the Darkness, starring Val Kilmer.
 
 ![](djangocon-us-2025-recap-images/field-museum-the-chicago-archaeopteryx.jpg)
 
@@ -79,19 +85,22 @@ Mini chocolate cake
 
 ### The Art Institute of Chicago
 
-<!--
-https://www.artic.edu/
--->
+After lunch, I spent the afternoon at the incredible [Art Institute of Chicago](https://www.artic.edu/). Having looked through the museum's collection ahead of time and noted my favorites, I saw many great works. For fun, I also took the [Be Like Ferris Tour](https://www.artic.edu/my-museum-tour/5178), featuring art works seen in the movie when [Ferris, Cameron, and Sloane visit the museum](https://youtu.be/vBBOMLURSGA?si=3OLtiWJt2C2vB8jj). 
 
 ![](djangocon-us-2025-recap-images/art-institute-of-chicago-outside.jpg)
-![](djangocon-us-2025-recap-images/art-institute-of-chicago-america-windows.jpg)
-![](djangocon-us-2025-recap-images/art-institute-of-chicago-nighthawks.jpg)
-![](djangocon-us-2025-recap-images/art-institute-of-chicago-a-sunday-on-la-grande-jatte-crowd.jpg)
-![](djangocon-us-2025-recap-images/art-institute-of-chicago-room.jpg)
+The front of The Art Institute of Chicago
 
-<!--
-https://www.artic.edu/my-museum-tour/5178
--->
+![](djangocon-us-2025-recap-images/art-institute-of-chicago-america-windows.jpg)
+[America Windows](https://www.artic.edu/artworks/109439/america-windows) by Marc Chagall
+
+![](djangocon-us-2025-recap-images/art-institute-of-chicago-nighthawks.jpg)
+[Nighthawks](https://www.artic.edu/artworks/111628/nighthawks) by Edward Hopper
+
+![](djangocon-us-2025-recap-images/art-institute-of-chicago-a-sunday-on-la-grande-jatte-crowd.jpg)
+[A Sunday on La Grande Jatte](https://www.artic.edu/artworks/27992/a-sunday-on-la-grande-jatte-1884) by Georges Seurat
+
+![](djangocon-us-2025-recap-images/art-institute-of-chicago-room.jpg)
+Gallery 211
 
 ### My Incredible Room
 
@@ -347,13 +356,21 @@ DjangoCon US will be in Chicago again next year.
 ### More from The Art Institute of Chicago
 
 ![](djangocon-us-2025-recap-images/art-institute-of-chicago-american-gothic.jpg)
-American Gothic
+[American Gothic](https://www.artic.edu/artworks/6565/american-gothic) by Grand Wood
 
 ![](djangocon-us-2025-recap-images/art-institute-of-chicago-self-portrait.jpg)
+[Self-portrait](https://www.artic.edu/artworks/80607/self-portrait) by Vincent van Gogh
 
 ![](djangocon-us-2025-recap-images/art-institute-of-chicago-a-sunday-on-la-grande-jatte-detail.jpg)
+[A Sunday on La Grande Jatte](https://www.artic.edu/artworks/27992/a-sunday-on-la-grande-jatte-1884) by Georges Seurat
+
 ![](djangocon-us-2025-recap-images/art-institute-of-chicago-the-old-guitarist.jpg)
+[The Old Guitarist](https://www.artic.edu/artworks/28067/the-old-guitarist) by Pablo Picasso
+
 ![](djangocon-us-2025-recap-images/art-institute-of-chicago-improvisation-no-30.jpg)
+[Improvisation No. 30 (Cannons)](https://www.artic.edu/artworks/8991/improvisation-no-30-cannons) by Vasily Kandinsky
+
 ![](djangocon-us-2025-recap-images/art-institute-of-chicago-mr-pointy.jpg)
+[Mr. Pointy](https://www.artic.edu/artworks/229379/mr-pointy) by Takashi Murakami
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
