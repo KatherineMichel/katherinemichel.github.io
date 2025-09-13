@@ -207,24 +207,33 @@ https://freehandhotels.com/chicago/broken-shaker/
 ## Extras
 
 ![](djangocon-us-2025-recap-images/djangocon-us-me-jeff-marlene-paolo.png)
+Jeff, Marlene, me, Paolo
 
 ![](djangocon-us-2025-recap-images/djangocon-us-happy-birthday-django-cake.jpg)
+In case you missed it, Django turned 20 this year. To commemorate the occassion, conference attendees were treated to raspberry cake! 
 
 <!--
-Tuesday was a day of firsts: first-time eating gelato, first-time taking an ice-cream selfie with Mariatta, and first-time playing foosball. 
+https://katherinemichel.github.io/blog/personal/happy-20th-birthday-django.html
 -->
 
 ### Speaker and Organizer Dinner
 
-<!--
-https://www.carnivalechicago.com/
-Menu
-Story time!
--->
+The speaker and organizer dinner was at the incredible [Carnivale](https://www.carnivalechicago.com/) restaurant. 
 
 ![](djangocon-us-2025-recap-images/carnivale-bar.jpg)
+Carnivale bar
+
 ![](djangocon-us-2025-recap-images/carnivale-dining-room.jpg)
+Carnivale dining room
+
 ![](djangocon-us-2025-recap-images/carnivale-dinner.jpg)
+
+<!--
+It was a pleeasure to 
+Menu
+Story time!
+Close encounters with tech royalty
+-->
 
 ### Amorino
 
@@ -240,7 +249,13 @@ Documentary
 -->
 
 ![](djangocon-us-2025-recap-images/amorino-ice-cream-flash-mob.jpeg)
+
 ![](djangocon-us-2025-recap-images/amorino-me-and-mariatta.png)
+Mariatta and me! 
+
+<!--
+first-time eating gelato, first-time taking an ice-cream selfie with Mariatta. 
+-->
 
 ### Six Feet Up Social Event
 
@@ -251,12 +266,13 @@ https://sixfeetup.com/
 -->
 
 ![](djangocon-us-2025-recap-images/punch-bowl-foosball.jpg)
+Continuing the trend, I played foosball for the first time!
 
 ## Wednesday
 
 ### Pre-conference
 
-I knew Wednesday morning would likely be my last chance to make the short walk from my hotel to Oak Street Beach. It was surprisingly beach-like, despite bordering Lake Michigan, rather than the ocean. 
+I knew Wednesday morning would likely be my last chance to make the short walk from my hotel to Oak Street Beach. I couldn't resist getting up early to do so. It was surprisingly beach-like, despite bordering Lake Michigan. I enjoyed a quiet walk down the coast and watched nearby beach-goers play vollyball and cold-plunge. 
 
 ![](djangocon-us-2025-recap-images/oak-street-beach.jpg)
 Mild waves rolling in
