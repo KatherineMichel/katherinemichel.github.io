@@ -235,36 +235,29 @@ A highlight of the evening was sharing stories of our close encounters with tech
 
 ### Amorino
 
-<!--
-Video
-https://www.amorino.com/ww
-Vanilla (Bourbon from Madagascar)
-https://www.amorino.com/ww/product/vanilla-bourbon-from-madagascar
-Amorino Chocolate
-https://www.amorino.com/ww/product/amorino-chocolate
-
-Documentary
--->
+After dinner, a group of us walked to nearby [Amorino](https://www.amorino.com/ww) for delicious gelato. 
 
 ![](djangocon-us-2025-recap-images/amorino-ice-cream-flash-mob.jpeg)
+Ice cream flash mob
+
+This was my first time trying gelato, and I loved it. I had half [Vanilla (bourbon from Madagascar)](https://www.amorino.com/ww/product/vanilla-bourbon-from-madagascar), half [Amorino chocolate](https://www.amorino.com/ww/product/amorino-chocolate). 
+
+I also crossed an item off my bucket list: taking an ice cream selfie with Mariatta. 
 
 ![](djangocon-us-2025-recap-images/amorino-me-and-mariatta.png)
-Mariatta and me! 
+Mariatta and me! Mariatta's gelato was flower-shaped. 
 
 <!--
-first-time eating gelato, first-time taking an ice-cream selfie with Mariatta. 
+Video
+Documentary
 -->
 
 ### Six Feet Up Social Event
 
-<!--
-Punch Bowl Social
-https://punchbowlsocial.com/location/chicago
-https://sixfeetup.com/
--->
+Some of us further ventured to the nearby [Six Feet Up](https://sixfeetup.com/) Arcade Night at [Punch Bowl Social](https://punchbowlsocial.com/location/chicago). 
 
 ![](djangocon-us-2025-recap-images/punch-bowl-foosball.jpg)
-Continuing the trend, I played foosball for the first time!
+Continuing the trend of firsts, I played foosball for the first time!
 
 ## Wednesday
 
