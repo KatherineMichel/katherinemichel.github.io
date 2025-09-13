@@ -229,7 +229,7 @@ Carnivale bar
 Carnivale dining room
 
 ![](djangocon-us-2025-recap-images/carnivale-dinner.jpg)
-Chipotle-lime salad, pollo en pipian, carnitas, vegan paella, arroz verde, guacamole
+Chipotle lime salad, pollo en pipian, carnitas, vegan paella, arroz verde, guacamole
 
 A highlight of the evening was sharing stories of our close encounters with tech royalty! 
 
