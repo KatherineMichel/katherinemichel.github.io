@@ -51,7 +51,7 @@ Downtown Chicago
 Thanks to my employer's generous financial support of Chicago area museums, I was able to enjoy some sightseeing perks, starting with the incredible [Field Museum](https://www.fieldmuseum.org/). 
 
 ![](djangocon-us-2025-recap-images/field-museum-patagotitan-maroyum.jpg)
-Unearthed in Argentina, [Máximo Titanosaur](https://www.fieldmuseum.org/exhibition/maximo-titanosaur) (Patagotitan Mayorum), the largest animal to have ever walked the earth that we know of, lived 101.6 million years ago. He or she was was estimated to have weighed 70 tons, spanned 122 feet long, and is 28 feet tall at the head. Say cheese! 
+Unearthed in Argentina, [Máximo Titanosaur](https://www.fieldmuseum.org/exhibition/maximo-titanosaur) (Patagotitan Mayorum), the largest animal to have ever walked the earth that we know of, lived 101.6 million years ago. He or she was estimated to have weighed 70 tons, spanned 122 feet long, and is 28 feet tall at the head. Say cheese! 
 
 ![](djangocon-us-2025-recap-images/field-museum-the-lions-of-tsavo.jpg)
 The infamous [Tsavo Lions](https://www.fieldmuseum.org/blog/tsavo-lions) are two of the most high profile items in the collection. In 1898, they went on a man-eating spree, terrorizing railway construction workers in Kenya for nine months, until they were shot dead. They were the subject of the 1996 movie The Ghost and the Darkness, starring Val Kilmer.
