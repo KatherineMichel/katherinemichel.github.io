@@ -127,7 +127,7 @@ What a view!
 ### Pre-conference
 
 ![](djangocon-us-2025-recap-images/original-house-of-pancakes-strawberry-crepes.jpg)
-I couldn't resist getting breakfast at the [Original Pancake House](https://ophchicagoland.com/original-pancake-house-gold-coast/), conspicuously located directly cross from the hotel. The strawberry crepes were divine, and the coffee was perfectly strong. 
+I couldn't resist getting breakfast at the [Original Pancake House](https://ophchicagoland.com/original-pancake-house-gold-coast/), conspicuously located directly across from the hotel. The strawberry crepes were divine, and the coffee was perfectly strong. 
 
 ![](djangocon-us-2025-recap-images/happy-times.jpg)
 Ready for an adventure
