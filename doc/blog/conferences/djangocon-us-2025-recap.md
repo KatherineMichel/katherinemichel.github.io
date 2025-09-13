@@ -85,7 +85,7 @@ Mini chocolate cake
 
 ### The Art Institute of Chicago
 
-After lunch, I spent the afternoon at the incredible [Art Institute of Chicago](https://www.artic.edu/). Having looked through the museum's collection ahead of time and noted my favorites, I saw many great works. For fun, I also took the [Be Like Ferris Tour](https://www.artic.edu/my-museum-tour/5178), featuring art works seen in the movie when [Ferris, Cameron, and Sloane visit the museum](https://youtu.be/vBBOMLURSGA?si=3OLtiWJt2C2vB8jj). 
+After lunch, I spent the afternoon at the incredible [Art Institute of Chicago](https://www.artic.edu/). Having looked through the museum's collection ahead of time and noted my favorites, I saw many great works. For fun, I also took the [Be Like Ferris Tour](https://www.artic.edu/my-museum-tour/5178), featuring art works seen in Ferris Bueller's Day Off when [Ferris, Cameron, and Sloane visit the museum](https://youtu.be/vBBOMLURSGA?si=3OLtiWJt2C2vB8jj). 
 
 ![](djangocon-us-2025-recap-images/art-institute-of-chicago-outside.jpg)
 The front of The Art Institute of Chicago
