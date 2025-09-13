@@ -164,14 +164,11 @@ https://2025.djangocon.us/schedule/
 
 ### Extras
 
-<!--
-https://www.oreilly.com/library/view/python-distilled/9780134173399/
--->
-
 ![](djangocon-us-2025-recap-images/djangocon-us-python-distilled-signed.jpg)
+Chicagoan David Beazley is a well-known author and teacher in the Python community who offers [advanced programming courses](https://www.dabeaz.com/). I first met Dave at PyGotham 2019 after his keynote and was excited to reconnect. I scored a signed copy of his book [Python Distilled](https://www.oreilly.com/library/view/python-distilled/9780134173399/)! 
 
 ![](djangocon-us-2025-recap-images/djangocon-us-me-afi-and-velda.png)
-Me and my sweet friends Afi and Velda. They surprised me with gifts to show their appreciation for me. I felt so special! 
+Me and my sweet friends Afi and Velda. They surprised me with gifts to show their appreciation for me. I felt so special! Afi did a great job managing program and giving opening remarks and Velda serving on the DEFNA Board and moderating the Two Decades of Django panel. 
 
 ![](djangocon-us-2025-recap-images/djangocon-us-gifts-from-afi-and-velda.jpg)
 Gifts from Afi and Velda: beautiful flowers, Harrods spiced salted caramel shortbread, a British keychain, a postcard with handritten messages
@@ -244,6 +241,9 @@ I also crossed an item off my bucket list: taking an ice cream selfie with Maria
 Mariatta and me! Mariatta's gelato was flower-shaped. (photo credit: Mariatta)
 
 Mariatta was the first woman CPython Core Developer. She was featured in the new [Python documentary](https://youtu.be/GfH4QL4VqJ0?si=doJ39S2O_Tuc6Gau). Her impact is appreciated, and her voice clearly resonates with the community. 
+
+![](djangocon-us-2025-recap-images/python-documentary-mariatta.png)
+130 likes, 16 reposts as of the writing of this
 
 ### Six Feet Up Social Event
 
