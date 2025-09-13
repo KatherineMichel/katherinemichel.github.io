@@ -41,7 +41,7 @@ Summary
 
 ### The View from Above
 
-When making my flight reservation, I googled for advice about the best side of the plane to be on for a great view when arriving in Chicago. As we approached, I feared that I had chosen the wrong side, but I hadn't! The downtown appeared to my left, then the pilot circled around above Lake Michigan, and I got another view from the other side. 
+While making my flight reservation, I googled for advice about the best side of the plane to be on for a great view when arriving in Chicago. As we approached, I feared that I had chosen the wrong side, but I hadn't! The downtown appeared to my left, then the pilot circled around above Lake Michigan, and I got another view from the other side. 
 
 ![](djangocon-us-2025-recap-images/view-of-chicago-coast-looking-back.jpg)
 Downtown Chicago
