@@ -212,7 +212,7 @@ https://freehandhotels.com/chicago/broken-shaker/
 Jeff, Marlene, me, Paolo
 
 ![](djangocon-us-2025-recap-images/djangocon-us-happy-birthday-django-cake.jpg)
-In case you missed it, Django turned 20 this year. To commemorate the occassion, conference attendees were treated to raspberry cake! 
+In case you missed it, Django turned 20 this year. To commemorate the occasion, conference attendees were treated to raspberry cake! 
 
 <!--
 https://katherinemichel.github.io/blog/personal/happy-20th-birthday-django.html
