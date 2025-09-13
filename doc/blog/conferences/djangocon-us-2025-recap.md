@@ -171,14 +171,16 @@ https://2025.djangocon.us/schedule/
 ### Extras
 
 <!--
-Monday- during conference
-
 https://www.oreilly.com/library/view/python-distilled/9780134173399/
 -->
 
 ![](djangocon-us-2025-recap-images/djangocon-us-python-distilled-signed.jpg)
+
 ![](djangocon-us-2025-recap-images/djangocon-us-me-afi-and-velda.png)
+Me and my sweet friends Afi and Velda. They surprised me with gifts to show their appreciation for me. I felt so special! 
+
 ![](djangocon-us-2025-recap-images/djangocon-us-gifts-from-afi-and-velda.jpg)
+Beautiful flowers, Harrods spiced salted caramel shortbread, a British keychain, a postcard with handritten messages
 
 ### Lincoln Loop Social Event
 
