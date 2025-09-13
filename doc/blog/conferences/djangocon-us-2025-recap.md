@@ -103,6 +103,8 @@ Gallery 211
 
 ### My Incredible Room
 
+After sightseeing, I checked into my hotel. 
+
 I was fortunate to stay at the 4-star [Thompson Chicago by Hyatt](https://www.hyatt.com/thompson-hotels/chith-thompson-chicago), perfectly situated in the fun [Gold Coast Neighborhood](https://en.wikipedia.org/wiki/Gold_Coast_Historic_District_(Chicago)) along the Magnificent Mile, filled with historic architecture, luxury shops, and in close proximity to the Oak Street Beach. 
 
 ![](djangocon-us-2025-recap-images/thompson-chicago-room.jpg)
