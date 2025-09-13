@@ -304,7 +304,7 @@ https://2025.djangocon.us/talks/what-a-decade/
 
 ### Wendella Chicago Architecture Boat Tour
 
-I'd heard many great things about Chicago architecture boat cruises and considered taking on on Sunday, but decided it would be one thing too many. When I heard that a group of attendees would be taking one Wednesday evening, I had to join. It surpassed my expections, and I'd love to go again sometime.  
+I'd heard many great things about Chicago architecture boat cruises and considered taking one on Sunday, but decided it would be one thing too many. When I heard that a group of attendees would be taking one Wednesday evening, I had to join. It surpassed my expections, and I'd love to go again sometime.  
 
 ![](djangocon-us-2025-recap-images/wendella-the-boat.jpg)
 Our [Wendella](https://wendellaboats.com/) boat (photo credit: Tobias McNulty)
