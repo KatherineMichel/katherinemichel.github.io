@@ -177,7 +177,7 @@ Gifts from Afi and Velda: beautiful flowers, Harrods spiced salted caramel short
 After the conference, I headed over to the [Broken Shaker Bar](https://freehandhotels.com/chicago/broken-shaker/) for a [Lincoln Loop](https://lincolnloop.com/) Social. 
 
 ![](djangocon-us-2025-recap-images/broken-shaker-bar.jpg)
-The bar area before the room soon reached full-capacity. Great event! 
+The bar area before the room soon reached full-capacity. 
 
 ## Tuesday
 
