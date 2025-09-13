@@ -26,13 +26,9 @@ Table of Contents
 
 Disclaimer: the content of this post is a reflection of my career journey and not specific to my work at JPMorganChase.
 
-In Ferris Bueller's Day Off, one of my favorite movies, after a day of adventures across Chicago, Cameron famously tells Ferris that he doesn't think he'd seen anything good. 
+In Ferris Bueller's Day Off, one of my favorite movies, after a day of adventures across Chicago, Cameron famously tells Ferris that [he doesn't think he'd seen anything good](https://youtu.be/o0iVd8b5QyA?si=wxTvTEL98johebOB). 
 
-I am happy to report that I saw everything good. 
-
-<!--
-https://2025.djangocon.us/schedule/
--->
+I am happy to report that I saw everything good!
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -47,11 +43,11 @@ Downtown Chicago
 
 ### The Field Museum
 
-<!--
-https://www.fieldmuseum.org/
--->
+Thanks to my employer's generous financial support of Chicago area museums, I was able to enjoy some sightseeing perks, starting with the incredible [Field Museum](https://www.fieldmuseum.org/). 
 
 ![](djangocon-us-2025-recap-images/field-museum-patagotitan-maroyum.jpg)
+Unearthed in Argentina, Patagotitan Mayorum, the largest animal to have ever walked one earth, lived 101.6 million years ago. He or she was was estimated to have weighed 70 tons and spanned 122 feet long. Say cheese! 
+
 ![](djangocon-us-2025-recap-images/field-museum-the-lions-of-tsavo.jpg)
 
 ![](djangocon-us-2025-recap-images/field-museum-the-chicago-archaeopteryx.jpg)
@@ -66,7 +62,11 @@ https://www.fieldmuseum.org/exhibition/meet-the-chicago-archaeopteryx
 
 ### Shaw's Crab House Lunch Special
 
-While researching Chicago, I came across many recommendations for Shaw's Crab House, a beloved, 40-year-old Chicago institution. I took a break from sightseeing to enjoy a reasonably-priced [gourmet 3-course lunch](https://www.shawscrabhouse.com/events/3-course-lunch-2/) there. The food was delicious, and the ambience left me feeling like I was a character in a movie. 
+<!--
+Video
+-->
+
+While researching Chicago, I came across many recommendations for Shaw's Crab House, a beloved, 40-year-old Chicago institution. I took a break from sightseeing to enjoy their reasonably-priced [gourmet 3-course lunch](https://www.shawscrabhouse.com/events/3-course-lunch-2/) special. The food was delicious, and the ambience left me feeling like I was a character in a movie. 
 
 ![](djangocon-us-2025-recap-images/shaws-shrimp-cocktail.jpg)
 Shrimp cocktail
@@ -95,7 +95,7 @@ https://www.artic.edu/my-museum-tour/5178
 
 ### My Incredible Room
 
-I was fortunate to stay at the 4-star [Thompson Chicago by Hyatt](https://www.hyatt.com/thompson-hotels/chith-thompson-chicago), perfectly situation in the fun [Gold Coast Neighborhood](https://en.wikipedia.org/wiki/Gold_Coast_Historic_District_(Chicago)) filled with historic architecture, luxury shops, celebrated restaurants, and in close proximity to the Magnificent Mile and Oak Street Beach. 
+I was fortunate to stay at the 4-star [Thompson Chicago by Hyatt](https://www.hyatt.com/thompson-hotels/chith-thompson-chicago), perfectly situation in the fun [Gold Coast Neighborhood](https://en.wikipedia.org/wiki/Gold_Coast_Historic_District_(Chicago)) along the Magnificent Mile, filled with historic architecture, luxury shops, and in close proximity to the Oak Street Beach. 
 
 ![](djangocon-us-2025-recap-images/thompson-chicago-room.jpg)
 I could get used to this... 
@@ -104,11 +104,6 @@ I could get used to this...
 Stunning city view
 
 ### Pre-conference Social
-
-<!--
-https://www.chicago.gov/city/en/sites/chicagoriverwalk/home.html.html
-I believe I took this from the La Salle Street Bridge, near my conference venue.
--->
 
 On Sunday night, I decided to go to an informal pre-conference social at [Tiny Tapp](https://www.tinytapp.com/) organized by Jon Gould of Foxley Talent. I was rewarded with this nighttime view of the buildings overlooking the Chicago River. 
 
@@ -133,9 +128,17 @@ Taking the Red Line south
 ![](djangocon-us-2025-recap-images/chicago-river-daylight.jpg)
 Enjoying the view along the Chicago River on the way to the nearby venue
 
+<!--
+https://www.chicago.gov/city/en/sites/chicagoriverwalk/home.html.html
+-->
+
 ### Orientation
 
 ### Opening Remarks (Monday)
+
+<!--
+https://2025.djangocon.us/schedule/
+-->
 
 <!--
 ### Kojo Idressa and Keanya Phelps Kick Off the Conference
@@ -344,7 +347,10 @@ DjangoCon US will be in Chicago again next year.
 ### More from The Art Institute of Chicago
 
 ![](djangocon-us-2025-recap-images/art-institute-of-chicago-american-gothic.jpg)
+American Gothic
+
 ![](djangocon-us-2025-recap-images/art-institute-of-chicago-self-portrait.jpg)
+
 ![](djangocon-us-2025-recap-images/art-institute-of-chicago-a-sunday-on-la-grande-jatte-detail.jpg)
 ![](djangocon-us-2025-recap-images/art-institute-of-chicago-the-old-guitarist.jpg)
 ![](djangocon-us-2025-recap-images/art-institute-of-chicago-improvisation-no-30.jpg)
