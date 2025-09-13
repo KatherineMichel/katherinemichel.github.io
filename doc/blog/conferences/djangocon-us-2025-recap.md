@@ -256,7 +256,10 @@ https://sixfeetup.com/
 
 ### Pre-conference
 
+I knew Wednesday morning would likely be my last chance to make the short walk from my hotel to Oak Street Beach. It was surprisingly beach-like, despite bordering Lake Michigan, rather than the ocean. 
+
 ![](djangocon-us-2025-recap-images/oak-street-beach.jpg)
+Mild waves rolling in
 
 <!--
 Wednesday was deep-dive day. 
@@ -301,22 +304,17 @@ https://2025.djangocon.us/talks/what-a-decade/
 
 ### Wendella Chicago Architecture Boat Tour
 
-<!--
-Photo credit to Tobias
-https://wendellaboats.com/
--->
+I'd heard many great things about Chicago architecture boat cruises and considered taking on on Sunday, but decided it would be one thing too many. When I heard that a group of attendees would be taking one Wednesday evening, I had to join. It surpassed my expections, and I'd love to go again sometime.  
 
 ![](djangocon-us-2025-recap-images/wendella-the-boat.jpg)
-
+Our [Wendella](https://wendellaboats.com/) boat (photo credit: Tobias McNulty)
 
 ![](djangocon-us-2025-recap-images/wendella-boat-tour-kickoff.jpg)
+Our guide, Jai. When we started out, it was daylight, by the end, it was night. Best of both worlds. 
 
 ### Giordano's
 
-<!--
-When did we go
-Fettuccine Alfredo
--->
+After the boat trip, several of us stopped to eat at Navy Pier Giordano's. 
 
 Earlier in the week, I'd had a [Lou Malnati's](https://www.loumalnatis.com/) deep-dish, Chicago Classic with sausage, mozzarella, and tomato sauce on a Buttercrust™. The pizza was tasty, but it was surprisingly watery, and the crust was difficult to cut. [Giordano's](https://giordanos.com/) pizza sauce was a bit too sweet for me.  
 
@@ -324,6 +322,10 @@ Earlier in the week, I'd had a [Lou Malnati's](https://www.loumalnatis.com/) dee
 Hopping on a Wednesday night!
 
 ![](djangocon-us-2025-recap-images/giordanos-pizza.jpg)
+Deep-dish, spinach pizza
+
+![](djangocon-us-2025-recap-images/giordanos-fettuccini-alfredo.jpg)
+My fettuccini alfredo really hit the spot!
 
 ![](djangocon-us-2025-recap-images/giordanos-me-jacob-tim-mariatta.png)
 Me, Jacob, Tim, Mariatta
