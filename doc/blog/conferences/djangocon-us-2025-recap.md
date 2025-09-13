@@ -312,16 +312,16 @@ Our guide, Jai. When we started out, it was daylight, by the end, it was night. 
 
 After the boat trip, several of us stopped to eat at Navy Pier Giordano's. 
 
-Earlier in the week, I'd had a [Lou Malnati's](https://www.loumalnatis.com/) deep-dish, Chicago Classic with sausage, mozzarella, and tomato sauce on a Buttercrust™. The pizza was tasty, but it was surprisingly watery, and the crust was difficult to cut. [Giordano's](https://giordanos.com/) pizza sauce was a bit too sweet for me.  
+Earlier in the week, I'd had a [Lou Malnati's](https://www.loumalnatis.com/) deep-dish, Chicago Classic with sausage, mozzarella, and tomato sauce on a Buttercrust™. The pizza was tasty, but it was surprisingly watery, and the crust was difficult to cut. [Giordano's](https://giordanos.com/) pizza sauce was a bit too sweet for me. I had delicious fettuccini alfredo instead. 
 
 ![](djangocon-us-2025-recap-images/giordanos-pizza-crowd.jpg)
 Hopping on a Wednesday night!
 
-![](djangocon-us-2025-recap-images/giordanos-pizza.jpg)
-Deep-dish, spinach pizza
-
 ![](djangocon-us-2025-recap-images/giordanos-fettuccini-alfredo.jpg)
 My fettuccini alfredo really hit the spot!
+
+![](djangocon-us-2025-recap-images/giordanos-pizza.jpg)
+Deep-dish, spinach pizza
 
 ![](djangocon-us-2025-recap-images/giordanos-me-jacob-tim-mariatta.png)
 Me, Jacob, Tim, Mariatta
