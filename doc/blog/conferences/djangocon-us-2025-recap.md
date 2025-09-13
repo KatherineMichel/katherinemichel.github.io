@@ -76,7 +76,7 @@ Mini chocolate cake
 
 ### The Art Institute of Chicago
 
-After lunch, I spent the afternoon at the [Art Institute of Chicago](https://www.artic.edu/). The Art Intitute is one of the world's great art museums, world-renowned for its collection of Impressionist and Post-Impressionist art.  
+After lunch, I spent the afternoon at the [Art Institute of Chicago](https://www.artic.edu/). The Art Intitute is one of the world's great art museums, renowned for its collection of Impressionist and Post-Impressionist art.  
 
 Having looked through the museum's collection ahead of time and noted my favorites, I saw many great works. For fun, I also took the [Be Like Ferris Tour](https://www.artic.edu/my-museum-tour/5178), featuring art works seen in Ferris Bueller's Day Off when [Ferris, Cameron, and Sloane visit the museum](https://youtu.be/vBBOMLURSGA?si=3OLtiWJt2C2vB8jj). 
 
