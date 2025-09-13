@@ -57,6 +57,8 @@ Unearthed in Argentina, [Máximo Titanosaur](https://www.fieldmuseum.org/exhibit
 The infamous [Tsavo Lions](https://www.fieldmuseum.org/blog/tsavo-lions) are two of the most high profile items in the collection. In 1898, they went on a man-eating spree, terrorizing railway construction workers in Kenya for nine months, until they were shot dead. They were the subject of the 1996 movie The Ghost and the Darkness, starring Val Kilmer.
 
 ![](djangocon-us-2025-recap-images/field-museum-megalodon-shark-replica-jaw.jpg)
+Megalodon, the largest shark to ever live, preyed on whales and went extinct when oceans worldwide got colder. This jaw and teeth (replica cast) was dated 23-3.6 million years ago. 
+
 ![](djangocon-us-2025-recap-images/field-museum-inside-ancient-egypt.jpg)
 
 ### Shaw's Crab House Lunch Special
@@ -72,13 +74,13 @@ Pan-seared Alaskan cod
 ![](djangocon-us-2025-recap-images/shaws-chocolate-cake.jpg)
 Mini chocolate cake
 
-<!--
-Video
--->
+[View from the Bar Video](https://youtu.be/YxGYLfhE22w)
 
 ### The Art Institute of Chicago
 
-After lunch, I spent the afternoon at the incredible [Art Institute of Chicago](https://www.artic.edu/). Having looked through the museum's collection ahead of time and noted my favorites, I saw many great works. For fun, I also took the [Be Like Ferris Tour](https://www.artic.edu/my-museum-tour/5178), featuring art works seen in Ferris Bueller's Day Off when [Ferris, Cameron, and Sloane visit the museum](https://youtu.be/vBBOMLURSGA?si=3OLtiWJt2C2vB8jj). 
+After lunch, I spent the afternoon at the [Art Institute of Chicago](https://www.artic.edu/). The Art Intitute is one of the world's great art museums, world-renowned for its collection of Impressionist and Post-Impressionist art.  
+
+Having looked through the museum's collection ahead of time and noted my favorites, I saw many great works. For fun, I also took the [Be Like Ferris Tour](https://www.artic.edu/my-museum-tour/5178), featuring art works seen in Ferris Bueller's Day Off when [Ferris, Cameron, and Sloane visit the museum](https://youtu.be/vBBOMLURSGA?si=3OLtiWJt2C2vB8jj). 
 
 ![](djangocon-us-2025-recap-images/art-institute-of-chicago-outside.jpg)
 The front of The Art Institute of Chicago
@@ -93,7 +95,9 @@ The front of The Art Institute of Chicago
 [A Sunday on La Grande Jatte](https://www.artic.edu/artworks/27992/a-sunday-on-la-grande-jatte-1884) by Georges Seurat
 
 ![](djangocon-us-2025-recap-images/art-institute-of-chicago-room.jpg)
-Gallery 211
+Gallery 211, one of my favorite rooms
+
+The [Thorne Minature Rooms](https://www.artic.edu/highlights/12/thorne-miniature-rooms) in the basement are also a must see. 
 
 ### My Incredible Room
 
@@ -109,7 +113,7 @@ Stunning city view
 
 ### Pre-conference Social
 
-On Sunday night, I decided to go to an informal pre-conference social at [Tiny Tapp](https://www.tinytapp.com/) organized by Jon Gould of [Foxley Talent](https://foxleytalent.com/). I was rewarded with this nighttime view of the buildings overlooking the Chicago River. 
+On Sunday night, I decided to go to an informal pre-conference social at [Tiny Tapp](https://www.tinytapp.com/) organized by Jon Gould of [Foxley Talent](https://foxleytalent.com/). I was rewarded with this nighttime view of the buildings overlooking the Chicago River and [Riverwalk](https://en.wikipedia.org/wiki/Chicago_Riverwalk). 
 
 ![](djangocon-us-2025-recap-images/chicago-river-at-night.jpg)
 What a view!
@@ -131,10 +135,6 @@ Taking the Red Line south
 
 ![](djangocon-us-2025-recap-images/chicago-river-daylight.jpg)
 Enjoying the view along the Chicago River on the way to the nearby venue
-
-<!--
-https://www.chicago.gov/city/en/sites/chicagoriverwalk/home.html.html
--->
 
 ### Orientation
 
