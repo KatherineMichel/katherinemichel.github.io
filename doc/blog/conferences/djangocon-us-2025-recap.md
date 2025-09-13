@@ -26,14 +26,11 @@ Table of Contents
 
 Disclaimer: the content of this post is a reflection of my career journey and not specific to my work at JPMorganChase.
 
+DjangoCon US took place in Chicago, Illinois from September 8-12. It was a stellar experience. 
+
 In Ferris Bueller's Day Off, one of my favorite movies, after a day of adventures across Chicago, Cameron famously tells Ferris that [he doesn't think he's seen anything good](https://youtu.be/o0iVd8b5QyA?si=wxTvTEL98johebOB). 
 
 I am happy to report that I saw everything good!
-
-<!--
-Chicago
-Summary
--->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -57,10 +54,10 @@ Unearthed in Argentina, [Máximo Titanosaur](https://www.fieldmuseum.org/exhibit
 The infamous [Tsavo Lions](https://www.fieldmuseum.org/blog/tsavo-lions) are two of the most high profile items in the collection. In 1898, they went on a man-eating spree, terrorizing railway construction workers in Kenya for nine months, until they were shot dead. They were the subject of the 1996 movie The Ghost and the Darkness, starring Val Kilmer.
 
 ![](djangocon-us-2025-recap-images/field-museum-megalodon-shark-replica-jaw.jpg)
-Megalodon, the largest shark to ever live, preyed on whales and went extinct when oceans worldwide got colder. This jaw and teeth (replica cast) was dated 23-3.6 million years ago. 
+[Megalodon](https://www.fieldmuseum.org/blog/four-fossil-sharks-are-cooler-megalodon), the largest shark to ever live, preyed on whales and went extinct when oceans worldwide got colder. This jaw and teeth (replica cast) was dated 23-3.6 million years ago. 
 
 ![](djangocon-us-2025-recap-images/field-museum-inside-ancient-egypt.jpg)
-A three story replica of an ancient Egyptian tomb, including two authentic burial chambers that date to 2400 B.C. and contain 23 human and 30 animal mummies, one of the largest collections in the world, artifacts from everyday life and mummification rituals. 
+Among the museum's holdings is one of the most impressive [ancient Egypt collections](https://www.fieldmuseum.org/exhibition/inside-ancient-egypt) in the world, including a three story replica of an ancient Egyptian tomb that contains two authentic burial chambers that date to 2400 B.C., 23 human and 30 animal mummies, artifacts from everyday life and mummification rituals. 
 
 ### Shaw's Crab House Lunch Special
 
@@ -96,7 +93,7 @@ The front of The Art Institute of Chicago
 [A Sunday on La Grande Jatte](https://www.artic.edu/artworks/27992/a-sunday-on-la-grande-jatte-1884) by Georges Seurat
 
 ![](djangocon-us-2025-recap-images/art-institute-of-chicago-room.jpg)
-Gallery 211, one of my favorite rooms
+[Gallery 211](https://www.artic.edu/galleries/2147483626/gallery-211), one of my favorite rooms
 
 The [Thorne Minature Rooms](https://www.artic.edu/highlights/12/thorne-miniature-rooms) in the basement are also a must see. 
 
