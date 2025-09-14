@@ -151,9 +151,19 @@ Stacey's talk
 
 ### Keynote: Lateral Thinking with Weathered Technology: How The Nintendo Philosophy Applies to Modern Web Development
 
+<!--
+https://www.linkedin.com/feed/update/urn:li:activity:7372092845651873792/
+https://github.com/bigskysoftware/htmx/blob/master/CHANGELOG.md#207---2025-09-08
+https://github.com/adamchainz/django-htmx
+-->
+
 ### Community Update: Django Events Foundation North America
 
 ### Django for AI: Deploying Machine Learning Models with Django
+
+<!--
+https://wsvincent.com/django-for-ai-djangocon/
+-->
 
 ### Django's GeneratedField by example
 
@@ -162,6 +172,16 @@ https://www.paulox.net/2025/09/08/djangocon-us-2025/
 -->
 
 ### Deploy Django: GitOps & Kubernetes Made Easy
+
+<!--
+https://github.com/sixfeetup/2025_PyOhio_DeployDjango
+https://sixfeetup.github.io/2025_PyOhio_DeployDjango/#/deploy-django-gitops-kubernetes-made-easy
+
+https://github.com/sixfeetup/djangocon10
+https://github.com/sixfeetup/djangocon10/tree/main/docs
+https://github.com/sixfeetup/djangocon10/blob/main/docs/project-overview.md
+https://github.com/sixfeetup/djangocon10/blob/main/docs/architecture.md
+-->
 
 ### How to Enjoy Debugging in Production
 
@@ -283,6 +303,7 @@ Mild waves rolling in
 
 <!--
 https://2025.djangocon.us/talks/keynote-wednesday/
+https://github.com/marlenezw/djangocon-25-keynote
 -->
 
 ### High Performance Django at Ten: Old Tricks & New Picks
