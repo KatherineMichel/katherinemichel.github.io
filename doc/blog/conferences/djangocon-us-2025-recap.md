@@ -422,6 +422,9 @@ https://2025.djangocon.us/talks/high-performance-django-at-ten-old-tricks-new-pi
 https://2025.djangocon.us/talks/panel-discussion-details/
 -->
 
+<!--
+https://2025.djangocon.us/talks/free-threaded-django/
+-->
 
 ### What a Decade!
 
