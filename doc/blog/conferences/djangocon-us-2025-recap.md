@@ -410,7 +410,7 @@ Once upon a time, Wharton was a Coldfusion and Microsoft SQL Server Shop. In 201
 
 Wharton created the Development Technology Assessment Process (DevTAP), a series of 200 questions to score that would be used to identify a new technology. The process was designed to be iterative so that decisions could be revisited and re-assessed. 
 
-Wharton chose Python/Django as the new framework, but the only community question had been: How active is the tool on Stackoverflow? 
+Wharton chose Python/Django as the new framework, but the only community question had been: How active is the tool on Stack Overflow? 
 
 They got lucky that the community was morally and ethically aligned with them. 
 
