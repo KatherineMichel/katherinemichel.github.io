@@ -193,6 +193,47 @@ https://wsvincent.com/django-for-ai-djangocon/
 https://www.paulox.net/2025/09/08/djangocon-us-2025/
 -->
 
+The Django performance and optimization docs are a great resource. 
+
+Typically, computing at a lower level is faster than computing at a higher level. 
+
+
+<!--
+Django’s GeneratedField by Example
+Paolo
+Django 5.0
+Generated db fields, computed from other fields
+All db backends support
+Django Girls Workshop
+
+RandomUUID for Postgres
+Django Europe 2017- Markus  and Mark (Smith) helped him
+Code, tests docs- polish it
+
+Bring back to Django something he learned from Zope
+Generated Columns feature already existed (slide)
+No need for trigger or pattern code
+References- see slide
+
+
+Paolo made a small code PoC. 
+
+
+Django dev mailing list
+Sent email proposing idea with reference
+Issue #31300 that already existed and was stale
+Jpnauta PR #16417
+LilyAcorn
+#16860
+List of examples, edge cases
+See his blog for posts about it
+GeneratedField 4 slides
+
+There is only one example in the docs. 
+
+Examples:
+-->
+
 ### Deploy Django: GitOps & Kubernetes Made Easy
 
 <!--
