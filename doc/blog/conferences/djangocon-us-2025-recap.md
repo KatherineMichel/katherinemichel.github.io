@@ -170,7 +170,7 @@ DjangoCon US 2026 needs:
 * Organizers- anyone can help (email hello@defna.org)
 * Sponsors- helps lower ticket prices, which have recently increased
 
-DEFNA has put out a [Call for Venue Proposals](https://www.defna.org/announcements/2025/9/10/djangocon-us-call-for-venue-proposal-2027/) for DjangoCon US 2027-28. If you have questions, feel free to talk to Peter Grandstaff or Keanya Phelps, both of whom have had their proposal be accepted. 
+DEFNA has put out a [Call for Venue Proposals](https://www.defna.org/announcements/2025/9/10/djangocon-us-call-for-venue-proposal-2027/) for DjangoCon US 2027-28. If you have questions, feel free to talk to Peter Grandstaff or Keanya Phelps, both of whom have had their proposal accepted. 
 
 Sprints are a way to contribute back to Django through code, docs, community. Lilian of Djangonaut Space talked about how to get started. 
 
