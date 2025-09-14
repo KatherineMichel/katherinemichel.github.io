@@ -317,10 +317,12 @@ I also crossed an item off my bucket list: taking an ice cream selfie with Maria
 ![](djangocon-us-2025-recap-images/amorino-me-and-mariatta.png)
 Mariatta and me! Mariatta's gelato was flower-shaped. (photo credit: Mariatta)
 
-Mariatta was the first woman CPython Core Developer. She was featured in the new [Python documentary](https://youtu.be/GfH4QL4VqJ0?si=doJ39S2O_Tuc6Gau). Her impact is appreciated, and her voice clearly resonates with the community. Mariatta also gave a talk at the conference [Reverse engineering the QR code generator and URL forwarder service](https://2025.djangocon.us/talks/reverse-engineering-the-qr-code-generator-and-url-forwarder-service/). 
+Mariatta was the first woman CPython Core Developer. She was featured in the new [Python documentary](https://youtu.be/GfH4QL4VqJ0?si=doJ39S2O_Tuc6Gau). Her impact is appreciated, and her voice clearly resonates with the community. 
 
 ![](djangocon-us-2025-recap-images/python-documentary-mariatta.png)
 130 likes, 16 reposts on LinkedIn alone as of the writing of this
+
+Mariatta also gave a talk at the conference [Reverse engineering the QR code generator and URL forwarder service](https://2025.djangocon.us/talks/reverse-engineering-the-qr-code-generator-and-url-forwarder-service/). 
 
 [Ice cream flash mob video](https://youtu.be/IGVAT4hLc9I) (video credit: Mariatta)
 
