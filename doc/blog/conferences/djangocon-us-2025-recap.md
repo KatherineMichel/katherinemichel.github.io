@@ -368,7 +368,7 @@ News
 * Proposed DSF Working Groups: DEI, AI
 * DSF Board elections are coming up later this fall
 
-[Django 6.0](https://docs.djangoproject.com/en/dev/releases/6.0/) freeze and sprints- what will land
+[Django 6.0](https://docs.djangoproject.com/en/dev/releases/6.0/) freeze and sprints- what will land:
 * [django-csp](https://django-csp.readthedocs.io/en/latest/) into core
 * Template partials (important to HTMX fans)
 * Async tasks framework
