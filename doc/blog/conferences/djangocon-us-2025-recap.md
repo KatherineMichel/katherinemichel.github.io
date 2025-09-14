@@ -239,7 +239,7 @@ Mariatta and me! Mariatta's gelato was flower-shaped. (photo credit: Mariatta)
 Mariatta was the first woman CPython Core Developer. She was featured in the new [Python documentary](https://youtu.be/GfH4QL4VqJ0?si=doJ39S2O_Tuc6Gau). Her impact is appreciated, and her voice clearly resonates with the community. 
 
 ![](djangocon-us-2025-recap-images/python-documentary-mariatta.png)
-130 likes, 16 reposts as of the writing of this
+130 likes, 16 reposts on LinkedIn alone as of the writing of this
 
 [Ice cream flash mob video](https://youtu.be/IGVAT4hLc9I) (video credit: Mariatta)
 
