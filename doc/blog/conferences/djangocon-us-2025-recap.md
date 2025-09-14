@@ -414,7 +414,7 @@ Wharton chose Python/Django as the new framework, but the only community questio
 
 They got lucky that the community was morally and ethically aligned with them. 
 
-This community walks to the walk when it comes to DEI.
+This community walks the walk when it comes to DEI.
 
 Tim was blown away that Russell Keith-Magee opened up to the community about his personal battles with depression. If someone as accomplished as Russell could be vulnerable, so can we. We all have a deep-rooted fear that we won't be accepted. 
 
