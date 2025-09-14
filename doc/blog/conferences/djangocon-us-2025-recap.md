@@ -159,7 +159,23 @@ https://github.com/bigskysoftware/htmx/blob/master/CHANGELOG.md#207---2025-09-08
 https://github.com/adamchainz/django-htmx
 -->
 
+
 ### Community Update: Django Events Foundation North America
+
+What drives DEFNA Board Members? The people. 
+
+People get involved, grow, expand, make the world better by helping others. Consider how you are reinvesting in the community. It's up to us. 
+
+DjangoCon US 2026 needs:
+* Organizers- anyone can help (email hello@defna.org)
+* Sponsors- helps lower ticket prices, which have recently increased
+
+DEFNA has put out a [Call for Venue Proposals](https://www.defna.org/announcements/2025/9/10/djangocon-us-call-for-venue-proposal-2027/) for DjangoCon US 2027-28. If you have questions, feel free to talk to Peter Grandstaff or Keanya Phelps, both of whom have had their proposal be accepted. 
+
+Sprints are a way to contribute back to Django through code, docs, community. Lilian of Djangonaut Space talked about how to get started. 
+
+Check out Sara Boyce's [Vulture Method](https://www.youtube.com/shorts/D6QHet5U82U). 
+
 
 ### Django for AI: Deploying Machine Learning Models with Django
 
@@ -332,9 +348,9 @@ Based on an idea Paolo documented in his blog post [My Django active developers 
 
 On the subject of convincing your employer to let you attend, Paolo suggested sharing Łukasz Langa's recent blog post [Sprints are the best part of a conference](https://pyfound.blogspot.com/2025/09/sprints-are-best-part-of-conference.html). "You're getting for free what you wouldn't be able to buy if you tried."
 
-Jacob Kaplan-Moss referenced his [DjangoCon US 2024 talk](https://2024.djangocon.us/talks/if-we-had-1000000-what-could-the-dsf-do-with-4x-its-budget/). Typically, the DSF has an $18,000 surplus. This year will be a loss. The DSF has decided to make some bets. For example, the fellow role has become increasingly unsustainable. The DSF will need the help of the community to make these bets permanent. 
+Jacob Kaplan-Moss referenced his [DjangoCon US 2024 talk](https://2024.djangocon.us/talks/if-we-had-1000000-what-could-the-dsf-do-with-4x-its-budget/). Typically, the DSF has an $18,000 surplus. This year will be a loss. The DSF has decided to make some bets. For example, the fellow role has become increasingly unsustainable. The DSF will need the help of the community to make these bets permanent. Consider supporting the DSF. 
 
-If you have helped the community in some way, you may be eligible to become a DSF Individual Member. You can be nominated or self-nominate. 
+If you have helped the Django community in some way, you may be eligible to become a DSF Individual Member. You can be nominated or self-nominate. 
 
 
 ### High Performance Django at Ten: Old Tricks & New Picks
