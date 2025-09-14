@@ -257,12 +257,8 @@ https://drive.google.com/file/d/1y-lwJZyiANhGvBl7WZAkz0jBx0fW-xPp/view
 
 Outgoing PSF Chair Dawn Wages gave the update. 
 
-Dawn is special to Peter Grandstaff. She urged him to go to DjangoCon US, and here he is. :) 
-
-She cares about the invisible overhead in Python Community. 
-
 Three priorities:
-* The deadline to vote in the 2025 Board Election is approaching. If you want to vote next year, become a member: spend 5 hours/month on average investing or pay (sliding scale is available)
+* The deadline to vote in the 2025 Board Election is approaching. If you want to vote next year, become a member: spend 5 hours/month on average investing in the community or pay (sliding scale is available)
 * [The PSF Grants program was temporarily paused](https://www.python.org/psf/grants/) after hitting the funding cap, which was a shock to the community
 * The PSF will have a fundraiser soon
 
