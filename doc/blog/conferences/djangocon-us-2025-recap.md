@@ -28,9 +28,7 @@ Disclaimer: the content of this post is a reflection of my career journey and no
 
 DjangoCon US took place in Chicago, Illinois from September 8-12. It was a stellar experience. 
 
-In Ferris Bueller's Day Off, one of my favorite movies, after a day of adventures across Chicago, Cameron famously tells Ferris that [he doesn't think he's seen anything good](https://youtu.be/o0iVd8b5QyA?si=wxTvTEL98johebOB). 
-
-I am happy to report that I saw everything good!
+Throughout the experience, I couldn't help but think of the 1986 movie Ferris Bueller's Day Off, widely considered to be a "love letter to Chicago" by director John Hughes and one of my favorite movies. After a day of adventures across Chicago, Cameron famously tells Ferris that [he doesn't think he has seen anything good](https://youtu.be/o0iVd8b5QyA?si=wxTvTEL98johebOB). I am happy to report that I saw everything good!
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
