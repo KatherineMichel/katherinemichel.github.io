@@ -134,6 +134,7 @@ Taking the Red Line south
 ![](djangocon-us-2025-recap-images/chicago-river-daylight.jpg)
 Enjoying the view along the Chicago River on the way to the nearby venue
 
+
 ### Orientation
 
 ### Opening Remarks (Monday)
@@ -203,6 +204,7 @@ https://github.com/sixfeetup/djangocon10/blob/main/docs/architecture.md
 
 ### How to Enjoy Debugging in Production
 
+
 ### Extras
 
 ![](djangocon-us-2025-recap-images/djangocon-us-python-distilled-signed.jpg)
@@ -233,6 +235,7 @@ https://drive.google.com/file/d/1y-lwJZyiANhGvBl7WZAkz0jBx0fW-xPp/view
 
 ### Community Update: Python Software Foundation
 
+
 ### Winemaking with Mutable Event Sourcing in Django
 
 <!--
@@ -254,6 +257,7 @@ https://docs.google.com/presentation/d/1tzdzDd7Pmh-wdyfJhTgQyl6bFe-4JXpf5ISVpcIw
 ### Cutting latency in half: What actually worked—and what didn’t
 
 ### Django as a Database Documentation Tool: The Hidden Power of Model Comments
+
 
 ## Extras
 
@@ -317,6 +321,7 @@ I knew Wednesday morning would likely be my last chance to make the short walk f
 ![](djangocon-us-2025-recap-images/oak-street-beach.jpg)
 Mild waves rolling in
 
+
 ### Deep-Dive Day
 
 ### Opening Remarks (Wednesday)
@@ -374,15 +379,19 @@ https://2025.djangocon.us/talks/what-a-decade/
 ### Extras
 
 ![](djangocon-us-2025-recap-images/djangocon-us-me-and-jon.jpeg)
+
 ![](djangocon-us-2025-recap-images/djangocon-africa-raffle.jpg)
+Led by Ngazetungue Muheue, Tim Schilling, and others, Black Python Devs was able to match last year's DjangoCon US fundraising by accepting donations for a giveaway of DjangoCon Africa art made in Tanzania. The funds are used to help organize and support community events in the Black Python Devs communities. 
+
+[Jay Miller celebrated this](https://www.linkedin.com/feed/update/urn:li:activity:7372095328008966144/) as a important milestone in organizational continuity as leaders step down. Jay addressed subjects including exhaustion and a desire for change last year in his blog post [How Long Should We Be in Charge](https://kjaymiller.com/blog/how-long-should-we-be-in-charge.html).  
+
+If you want to make a donation to Black Python Devs, you can at: https://blackpythondevs.com/support
 
 <!--
-https://www.linkedin.com/feed/update/urn:li:activity:7372095328008966144/
--->
-
 ### Conference Conclusion
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
+-->
 
 ## Post-Conference
 
