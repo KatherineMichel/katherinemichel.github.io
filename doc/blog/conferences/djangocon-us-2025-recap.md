@@ -187,10 +187,17 @@ Note to self: check out Sara Boyce's [Vulture Method](https://www.youtube.com/sh
 https://wsvincent.com/django-for-ai-djangocon/
 -->
 
-### Django's GeneratedField by example
+### Django's GeneratedField by Example
 
 <!--
+Django 5.0
+https://docs.djangoproject.com/en/5.2/releases/5.0/
 https://www.paulox.net/2025/09/08/djangocon-us-2025/
+Paolo
+
+https://www.paulox.net/2023/11/07/database-generated-columns-part-1-django-and-sqlite/
+https://www.paulox.net/2023/11/24/database-generated-columns-part-2-django-and-postgresql/
+https://www.paulox.net/2023/12/11/database-generated-columns-part-3-geodjango-and-postgis/
 -->
 
 The Django performance and optimization docs are a great resource. 
@@ -199,16 +206,8 @@ Typically, computing at a lower level is faster than computing at a higher level
 
 
 <!--
-Django’s GeneratedField by Example
-Paolo
-Django 5.0
 Generated db fields, computed from other fields
 All db backends support
-Django Girls Workshop
-
-RandomUUID for Postgres
-Django Europe 2017- Markus  and Mark (Smith) helped him
-Code, tests docs- polish it
 
 Bring back to Django something he learned from Zope
 Generated Columns feature already existed (slide)
@@ -223,11 +222,11 @@ Django dev mailing list
 Sent email proposing idea with reference
 Issue #31300 that already existed and was stale
 Jpnauta PR #16417
+https://github.com/django/django/pull/16417
+
 LilyAcorn
 #16860
-List of examples, edge cases
-See his blog for posts about it
-GeneratedField 4 slides
+https://github.com/django/django/pull/16860
 
 There is only one example in the docs. 
 
