@@ -426,21 +426,17 @@ Tim's alcoholism was progressing. He had intended to go a full month without dri
 
 Frank Wiles bought him his last drink ever. 
 
-Jacob Kaplan-Moss gave a [keynote](https://www.youtube.com/watch?v=hIJdFxYlEKE) in which he a comment by Lynn Root that we'd know when diversity efforts have been successful when we see a whole bunch of average women programmers. 
+Jacob Kaplan-Moss gave a [keynote](https://www.youtube.com/watch?v=hIJdFxYlEKE) in which he quoted Lynn Root that we'd know when diversity efforts have been successful when we see a whole bunch of average women programmers. The talk has become a part of an amazing confluence of events that changed Tim's life forever. 
 
-The talk has become a part of an amazing confluence of events that changed Tim's life forever. 
+He had no idea it was his first day sober. Returning home, he found his family there to stage an intervention. He accepted the help that was being offered. 
 
-He had no idea it was his first day sober. Returning home, he found his family there to stage an intervention. He accepted the help that was being offered. He had to be open that he was being intentional to no longer drink. 
+He had to be open that he was being intentional to no longer drink. Tim was assured that recovery is part of DjangoCon US diversity initatives and welcome. Steps were taken to de-emphasize alcohol, and local recovery groups were added to the conference website. 
 
-Tim was assured that recovery is part of DjangoCon US diversity initatives and welcome. Steps were taken to de-emphasize alcohol, and local recovery groups were added to the website. 
-
-Tim was going to focus on tech in his talk, but that changed on Friday when he found out his co-worker Lindsey Reese has passed away. 
+Tim was going to focus on tech in his talk, but that changed on Friday when he found out his co-worker Lindsay Rees has passed away. 
 
 He does not believe he would be alive if not for the support he has gotten. 
 
-The community is willing to have difficult conversations and help. 
-
-"You matter. You are valued."
+The community is willing to have difficult conversations and help. "You matter. You are valued."
 
 ### Extras
 
