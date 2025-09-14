@@ -147,6 +147,8 @@ https://2025.djangocon.us/schedule/
 
 ![](djangocon-us-2025-recap-images/djangocon-us-hey-we-dont-do-that-here.jpg)
 Stacey's talk
+
+Caktus
 -->
 
 ### Keynote: Lateral Thinking with Weathered Technology: How The Nintendo Philosophy Applies to Modern Web Development
@@ -222,6 +224,10 @@ https://github.com/innovint/djangocon-2025-mutable-event-sourcing
 -->
 
 ### Beyond Rate Limiting: Building an Active Learning Defense System in Django
+
+<!--
+https://github.com/aayushgauba/aiwaf
+-->
 
 ### Hidden Dangers Of AI In Developer Workflows: Navigating Security Risks with Human Insight
 
@@ -306,6 +312,31 @@ https://2025.djangocon.us/talks/keynote-wednesday/
 https://github.com/marlenezw/djangocon-25-keynote
 -->
 
+
+### Community Update: Django Software Foundation
+
+Thibaud Colas, Jacob Kaplan-Moss, Frank Wiles, and Paolo Melchiorre gave the update. 
+
+News
+* New Django Fellow Jacob Walls
+* New DSF Working Groups: social media, events
+* Proposed DSF Working Groups: DEI, AI
+* DSF Board elections are coming up later this fall
+
+[Django 6.0](https://docs.djangoproject.com/en/dev/releases/6.0/) freeze and sprints- what will land
+* [django-csp](https://django-csp.readthedocs.io/en/latest/) into core
+* Template partials (important to HTMX fans)
+* Async tasks framework
+
+Based on an idea Paolo documented in his blog post [My Django active developers Sprints proposal](https://www.paulox.net/2022/10/26/my-django-active-developers-sprints-proposal/), Carlton Gibson and Paolo have begun to organize a twice a year Django development sprint called Django on the Med in Palafrugell, Spain and Pescara, Italy. The first one will taken place October 7-9, 2025, in Palafrugell Spain. If all goes well, they hope to organize them around the world. See the [Django on the Med](https://djangomed.eu/) website for info about their serious goals and how to attend. 
+
+On the subject of convincing your employer to let you attend, Paolo suggested sharing Łukasz Langa's recent blog post [Sprints are the best part of a conference](https://pyfound.blogspot.com/2025/09/sprints-are-best-part-of-conference.html). "You're getting for free what you wouldn't be able to buy if you tried."
+
+Jacob Kaplan-Moss referenced his [DjangoCon US 2024 talk](https://2024.djangocon.us/talks/if-we-had-1000000-what-could-the-dsf-do-with-4x-its-budget/). Typically, the DSF has an $18,000 surplus. This year will be a loss. The DSF has decided to make some bets. For example, the fellow role has become increasingly unsustainable. The DSF will need the help of the community to make these bets permanent. 
+
+If you have helped the community in some way, you may be eligible to become a DSF Individual Member. You can be nominated or self-nominate. 
+
+
 ### High Performance Django at Ten: Old Tricks & New Picks
 
 <!--
@@ -328,6 +359,10 @@ https://2025.djangocon.us/talks/what-a-decade/
 
 ![](djangocon-us-2025-recap-images/djangocon-us-me-and-jon.jpeg)
 ![](djangocon-us-2025-recap-images/djangocon-africa-raffle.jpg)
+
+<!--
+https://www.linkedin.com/feed/update/urn:li:activity:7372095328008966144/
+-->
 
 ### Conference Conclusion
 
