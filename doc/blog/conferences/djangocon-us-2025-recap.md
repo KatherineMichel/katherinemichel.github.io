@@ -492,7 +492,7 @@ Thank you to everyone who made the conference unforgettable.
 
 DjangoCon US 2026 will take place in Chicago from September 14-18. I am super-excited to go back! 
 
-Continue scrolling for more post-conference fun. 
+Continue scrolling for more post-conference fun and sightseeing. 
 
 ![](djangocon-us-2025-recap-images/djangocon-us-my-badge.jpg)
 
