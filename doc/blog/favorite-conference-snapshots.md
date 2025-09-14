@@ -10,6 +10,17 @@ tags: djangocon, pycon, pytexas, pycascades, github universe, strange loop, pygo
 
 Although these snapshots do not include all of the people who are special to me, they give a taste of the fun and serendipity of my conference travels over the years. In the Python community, as they say, the world is your oyster. A huge thank you to everyone who has made these incredible experiences possible over the years. 
 
+## DjangoCon US 2025
+
+September 8-12, Chicago, Illinois
+
+![](favorite-conference-snapshots/djangocon-us-2025-me-afi-and-velda.png)
+![](favorite-conference-snapshots/djangocon-us-2025-me-jeff-marlene-paolo.png)
+![](favorite-conference-snapshots/djangocon-us-2025-amorino-me-and-mariatta.png)
+![](favorite-conference-snapshots/djangocon-us-2025-amorino-ice-cream-flash-mob.jpeg)
+![](favorite-conference-snapshots/djangocon-us-2025-me-and-jon.jpeg)
+![](favorite-conference-snapshots/djangocon-us-2025-giordanos-me-jacob-tim-mariatta.png)
+ 
 ## DjangoCon US 2024
 
 September 22-27, Durham, North Carolina
