@@ -252,7 +252,43 @@ Let's sustain Django and make the world a better place.
 https://drive.google.com/file/d/1y-lwJZyiANhGvBl7WZAkz0jBx0fW-xPp/view
 -->
 
+
 ### Community Update: Python Software Foundation
+
+Outgoing PSF Chair Dawn Wages gave the update. 
+
+Dawn is special to Peter Grandstaff. She urged him to go to DjangoCon US, and here he is. :) 
+
+She cares about the invisible overhead in Python Community. 
+
+Three priorities:
+* The deadline to vote in the 2025 Board Election is approaching. If you want to vote next year, become a member: spend 5 hours/month on average investing or pay (sliding scale is available)
+* [The PSF Grants program was temporarily paused](https://www.python.org/psf/grants/) after hitting the funding cap, which was a shock to the community
+* The PSF will have a fundraiser soon
+
+What qualifies for the 5 hours?
+* Volunteering in the community
+* Running a local meetup
+* Contributing to open source
+* Taking part in Djangonaut Space, Wagtail
+* Being a DjangoCon US organizer
+* Becoming a member of a working group
+
+Outside of voting, why care? Take a look at the annual impact report. 
+
+The Executive Director Deb Nicholson is the CEO of the PSF. The PSF Chair is the highest person who represents the community. Healthy friction is normal. The chair values consensus, finding a path forward. 
+
+What lessons can the PSF could take away from the DSF and vice versa?
+
+Django is good at DEI, consistent community support, healthy conversations with the community about feature additions. 
+
+Professionalism is a goal for the DSF, but difficult to reach. Python has been able to professionalize the organization, hire more people, take some burden off volunteers, but that also puts up a wall for volunteers to understand what is going on. 
+
+How much can we afford and what are the responsibilities? OS leaders can help shepherd the DSF into the nest chapers. 
+
+PyCon US is the main source of funding for the PSF, but we are trying to move away from that. DEFNA manages DjangoCon US. 
+
+How to get involved at a local level? Find a PuG (Python User Group on meetup.com. Show up, ask questions, volunteer to pick up the pizza, get to know what the org does. 
 
 
 ### Winemaking with Mutable Event Sourcing in Django
@@ -342,9 +378,6 @@ I knew Wednesday morning would likely be my last chance to make the short walk f
 ![](djangocon-us-2025-recap-images/oak-street-beach.jpg)
 Mild waves rolling in
 
-
-### Deep-Dive Day
-
 ### Opening Remarks (Wednesday)
 
 In addition to housekeeping, Afi reminded us to seize the day and make new friends. 
@@ -399,7 +432,6 @@ https://2025.djangocon.us/talks/panel-discussion-details/
 
 <!--
 https://2025.djangocon.us/talks/what-a-decade/
-Russel's talk
 -->
 
 Tim told the audience, you are my people, people trying to be a better version of themselves everyday and make the world a better place. 
@@ -450,11 +482,21 @@ Black Python Devs Founder [Jay Miller celebrated this](https://www.linkedin.com/
 
 If you want to make a donation to Black Python Devs, you can at their [support page](https://blackpythondevs.com/support). 
 
-<!--
 ### Conference Conclusion
 
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
+<!--
+![](djangocon-us-2025-recap-images/djangocon-us-puzzle-swag.jpg)
 -->
+
+Thank you to everyone who made the conference unforgettable. 
+
+DjangoCon US 2026 will take place in Chicago from September 14-18. I am super-excited to go back! 
+
+Continue scrolling for more post-conference fun. 
+
+![](djangocon-us-2025-recap-images/djangocon-us-my-badge.jpg)
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Post-Conference
 
@@ -487,19 +529,6 @@ Deep-dish, spinach pizza
 
 ![](djangocon-us-2025-recap-images/giordanos-me-jacob-tim-mariatta.png)
 Me, Jacob, Tim, Mariatta
-
-## In Closing
-
-![](djangocon-us-2025-recap-images/djangocon-us-puzzle-swag.jpg)
-
-<!--
-Worked on website
-DjangoCon US will be in Chicago again next year. 
--->
-
-![](djangocon-us-2025-recap-images/djangocon-us-my-badge.jpg)
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## More Sight Seeing!
 
