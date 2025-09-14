@@ -416,11 +416,11 @@ They got lucky that the community was morally and ethically aligned with them.
 
 This community walks the walk when it comes to DEI.
 
-Tim was blown away that Russell Keith-Magee opened up to the community about his personal battles with depression. If someone as accomplished as Russell could be vulnerable, so can we. We all have a deep-rooted fear that we won't be accepted. 
+Tim was blown away that Russell Keith-Magee opened up to the community about his [personal battles with depression](https://pyvideo.org/djangocon-us-2015/i-am-a-doctor-tw-by-russell-keith-magee.html). If someone as accomplished as Russell could be vulnerable, so can we. We all have a deep-rooted fear that we won't be accepted. 
 
 Tim shared his personal journey with alcoholism. 
 
-Tim had brought Han Dynasty food to Pycon 2015 in Montreal as a bribe to host DjangoCon US in Philly. 
+Tim had brought Han Dynasty food to PyCon 2015 in Montreal as a bribe to host DjangoCon US in Philly. 
 
 Tim's alcoholism was progressing. He had intended to go a full month without drinking, but never had. 
 
