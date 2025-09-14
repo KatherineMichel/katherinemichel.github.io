@@ -262,15 +262,14 @@ Three priorities:
 * [The PSF Grants program was temporarily paused](https://www.python.org/psf/grants/) after hitting the funding cap, which was a shock to the community
 * The PSF will have a fundraiser soon
 
-What qualifies for the 5 hours?
-* Volunteering in the community
+What qualifies for the 5 hours? Among other things: 
 * Running a local meetup
 * Contributing to open source
 * Taking part in Djangonaut Space, Wagtail
 * Being a DjangoCon US organizer
-* Becoming a member of a working group
+* Becoming a member of a PSF [Working Group](https://www.python.org/psf/workgroups/) or [DSF Working Group](https://github.com/django/dsf-working-groups) (see Dawn's [blog post](https://dawnwages.info/bajoran-engineer/2023/06/07/python-software-foundation-working-groups-work-groups/), too)
 
-Outside of voting, why care? Take a look at the annual impact report. 
+Outside of voting, why care? Take a look at the [PSF Annual Impact Report](https://www.python.org/psf/annual-report/2024/). 
 
 The Executive Director Deb Nicholson is the CEO of the PSF. The PSF Chair is the highest person who represents the community. Healthy friction is normal. The chair values consensus, finding a path forward. 
 
@@ -284,7 +283,7 @@ How much can we afford and what are the responsibilities? OS leaders can help sh
 
 PyCon US is the main source of funding for the PSF, but we are trying to move away from that. DEFNA manages DjangoCon US. 
 
-How to get involved at a local level? Find a PuG (Python User Group on meetup.com. Show up, ask questions, volunteer to pick up the pizza, get to know what the org does. 
+How to get involved at a local level? Find a [PuG (Python User Group) on meetup.com](https://www.meetup.com/pro/python-software-foundation-meetups/). Show up, ask questions, volunteer to pick up the pizza, get to know what the org does. 
 
 
 ### Winemaking with Mutable Event Sourcing in Django
