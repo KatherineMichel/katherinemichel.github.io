@@ -157,6 +157,10 @@ Stacey's talk
 
 ### Django's GeneratedField by example
 
+<!--
+https://www.paulox.net/2025/09/08/djangocon-us-2025/
+-->
+
 ### Deploy Django: GitOps & Kubernetes Made Easy
 
 ### How to Enjoy Debugging in Production
@@ -185,13 +189,25 @@ The bar area before the room soon reached full-capacity.
 
 ### Keynote: All The Ways To Use Django
 
+<!--
+https://drive.google.com/file/d/1y-lwJZyiANhGvBl7WZAkz0jBx0fW-xPp/view
+-->
+
 ### Community Update: Python Software Foundation
 
 ### Winemaking with Mutable Event Sourcing in Django
 
+<!--
+https://github.com/innovint/djangocon-2025-mutable-event-sourcing
+-->
+
 ### Beyond Rate Limiting: Building an Active Learning Defense System in Django
 
 ### Hidden Dangers Of AI In Developer Workflows: Navigating Security Risks with Human Insight
+
+<!--
+https://docs.google.com/presentation/d/1tzdzDd7Pmh-wdyfJhTgQyl6bFe-4JXpf5ISVpcIwVfc/edit
+-->
 
 ### Cutting latency in half: What actually worked—and what didn’t
 
@@ -312,7 +328,9 @@ Our guide, Jai. When we started out, it was daylight, by the end, it was night. 
 
 After the boat trip, several of us stopped to eat at Navy Pier Giordano's. 
 
-Earlier in the week, I'd had a [Lou Malnati's](https://www.loumalnatis.com/) deep-dish, Chicago Classic with sausage, mozzarella, and tomato sauce on a Buttercrust™. The pizza was tasty, but it was surprisingly watery, and the crust was difficult to cut. [Giordano's](https://giordanos.com/) pizza sauce was a bit too sweet for me. I had delicious fettuccini alfredo instead. 
+Earlier in the week, I'd had a [Lou Malnati's](https://www.loumalnatis.com/) deep-dish, Chicago Classic with sausage, mozzarella, and tomato sauce on a Buttercrust™. The pizza was tasty, but it was surprisingly watery, and the crust was difficult to cut. [Giordano's](https://giordanos.com/) pizza sauce was a bit too sweet for me. I am Goldilocks. Maybe next visit, I will find my perfect deep-dish pizza. 
+
+I had delicious fettuccini alfredo instead. 
 
 ![](djangocon-us-2025-recap-images/giordanos-pizza-crowd.jpg)
 Hopping on a Wednesday night!
