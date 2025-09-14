@@ -223,6 +223,7 @@ After the conference, I headed over to the [Broken Shaker Bar](https://freehandh
 ![](djangocon-us-2025-recap-images/broken-shaker-bar.jpg)
 The bar area before the room soon reached full-capacity. 
 
+
 ## Tuesday
 
 ### Opening Remarks (Tuesday)
@@ -383,7 +384,7 @@ https://2025.djangocon.us/talks/what-a-decade/
 ![](djangocon-us-2025-recap-images/djangocon-africa-raffle.jpg)
 Led by Ngazetungue Muheue, Tim Schilling, and others, Black Python Devs was able to match last year's DjangoCon US fundraising by accepting donations for a giveaway of DjangoCon Africa art made in Tanzania. The funds are used to help organize and support community events in the Black Python Devs communities. 
 
-[Jay Miller celebrated this](https://www.linkedin.com/feed/update/urn:li:activity:7372095328008966144/) as a important milestone in organizational continuity as leaders step down. Jay addressed subjects including exhaustion and a desire for change last year in his blog post [How Long Should We Be in Charge](https://kjaymiller.com/blog/how-long-should-we-be-in-charge.html).  
+Black Python Devs Founder [Jay Miller celebrated this](https://www.linkedin.com/feed/update/urn:li:activity:7372095328008966144/) as a important milestone in organizational continuity as leaders step down. Jay addressed subjects including exhaustion and a desire for change last year in his blog post [How Long Should We Be in Charge](https://kjaymiller.com/blog/how-long-should-we-be-in-charge.html).  
 
 If you want to make a donation to Black Python Devs, you can at: https://blackpythondevs.com/support
 
