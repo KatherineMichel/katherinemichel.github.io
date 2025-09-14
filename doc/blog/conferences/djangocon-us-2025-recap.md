@@ -254,7 +254,7 @@ https://github.com/sixfeetup/djangocon10/blob/main/docs/architecture.md
 Chicagoan David Beazley is a well-known author and teacher in the Python community who offers [advanced programming courses](https://www.dabeaz.com/). I first met Dave at PyGotham 2019 after his keynote and was excited to reconnect. I scored a signed copy of his book [Python Distilled](https://www.oreilly.com/library/view/python-distilled/9780134173399/)! 
 
 ![](djangocon-us-2025-recap-images/djangocon-us-me-afi-and-velda.png)
-Me and my sweet friends Afi and Velda. They surprised me with gifts to show their appreciation for me. I felt so special! Afi did a great job managing program and giving opening remarks and Velda serving on the DEFNA Board and moderating the Two Decades of Django panel. 
+Me and my sweet friends Afi and Velda. They surprised me with gifts to show their appreciation for me. I felt so special! Afi did a great job managing program and giving opening remarks and Velda serving on the DEFNA Board and moderating the Two Decades of Django panel. (photo credit: Dawn Wages)
 
 ![](djangocon-us-2025-recap-images/djangocon-us-gifts-from-afi-and-velda.jpg)
 Gifts from Afi and Velda: beautiful flowers, Harrods spiced salted caramel shortbread, a British keychain, a postcard with handritten messages
