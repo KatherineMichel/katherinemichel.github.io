@@ -394,15 +394,58 @@ https://2025.djangocon.us/talks/high-performance-django-at-ten-old-tricks-new-pi
 https://2025.djangocon.us/talks/panel-discussion-details/
 -->
 
+
 ### What a Decade!
 
 <!--
 https://2025.djangocon.us/talks/what-a-decade/
+Russel's talk
 -->
+
+Tim told the audience, you are my people, people trying to be a better version of themselves everyday and make the world a better place. 
+
+Tim is a Principal Engineer at Wharton Research Data Services who loves ice cream. 
+
+Once upon a time, Wharton was a Coldfusion and Microsoft SQL Server Shop. In 2013, technical debt was mounting. Wharton needed to find something new. 
+
+Wharton created the Development Technology Assessment Process (DevTAP), a series of 200 questions to score that would be used to identify a new technology. The process was designed to be iterative so that decisions could be revisited and re-assessed. 
+
+Wharton chose Python/Django as the new framework, but the only community question had been: How active is the tool on Stackoverflow? 
+
+They got lucky that the community was morally and ethically aligned with them. 
+
+This community walks to the walk when it comes to DEI.
+
+Tim was blown away that Russell Keith-Magee opened up to the community about his personal battles with depression. If someone as accomplished as Russell could be vulnerable, so can we. We all have a deep-rooted fear that we won't be accepted. 
+
+Tim shared his personal journey with alcoholism. 
+
+Tim had brought Han Dynasty to food to Pycon 2015 in Montreal as a bribe to host DjangoCon US in Philly. 
+
+Tim's alcoholism was progressing. He had intended to go a full month without drinking, but never had. 
+
+Frank Wiles bought him his last drink ever. 
+
+Jacob Kaplan-Moss gave a [keynote](https://www.youtube.com/watch?v=hIJdFxYlEKE) in which he a comment by Lynn Root that we'd know when diversity efforts have been successful when we see a whole bunch of average women programmers. 
+
+The talk has become a part of an amazing confluence of events that changed Tim's life forever. 
+
+He had no idea it was his first day sober. Returning home, he found his family there to stage an intervention. He accepted the help that was being offered. He had to be open that he was being intentional to no longer drink. 
+
+Tim was assured that recovery is part of DjangoCon US diversity initatives and welcome. Steps were taken to de-emphasize alcohol, and local recovery groups were added to the website. 
+
+Tim was going to focus on tech in his talk, but that changed on Friday when he found out his co-worker Lindsey Reese has passed away. 
+
+He does not believe he would be alive if not for the support he has gotten. 
+
+The community is willing to have difficult conversations and help. 
+
+"You matter. You are valued."
 
 ### Extras
 
 ![](djangocon-us-2025-recap-images/djangocon-us-me-and-jon.jpeg)
+Continuing a tradition, Jon of [Foxley Talent](https://foxleytalent.com/) and I took a photo together! 
 
 ![](djangocon-us-2025-recap-images/djangocon-africa-raffle.jpg)
 Led by Ngazetungue Muheue, Tim Schilling, and others, Black Python Devs was able to match last year's DjangoCon US fundraising by accepting donations for a giveaway of DjangoCon Africa art made in Tanzania. The funds are used to help organize and support community events in the Black Python Devs communities. 
