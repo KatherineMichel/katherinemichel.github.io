@@ -15,11 +15,22 @@ Although these snapshots do not include all of the people who are special to me,
 September 8-12, Chicago, Illinois
 
 ![](favorite-conference-snapshots/djangocon-us-2025-me-afi-and-velda.png)
+Me and my sweet friends Afi and Velda. They surprised me with gifts to show their appreciation for me. I felt so special! (photo credit: Dawn Wages)
+
 ![](favorite-conference-snapshots/djangocon-us-2025-me-jeff-marlene-paolo.png)
+Spending time with wonderful people: Jeff, Marlene, Me, Paolo
+
 ![](favorite-conference-snapshots/djangocon-us-2025-amorino-me-and-mariatta.png)
+I crossed an item off my bucket list: taking an ice cream selfie with Mariatta.
+
 ![](favorite-conference-snapshots/djangocon-us-2025-amorino-ice-cream-flash-mob.jpeg)
+Ice cream flash mob
+
 ![](favorite-conference-snapshots/djangocon-us-2025-me-and-jon.jpeg)
+Continuing a tradition, Jon of Foxley Talent and I took a photo together!
+
 ![](favorite-conference-snapshots/djangocon-us-2025-giordanos-me-jacob-tim-mariatta.png)
+A perfect evening of Chicago arcitecture boat tour followed by Navy Pier Giordano's. Me, Jacob, Tim, Mariatta
  
 ## DjangoCon US 2024
 
