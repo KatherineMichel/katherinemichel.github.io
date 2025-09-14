@@ -438,10 +438,6 @@ A view of Downtown Chicago from the south
 
 ### More from The Field Museum
 
-<!--
-![](djangocon-us-2025-recap-images/field-museum-apatosaurus-footprint-comparison.jpg)
--->
-
 ![](djangocon-us-2025-recap-images/field-museum-imperal-topaz-pendant.jpg)
 A 97.5 carat Imperial Topaz Pendant, the largest owned by any museum in the world
 
@@ -464,12 +460,12 @@ Chinese masks from late 19th–early 20th century AD
 An Alaskan brown bear diorama, one of many dioramas in the museum showing animals in their native habits. Although I have mixed feelings about taxidermy, there are some truly stunning scenes in there. 
 
 ![](djangocon-us-2025-recap-images/field-museum-this-fish-dies-the-day-of-the-impact.jpg)
-Part of the ticketed exhibit After the Age of Dinosaurs, when the asteroid that caused the mass extinction of dinosaurs 66 million years ago hit the earth, this fish died 2,000 miles away when a violent earthquake caused it to be buried in sediment. 
+Part of the ticketed exhibit [After the Age of Dinosaurs](https://www.fieldmuseum.org/exhibition/after-the-age-of-dinosaurs), when the asteroid that caused the mass extinction of dinosaurs 66 million years ago hit the earth, this fish died 2,000 miles away when a violent earthquake caused it to be buried in sediment. 
 
 ### More from The Art Institute of Chicago
 
 ![](djangocon-us-2025-recap-images/art-institute-of-chicago-american-gothic.jpg)
-[American Gothic](https://www.artic.edu/artworks/6565/american-gothic) by Grand Wood
+[American Gothic](https://www.artic.edu/artworks/6565/american-gothic) by Grant Wood
 
 ![](djangocon-us-2025-recap-images/art-institute-of-chicago-self-portrait.jpg)
 [Self-portrait](https://www.artic.edu/artworks/80607/self-portrait) by Vincent van Gogh
