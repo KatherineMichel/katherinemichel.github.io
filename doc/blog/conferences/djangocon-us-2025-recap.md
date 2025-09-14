@@ -344,6 +344,7 @@ DjangoCon US will be in Chicago again next year.
 ### More of The View From Above
 
 ![](djangocon-us-2025-recap-images/view-of-chicago-coast-going-forward.jpg)
+A view of Downtown Chicago from the south
 
 ### More from The Field Museum
 
@@ -354,19 +355,28 @@ DjangoCon US will be in Chicago again next year.
 -->
 
 ![](djangocon-us-2025-recap-images/field-museum-imperal-topaz-pendant.jpg)
+A 97.5 carat Imperial Topaz Pendant, the largest owned by any museum in the world
+
 ![](djangocon-us-2025-recap-images/field-museum-esquel-meteorite.jpg)
+An Esquel Meteorite containing chrysolites that originated from Argentina
+
 ![](djangocon-us-2025-recap-images/field-museum-benld-meteorite-exhibit.jpg)
+An exhibit about a nearly four pound meteorite that fell through a garage in Bendl, Illinois at 9 a.m. September 29, 1938. 
 
 ![](djangocon-us-2025-recap-images/field-museum-the-chicago-archaeopteryx.jpg)
-
-<!--
-https://www.fieldmuseum.org/exhibition/meet-the-chicago-archaeopteryx
--->
+An [Archaeopteryx](https://www.fieldmuseum.org/exhibition/meet-the-chicago-archaeopteryx), the earliest known dinosaur that qualifies as a bird. All birds are dinosaurs. Birds are the only group of dinosaurs that survived the mass extinction 66 million years ago. 
 
 ![](djangocon-us-2025-recap-images/field-museum-coelacanth-replica.jpg)
+A replica of a Coelacanth. Once thought to be extinct, the first one was caught off the coast of Africa in 1938. They have been swimming unchanged for over 400 million years, even before dinosaurs. 
+
 ![](djangocon-us-2025-recap-images/field-museum-chinese-masks.jpg)
+Chinese masks from late 19th–early 20th century AD
+
 ![](djangocon-us-2025-recap-images/field-museum-alaskan-brown-bears.jpg)
+An Alaskan brown bear diorama, one of many dioramas in the museum showing animals in their native habits. Although I have mixed feelings about taxidermy, there are some truly stunning scenes in there. 
+
 ![](djangocon-us-2025-recap-images/field-museum-this-fish-dies-the-day-of-the-impact.jpg)
+Part of the ticketed exhibit After the Age of Dinosaurs, when the asteroid that caused the mass extinction of dinosaurs 66 million years ago hit the earth, this fish died 2,000 miles away when a violent earthquake caused it to be buried in sediment. 
 
 ### More from The Art Institute of Chicago
 
