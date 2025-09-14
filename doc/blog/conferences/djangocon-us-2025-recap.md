@@ -273,7 +273,7 @@ Outside of voting, why care? Take a look at the [PSF Annual Impact Report](https
 
 The Executive Director Deb Nicholson is the CEO of the PSF. The PSF Chair is the highest person who represents the community. Healthy friction is normal. The chair values consensus, finding a path forward. 
 
-What lessons can the PSF could take away from the DSF and vice versa?
+What lessons can the PSF take away from the DSF and vice versa?
 
 Django is good at DEI, consistent community support, healthy conversations with the community about feature additions. 
 
