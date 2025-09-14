@@ -45,7 +45,7 @@ Downtown Chicago
 
 ### The Field Museum
 
-Thanks to my employer's generous financial support of Chicago area museums, I was able to enjoy some sightseeing perks, starting with the incredible [Field Museum](https://www.fieldmuseum.org/). 
+Thanks to my employer's generous financial support of Chicago area museums, I was able to enjoy some sightseeing perks, starting with the incredible [Field Museum](https://www.fieldmuseum.org/). The museum owns over 30 million items that serve as a comprehensive record of life on Earth. Among these are unique and rare fossils, plants, insects, taxidermy animals, gems, meteorites, and cultural objects.
 
 ![](djangocon-us-2025-recap-images/field-museum-patagotitan-maroyum.jpg)
 Unearthed in Argentina, [Máximo Titanosaur](https://www.fieldmuseum.org/exhibition/maximo-titanosaur) (Patagotitan Mayorum), the largest animal to have ever walked the earth that we know of, lived 101.6 million years ago. He or she was estimated to have weighed 70 tons, spanned 122 feet long, and is 28 feet tall at the head. Say cheese! 
@@ -149,6 +149,7 @@ https://2025.djangocon.us/schedule/
 ![](djangocon-us-2025-recap-images/djangocon-us-hey-we-dont-do-that-here.jpg)
 Stacey's talk
 
+Conference Chair
 Caktus
 -->
 
@@ -162,6 +163,8 @@ https://github.com/adamchainz/django-htmx
 
 
 ### Community Update: Django Events Foundation North America
+
+DEFNA President Peter Grandstaff gave the update. 
 
 What drives DEFNA Board Members? The people. 
 
@@ -223,10 +226,25 @@ After the conference, I headed over to the [Broken Shaker Bar](https://freehandh
 ![](djangocon-us-2025-recap-images/broken-shaker-bar.jpg)
 The bar area before the room soon reached full-capacity. 
 
-
 ## Tuesday
 
 ### Opening Remarks (Tuesday)
+
+Peter Grandstaff gave the opening remarks. 
+
+Questions: 
+* Who has had fun in Chicago? 
+* Who has learned something? 
+* How many have been helped by someone we met at DjangoCon US?
+
+Perhaps referencing Carson's talk, Peter identified Django as a weathered, seasoned tool that has withstood the test of time over 20 years. We are its guardian. 
+
+Peter asked us to connect deeply and openly. 
+
+It's not just about us, but about bringing lessons and successes, and growing good in a sometimes troubled world. 
+
+Let's sustain Django and make the world a better place. 
+
 
 ### Keynote: All The Ways To Use Django
 
@@ -299,7 +317,7 @@ I also crossed an item off my bucket list: taking an ice cream selfie with Maria
 ![](djangocon-us-2025-recap-images/amorino-me-and-mariatta.png)
 Mariatta and me! Mariatta's gelato was flower-shaped. (photo credit: Mariatta)
 
-Mariatta was the first woman CPython Core Developer. She was featured in the new [Python documentary](https://youtu.be/GfH4QL4VqJ0?si=doJ39S2O_Tuc6Gau). Her impact is appreciated, and her voice clearly resonates with the community. 
+Mariatta was the first woman CPython Core Developer. She was featured in the new [Python documentary](https://youtu.be/GfH4QL4VqJ0?si=doJ39S2O_Tuc6Gau). Her impact is appreciated, and her voice clearly resonates with the community. Mariatta also gave a talk at the conference [Reverse engineering the QR code generator and URL forwarder service](https://2025.djangocon.us/talks/reverse-engineering-the-qr-code-generator-and-url-forwarder-service/). 
 
 ![](djangocon-us-2025-recap-images/python-documentary-mariatta.png)
 130 likes, 16 reposts on LinkedIn alone as of the writing of this
@@ -327,6 +345,9 @@ Mild waves rolling in
 
 ### Opening Remarks (Wednesday)
 
+In addition to housekeeping, Afi reminded us to seize the day and make new friends. 
+
+
 ### Keynote: Django Reimagined For The Age of AI
 
 <!--
@@ -337,7 +358,7 @@ https://github.com/marlenezw/djangocon-25-keynote
 
 ### Community Update: Django Software Foundation
 
-Thibaud Colas, Jacob Kaplan-Moss, Frank Wiles, and Paolo Melchiorre gave the update. 
+DSF President Thibaud Colas, DSF Treasurer Jacob Kaplan-Moss, DSF Board Member Paolo Melchiorre, and Django 6.x Steering Council Member Frank Wiles gave the update. 
 
 News
 * New Django Fellow Jacob Walls
@@ -354,7 +375,7 @@ Based on an idea Paolo documented in his blog post [My Django active developers 
 
 On the subject of convincing your employer to let you attend, Paolo suggested sharing Łukasz Langa's recent blog post [Sprints are the best part of a conference](https://pyfound.blogspot.com/2025/09/sprints-are-best-part-of-conference.html). "You're getting for free what you wouldn't be able to buy if you tried."
 
-Jacob Kaplan-Moss referenced his [DjangoCon US 2024 talk](https://2024.djangocon.us/talks/if-we-had-1000000-what-could-the-dsf-do-with-4x-its-budget/). Typically, the DSF has an $18,000 surplus. This year will be a loss. The DSF has decided to make some bets. For example, the fellow role has become increasingly unsustainable. The DSF will need the help of the community to make these bets permanent. Consider supporting the DSF. 
+Jacob Kaplan-Moss gave a budget update, referenced his [DjangoCon US 2024 talk](https://2024.djangocon.us/talks/if-we-had-1000000-what-could-the-dsf-do-with-4x-its-budget/). Typically, the DSF has an $18,000 surplus. This year will be a loss. The DSF has decided to make some bets. For example, the fellow role has become increasingly unsustainable. The DSF will need the help of the community to make these bets permanent. Consider supporting the DSF. 
 
 If you have helped the Django community in some way, you may be eligible to become a DSF Individual Member. You can be nominated or self-nominate. 
 
@@ -386,7 +407,7 @@ Led by Ngazetungue Muheue, Tim Schilling, and others, Black Python Devs was able
 
 Black Python Devs Founder [Jay Miller celebrated this](https://www.linkedin.com/feed/update/urn:li:activity:7372095328008966144/) as a important milestone in organizational continuity as leaders step down. Jay addressed subjects including exhaustion and a desire for change last year in his blog post [How Long Should We Be in Charge](https://kjaymiller.com/blog/how-long-should-we-be-in-charge.html).  
 
-If you want to make a donation to Black Python Devs, you can at: https://blackpythondevs.com/support
+If you want to make a donation to Black Python Devs, you can at their [support page](https://blackpythondevs.com/support). 
 
 <!--
 ### Conference Conclusion
