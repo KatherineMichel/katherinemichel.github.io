@@ -267,7 +267,7 @@ What qualifies for the 5 hours? Among other things:
 * Contributing to open source
 * Taking part in Djangonaut Space, Wagtail
 * Being a DjangoCon US organizer
-* Becoming a member of a PSF [Working Group](https://www.python.org/psf/workgroups/) or [DSF Working Group](https://github.com/django/dsf-working-groups) (see Dawn's [blog post](https://dawnwages.info/bajoran-engineer/2023/06/07/python-software-foundation-working-groups-work-groups/), too)
+* Becoming a member of a [PSF Working Group](https://www.python.org/psf/workgroups/) or [DSF Working Group](https://github.com/django/dsf-working-groups) (see Dawn's [blog post](https://dawnwages.info/bajoran-engineer/2023/06/07/python-software-foundation-working-groups-work-groups/), too)
 
 Outside of voting, why care? Take a look at the [PSF Annual Impact Report](https://www.python.org/psf/annual-report/2024/). 
 
