@@ -174,7 +174,7 @@ DEFNA has put out a [Call for Venue Proposals](https://www.defna.org/announcemen
 
 Sprints are a way to contribute back to Django through code, docs, community. Lilian of Djangonaut Space talked about how to get started. 
 
-Check out Sara Boyce's [Vulture Method](https://www.youtube.com/shorts/D6QHet5U82U). 
+Note to self: check out Sara Boyce's [Vulture Method](https://www.youtube.com/shorts/D6QHet5U82U). 
 
 
 ### Django for AI: Deploying Machine Learning Models with Django
@@ -439,8 +439,6 @@ A view of Downtown Chicago from the south
 ### More from The Field Museum
 
 <!--
-![](djangocon-us-2025-recap-images/field-museum-benld-meteorite.jpg)
-![](djangocon-us-2025-recap-images/field-museum-gold-nugget.jpg)
 ![](djangocon-us-2025-recap-images/field-museum-apatosaurus-footprint-comparison.jpg)
 -->
 
