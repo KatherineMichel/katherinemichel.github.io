@@ -15,10 +15,10 @@ Although these snapshots do not include all of the people who are special to me,
 September 8-12, Chicago, Illinois
 
 ![](favorite-conference-snapshots/djangocon-us-2025-me-afi-and-velda.png)
-Me and my sweet friends Afi and Velda. They surprised me with gifts to show their appreciation for me. I felt so special! (photo credit: Dawn Wages)
+Me and my sweet friends Abigail Afi Gbadago and Velda Kiara. They surprised me with gifts to show their appreciation for me. I felt so special! (photo credit: Dawn Wages)
 
 ![](favorite-conference-snapshots/djangocon-us-2025-me-jeff-marlene-paolo.png)
-Spending time with wonderful people: Jeff, Marlene, Me, Paolo
+Spending time with wonderful people: Jeff Triplett, Marlene Mhangami, Me, Paolo Melchiorre
 
 ![](favorite-conference-snapshots/djangocon-us-2025-amorino-me-and-mariatta.png)
 I crossed an item off my bucket list: taking an ice cream selfie with Mariatta.
@@ -27,10 +27,10 @@ I crossed an item off my bucket list: taking an ice cream selfie with Mariatta.
 Ice cream flash mob
 
 ![](favorite-conference-snapshots/djangocon-us-2025-me-and-jon.jpeg)
-Continuing a tradition, Jon of Foxley Talent and I took a photo together!
+Continuing a tradition, Jon Gould of Foxley Talent and I took a photo together!
 
 ![](favorite-conference-snapshots/djangocon-us-2025-giordanos-me-jacob-tim-mariatta.png)
-A perfect evening of Chicago arcitecture boat tour followed by Navy Pier Giordano's. Me, Jacob, Tim, Mariatta
+A perfect evening of Chicago architecture boat tour followed by Navy Pier Giordano's. Me, Jacob Rief, Tim Mccurrach, Mariatta
  
 ## DjangoCon US 2024
 
@@ -83,7 +83,7 @@ Not only does Ned Batchelder maintain a powerful Python package and give popular
 My friend Melanie Arbor takes great profile pics. At DjangoCon US 2017, she took my pic, and I loved it. I've used it as my social media profile pic since then, but it's getting a bit dated. I saw her at PyCon US and asked her if she would be willing to take a new profile pic of me. It turned out that she had already created a "Profile Pic Palooza" open space for Saturday at 3 pm. As a bonus, I got to catch up with Chalmer Lowe for the first time since PyCon 2019. 
 
 ![](favorite-conference-snapshots/pycon-us-2024-me-and-benedict.jpg)
-When I create this page of favorite conference snapshots, Benedict Kofi Amofah tweeted to me that he'd be in the gallery soon. I took him up on it. :) 
+When I created this page of favorite conference snapshots, Benedict Kofi Amofah tweeted to me that he'd be in the gallery soon. I took him up on it. :) 
 
 ![](favorite-conference-snapshots/pycon-us-2024-black-python-devs-durham.png)
 Although not a typical snapshot, this screenshot from K. Jay Miller's keynote about Black Python Devs is special to me. They are snapshots from DjangoCon US 2023 in Durham, North Carolina. Jay highlighted DjangoCon US as a place where Black Python Devs were empowered.
@@ -106,7 +106,7 @@ September 22-27, 2024, Durham, North Carolina
 As a DEFNA Board Member, I help oversee DjangoCon US, including the website design. Because our host city Durham, North Carolina has the largest population of lemurs outside of Madagascar, we featured a "friendly" lemur on our website last year. After years of hearing about Tanganyika Wildlife Park in Goddard, Kansas, mom and I decided to go on April 6. I had no idea until I got there that you can feed lemurs. They were so soft and gentle. I loved spending time with these real-life, friendly lemurs!
 
 ![](favorite-conference-snapshots/djangocon-us-2024-lemur-2.jpg)
-A lemur holding hold my hand while it eats a Craisin out of my palm! 
+A lemur holding my hand while it eats a Craisin out of my palm! 
 
 ## DjangoCon US 2023
 
@@ -193,7 +193,7 @@ September 22-27, San Diego, California
 Happy times!; photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
 
 ![](favorite-conference-snapshots/djangocon-us-2019-with-ken-whitesell.jpg)
-Selfie with our wonderful Ken Whitesell. For years, he has been the face that welcomes attendee to DjangoCon US and is a recipient of the Malcolm Tredinnick Memorial Prize. 
+Selfie with our wonderful Ken Whitesell. For years, he has been the face that welcomes attendees to DjangoCon US and is a recipient of the Malcolm Tredinnick Memorial Prize. 
 
 ## Strange Loop 2019
 
