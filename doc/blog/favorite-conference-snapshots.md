@@ -20,6 +20,9 @@ Me and my sweet friends Abigail Afi Gbadago and Velda Kiara. They surprised me w
 ![](favorite-conference-snapshots/djangocon-us-2025-me-jeff-marlene-paolo.png)
 Spending time with wonderful people: Jeff Triplett, Marlene Mhangami, Me, Paolo Melchiorre
 
+![](favorite-conference-snapshots/djangocon-us-2025-carnivale-table.png)
+My table at the speaker/organizer dinner at Carnivale
+
 ![](favorite-conference-snapshots/djangocon-us-2025-amorino-me-and-mariatta.png)
 I crossed an item off my bucket list: taking an ice cream selfie with Mariatta.
 
