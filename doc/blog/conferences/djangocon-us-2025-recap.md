@@ -1,6 +1,5 @@
 ---
 blogpost: true
-date: September 11, 2025
 location: Chicago Illinois
 category: Conferences
 tags: python, django, djangocon, community, networking, talks, travel
