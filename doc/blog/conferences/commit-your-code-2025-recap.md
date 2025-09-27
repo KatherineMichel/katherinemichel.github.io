@@ -19,7 +19,7 @@ I couldn't pass up the opportunity to meet a few "famous" techies who I knew wou
 
 The conference got off to a great start when I was greeted by conference founder Danny Thompson at the registration desk. 
 
-I have been following him on social media for years. He went from [frying chicken at a gas station to working as a developer at Google](https://learntocodewith.me/podcast/from-frying-chicken-to-working-at-google-danny-thompson/). I admire his authenticity and the support he gives to developers trying to get their own careers off the ground. 
+I have been following Danny on social media for years. He went from [frying chicken at a gas station to working as a developer at Google](https://learntocodewith.me/podcast/from-frying-chicken-to-working-at-google-danny-thompson/). I admire his authenticity and the support he gives to developers trying to get their own careers off the ground. 
 
 ![](commit-your-code-2025-recap-images/justin-francesco-me.jpg)
 Upon joining the coffee line, I serendipitously grabbed a photo with Justin E. Samuels, founder of the extremely popular [RenderATL](https://www.renderatl.com/) conference, and prolific conference speaker Francesco Ciulla.  
