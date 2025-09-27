@@ -32,7 +32,7 @@ Danny Thompson during his keynote.
 
 Copies of Danny's new book [Developers Guide to AI](https://nostarch.com/developers-guide-to-AI) (co-written with Jacob Orshalick and Jerry Mannel Reghunadh) quickly sold out and all the proceeds went to charity. 
 
-After the keynotes, Eric Weibust gave me the tip that Java talks by Josh Long and Dan Vega were not-to-be-missed. 
+After the keynotes, Erik Weibust gave me the tip that Java talks by Josh Long and Dan Vega were not-to-be-missed. 
 
 ![](commit-your-code-2025-recap-images/hallway-track.jpg)
 Hallway track. The place was buzzing. 
