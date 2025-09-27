@@ -29,7 +29,7 @@ Danny Thompson during his keynote.
 
 Copies of Danny's new book [Developers Guide to AI](https://nostarch.com/developers-guide-to-AI) (co-written with Jacob Orshalick and Jerry Mannel Reghunadh) quickly sold out and all the proceeds went to charity. 
 
-Eric Weibust tipped me off that Java talks by Josh Long and Dan Vega were not-to-be-missed. 
+After the keynotes, Eric Weibust tipped me off that Java talks by Josh Long and Dan Vega were not-to-be-missed. 
 
 ![](commit-your-code-2025-recap-images/hallway-track.jpg)
 Hallway track. The place was buzzing. 
@@ -58,12 +58,12 @@ I knew of Bas from his [This Week in Python blog posts](https://bas.codes/). Bec
 ![](commit-your-code-2025-recap-images/mark-thompson.jpg)
 Mark brought the energy and tips for how to navigate the age of AI. It was a full house. He was one of the most dynamic speakers I have ever seen! 
 
-## In Closing
-
 I finished the day with a great conversation with Francesco Ciulla who shared with me some nuggets of wisdom from his career. 
 
 ![](commit-your-code-2025-recap-images/quincy-danny-leon.jpg)
 A lot of empathy and generosity in this room... Quincy Larson (freeCodeCamp), Danny Thompson (Dallas Software Developers Cohort Program), Leon Noel (100Devs)
+
+## In Closing
 
 ![](commit-your-code-2025-recap-images/yum-brands-generosity.jpg)
 Thanks to the support of Yum! Brands International and conference attendees, $24k and counting will be donated to charity. 
