@@ -52,7 +52,7 @@ Aaron Francis teaching timeless strategies for success in his keynote. A lot of 
 Dan Vega teaching us about Spring and MCP. 
 
 ![](commit-your-code-2025-recap-images/rizell-scarlett.jpg)
-Rizell Scarlett talking about MCP-UI
+Rizell Scarlett demoed MCP-UI
 
 ![](commit-your-code-2025-recap-images/me-and-rizell.jpg)
 I have been a fan of Rizell Scarlett for quite some time. We likely interviewed for the same position at GitHub. I remember seeing her on stage at GitHub Universe. Over the years, I have marveled at all that she has accomplished. It was so good to finally meet her in person. When I told her I want to experiment with MCP, she told me, "You've got this." :) 
