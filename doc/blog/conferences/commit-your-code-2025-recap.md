@@ -45,16 +45,16 @@ Josh Long preparing for his masterful Dogumentary live-code
 Delicious coffee from The Bean Guys. I had a caramel latte for the second day in a row. Nice way to start the day. 
 
 ![](commit-your-code-2025-recap-images/aaron-francis.jpg)
-Aaron Francis teaching timeless strategies for success in his keynote
+Aaron Francis teaching timeless strategies for success in his keynote. A lot of nuggets of wisdom in this.
 
 ![](commit-your-code-2025-recap-images/dan-vega.jpg)
-
+Dan Vega teaching us about Spring and MCP. 
 
 ![](commit-your-code-2025-recap-images/rizell-scarlett.jpg)
 Rizell Scarlett talking about MCP-UI
 
 ![](commit-your-code-2025-recap-images/me-and-rizell.jpg)
-I have been a fan of Rizell Scarlett for quite some time. It was so good to meet her in person. When I told her I want to experiment with MCP, she told me, "You've got this." :) 
+I have been a fan of Rizell Scarlett for quite some time. We likely interviewed for the same position at GitHub. I remember seeing her on stage at GitHub Universe. Over the years, I have marveled at all that she has accomplished. It was so good to finally meet her in person. When I told her I want to experiment with MCP, she told me, "You've got this." :) 
 
 ![](commit-your-code-2025-recap-images/bas-steins.jpg)
 Bas Stein giving a plug for his tool Stelvio. 
