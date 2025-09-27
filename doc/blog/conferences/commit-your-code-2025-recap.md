@@ -63,7 +63,7 @@ Bas Stein giving a plug for his tool Stelvio.
 I knew of Bas Steins from his [This Week in Python blog posts](https://bas.codes/). Because there was not a Python track at this conference, I assumed the speaker was a different Bas. When I realized it was the same Bas, I hurried to the talk and met him afterward to show my appreciation! 
 
 ![](commit-your-code-2025-recap-images/mark-thompson.jpg)
-Mark brought the energy and tips for how to navigate the age of AI. It was a full house. He was one of the most dynamic speakers I have ever seen! 
+Mark Thompson brought the energy and tips for how to navigate the age of AI. It was a full house. He was one of the most dynamic speakers I have ever seen! 
 
 I finished the day with a great conversation with Francesco Ciulla who shared with me some nuggets of wisdom from his career. 
 
