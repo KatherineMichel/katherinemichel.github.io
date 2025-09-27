@@ -28,6 +28,8 @@ Disclaimer: the content of this post is a reflection of my career journey and no
 
 ![](commit-your-code-2025-recap-images/the-bean-guys.jpg)
 
+![](commit-your-code-2025-recap-images/aaron-francis.jpeg)
+
 ![](commit-your-code-2025-recap-images/dan-vega.jpg)
 
 ![](commit-your-code-2025-recap-images/rizell-scarlett.jpg)
