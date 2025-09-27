@@ -1,5 +1,6 @@
 ---
 blogpost: true
+date: September 27, 2025
 location: Plano Texas
 category: Conferences
 tags: community, networking, talks
