@@ -14,8 +14,6 @@ Table of Contents
 
 Disclaimer: the content of this post is a reflection of my career journey and not specific to my work at JPMorganChase.
 
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
 ## Thusday
 
 ![](commit-your-code-2025-recap-images/justin-francesco-me.jpg)
