@@ -61,11 +61,10 @@ Mark brought the energy and tips for how to navigate the age of AI. It was a ful
 I finished the day with a great conversation with Francesco Ciulla who shared with me some nuggets of wisdom from his career. 
 
 ![](commit-your-code-2025-recap-images/quincy-danny-leon.jpg)
-A lot of empathy and generosity in this room... Quincy Larson (freeCodeCamp), Danny Thompson (Dallas Software Developers Cohort Program), Leon Noel (100Devs)
+A lot of empathy and generosity in this room... Quincy Larson (freeCodeCamp), Danny Thompson (Dallas Software Developers Cohort Program), Leon Noel (100Devs) closing out the conference. 
+
+Thanks to the support of Yum! Brands International and conference attendees, $24k and counting will be donated to charity. 
 
 ## In Closing
-
-![](commit-your-code-2025-recap-images/yum-brands-generosity.jpg)
-Thanks to the support of Yum! Brands International and conference attendees, $24k and counting will be donated to charity. 
 
 The replays are available on the [Dallas Software Developer YouTube](https://www.youtube.com/@DallasSoftwareDevelopers). Enjoy! 
