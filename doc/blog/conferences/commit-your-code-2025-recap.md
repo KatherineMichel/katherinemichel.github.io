@@ -45,8 +45,10 @@ Josh Long preparing for his masterful Dogumentary live-code
 Delicious coffee from The Bean Guys. I had a caramel latte for the second day in a row. Nice way to start the day. 
 
 ![](commit-your-code-2025-recap-images/aaron-francis.jpg)
+Aaron Francis teaching timeless strategies for success in his keynote
 
 ![](commit-your-code-2025-recap-images/dan-vega.jpg)
+
 
 ![](commit-your-code-2025-recap-images/rizell-scarlett.jpg)
 Rizell Scarlett talking about MCP-UI
