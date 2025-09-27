@@ -11,7 +11,7 @@ tags: community, networking, talks
 
 Disclaimer: the content of this post is a reflection of my career journey and not specific to my work at JPMorganChase.
 
-After having a lot of FOMO last year, I was able to spend some time this week at the Commit Your Code Conference 2025. 
+After having a lot of FOMO last year, I was able to spend some time this week at the Commit Your Code 2025 conference. 
 
 I couldn't pass up the opportunity to meet a few "famous" techies who I knew would be in attendance and catch some talks from a [packed agenda](https://www.commityourcode.com/agenda). 
 
