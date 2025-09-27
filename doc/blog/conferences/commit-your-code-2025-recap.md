@@ -2,7 +2,7 @@
 blogpost: true
 location: Plano Texas
 category: Conferences
-tags: , community, networking, talks
+tags: community, networking, talks
 ---
 
 # Commit Your Code 2025 Recap
