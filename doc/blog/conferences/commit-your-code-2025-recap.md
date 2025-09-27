@@ -50,7 +50,7 @@ Delicious coffee from The Bean Guys. I had a caramel latte for the second day in
 Rizell Scarlett talking about MCP-UI
 
 ![](commit-your-code-2025-recap-images/me-and-rizell.jpg)
-I have been a fan of Rizell Scarlett for quite some time. It was so good to meet her in person. When I told her I want to experiment with some new tools, she said, "You've got this." :) 
+I have been a fan of Rizell Scarlett for quite some time. It was so good to meet her in person. When I told her I want to experiment with MCP, she told me, "You've got this." :) 
 
 ![](commit-your-code-2025-recap-images/bas-steins.jpg)
 I knew of Bas from his [This Week in Python blog posts](https://bas.codes/). Because there was not a Python track at this conference, I assumed the speaker was a different Bas. When I realized it was the same Bas, I hurried to the talk and met him afterward to show my appreciation! Here he is giving a plug for his tool Stelvio. 
@@ -66,5 +66,7 @@ A lot of empathy and generosity in this room... Quincy Larson (freeCodeCamp), Da
 Thanks to the support of Yum! Brands International and conference attendees, $24k and counting will be donated to charity. 
 
 ## In Closing
+
+I went away from the conference feeling inspired to try some new things. I also saw some incredible public speakers. 
 
 The replays are available on the [Dallas Software Developer YouTube](https://www.youtube.com/@DallasSoftwareDevelopers). Enjoy! 
