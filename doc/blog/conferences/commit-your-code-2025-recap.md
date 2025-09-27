@@ -53,7 +53,7 @@ Rizell Scarlett talking about MCP-UI
 I have been a fan of Rizell Scarlett for quite some time. It was so good to meet her in person. When I told her I want to experiment with MCP, she told me, "You've got this." :) 
 
 ![](commit-your-code-2025-recap-images/bas-steins.jpg)
-I knew of Bas from his [This Week in Python blog posts](https://bas.codes/). Because there was not a Python track at this conference, I assumed the speaker was a different Bas. When I realized it was the same Bas, I hurried to the talk and met him afterward to show my appreciation! Here he is giving a plug for his tool Stelvio. 
+I knew of Bas Steins from his [This Week in Python blog posts](https://bas.codes/). Because there was not a Python track at this conference, I assumed the speaker was a different Bas. When I realized it was the same Bas, I hurried to the talk and met him afterward to show my appreciation! Here he is giving a plug for his tool Stelvio. 
 
 ![](commit-your-code-2025-recap-images/mark-thompson.jpg)
 Mark brought the energy and tips for how to navigate the age of AI. It was a full house. He was one of the most dynamic speakers I have ever seen! 
