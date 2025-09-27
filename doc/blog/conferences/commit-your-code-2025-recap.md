@@ -7,9 +7,9 @@ tags: community, networking, talks
 
 # Commit Your Code 2025 Recap
 
-## Intro
-
 Disclaimer: the content of this post is a reflection of my career journey and not specific to my work at JPMorganChase.
+
+## Intro
 
 After having a lot of FOMO last year, I was able to spend some time this week at the Commit Your Code 2025 conference. 
 
