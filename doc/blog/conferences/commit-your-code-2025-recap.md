@@ -30,7 +30,7 @@ Upon joining the coffee line, I serendipitously grabbed a photo with Justin E. S
 ![](commit-your-code-2025-recap-images/danny-thompson-keynote.jpg)
 Danny Thompson during his keynote. 
 
-Copies of Danny's new book [Developers Guide to AI](https://nostarch.com/developers-guide-to-AI) (co-written with Jacob Orshalick and Jerry Mannel Reghunadh) quickly sold out and all the proceeds went to charity. 
+Copies of Danny's new book [The Developer's Guide to AI](https://nostarch.com/developers-guide-to-AI) (co-written with Jacob Orshalick and Jerry Mannel Reghunadh) quickly sold out and all the proceeds went to charity. 
 
 After the keynotes, Erik Weibust gave me the tip that Java talks by Josh Long and Dan Vega were not-to-be-missed. 
 
