@@ -58,7 +58,7 @@ Rizell Scarlett demoed MCP-UI
 I have been a fan of Rizell Scarlett for quite some time. We likely interviewed for the same position at GitHub. I remember seeing her on stage at GitHub Universe. Over the years, I have marveled at all that she has accomplished. It was so good to finally meet her in person. When I told her I want to experiment with MCP, she told me, "You've got this." :) 
 
 ![](commit-your-code-2025-recap-images/bas-steins.jpg)
-Bas Stein giving a plug for his tool Stelvio. 
+Bas Steins giving a plug for his tool Stelvio. 
 
 I knew of Bas Steins from his [This Week in Python blog posts](https://bas.codes/). Because there was not a Python track at this conference, I assumed the speaker was a different Bas. When I realized it was the same Bas, I hurried to the talk and met him afterward to show my appreciation! 
 
