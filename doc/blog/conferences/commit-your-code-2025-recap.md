@@ -38,7 +38,7 @@ After the keynotes, Erik Weibust gave me the tip that Java talks by Josh Long an
 Hallway track. The place was buzzing. 
 
 ![](commit-your-code-2025-recap-images/josh-long.jpeg)
-Josh Long preparing for his masterful Dogumentary live-code
+Josh Long preparing for his masterful Dogumentary live-code (photo credit: Joseph Lord)
 
 ## Friday
 
