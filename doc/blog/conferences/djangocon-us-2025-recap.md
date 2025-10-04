@@ -204,6 +204,7 @@ Useful-to-me notes:
 * Carson's books: [The Grugbrained Developer](https://grugbrain.dev/) and [Hypermedia Systems](https://hypermedia.systems/)
 * [django-htmx](https://github.com/adamchainz/django-htmx)
 * [htmx release 2.0.7 changelog](https://github.com/bigskysoftware/htmx/blob/master/CHANGELOG.md#207---2025-09-08)
+* [intercoolor.js](https://intercoolerjs.org/) (predecessor to htmx)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -535,16 +536,15 @@ Afi
 
 Marlene led the first PyCon Africa and is a former PSF Chair. She is an explorer and maker, and one of my favorite follows on social media. 
 
-Marlene pointed out that ChatGPT was the fastest growing app in history and the 5th most visited website in the world. 
-
-AI is not just for CEOs are futurists. Real people are using it in their everyday lives. We should pay attention. 
+Marlene pointed out that ChatGPT was the fastest growing app in history and the 5th most visited website in the world. AI is not just for CEOs are futurists. Real people are using it in their everyday lives. We should pay attention. 
 
 What does the future of Django look like in the age of AI?
 
 ![](djangocon-us-2025-recap-images/marlene-mhangami-key-points.jpg)
 
+Despite the [Django design philosophy](https://docs.djangoproject.com/en/5.2/misc/design-philosophies/#explicit-is-better-than-implicit) (based on [The Zen of Python/PEP 20](https://peps.python.org/pep-0020/)) that Django should not do too much magic, LLMs feel like magic. 
 
-Marlene demonstrated an LLM token probability visualizer that she had made. 
+To better understand what an LLLM is, Marlene demonstrated an [LLM token probability visualizer](https://marlenezw.github.io/token-probability/) that she had made ([code](https://github.com/marlenezw/token-probability)). 
 
 Context matters. 
 
@@ -558,10 +558,17 @@ As a Django dev, how can I control the context I send?
 1. Rag
 2. MCP
 3. Agents.md
-   
+
+RAG involves feeding info from docs or a database into an LLM through the messages param in order control how the LLM responds. 
+
 
 ![](djangocon-us-2025-recap-images/marlene-mhangami-mcp.jpg)
 
+While vibe coding in VSCode, you can use an [agents.md file](https://code.visualstudio.com/docs/copilot/customization/custom-instructions#_use-an-agentsmd-file-experimental) to specify best practices to follow. 
+
+AI generated code falls short in security, scalability, and maintainability. 
+
+How do we prevent leaving people behind? 
 
 Marlene told about the non-profit ZimboPy that she started with Ron Maravanyika to teach girls in Zimbabwe to code. Marlene was moved by the support received from the Django community, even though she was not a member. This is something unique about the Django community. 
 
@@ -573,11 +580,11 @@ She has been [exploring the use of a small language model bot offline](https://w
 
 She says people still need to learn programming from scratch, but can be inspired by vibe coding. Be modular. Do a section at a time, read through the code yourself. Test the code. 
 
-Action items for making Django more friendly to work with LLMS:
+Action items for making Django more friendly to work with LLMs:
 * Central resources
 * Tell a Django AI story
-* Make it clear and straightforward to integrate an LLM with a Django app to create a chat app
 * Be open to AI as a community and framework
+* Make it clear and straightforward to integrate an LLM with a Django app to create a chat app (think FastAPI)
 
 Chat is the primary interface and Marlene believes it will continue to be. 
 
@@ -589,6 +596,7 @@ Useful-to-me notes:
 * Andrej Kaparthy's [Build an LLM from Scratch videos](https://www.youtube.com/andrejkarpathy)
 * Chip Huyen's [AI Engineering book](https://www.oreilly.com/library/view/ai-engineering/9781098166298/)
 * [FastAPI](https://fastapi.tiangolo.com/)
+* [GitHub MCP Server](https://github.com/github/github-mcp-server)- can be used to automate GitHub PRs
 * Cory Zue's [Vibe Coding with Django video](https://youtu.be/ELiiMX_o2LI?si=UO4VMFJfEQxPm-30)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
