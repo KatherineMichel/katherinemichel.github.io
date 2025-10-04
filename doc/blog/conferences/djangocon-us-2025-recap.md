@@ -168,7 +168,7 @@ Lateral thinking with weathered technology is about taking an existing technolog
 
 This philosophy can be applied to web development. 
 
-The industry prioritizes new things and pressures us to adopt them. The industry has left behind good ideas, including hypermedia. 
+The industry prioritizes new things and pressures us to adopt them. The industry has left behind good ideas, such as hypermedia. 
 
 <!--
 Books
@@ -370,8 +370,44 @@ https://docs.google.com/presentation/d/1tzdzDd7Pmh-wdyfJhTgQyl6bFe-4JXpf5ISVpcIw
 
 ### Cutting latency in half: What actually worked—and what didn’t
 
+
 ### Django as a Database Documentation Tool: The Hidden Power of Model Comments
 
+Ryan works in healthcare. Due to the complexity of the terminology, it can be difficult to decipher what data in a database table field is used for. 
+
+There is a documentation gap. Code comments != database documentation. Wiki pages get stale. Undocumented expertise doesn't scale. 
+
+Also, in his highly regulated field, regulatory auditors need field-level documentation. 
+
+Database comments were introduced in [Django 4.2](https://docs.djangoproject.com/en/5.2/releases/4.2/#comments-on-columns-and-tables) in April 2023. They are not supported in SQLite. 
+
+Db comments can be at a field or table-level:
+* Field-level: db_comment
+* Table-level: db_table_comment
+
+Not everyone has access to the frontend. 
+
+help_text is only visible on the frontend/admin and is for customers using forms. It doesn't help on the database-side. 
+
+It is recommended that help_text and db_comment both be used, but they tend to not be the same. 
+
+Different users have different needs
+* Customer: help text
+* Web developers: help_text could be helpful, but db comments more helpful
+* DBAs: db comments
+* Auditors: db comments
+  
+How to get started with database comments at a field-level
+* Audit your top 10 most confusing fields (cryptic names, complex business logic)
+* Document them (business context, calculation methodology, compliance notes)
+* Standardize them (make it part of your code reviews, add tests that fail if db_comment is not there)
+
+How to get started with database comments at a table-level
+* Audit your top 10 most confusing tables
+* Identify the table owner
+* Document, standardize, test
+
+This can make life easier for those who only have access to the database and our future selves. 
 
 ## Bonus
 
