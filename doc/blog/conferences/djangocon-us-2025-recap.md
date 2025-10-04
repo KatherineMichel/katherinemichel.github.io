@@ -540,7 +540,7 @@ In addition to housekeeping, Afi reminded us to seize the day and make new frien
 
 [Django Reimagined For The Age of AI](https://2025.djangocon.us/talks/keynote-wednesday/) by Marlene Mhangami
 
-Marlene led the first PyCon Africa and was the former PSF Chair. She is an explorer and maker, and one of my favorite follows on social media. 
+Marlene led the first PyCon Africa and is a former PSF Chair. She is an explorer and maker, and one of my favorite follows on social media. 
 
 Marlene pointed out that ChatGPT was the fastest growing app in history and the 5th most visited website in the world. 
 
