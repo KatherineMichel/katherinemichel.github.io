@@ -365,6 +365,7 @@ Three priorities:
 * The PSF will have a fundraiser soon
 
 ![](djangocon-us-2025-recap-images/dawn-wages-psf-update.jpg)
+Priorities 2 and 3
 
 What qualifies for the 5 hours? Among other things: 
 * Running a local meetup
