@@ -42,6 +42,8 @@ While making my flight reservation, I googled for advice about the best side of 
 ![](djangocon-us-2025-recap-images/view-of-chicago-coast-looking-back.jpg)
 Downtown Chicago
 
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
 ### The Field Museum
 
 Thanks to my employer's generous financial support of Chicago area museums, I was able to enjoy some sightseeing perks, starting with the incredible [Field Museum](https://www.fieldmuseum.org/). The museum owns over 30 million items that serve as a comprehensive record of life on Earth. Among these are unique and rare fossils, plants, insects, taxidermy animals, gems, meteorites, and cultural objects.
@@ -58,6 +60,8 @@ The infamous [Tsavo Lions](https://www.fieldmuseum.org/blog/tsavo-lions) are two
 ![](djangocon-us-2025-recap-images/field-museum-inside-ancient-egypt.jpg)
 Among the museum's holdings is one of the most impressive [ancient Egypt collections](https://www.fieldmuseum.org/exhibition/inside-ancient-egypt) in the world, including a three story replica of an ancient Egyptian tomb that contains two authentic burial chambers that date to 2400 B.C., 23 human and 30 animal mummies, artifacts from everyday life and mummification rituals. 
 
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
 ### Shaw's Crab House Lunch Special
 
 While researching Chicago, I came across many recommendations for Shaw's Crab House, a beloved, 40-year-old Chicago institution. I took a break from sightseeing to enjoy their reasonably-priced [gourmet 3-course lunch](https://www.shawscrabhouse.com/events/3-course-lunch-2/) special. The food was delicious, and the ambience left me feeling like I was a character in a movie. 
@@ -72,6 +76,8 @@ Pan-seared Alaskan cod
 Mini chocolate cake
 
 [View from the Bar Video](https://youtu.be/YxGYLfhE22w)
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### The Art Institute of Chicago
 
@@ -96,6 +102,8 @@ The front of The Art Institute of Chicago
 
 The [Thorne Minature Rooms](https://www.artic.edu/highlights/12/thorne-miniature-rooms) in the basement are also a must see. 
 
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
 ### My Incredible Room
 
 After sightseeing, I checked into my hotel. 
@@ -107,6 +115,8 @@ I could get used to this...
 
 ![](djangocon-us-2025-recap-images/thompson-chicago-city-view.jpg)
 Stunning city view
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Pre-conference Social
 
@@ -133,6 +143,7 @@ Taking the Red Line south
 ![](djangocon-us-2025-recap-images/chicago-river-daylight.jpg)
 Enjoying the view along the Chicago River on the way to the nearby venue
 
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Orientation
 
@@ -151,6 +162,8 @@ Stacey's talk
 Conference Chair
 Caktus
 -->
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Keynote: Lateral Thinking with Weathered Technology: How The Nintendo Philosophy Applies to Modern Web Development
 
@@ -195,6 +208,8 @@ Useful to me notes:
 * [django-htmx](https://github.com/adamchainz/django-htmx)
 * [htmx release 2.0.7 changelog](https://github.com/bigskysoftware/htmx/blob/master/CHANGELOG.md#207---2025-09-08)
 
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
 ### Community Update: Django Events Foundation North America
 
 DEFNA President Peter Grandstaff gave the update. 
@@ -214,12 +229,15 @@ Sprints are a way to contribute back to Django through code, docs, community. Li
 Useful to me notes:
 * Check out Sara Boyce's [Vulture Method](https://www.youtube.com/shorts/D6QHet5U82U). 
 
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Django for AI: Deploying Machine Learning Models with Django
 
 <!--
 https://wsvincent.com/django-for-ai-djangocon/
 -->
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Django's GeneratedField by Example
 
@@ -273,6 +291,8 @@ Useful to me notes:
 * [Database Generated Columns Part 2 Django and PostgreSQL](https://www.paulox.net/2023/11/24/database-generated-columns-part-2-django-and-postgresql/)
 * [Database Generated Columns Part 3 Django and PostGIS](https://www.paulox.net/2023/12/11/database-generated-columns-part-3-geodjango-and-postgis/)
 
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
 ### Bonus
 
 ![](djangocon-us-2025-recap-images/djangocon-us-python-distilled-signed.jpg)
@@ -284,12 +304,16 @@ Me and my sweet friends Afi and Velda. They surprised me with gifts to show thei
 ![](djangocon-us-2025-recap-images/djangocon-us-gifts-from-afi-and-velda.jpg)
 Gifts from Afi and Velda: beautiful flowers, Harrods spiced salted caramel shortbread, a British keychain, a postcard with handritten messages
 
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
 ### Lincoln Loop Social Event
 
 After the conference, I headed over to the [Broken Shaker Bar](https://freehandhotels.com/chicago/broken-shaker/) for a [Lincoln Loop](https://lincolnloop.com/) Social. 
 
 ![](djangocon-us-2025-recap-images/broken-shaker-bar.jpg)
 The bar area before the room soon reached full-capacity. 
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Tuesday
 
@@ -310,6 +334,7 @@ It's not just about us, but about bringing lessons and successes, and growing go
 
 Let's sustain Django and make the world a better place. 
 
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Keynote: All The Ways To Use Django
 
@@ -317,6 +342,7 @@ Let's sustain Django and make the world a better place.
 https://drive.google.com/file/d/1y-lwJZyiANhGvBl7WZAkz0jBx0fW-xPp/view
 -->
 
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Community Update: Python Software Foundation
 
@@ -350,6 +376,8 @@ PyCon US is the main source of funding for the PSF, but we are trying to move aw
 
 How to get involved at a local level? Find a [PuG (Python User Group) on meetup.com](https://www.meetup.com/pro/python-software-foundation-meetups/). Show up, ask questions, volunteer to pick up the pizza, get to know what the org does. 
 
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
 
 ### Hidden Dangers Of AI In Developer Workflows: Navigating Security Risks with Human Insight
 
@@ -358,6 +386,7 @@ https://docs.google.com/presentation/d/1tzdzDd7Pmh-wdyfJhTgQyl6bFe-4JXpf5ISVpcIw
 -->
 
 
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Django as a Database Documentation Tool: The Hidden Power of Model Comments
 
@@ -397,6 +426,8 @@ How to get started with database comments at a table-level
 
 This can make life easier for those who only have access to the database and our future selves. 
 
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
 ## Bonus
 
 ![](djangocon-us-2025-recap-images/djangocon-us-me-jeff-marlene-paolo.png)
@@ -406,6 +437,8 @@ Jeff, Marlene, me, Paolo. Marlene did a fascinating closing keynote Django Reima
 Django turned 20 this year. To commemorate the occasion, conference attendees were treated to delicious raspberry cake! 
 
 In case you missed it, I recently wrote down my thoughts in a [Happy 20th Birthday Django post](https://katherinemichel.github.io/blog/personal/happy-20th-birthday-django.html). 
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Speaker and Organizer Dinner
 
@@ -421,6 +454,8 @@ Carnivale dining room
 Chipotle lime salad, pollo en pipian, carnitas, vegan paella, arroz verde, guacamole
 
 A highlight of the evening was sharing stories at our table of our close encounters with tech royalty! 
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Amorino
 
@@ -445,12 +480,16 @@ Mariatta also gave a talk at the conference [Reverse engineering the QR code gen
 
 [Ice cream flash mob video](https://youtu.be/IGVAT4hLc9I) (video credit: Mariatta)
 
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
 ### Six Feet Up Social Event
 
 Some of us further ventured to the nearby [Six Feet Up](https://sixfeetup.com/) Arcade Night at [Punch Bowl Social](https://punchbowlsocial.com/location/chicago). 
 
 ![](djangocon-us-2025-recap-images/punch-bowl-foosball.jpg)
 Those in the know said this was a notably large foosball table. Continuing the trend of firsts, I played foosball for the first time!
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Wednesday
 
@@ -461,10 +500,13 @@ I knew Wednesday morning would likely be my last chance to make the short walk f
 ![](djangocon-us-2025-recap-images/oak-street-beach.jpg)
 Mild waves rolling in
 
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
 ### Opening Remarks (Wednesday)
 
 In addition to housekeeping, Afi reminded us to seize the day and make new friends. 
 
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Keynote: Django Reimagined For The Age of AI
 
@@ -527,6 +569,8 @@ Useful to me notes:
 * [FastAPI](https://fastapi.tiangolo.com/)
 * Cory Zue's [Vibe Coding with Django video](https://youtu.be/ELiiMX_o2LI?si=UO4VMFJfEQxPm-30)
 
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
 ### Community Update: Django Software Foundation
 
 DSF President Thibaud Colas, DSF Treasurer Jacob Kaplan-Moss, DSF Board Member Paolo Melchiorre, and Django 6.x Steering Council Member Frank Wiles gave the update. 
@@ -550,6 +594,7 @@ Jacob Kaplan-Moss gave a budget update, referencing his [DjangoCon US 2024 talk]
 
 If you have helped the Django community in some way, you may be eligible to become a DSF Individual Member. You can be nominated or self-nominate. 
 
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### High Performance Django at Ten: Old Tricks & New Picks
 
@@ -561,6 +606,8 @@ https://2025.djangocon.us/talks/high-performance-django-at-ten-old-tricks-new-pi
 <!--
 https://2025.djangocon.us/talks/free-threaded-django/
 -->
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### What a Decade!
 
@@ -604,6 +651,8 @@ He does not believe he would be alive if not for the support he has gotten.
 
 The community is willing to have difficult conversations and help. "You matter. You are valued."
 
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
 ### Bonus
 
 ![](djangocon-us-2025-recap-images/djangocon-us-me-and-jon.jpeg)
@@ -615,6 +664,8 @@ Led by Ngazetungue Muheue, Tim Schilling, and others, Black Python Devs was able
 Black Python Devs Founder [Jay Miller celebrated this](https://www.linkedin.com/feed/update/urn:li:activity:7372095328008966144/) as a important milestone in organizational continuity as leaders step down. Jay addressed subjects including exhaustion and a desire for change last year in his blog post [How Long Should We Be in Charge](https://kjaymiller.com/blog/how-long-should-we-be-in-charge.html).  
 
 If you want to make a donation to Black Python Devs, you can at their [support page](https://blackpythondevs.com/support). 
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Conference Conclusion
 
@@ -640,6 +691,8 @@ Our [Wendella](https://wendellaboats.com/) boat (photo credit: Tobias McNulty)
 ![](djangocon-us-2025-recap-images/wendella-boat-tour-kickoff.jpg)
 Our guide, Jai. When we started out, it was daylight, by the end, it was night. Best of both worlds. 
 
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
 ### Giordano's
 
 After the boat trip, several of us stopped to eat at Navy Pier Giordano's. 
@@ -660,12 +713,16 @@ Deep-dish, spinach pizza
 ![](djangocon-us-2025-recap-images/giordanos-me-jacob-tim-mariatta.png)
 Me, Jacob, Tim, Mariatta
 
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
 ## More Sight Seeing!
 
 ### More of The View From Above
 
 ![](djangocon-us-2025-recap-images/view-of-chicago-coast-going-forward.jpg)
 A view of Downtown Chicago from the south
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### More from The Field Museum
 
@@ -692,6 +749,8 @@ An Alaskan brown bear diorama, one of many dioramas in the museum showing animal
 
 ![](djangocon-us-2025-recap-images/field-museum-this-fish-dies-the-day-of-the-impact.jpg)
 Part of the ticketed exhibit [After the Age of Dinosaurs](https://www.fieldmuseum.org/exhibition/after-the-age-of-dinosaurs), when the asteroid that caused the mass extinction of dinosaurs 66 million years ago hit the earth, this fish died 2,000 miles away when a violent earthquake caused it to be buried in sediment. 
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### More from The Art Institute of Chicago
 
