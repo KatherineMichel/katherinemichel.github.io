@@ -168,11 +168,11 @@ Lateral thinking with weathered technology is about taking an existing technolog
 
 The industry prioritizes new things and pressures us to adopt them. The industry has left behind good ideas, such as hypermedia. 
 
-htmx provides a surprisingly modern web experiences using a hypermedia interface at a fraction of the complexity. 
-
 HTML 2.0 transformed the web into a read-write hypermedia system, unlocking tremendous value. When Django was released in 2005, it was a hypermedia framework for producing HTML. In the 2010s a massive transformation happened- from hypermedia to JSON APIs feeding large JavaScript frontends. 
 
 Hypermedia became the equivalent of the two-bit game boy. 
+
+htmx provides a surprisingly modern web experiences using a hypermedia interface at a fraction of the complexity. 
 
 Doing everything in JavaScript would rob Django of its Django-ness. Django's hypermedia-oriented features can become useful again
 
@@ -266,9 +266,9 @@ There is only one example in the docs.
 Examples:
 -->
 
+<!--
 ### Deploy Django: GitOps & Kubernetes Made Easy
 
-<!--
 https://github.com/sixfeetup/2025_PyOhio_DeployDjango
 https://sixfeetup.github.io/2025_PyOhio_DeployDjango/#/deploy-django-gitops-kubernetes-made-easy
 
@@ -276,10 +276,9 @@ https://github.com/sixfeetup/djangocon10
 https://github.com/sixfeetup/djangocon10/tree/main/docs
 https://github.com/sixfeetup/djangocon10/blob/main/docs/project-overview.md
 https://github.com/sixfeetup/djangocon10/blob/main/docs/architecture.md
--->
 
 ### How to Enjoy Debugging in Production
-
+-->
 
 ### Bonus
 
@@ -365,9 +364,9 @@ How to get involved at a local level? Find a [PuG (Python User Group) on meetup.
 https://github.com/innovint/djangocon-2025-mutable-event-sourcing
 -->
 
+<!--
 ### Beyond Rate Limiting: Building an Active Learning Defense System in Django
 
-<!--
 https://github.com/aayushgauba/aiwaf
 -->
 
@@ -525,9 +524,9 @@ If you have helped the Django community in some way, you may be eligible to beco
 https://2025.djangocon.us/talks/high-performance-django-at-ten-old-tricks-new-picks/
 -->
 
+<!--
 ### Panel Discussion: Two Decades of Django: The Past, Present and Future
 
-<!--
 https://2025.djangocon.us/talks/panel-discussion-details/
 -->
 
