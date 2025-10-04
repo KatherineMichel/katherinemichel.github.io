@@ -158,7 +158,7 @@ Carson told the story of [Gunpei Yokoi](https://en.wikipedia.org/wiki/Gunpei_Yok
 
 He was on a train in Japan and saw a bored businessman playing with an LCD calculator.
 
-It inspired him to create a simple, handheld game with a two-bit screen (four total colors)
+It inspired him to create a simple, handheld game with a two-bit screen (four total colors). 
 
 Despite its mixed reviews and the sophistication of its competitor Sega with its full-color screen, Game Boy won massively. 
 
@@ -170,21 +170,14 @@ This philosophy can be applied to web development.
 
 The industry prioritizes new things and pressures us to adopt them. The industry has left behind good ideas, such as hypermedia. 
 
-<!--
-Books
-Hypermedia Systems
-The Grugbrain developer
--->
-
-As promised, Carson cut an HTMX release that day. 
+As promised, soon thereafter Carson cut HTMX release 2.0.7. Adam Johnson bundled it into his [django-htmx 1.24.1 release](https://www.linkedin.com/feed/update/urn:li:activity:7372092845651873792/). 
 
 Django community loves HTMX. 
 
-<!--
-https://www.linkedin.com/feed/update/urn:li:activity:7372092845651873792/
-https://github.com/bigskysoftware/htmx/blob/master/CHANGELOG.md#207---2025-09-08
-https://github.com/adamchainz/django-htmx
--->
+Useful to me notes:
+* Carson's books: [The Grugbrained Developer](https://grugbrain.dev/) and Hypermedia Systems
+* [django-htmx](https://github.com/adamchainz/django-htmx)
+* [HTMX release 2.0.7 changelog](https://github.com/bigskysoftware/htmx/blob/master/CHANGELOG.md#207---2025-09-08)
 
 ### Community Update: Django Events Foundation North America
 
