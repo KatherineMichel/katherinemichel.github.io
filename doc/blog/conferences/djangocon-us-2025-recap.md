@@ -397,11 +397,12 @@ How to get involved at a local level? Find a [PuG (Python User Group) on meetup.
 
 <!--
 https://docs.google.com/presentation/d/1tzdzDd7Pmh-wdyfJhTgQyl6bFe-4JXpf5ISVpcIwVfc/edit
-
-I learned about OWASP Non-Human Identities Top 10 and and Gen AI Security Project from Dwayne's talk at DjangoCon US, two of my favorite pieces of learning I took away from the conference.
 -->
 
+I learned about [OWASP Non-Human Identities Top 10](https://owasp.org/www-project-non-human-identities-top-10/) and and [Gen AI Security Project](https://genai.owasp.org/) from Dwayne's talk, two of my favorite pieces of learning I took away from the conference.
+
 ![](djangocon-us-2025-recap-images/dwayne-mcdaniel-owasp.jpg)
+[OWASP Non-Human Identities Top 10](https://owasp.org/www-project-non-human-identities-top-10/)
 
 ![](djangocon-us-2025-recap-images/dwayne-mcdaniel-venn.jpg)
 
@@ -570,7 +571,7 @@ They utilized the popular and effective Django Girls tutorial that helps women "
 
 Although the initative started in affluent areas, they went to rural areas, too. The conditions were tough. There was no internet in community centers and electricity only some of the time. 
 
-She has been exploring the use of a small language model bot offline to walk learners through the Django Girls tutorial in places like this. 
+She has been [exploring the use of a small language model bot offline](https://www.linkedin.com/posts/marlenemhangami_i-spent-a-bunch-of-time-recently-experimenting-activity-7373746042548355072-9DI6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOxk18BcgN6WcUZfIqPuO1XxHylxwxaOJ4) to walk learners through the Django Girls tutorial in places like this. 
 
 She says people still need to learn programming from scratch, but can be inspired by vibe coding. Be modular. Do a section at a time, read through the code yourself. Test the code. 
 
@@ -655,7 +656,7 @@ Tim was blown away that Russell Keith-Magee opened up to the community about his
 
 Tim shared his personal journey with alcoholism. 
 
-Tim had brought Han Dynasty food to PyCon 2015 in Montreal as a bribe to host DjangoCon US in Philly. 
+Tim had brought Han Dynasty food to PyCon 2015 in Montreal as a bribe to host DjangoCon US in Philly (fun fact: the day before PyGotham 2018, I randomly saw Tim in mid-town Manhattan and joined his group for dinner at Han Dynasty). 
 
 Tim's alcoholism was progressing. He had intended to go a full month without drinking, but never had. 
 
