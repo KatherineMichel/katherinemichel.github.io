@@ -546,10 +546,6 @@ If you want to make a donation to Black Python Devs, you can at their [support p
 
 ### Conference Conclusion
 
-<!--
-![](djangocon-us-2025-recap-images/djangocon-us-puzzle-swag.jpg)
--->
-
 Thank you to everyone who made the conference unforgettable. 
 
 DjangoCon US 2026 will take place in Chicago from September 14-18. I am super-excited to go back! 
