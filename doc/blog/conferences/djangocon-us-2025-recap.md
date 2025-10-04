@@ -110,7 +110,7 @@ Stunning city view
 
 ### Pre-conference Social
 
-On Sunday night, I decided to go to an informal pre-conference social at [Tiny Tapp](https://www.tinytapp.com/) organized by Jon Gould of [Foxley Talent](https://foxleytalent.com/). I was rewarded with this nighttime view of the buildings overlooking the Chicago River and [Riverwalk](https://en.wikipedia.org/wiki/Chicago_Riverwalk). 
+On Sunday night, I decided to go to an informal pre-conference social at [Tiny Tapp](https://www.tinytapp.com/) organized by Jon Gould of [Foxley Talent](https://foxleytalent.com/). I made some new friends and was rewarded with this nighttime view of the buildings overlooking the Chicago River and [Riverwalk](https://en.wikipedia.org/wiki/Chicago_Riverwalk). 
 
 ![](djangocon-us-2025-recap-images/chicago-river-at-night.jpg)
 What a view!
@@ -122,7 +122,7 @@ What a view!
 ### Pre-conference
 
 ![](djangocon-us-2025-recap-images/original-house-of-pancakes-strawberry-crepes.jpg)
-I couldn't resist getting breakfast at the [Original Pancake House](https://ophchicagoland.com/original-pancake-house-gold-coast/), conspicuously located directly across from the hotel. The strawberry crepes were divine, and the coffee was perfectly strong. 
+I couldn't resist getting breakfast at the [Original Pancake House](https://ophchicagoland.com/original-pancake-house-gold-coast/), conspicuously located directly across from my hotel. The strawberry crepes were divine, and the coffee was perfectly strong. 
 
 ![](djangocon-us-2025-recap-images/happy-times.jpg)
 Ready for an adventure
@@ -173,7 +173,7 @@ DjangoCon US 2026 needs:
 * Organizers- anyone can help (email hello@defna.org)
 * Sponsors- helps lower ticket prices, which have recently increased
 
-DEFNA has put out a [Call for Venue Proposals](https://www.defna.org/announcements/2025/9/10/djangocon-us-call-for-venue-proposal-2027/) for DjangoCon US 2027-28. If you have questions, feel free to talk to Peter Grandstaff or Keanya Phelps, both of whom have had their proposal accepted. 
+DEFNA has put out a [Call for Venue Proposals](https://www.defna.org/announcements/2025/9/10/djangocon-us-call-for-venue-proposal-2027/) for DjangoCon US 2027-28. The deadline is January 15, 2026. If you have questions, feel free to talk to Peter Grandstaff or Keanya Phelps, both of whom have had their proposal accepted. 
 
 Sprints are a way to contribute back to Django through code, docs, community. Lilian of Djangonaut Space talked about how to get started. 
 
