@@ -252,7 +252,7 @@ https://www.paulox.net/2025/09/08/djangocon-us-2025/
 
 Paolo walked through the process of how GeneratedField feature became a reality in [Django 5.0](https://docs.djangoproject.com/en/5.2/releases/5.0/#database-generated-model-field). 
 
-This was not his first time contributing to Django. In 2017, he added [RandomUUID for Postgres](https://github.com/django/django/commit/fcb5dbfec0542faaa1b0adad754a1caf1bcd65e2) in Django. 
+This was not his first time contributing to Django. In 2017, he added [RandomUUID for Postgres](https://github.com/django/django/commit/fcb5dbfec0542faaa1b0adad754a1caf1bcd65e2). 
 
 The idea of a GeneratedField had existed for a while. A [now-stale ticket](https://code.djangoproject.com/ticket/31300) had been made in 2020. 
 
