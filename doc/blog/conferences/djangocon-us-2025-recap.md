@@ -154,30 +154,46 @@ Caktus
 
 ### Keynote: Lateral Thinking with Weathered Technology: How The Nintendo Philosophy Applies to Modern Web Development
 
+Carson Gross is the creator of the htmx library and the founder of the HyperMedia Research Group at Montana State University. 
+
 Carson told the story of [Gunpei Yokoi](https://en.wikipedia.org/wiki/Gunpei_Yokoi), the original Game Boy designer. 
 
-He was on a train in Japan and saw a bored businessman playing with an LCD calculator.
-
-It inspired him to create a simple, handheld game with a two-bit screen (four total colors). 
+He was on a train in Japan and saw a bored businessman playing with an LCD calculator. It inspired him to create a simple, handheld game with a two-bit screen (four total colors). 
 
 Despite its mixed reviews and the sophistication of its competitor Sega with its full-color screen, Game Boy won massively. 
 
 Why? Because techology is not its own end. It is in service to something else. You don't have to use the latest technology to have fun. 
 
-Lateral thinking with weathered technology is about taking an existing technology and adapting it to a new use. 
-
-This philosophy can be applied to web development. 
+Lateral thinking with weathered technology is about taking an existing technology and adapting it to a new use. This philosophy can be applied to web development. 
 
 The industry prioritizes new things and pressures us to adopt them. The industry has left behind good ideas, such as hypermedia. 
 
-As promised, soon thereafter Carson cut HTMX release 2.0.7. Adam Johnson bundled it into his [django-htmx 1.24.1 release](https://www.linkedin.com/feed/update/urn:li:activity:7372092845651873792/). 
+htmx provides a surprisingly modern web experiences using a hypermedia interface at a fraction of the complexity. 
 
-Django community loves HTMX. 
+HTML 2.0 transformed the web into a read-write hypermedia system, unlocking tremendous value. When Django was released in 2005, it was a hypermedia framework for producing HTML. In the 2010s a massive transformation happened- from hypermedia to JSON APIs feeding large JavaScript frontends. 
+
+Hypermedia became the equivalent of the two-bit game boy. 
+
+Doing everything in JavaScript would rob Django of its Django-ness. Django's hypermedia-oriented features can become useful again
+
+Tips from Carson:
+* Don’t chase tech. Chase fun
+* Design is communication
+* Be useful
+* Fail forward
+
+His favorite game boy game is Final Fantasy. 
+
+During Q&A, Jeff Triplett asked what can Django to do better support htmx/frameworks that embrace htmx and Natalia Bidart pointed out the challenge with testing. 
+
+As promised, soon thereafter Carson cut htmx release 2.0.7. Adam Johnson bundled it into his [django-htmx 1.24.1 release](https://www.linkedin.com/feed/update/urn:li:activity:7372092845651873792/). 
+
+Django community loves htmx. 
 
 Useful to me notes:
 * Carson's books: [The Grugbrained Developer](https://grugbrain.dev/) and [Hypermedia Systems](https://hypermedia.systems/)
 * [django-htmx](https://github.com/adamchainz/django-htmx)
-* [HTMX release 2.0.7 changelog](https://github.com/bigskysoftware/htmx/blob/master/CHANGELOG.md#207---2025-09-08)
+* [htmx release 2.0.7 changelog](https://github.com/bigskysoftware/htmx/blob/master/CHANGELOG.md#207---2025-09-08)
 
 ### Community Update: Django Events Foundation North America
 
@@ -491,7 +507,7 @@ News
 
 [Django 6.0](https://docs.djangoproject.com/en/dev/releases/6.0/) freeze and sprints- what will land:
 * [django-csp](https://django-csp.readthedocs.io/en/latest/) into core
-* Template partials (important to HTMX fans)
+* Template partials (important to htmx fans)
 * Async tasks framework
 
 Based on an idea Paolo documented in his blog post [My Django active developers Sprints proposal](https://www.paulox.net/2022/10/26/my-django-active-developers-sprints-proposal/), Carlton Gibson and Paolo have begun to organize a twice a year Django development sprint called Django on the Med in Palafrugell, Spain and Pescara, Italy. The first one will taken place October 7-9, 2025, in Palafrugell Spain. If all goes well, they hope to organize them around the world. See the [Django on the Med](https://djangomed.eu/) website for info about their serious goals and how to attend. 
