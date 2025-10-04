@@ -246,48 +246,25 @@ https://wsvincent.com/django-for-ai-djangocon/
 
 [Django's GeneratedField by Example](https://2025.djangocon.us/talks/django-s-generatedfield-by-example/) by Paolo Melchiorre
 
-
 <!--
-Django 5.0
-https://docs.djangoproject.com/en/5.2/releases/5.0/
 https://www.paulox.net/2025/09/08/djangocon-us-2025/
-Paolo
 -->
 
-The Django performance and optimization docs are a great resource. 
+Paolo walked through the process of how GeneratedField feature became a reality in [Django 5.0](https://docs.djangoproject.com/en/5.2/releases/5.0/#database-generated-model-field). 
 
-Typically, computing at a lower level is faster than computing at a higher level. 
+This was not his first time contributing to Django. In 2017, he added [RandomUUID for Postgres](https://github.com/django/django/commit/fcb5dbfec0542faaa1b0adad754a1caf1bcd65e2) in Django. 
 
+The idea of a GeneratedField had existed for a while. A [now-stale ticket](https://code.djangoproject.com/ticket/31300) had been made in 2020. 
+
+In 2022, Paolo made a small code PoC and [proposed the idea in the Django Developers Forum](https://groups.google.com/g/django-developers/c/9Mf7YqDA4bg/m/wb07E71oAAAJ). A lot of debate ensued. The feature was eventually implemented through PRs [#16417](https://github.com/django/django/pull/16417) and [#16860](https://github.com/django/django/pull/16860).
+
+Paolo pointed to the Django performance and optimization docs which say that [it's almost always faster to work at a lower level](https://docs.djangoproject.com/en/5.2/topics/performance/#work-at-the-appropriate-level) (closer to the database). 
+
+The GeneratedField can perform an operation on database fields at a database-level. It is supported by all db backends. 
+
+Unfortunately, there was only one example in the docs. Paolo gave a plethora of examples. 
 
 <!--
-RandomUUID for Postgres
-Django Europe 2017- Markus  and Mark (Smith) helped him
-Code, tests docs- polish it
-
-Generated db fields, computed from other fields
-All db backends support
-
-Bring back to Django something he learned from Zope
-Generated Columns feature already existed (slide)
-No need for trigger or pattern code
-References- see slide
-
-
-Paolo made a small code PoC. 
-
-
-Django dev mailing list
-Sent email proposing idea with reference
-Issue #31300 that already existed and was stale
-Jpnauta PR #16417
-https://github.com/django/django/pull/16417
-
-LilyAcorn
-#16860
-https://github.com/django/django/pull/16860
-
-There is only one example in the docs. 
-
 Examples:
 -->
 
@@ -528,6 +505,8 @@ Mild waves rolling in
 ### Opening Remarks (Wednesday)
 
 In addition to housekeeping, Afi reminded us to seize the day and make new friends. 
+
+![](djangocon-us-2025-recap-images/afi.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
