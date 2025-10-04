@@ -357,9 +357,9 @@ Let's sustain Django and make the world a better place.
 https://drive.google.com/file/d/1y-lwJZyiANhGvBl7WZAkz0jBx0fW-xPp/view
 -->
 
-![](djangocon-us-2025-recap-images/benjamin-gazorsky-javascript-easy.jpg)
-![](djangocon-us-2025-recap-images/benjamin-gazorsky-javascript-medium.jpg)
-![](djangocon-us-2025-recap-images/benjamin-gazorsky-javascript-three-more-ideas.jpg)
+![](djangocon-us-2025-recap-images/benjamin-zagorsky-javascript-easy.jpg)
+![](djangocon-us-2025-recap-images/benjamin-zagorsky-javascript-medium.jpg)
+![](djangocon-us-2025-recap-images/benjamin-zagorsky-javascript-three-more-ideas.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
