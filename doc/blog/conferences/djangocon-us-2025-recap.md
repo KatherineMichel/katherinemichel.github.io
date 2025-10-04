@@ -620,6 +620,7 @@ Based on an idea Paolo documented in his blog post [My Django active developers 
 On the subject of convincing your employer to let you attend, Paolo suggested sharing Łukasz Langa's recent blog post [Sprints are the best part of a conference](https://pyfound.blogspot.com/2025/09/sprints-are-best-part-of-conference.html). "You're getting for free what you wouldn't be able to buy if you tried."
 
 ![](djangocon-us-2025-recap-images/paolo-melchiorre-dsf-update-django-on-the-med.jpg)
+Django on the Med
 
 Jacob Kaplan-Moss gave a budget update, referencing his [DjangoCon US 2024 talk](https://2024.djangocon.us/talks/if-we-had-1000000-what-could-the-dsf-do-with-4x-its-budget/). Typically, the DSF has an $18,000 surplus. This year will be a loss. The DSF has decided to make some bets. For example, the fellow role has become increasingly unsustainable. The DSF will need the help of the community to make these bets permanent. Consider supporting the DSF. 
 
