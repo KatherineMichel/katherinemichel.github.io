@@ -401,7 +401,7 @@ Mariatta also gave a talk at the conference [Reverse engineering the QR code gen
 Some of us further ventured to the nearby [Six Feet Up](https://sixfeetup.com/) Arcade Night at [Punch Bowl Social](https://punchbowlsocial.com/location/chicago). 
 
 ![](djangocon-us-2025-recap-images/punch-bowl-foosball.jpg)
-Continuing the trend of firsts, I played foosball for the first time!
+Those in the know said this was a notably large foosball table. Continuing the trend of firsts, I played foosball for the first time!
 
 ## Wednesday
 
