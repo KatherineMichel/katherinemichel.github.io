@@ -156,6 +156,8 @@ Caktus
 
 Carson Gross is the creator of the htmx library and the founder of the HyperMedia Research Group at Montana State University. 
 
+htmx enables developers to use custom HTML attributes that trigger AJAX requests and update fragments of a page without a full reload. As a hypermedia-driven approach, the server can return HTML fragments, eliminating the need for client-side JavaScript. 
+
 Carson told the story of [Gunpei Yokoi](https://en.wikipedia.org/wiki/Gunpei_Yokoi), the original Game Boy designer. 
 
 He was on a train in Japan and saw a bored businessman playing with an LCD calculator. It inspired him to create a simple, handheld game with a two-bit screen (four total colors). 
@@ -181,8 +183,6 @@ Tips from Carson:
 * Design is communication
 * Be useful
 * Fail forward
-
-His favorite Game Boy game is Final Fantasy. 
 
 During Q&A, Jeff Triplett asked what can Django to do better support htmx/frameworks that embrace htmx (as of Django 6.0, template partials are baked-in) and Natalia Bidart pointed out the challenge with testing. 
 
