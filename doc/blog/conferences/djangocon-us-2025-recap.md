@@ -173,9 +173,7 @@ Carson is the creator of the htmx library and the founder of the HyperMedia Rese
 
 htmx enables developers to use custom HTML attributes that trigger AJAX requests and update fragments of a page without a full reload without using JavaScript. As a hypermedia-driven approach, the server can return HTML fragments.
 
-Carson told the story of [Gunpei Yokoi](https://en.wikipedia.org/wiki/Gunpei_Yokoi), the original Game Boy designer. 
-
-He was on a train in Japan and saw a bored businessman playing with an LCD calculator. It inspired him to create a simple, handheld game with a two-bit screen (four total colors). 
+Carson told the story of [Gunpei Yokoi](https://en.wikipedia.org/wiki/Gunpei_Yokoi), the original Game Boy designer. He was on a train in Japan and saw a bored businessman playing with an LCD calculator. It inspired him to create a simple, handheld game with a two-bit screen (four total colors). 
 
 Despite its mixed reviews and the sophistication of its competitor Sega with its full-color screen, Game Boy won massively. 
 
@@ -194,6 +192,7 @@ htmx provides a surprisingly modern web experiences using a hypermedia interface
 Doing everything in JavaScript would rob Django of its Django-ness. Django's hypermedia-oriented features can become useful again
 
 ![](djangocon-us-2025-recap-images/carson-gross-tips.jpg)
+Tips from Carson
 
 <!--
 Tips from Carson:
