@@ -194,14 +194,6 @@ Doing everything in JavaScript would rob Django of its Django-ness. Django's hyp
 ![](djangocon-us-2025-recap-images/carson-gross-tips.jpg)
 Tips from Carson
 
-<!--
-Tips from Carson:
-* Don’t chase tech. Chase fun
-* Design is communication
-* Be useful
-* Fail forward
--->
-
 During Q&A, Jeff Triplett asked what can Django to do better support htmx/frameworks that embrace htmx (as of Django 6.0, template partials are baked-in) and Natalia Bidart pointed out the challenge with testing. 
 
 As promised, soon thereafter Carson cut htmx release 2.0.7. Adam Johnson bundled it into his [django-htmx 1.24.1 release](https://www.linkedin.com/feed/update/urn:li:activity:7372092845651873792/). 
@@ -232,6 +224,7 @@ DEFNA has put out a [Call for Venue Proposals](https://www.defna.org/announcemen
 Sprints are a way to contribute back to Django through code, docs, community. Lilian of Djangonaut Space talked about how to get started. 
 
 ![](djangocon-us-2025-recap-images/lilian-tips.jpg)
+Tips from Lilian
 
 Useful to me notes:
 * Check out Sara Boyce's [Vulture Method](https://www.youtube.com/shorts/D6QHet5U82U). 
@@ -429,6 +422,7 @@ Db comments can be at a field or table-level:
 * Table-level: db_table_comment
 
 ![](djangocon-us-2025-recap-images/ryan-cheley-db-comment-example.jpg)
+db_comment exmaple
 
 Not everyone has access to the frontend. 
 
@@ -437,6 +431,7 @@ help_text is only visible on the frontend/admin and is for customers using forms
 It is recommended that help_text and db_comment both be used, but they tend to not be the same. 
 
 ![](djangocon-us-2025-recap-images/ryan-cheley-different-audiences.jpg)
+Different audiences, different needs
 
 <!--
 Different users have different needs
