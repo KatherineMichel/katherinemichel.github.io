@@ -397,6 +397,8 @@ How to get involved at a local level? Find a [PuG (Python User Group) on meetup.
 
 <!--
 https://docs.google.com/presentation/d/1tzdzDd7Pmh-wdyfJhTgQyl6bFe-4JXpf5ISVpcIwVfc/edit
+
+I learned about OWASP Non-Human Identities Top 10 and and Gen AI Security Project from Dwayne's talk at DjangoCon US, two of my favorite pieces of learning I took away from the conference.
 -->
 
 ![](djangocon-us-2025-recap-images/dwayne-mcdaniel-owasp.jpg)
@@ -427,20 +429,12 @@ db_comment exmaple
 
 Not everyone has access to the frontend. 
 
-help_text is only visible on the frontend/admin and is for customers using forms. It doesn't help on the database-side. 
+help_text is only visible on the frontend/admin. It doesn't help on the database-side. 
 
 It is recommended that help_text and db_comment both be used, but they tend to not be the same. 
 
 ![](djangocon-us-2025-recap-images/ryan-cheley-different-audiences.jpg)
 Different audiences, different needs
-
-<!--
-Different users have different needs
-* Customer: help text
-* Web developers: help_text could be helpful, but db comments more helpful
-* DBAs: db comments
-* Auditors: db comments
--->
   
 How to get started with database comments at a field-level
 * Audit your top 10 most confusing fields (cryptic names, complex business logic)
