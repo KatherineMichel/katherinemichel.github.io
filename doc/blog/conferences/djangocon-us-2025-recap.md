@@ -266,20 +266,6 @@ There is only one example in the docs.
 Examples:
 -->
 
-<!--
-### Deploy Django: GitOps & Kubernetes Made Easy
-
-https://github.com/sixfeetup/2025_PyOhio_DeployDjango
-https://sixfeetup.github.io/2025_PyOhio_DeployDjango/#/deploy-django-gitops-kubernetes-made-easy
-
-https://github.com/sixfeetup/djangocon10
-https://github.com/sixfeetup/djangocon10/tree/main/docs
-https://github.com/sixfeetup/djangocon10/blob/main/docs/project-overview.md
-https://github.com/sixfeetup/djangocon10/blob/main/docs/architecture.md
-
-### How to Enjoy Debugging in Production
--->
-
 ### Bonus
 
 ![](djangocon-us-2025-recap-images/djangocon-us-python-distilled-signed.jpg)
@@ -358,25 +344,12 @@ PyCon US is the main source of funding for the PSF, but we are trying to move aw
 How to get involved at a local level? Find a [PuG (Python User Group) on meetup.com](https://www.meetup.com/pro/python-software-foundation-meetups/). Show up, ask questions, volunteer to pick up the pizza, get to know what the org does. 
 
 
-### Winemaking with Mutable Event Sourcing in Django
-
-<!--
-https://github.com/innovint/djangocon-2025-mutable-event-sourcing
--->
-
-<!--
-### Beyond Rate Limiting: Building an Active Learning Defense System in Django
-
-https://github.com/aayushgauba/aiwaf
--->
-
 ### Hidden Dangers Of AI In Developer Workflows: Navigating Security Risks with Human Insight
 
 <!--
 https://docs.google.com/presentation/d/1tzdzDd7Pmh-wdyfJhTgQyl6bFe-4JXpf5ISVpcIwVfc/edit
 -->
 
-### Cutting latency in half: What actually worked—and what didn’t
 
 
 ### Django as a Database Documentation Tool: The Hidden Power of Model Comments
@@ -524,11 +497,6 @@ If you have helped the Django community in some way, you may be eligible to beco
 https://2025.djangocon.us/talks/high-performance-django-at-ten-old-tricks-new-picks/
 -->
 
-<!--
-### Panel Discussion: Two Decades of Django: The Past, Present and Future
-
-https://2025.djangocon.us/talks/panel-discussion-details/
--->
 
 <!--
 https://2025.djangocon.us/talks/free-threaded-django/
