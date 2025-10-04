@@ -193,11 +193,15 @@ htmx provides a surprisingly modern web experiences using a hypermedia interface
 
 Doing everything in JavaScript would rob Django of its Django-ness. Django's hypermedia-oriented features can become useful again
 
+![](djangocon-us-2025-recap-images/carson-gross-tips.jpg)
+
+<!--
 Tips from Carson:
 * Don’t chase tech. Chase fun
 * Design is communication
 * Be useful
 * Fail forward
+-->
 
 During Q&A, Jeff Triplett asked what can Django to do better support htmx/frameworks that embrace htmx (as of Django 6.0, template partials are baked-in) and Natalia Bidart pointed out the challenge with testing. 
 
@@ -227,6 +231,8 @@ DjangoCon US 2026 needs:
 DEFNA has put out a [Call for Venue Proposals](https://www.defna.org/announcements/2025/9/10/djangocon-us-call-for-venue-proposal-2027/) for DjangoCon US 2027-28. The deadline is January 15, 2026. If you have questions, feel free to talk to Peter Grandstaff or Keanya Phelps, both of whom have had their proposal accepted. 
 
 Sprints are a way to contribute back to Django through code, docs, community. Lilian of Djangonaut Space talked about how to get started. 
+
+![](djangocon-us-2025-recap-images/lilian-tips.jpg)
 
 Useful to me notes:
 * Check out Sara Boyce's [Vulture Method](https://www.youtube.com/shorts/D6QHet5U82U). 
@@ -351,6 +357,9 @@ Let's sustain Django and make the world a better place.
 https://drive.google.com/file/d/1y-lwJZyiANhGvBl7WZAkz0jBx0fW-xPp/view
 -->
 
+![](djangocon-us-2025-recap-images/benjamin-gazorsky-javascript-easy.jpg)
+![](djangocon-us-2025-recap-images/benjamin-gazorsky-javascript-medium.jpg)
+![](djangocon-us-2025-recap-images/benjamin-gazorsky-javascript-three-more-ideas.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -362,6 +371,8 @@ Three priorities:
 * The deadline to vote in the 2025 Board Election was approaching. If you want to vote next year, become a member: spend 5 hours/month on average investing in the community or pay (sliding scale is available)
 * [The PSF Grants program was temporarily paused](https://www.python.org/psf/grants/) after hitting the funding cap, which was a shock to the community
 * The PSF will have a fundraiser soon
+
+![](djangocon-us-2025-recap-images/dawn-wages-psf-update.jpg)
 
 What qualifies for the 5 hours? Among other things: 
 * Running a local meetup
@@ -395,6 +406,10 @@ How to get involved at a local level? Find a [PuG (Python User Group) on meetup.
 https://docs.google.com/presentation/d/1tzdzDd7Pmh-wdyfJhTgQyl6bFe-4JXpf5ISVpcIwVfc/edit
 -->
 
+![](djangocon-us-2025-recap-images/dwayne-mcdaniel-owasp.jpg)
+
+![](djangocon-us-2025-recap-images/dwayne-mcdaniel-venn.jpg)
+
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -414,17 +429,23 @@ Db comments can be at a field or table-level:
 * Field-level: db_comment
 * Table-level: db_table_comment
 
+![](djangocon-us-2025-recap-images/ryan-cheley-db-comment-example.jpg)
+
 Not everyone has access to the frontend. 
 
 help_text is only visible on the frontend/admin and is for customers using forms. It doesn't help on the database-side. 
 
 It is recommended that help_text and db_comment both be used, but they tend to not be the same. 
 
+![](djangocon-us-2025-recap-images/ryan-cheley-different-audiences.jpg)
+
+<!--
 Different users have different needs
 * Customer: help text
 * Web developers: help_text could be helpful, but db comments more helpful
 * DBAs: db comments
 * Auditors: db comments
+-->
   
 How to get started with database comments at a field-level
 * Audit your top 10 most confusing fields (cryptic names, complex business logic)
@@ -532,6 +553,7 @@ AI is not just for CEOs are futurists. Real people are using it in their everyda
 
 What does the future of Django look like in the age of AI?
 
+![](djangocon-us-2025-recap-images/marlene-mhangami-key-points.jpg)
 
 
 Marlene demonstrated an LLM token probability visualizer that she had made. 
@@ -549,6 +571,8 @@ As a Django dev, how can I control the context I send?
 2. MCP
 3. Agents.md
    
+
+![](djangocon-us-2025-recap-images/marlene-mhangami-mcp.jpg)
 
 
 Marlene told about the non-profit ZimboPy that she started with Ron Maravanyika to teach girls in Zimbabwe to code. Marlene was moved by the support received from the Django community, even though she was not a member. This is something unique about the Django community. 
@@ -600,6 +624,8 @@ Based on an idea Paolo documented in his blog post [My Django active developers 
 
 On the subject of convincing your employer to let you attend, Paolo suggested sharing Łukasz Langa's recent blog post [Sprints are the best part of a conference](https://pyfound.blogspot.com/2025/09/sprints-are-best-part-of-conference.html). "You're getting for free what you wouldn't be able to buy if you tried."
 
+![](djangocon-us-2025-recap-images/paolo-melchiorre-dsf-update-django-on-the-med.jpg)
+
 Jacob Kaplan-Moss gave a budget update, referencing his [DjangoCon US 2024 talk](https://2024.djangocon.us/talks/if-we-had-1000000-what-could-the-dsf-do-with-4x-its-budget/). Typically, the DSF has an $18,000 surplus. This year will be a loss. The DSF has decided to make some bets. For example, the fellow role has become increasingly unsustainable. The DSF will need the help of the community to make these bets permanent. Consider supporting the DSF. 
 
 If you have helped the Django community in some way, you may be eligible to become a DSF Individual Member. You can be nominated or self-nominate. 
@@ -611,6 +637,9 @@ If you have helped the Django community in some way, you may be eligible to beco
 <!--
 https://2025.djangocon.us/talks/high-performance-django-at-ten-old-tricks-new-picks/
 -->
+
+![](djangocon-us-2025-recap-images/peter-baumgartner-valkey.jpg)
+
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
