@@ -167,7 +167,9 @@ Caktus
 
 ### Keynote: Lateral Thinking with Weathered Technology: How The Nintendo Philosophy Applies to Modern Web Development
 
-Carson Gross is the creator of the htmx library and the founder of the HyperMedia Research Group at Montana State University. 
+[Lateral Thinking with Weathered Technology: How The Nintendo Philosophy Applies to Modern Web Development](https://2025.djangocon.us/talks/keynote-monday/) by Carson Gross
+
+Carson is the creator of the htmx library and the founder of the HyperMedia Research Group at Montana State University. 
 
 htmx enables developers to use custom HTML attributes that trigger AJAX requests and update fragments of a page without a full reload without using JavaScript. As a hypermedia-driven approach, the server can return HTML fragments.
 
@@ -233,13 +235,18 @@ Useful to me notes:
 
 ### Django for AI: Deploying Machine Learning Models with Django
 
+[Django for AI: Deploying Machine Learning Models with Django](https://2025.djangocon.us/talks/django-for-ai-deploying-machine-learning-models-with-django/) by Will Vincent
+
 <!--
 https://wsvincent.com/django-for-ai-djangocon/
 -->
 
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Django's GeneratedField by Example
+
+[Django's GeneratedField by Example](https://2025.djangocon.us/talks/django-s-generatedfield-by-example/) by Paolo Melchiorre
 
 
 <!--
@@ -338,9 +345,12 @@ Let's sustain Django and make the world a better place.
 
 ### Keynote: All The Ways To Use Django
 
+[All The Ways To Use Django](https://2025.djangocon.us/talks/keynote-tuesday/) by Zags (Benjamin Zagorsky)
+
 <!--
 https://drive.google.com/file/d/1y-lwJZyiANhGvBl7WZAkz0jBx0fW-xPp/view
 -->
+
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -389,6 +399,8 @@ https://docs.google.com/presentation/d/1tzdzDd7Pmh-wdyfJhTgQyl6bFe-4JXpf5ISVpcIw
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Django as a Database Documentation Tool: The Hidden Power of Model Comments
+
+[Django as a Database Documentation Tool: The Hidden Power of Model Comments](https://2025.djangocon.us/talks/django-as-a-database-documentation-tool-the-hidden-power-of-model-comments/) by Ryan Cheley
 
 Ryan works in healthcare. Due to the complexity of the terminology, it can be difficult to decipher what data in a database table field is used for. 
 
@@ -510,9 +522,7 @@ In addition to housekeeping, Afi reminded us to seize the day and make new frien
 
 ### Keynote: Django Reimagined For The Age of AI
 
-<!--
-https://2025.djangocon.us/talks/keynote-wednesday/
--->
+[Django Reimagined For The Age of AI](https://2025.djangocon.us/talks/keynote-wednesday/) by Marlene Mhangami
 
 Marlene led the first PyCon Africa and was the former PSF Chair. She is an explorer and maker, and one of my favorite follows on social media. 
 
@@ -602,18 +612,11 @@ If you have helped the Django community in some way, you may be eligible to beco
 https://2025.djangocon.us/talks/high-performance-django-at-ten-old-tricks-new-picks/
 -->
 
-
-<!--
-https://2025.djangocon.us/talks/free-threaded-django/
--->
-
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### What a Decade!
 
-<!--
-https://2025.djangocon.us/talks/what-a-decade/
--->
+[What a Decade!](https://2025.djangocon.us/talks/what-a-decade/) by Tim Allen
 
 Tim told the audience, you are my people, people trying to be a better version of themselves everyday and make the world a better place. 
 
