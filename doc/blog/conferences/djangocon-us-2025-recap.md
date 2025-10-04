@@ -418,14 +418,14 @@ There is a documentation gap. Code comments != database documentation. Wiki page
 
 Also, in his highly regulated field, regulatory auditors need field-level documentation. 
 
-Database comments were introduced in [Django 4.2](https://docs.djangoproject.com/en/5.2/releases/4.2/#comments-on-columns-and-tables) in April 2023. They are not supported in SQLite. 
+Database comments were introduced in [Django 4.2](https://docs.djangoproject.com/en/5.2/releases/4.2/#comments-on-columns-and-tables). They are not supported in SQLite. 
 
 Db comments can be at a field or table-level:
 * Field-level: db_comment
 * Table-level: db_table_comment
 
 ![](djangocon-us-2025-recap-images/ryan-cheley-db-comment-example.jpg)
-db_comment exmaple
+db_comment example
 
 Not everyone has access to the frontend. 
 
