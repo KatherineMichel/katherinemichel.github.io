@@ -182,9 +182,9 @@ Tips from Carson:
 * Be useful
 * Fail forward
 
-His favorite game boy game is Final Fantasy. 
+His favorite Game Boy game is Final Fantasy. 
 
-During Q&A, Jeff Triplett asked what can Django to do better support htmx/frameworks that embrace htmx and Natalia Bidart pointed out the challenge with testing. 
+During Q&A, Jeff Triplett asked what can Django to do better support htmx/frameworks that embrace htmx (as of Django 6.0, template partials are baked-in) and Natalia Bidart pointed out the challenge with testing. 
 
 As promised, soon thereafter Carson cut htmx release 2.0.7. Adam Johnson bundled it into his [django-htmx 1.24.1 release](https://www.linkedin.com/feed/update/urn:li:activity:7372092845651873792/). 
 
