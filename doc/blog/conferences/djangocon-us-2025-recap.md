@@ -369,7 +369,6 @@ How to get involved at a local level? Find a [PuG (Python User Group) on meetup.
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-
 ### Hidden Dangers Of AI In Developer Workflows: Navigating Security Risks with Human Insight
 
 [Hidden Dangers Of AI In Developer Workflows: Navigating Security Risks with Human Insight](https://2025.djangocon.us/talks/hidden-dangers-of-ai-in-developer-workflows-navigating-security-risks-with-human-insight/) by Dwayne McDaniel
@@ -380,9 +379,18 @@ https://docs.google.com/presentation/d/1tzdzDd7Pmh-wdyfJhTgQyl6bFe-4JXpf5ISVpcIw
 
 Dwayne is a developer advocate at GitGuardian, an enterprise platform helping teams solve Non-Human Identity security crisis via secrets detection and remediation, developer tooling for prevention, honeytokens, and public monitoring of GitHub. 
 
+A non-human identity is an agentic AI. 
+
 Dwayne referenced the book God Emperor of Doom by Frank Herbert: "What do such machines really do? They increase the number of things we can do without thinking. Things we do without thinking… there's the real danger."
 
 This talk was about Generative AI that can introduce vulnerabilities into code, not Predictive AI. 
+
+Specific dangers to developers:
+1. The AI told me to do it that way
+2. Hallucinations everywhere
+3. You let the AI do what now? 
+
+Dwayne referenced [the Nx "s1ngularity" Attack](https://blog.gitguardian.com/the-nx-s1ngularity-attack-inside-the-credential-leak/), "[likely one of the first documented cases of malware leveraging AI assistant CLIs for reconnaissance and data exfiltration.](https://snyk.io/blog/weaponizing-ai-coding-agents-for-malware-in-the-nx-malicious-package)" 
 
 I learned about [OWASP Non-Human Identities Top 10](https://owasp.org/www-project-non-human-identities-top-10/) and [Gen AI Security Project](https://genai.owasp.org/) from Dwayne's talk, two of my favorite pieces of learning I took away from the conference.
 
@@ -390,7 +398,9 @@ I learned about [OWASP Non-Human Identities Top 10](https://owasp.org/www-projec
 [OWASP Non-Human Identities Top 10](https://owasp.org/www-project-non-human-identities-top-10/)
 
 ![](djangocon-us-2025-recap-images/dwayne-mcdaniel-venn.jpg)
+A better way to do it
 
+Dwayne's talk had some important examples and stats. Check out the [slides](https://docs.google.com/presentation/d/1tzdzDd7Pmh-wdyfJhTgQyl6bFe-4JXpf5ISVpcIwVfc/edit). 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
