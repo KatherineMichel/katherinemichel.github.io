@@ -175,7 +175,7 @@ As promised, soon thereafter Carson cut HTMX release 2.0.7. Adam Johnson bundled
 Django community loves HTMX. 
 
 Useful to me notes:
-* Carson's books: [The Grugbrained Developer](https://grugbrain.dev/) and Hypermedia Systems
+* Carson's books: [The Grugbrained Developer](https://grugbrain.dev/) and [Hypermedia Systems](https://hypermedia.systems/)
 * [django-htmx](https://github.com/adamchainz/django-htmx)
 * [HTMX release 2.0.7 changelog](https://github.com/bigskysoftware/htmx/blob/master/CHANGELOG.md#207---2025-09-08)
 
