@@ -222,15 +222,12 @@ https://wsvincent.com/django-for-ai-djangocon/
 
 ### Django's GeneratedField by Example
 
+
 <!--
 Django 5.0
 https://docs.djangoproject.com/en/5.2/releases/5.0/
 https://www.paulox.net/2025/09/08/djangocon-us-2025/
 Paolo
-
-https://www.paulox.net/2023/11/07/database-generated-columns-part-1-django-and-sqlite/
-https://www.paulox.net/2023/11/24/database-generated-columns-part-2-django-and-postgresql/
-https://www.paulox.net/2023/12/11/database-generated-columns-part-3-geodjango-and-postgis/
 -->
 
 The Django performance and optimization docs are a great resource. 
@@ -239,6 +236,10 @@ Typically, computing at a lower level is faster than computing at a higher level
 
 
 <!--
+RandomUUID for Postgres
+Django Europe 2017- Markus  and Mark (Smith) helped him
+Code, tests docs- polish it
+
 Generated db fields, computed from other fields
 All db backends support
 
@@ -265,6 +266,11 @@ There is only one example in the docs.
 
 Examples:
 -->
+
+Useful to me notes:
+* [Database Generated Columns Part 1 Django and SQLite](https://www.paulox.net/2023/11/07/database-generated-columns-part-1-django-and-sqlite/)
+* [Database Generated Columns Part 2 Django and PostgreSQL](https://www.paulox.net/2023/11/24/database-generated-columns-part-2-django-and-postgresql/)
+* [Database Generated Columns Part 3 Django and PostGIS](https://www.paulox.net/2023/12/11/database-generated-columns-part-3-geodjango-and-postgis/)
 
 ### Bonus
 
