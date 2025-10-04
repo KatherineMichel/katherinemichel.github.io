@@ -177,8 +177,8 @@ DEFNA has put out a [Call for Venue Proposals](https://www.defna.org/announcemen
 
 Sprints are a way to contribute back to Django through code, docs, community. Lilian of Djangonaut Space talked about how to get started. 
 
-Note to self: check out Sara Boyce's [Vulture Method](https://www.youtube.com/shorts/D6QHet5U82U). 
-
+Useful to me notes:
+* Check out Sara Boyce's [Vulture Method](https://www.youtube.com/shorts/D6QHet5U82U). 
 
 ### Django for AI: Deploying Machine Learning Models with Django
 
@@ -247,7 +247,7 @@ https://github.com/sixfeetup/djangocon10/blob/main/docs/architecture.md
 ### How to Enjoy Debugging in Production
 
 
-### Extras
+### Bonus
 
 ![](djangocon-us-2025-recap-images/djangocon-us-python-distilled-signed.jpg)
 Chicagoan David Beazley is a well-known author and teacher in the Python community who offers [advanced programming courses](https://www.dabeaz.com/). I first met Dave at PyGotham 2019 after his keynote and was excited to reconnect. I scored a signed copy of his book [Python Distilled](https://www.oreilly.com/library/view/python-distilled/9780134173399/)! 
@@ -297,7 +297,7 @@ https://drive.google.com/file/d/1y-lwJZyiANhGvBl7WZAkz0jBx0fW-xPp/view
 Outgoing PSF Chair Dawn Wages gave the update. 
 
 Three priorities:
-* The deadline to vote in the 2025 Board Election is approaching. If you want to vote next year, become a member: spend 5 hours/month on average investing in the community or pay (sliding scale is available)
+* The deadline to vote in the 2025 Board Election was approaching. If you want to vote next year, become a member: spend 5 hours/month on average investing in the community or pay (sliding scale is available)
 * [The PSF Grants program was temporarily paused](https://www.python.org/psf/grants/) after hitting the funding cap, which was a shock to the community
 * The PSF will have a fundraiser soon
 
@@ -318,7 +318,7 @@ Django is good at DEI, consistent community support, healthy conversations with 
 
 Professionalism is a goal for the DSF, but difficult to reach. Python has been able to professionalize the organization, hire more people, take some burden off volunteers, but that also puts up a wall for volunteers to understand what is going on. 
 
-How much can we afford and what are the responsibilities? OS leaders can help shepherd the DSF into the nest chapers. 
+How much can we afford and what are the responsibilities? OS leaders can help shepherd the DSF into the next chapters. 
 
 PyCon US is the main source of funding for the PSF, but we are trying to move away from that. DEFNA manages DjangoCon US. 
 
@@ -348,7 +348,7 @@ https://docs.google.com/presentation/d/1tzdzDd7Pmh-wdyfJhTgQyl6bFe-4JXpf5ISVpcIw
 ### Django as a Database Documentation Tool: The Hidden Power of Model Comments
 
 
-## Extras
+## Bonus
 
 ![](djangocon-us-2025-recap-images/djangocon-us-me-jeff-marlene-paolo.png)
 Jeff, Marlene, me, Paolo. Marlene did a fascinating closing keynote Django Reimagined For The Age of AI. 
@@ -507,7 +507,7 @@ He does not believe he would be alive if not for the support he has gotten.
 
 The community is willing to have difficult conversations and help. "You matter. You are valued."
 
-### Extras
+### Bonus
 
 ![](djangocon-us-2025-recap-images/djangocon-us-me-and-jon.jpeg)
 Continuing a tradition, Jon of [Foxley Talent](https://foxleytalent.com/) and I took a photo together! 
