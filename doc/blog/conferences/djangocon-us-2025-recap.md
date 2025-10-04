@@ -154,12 +154,37 @@ Caktus
 
 ### Keynote: Lateral Thinking with Weathered Technology: How The Nintendo Philosophy Applies to Modern Web Development
 
+Carson told the story of [Gunpei Yokoi](https://en.wikipedia.org/wiki/Gunpei_Yokoi), the original Game Boy designer. 
+
+He was on a train in Japan and saw a bored businessman playing with an LCD calculator.
+
+It inspired him to create a simple, handheld game with a two-bit screen (four total colors)
+
+Despite its mixed reviews and the sophistication of its competitor Sega with its full-color screen, Game Boy won massively. 
+
+Why? Because techology is not its own end. It is in service to something else. You don't have to use the latest technology to have fun. 
+
+Lateral thinking with weathered technology is about taking an existing technology and adapting it to a new use. 
+
+This philosophy can be applied to web development. 
+
+The industry prioritizes new things and pressures us to adopt them. The industry has left behind good ideas, including hypermedia. 
+
+<!--
+Books
+Hypermedia Systems
+The Grugbrain developer
+-->
+
+As promised, Carson cut an HTMX release that day. 
+
+Django community loves HTMX. 
+
 <!--
 https://www.linkedin.com/feed/update/urn:li:activity:7372092845651873792/
 https://github.com/bigskysoftware/htmx/blob/master/CHANGELOG.md#207---2025-09-08
 https://github.com/adamchainz/django-htmx
 -->
-
 
 ### Community Update: Django Events Foundation North America
 
