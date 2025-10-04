@@ -200,7 +200,7 @@ As promised, soon thereafter Carson cut htmx release 2.0.7. Adam Johnson bundled
 
 Django community loves htmx. Adam Johnson and Carlton Gibson, former Django Fellow, are two high profile advocates. 
 
-Useful to me notes:
+Useful-to-me notes:
 * Carson's books: [The Grugbrained Developer](https://grugbrain.dev/) and [Hypermedia Systems](https://hypermedia.systems/)
 * [django-htmx](https://github.com/adamchainz/django-htmx)
 * [htmx release 2.0.7 changelog](https://github.com/bigskysoftware/htmx/blob/master/CHANGELOG.md#207---2025-09-08)
@@ -226,7 +226,7 @@ Sprints are a way to contribute back to Django through code, docs, community. Li
 ![](djangocon-us-2025-recap-images/lilian-tips.jpg)
 Tips from Lilian
 
-Useful to me notes:
+Useful-to-me notes:
 * Check out Sara Boyce's [Vulture Method](https://www.youtube.com/shorts/D6QHet5U82U). 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
@@ -291,7 +291,7 @@ There is only one example in the docs.
 Examples:
 -->
 
-Useful to me notes:
+Useful-to-me notes:
 * [Database Generated Columns Part 1 Django and SQLite](https://www.paulox.net/2023/11/07/database-generated-columns-part-1-django-and-sqlite/)
 * [Database Generated Columns Part 2 Django and PostgreSQL](https://www.paulox.net/2023/11/24/database-generated-columns-part-2-django-and-postgresql/)
 * [Database Generated Columns Part 3 Django and PostGIS](https://www.paulox.net/2023/12/11/database-generated-columns-part-3-geodjango-and-postgis/)
@@ -584,7 +584,7 @@ Chat is the primary interface and Marlene believes it will continue to be.
 
 Resources from Marlene's talk can be found in her [GitHub repo](https://github.com/marlenezw/djangocon-25-keynote). 
 
-Useful to me notes:
+Useful-to-me notes:
 * [ACM Practitioner Board](https://learning.acm.org/practitioner-board)
 * Simon Willison's [Blog](https://simonwillison.net/)
 * Andrej Kaparthy's [Build an LLM from Scratch videos](https://www.youtube.com/andrejkarpathy)
