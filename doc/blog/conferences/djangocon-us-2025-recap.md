@@ -507,6 +507,7 @@ Mild waves rolling in
 In addition to housekeeping, Afi reminded us to seize the day and make new friends. 
 
 ![](djangocon-us-2025-recap-images/afi.jpg)
+Afi
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
