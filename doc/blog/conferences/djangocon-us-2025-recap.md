@@ -665,14 +665,6 @@ MCP is an open protocol that standardizes how apps provide context to LLMs. A Dj
 
 Marlene created an example Welcome to [Django Chat MCP app](https://github.com/marlenezw/django-mcp). 
 
-<!--
-Clients maintain 1:1 connection with MCP server (lang chain + her choice of LLM).
-Servers- can create your own, or use online, resources or tools for map client to gives data
-MCP in depth slide- tools, resources, prompts
-Connect NCP servers to Django Apps with LangChain
-Huggingface
--->
-
 While vibe coding in VSCode, you can use an [agents.md file](https://code.visualstudio.com/docs/copilot/customization/custom-instructions#_use-an-agentsmd-file-experimental) to specify best practices to follow. 
 
 AI generated code falls short in security, scalability, and maintainability. 
