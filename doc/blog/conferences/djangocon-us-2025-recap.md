@@ -240,6 +240,32 @@ Useful-to-me notes:
 https://wsvincent.com/django-for-ai-djangocon/
 -->
 
+Will works as a developer advocate at JetBrains and is a popular author and contributor to the community.
+
+His talk was about the shift happening due to AI. Django can and should be a part of it. 
+
+According to the latest Django Developers survey, 70% of respondents use ChatGPT, a third use Copilot, Claude, JetBrains AI Assistant, and others. 
+
+According to the most recent Python Developers Survey, FastAPI is used more than Django or Flask. 
+
+Will says that at the Python conferences he has been to this year, attendees were discussing AI and FastAPI, not Django. 
+
+Rather than burying our heads in the same, we need to learn from what is happening. 
+
+Criticisms Will hears about Django... it is perceived as: 
+* slow (FastAPI has "fast" in the name and is async by default)
+* old (rather than boring and stable as some believe)
+* big/hard to learn (akin to the Flask microframework versus batteries-included debate)
+
+Will split his talk into two sections: 
+* Classic Machine Learning protope- how to train a model from scratch and deploy to Django
+* LLMs- the key difference between serving a classic machine learning model versus an LLM and a protype
+
+Will showed how to train a classic machine learning model and deploy with Django
+* Create a Jupyter notebook
+* 
+
+
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
