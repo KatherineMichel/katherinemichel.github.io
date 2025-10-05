@@ -29,7 +29,7 @@ Table of Contents
     - [Monday Bonus](#monday-bonus)
     - [Lincoln Loop Social Event](#lincoln-loop-social-event)
 - [Tuesday](#tuesday)
-    - [Tuesday Opening Remarks)](#tuesday-opening-remarks)
+    - [Tuesday Opening Remarks](#tuesday-opening-remarks)
     - [Keynote: All The Ways To Use Django](#keynote-all-the-ways-to-use-django)
     - [Community Update: Python Software Foundation](#community-update-python-software-foundation)
     - [Hidden Dangers Of AI In Developer Workflows: Navigating Security Risks with Human Insight](#hidden-dangers-of-ai-in-developer-workflows-navigating-security-risks-with-human-insight)
