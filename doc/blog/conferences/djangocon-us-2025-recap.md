@@ -180,16 +180,20 @@ Enjoying the view along the Chicago River on the way to the nearby venue
 
 ### Orientation
 
+The conference kicked off with the orientation that only Kojo can give, including an important reminder to take care of yourself through a #selfcaresprint. 
+
 ### Monday Opening Remarks
 
-<!--
-https://2025.djangocon.us/schedule/
--->
+Conference Chair Keanya Phelps gave an inspiring welcome. 
 
-<!--
-### Kojo Idressa and Keanya Phelps Kick Off the Conference
+"DjangoCon is more than just code, its about creating a space where everyone feels welcome and valued." 
 
 ![](djangocon-us-2025-recap-images/djangocon-us-hey-we-dont-do-that-here.jpg)
+As always, hey, we don't do that here. 
+
+<!--
+https://2025.djangocon.us/news/conference-chair/
+
 Stacey's talk
 
 Conference Chair
