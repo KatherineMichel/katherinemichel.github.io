@@ -262,9 +262,19 @@ Will split his talk into two sections:
 * LLMs- the key difference between serving a classic machine learning model versus an LLM and a protype
 
 ![](djangocon-us-2025-recap-images/jupyter-code.png)
-The start of the classic machine learning model
+The start of the classic machine learning model in a [Jupyter notebook](https://github.com/wsvincent/iris_ml). 
 
+Notably, this takes about 20 lines of code (including imports), with a mere 2 lines doing the training. 
 
+A Jupyter cell can be added to enter inputs and see results for the model. 
+
+The model is eventually saved as a joblib file, "a serialized Python object for saving and loading trained ML models." 
+
+The code is in the repo [django_irisml](https://github.com/wsvincent/django_irisml). You can try it out at [DjangoforDataScience.com](https://djangofordatascience.com/). 
+
+Will's books [Django for Beginners](https://www.amazon.com/Django-Beginners-5th-Modern-Applications/dp/173546726X) and [Django for Professionals](https://www.amazon.com/Django-Professionals-Production-websites-Python-ebook/dp/B08FNLQHGN?ref_=ast_author_dp&th=1&psc=1) explain many of the steps needed to create and deploy Django apps. 
+
+Thank you to Will for a particularly relevant deep dive. It was my favorite talk of the conference. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
