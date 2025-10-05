@@ -12,14 +12,47 @@ Table of Contents
 
 - [Intro](#intro)
 - [Pre-conference Activities](#pre-conference-activities)
+    - [The View from Above](#the-view-from-above)
+    - [The Field Museum](#the-field-museum)
+    - [Shaw's Crab House Lunch Special](#shaw-s-crab-house-lunch-special)
+    - [The Art Institute of Chicago](#the-art-institute-of-chicago)
+    - [My Incredible Room](#my-incredible-room)
+    - [Pre-conference Social](#pre-conference-social)
 - [Monday](#monday)
-    - [Kojo Idressa and Keanya Phelps Kick Off the Conference](#kojo-idressa-and-keanya-phelps-kick-off-the-conference)
+    - [Pre-conference](#pre-conference)
+    - [Orientation](#orientation)
+    - [Opening Remarks (Monday)](#opening-remarks-monday)
+    - [Keynote: Lateral Thinking with Weathered Technology: How The Nintendo Philosophy Applies to Modern Web Development](#keynote-lateral-thinking-with-weathered-technology-how-the-nintendo-philosophy-applies-to-modern-web-development)
+    - [Community Update: Django Events Foundation North America](#community-update-django-events-foundation-north-america)
+    - [Django for AI: Deploying Machine Learning Models with Django](#django-for-ai-deploying-machine-learning-models-with-django)
+    - [Django's GeneratedField by Example](#django-s-generatedfield-by-example)
+    - [Bonus](#bonus)
+    - [Lincoln Loop Social Event](#lincoln-loop-social-event)
 - [Tuesday](#tuesday)
+    - [Opening Remarks (Tuesday)](#opening-remarks-tuesday)
+    - [Keynote: All The Ways To Use Django](#keynote-all-the-ways-to-use-django)
+    - [Community Update: Python Software Foundation](#community-update-python-software-foundation)
+    - [Hidden Dangers Of AI In Developer Workflows: Navigating Security Risks with Human Insight](#hidden-dangers-of-ai-in-developer-workflows-navigating-security-risks-with-human-insight)
+    - [Django as a Database Documentation Tool: The Hidden Power of Model Comments](#django-as-a-database-documentation-tool-the-hidden-power-of-model-comments)
+    - [Bonus](#bonus)
     - [Speaker and Organizer Dinner](#speaker-and-organizer-dinner)
+    - [Amorino](#amorino)
+    - [Six Feet Up Social Event](#six-feet-up-social-event)
 - [Wednesday](#wednesday)
+    - [Pre-conference](#id2)
+    - [Opening Remarks (Wednesday)](#opening-remarks-wednesday)
+    - [Keynote: Django Reimagined For The Age of AI](#keynote-django-reimagined-for-the-age-of-ai)
+    - [Community Update: Django Software Foundation](#community-update-django-software-foundation)
+    - [What a Decade!](#what-a-decade)
+    - [Bonus](#bonus)
     - [Conference Conclusion](#conference-conclusion)
-- [Sight Seeing and More Food](#sight-seeing-and-more-food)
-- [In Closing](#in-closing)
+- [Post-Conference](#post-conference)
+    - [Wendella Chicago Architecture Boat Tour](#wendella-chicago-architecture-boat-tour)
+    - [Giordano's](#giordano-s)
+- [More Sight Seeing!](#more-sight-seeing)
+    - [More of The View From Above](#more-of-the-view-from-above)
+    - [More from The Field Museum](#more-from-the-field-museum)
+    - [More from The Art Institute of Chicago](#more-from-the-art-institute-of-chicago)
 
 ## Intro
 
@@ -545,7 +578,7 @@ This can make life easier for those who only have access to the database and our
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-## Bonus
+### Bonus
 
 ![](djangocon-us-2025-recap-images/djangocon-us-me-jeff-marlene-paolo.png)
 Jeff, Marlene, me, Paolo. Marlene did a fascinating closing keynote Django Reimagined For The Age of AI. 
