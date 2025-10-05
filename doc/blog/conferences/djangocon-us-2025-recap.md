@@ -262,7 +262,7 @@ Will split his talk into two sections:
 * LLMs- the key difference between serving a classic machine learning model versus an LLM and a protype
 
 ![](djangocon-us-2025-recap-images/jupyter-code.png)
-The start of the classic machine learning model in a [Jupyter notebook](https://github.com/wsvincent/iris_ml). 
+Jupyter code... the start of the classic machine learning model in a [Jupyter notebook](https://github.com/wsvincent/iris_ml). 
 
 Notably, this takes about 20 lines of code (including imports), with a mere 2 lines doing the training. 
 
