@@ -182,6 +182,8 @@ Enjoying the view along the Chicago River on the way to the nearby venue
 
 The conference kicked off with the orientation that only Kojo can give, including an important reminder to take care of yourself through a #selfcaresprint. 
 
+![](djangocon-us-2025-recap-images/kojo.jpg)
+
 ### Monday Opening Remarks
 
 Conference Chair Keanya Phelps gave an inspiring welcome. 
