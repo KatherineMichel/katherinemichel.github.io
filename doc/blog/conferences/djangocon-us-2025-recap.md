@@ -327,10 +327,10 @@ Why Django is a poor choice to serve LLM models:
 
 Will said, Django can do more than you think. 
 
-In line with Carson's talk, Will used "the boring old web" to create a Django LLM chatbot prototype. 
+In line with Carson's talk, Will used "the boring old web" to create a Django LLM chatbot prototype: 
 * Server-sent events: send one HTTP request, receive a streaming response (StreamingHttpResponse- added in Django 1.5 in 2013)
 * HTML Streaming
-* Two templates and HTMX- no JavaScript
+* Two templates and htmx- no JavaScript
 * Ollama model–Gemma 3:4B streams tokens to an API endpoint
 * Python generator sends one token at a time
 * Regular synchronous views
