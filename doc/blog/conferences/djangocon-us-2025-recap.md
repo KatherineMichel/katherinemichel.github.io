@@ -264,11 +264,7 @@ Will split his talk into two sections:
 ![](djangocon-us-2025-recap-images/jupyter-code.png)
 Jupyter code... the start of the classic machine learning model in a [Jupyter notebook](https://github.com/wsvincent/iris_ml). 
 
-Notably, this takes about 20 lines of code (including imports), with a mere 2 lines doing the training. 
-
-A Jupyter cell can be added to enter inputs and see results for the model. 
-
-The model is eventually saved as a joblib file, "a serialized Python object for saving and loading trained ML models." 
+Notably, this takes about 20 lines of code (including imports), with a mere 2 lines doing the training. A Jupyter cell can be added to enter inputs and see results for the model. The model is eventually saved as a joblib file, "a serialized Python object for saving and loading trained ML models." 
 
 Django is the web interface we can use to bring the model to the world. 
 
