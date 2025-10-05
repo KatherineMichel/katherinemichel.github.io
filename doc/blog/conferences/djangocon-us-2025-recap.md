@@ -306,7 +306,7 @@ The two stages to building an LLM model:
 
 Key training tasks
 * Data prep: data has to be cleaned, deduplicated, offensive content removed
-* Getting data: just like in search, some sources are weighted more highly than others. 
+* Getting data: some sources are weighted more highly than others. 
 * Tokenization: transforming words (or subwords) into numerical IDs. Will says there are approximately one quadrillion tokens. 
 
 ![](djangocon-us-2025-recap-images/llm-inference-processing.png)
