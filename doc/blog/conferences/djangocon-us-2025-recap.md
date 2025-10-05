@@ -81,7 +81,7 @@ Mini chocolate cake
 
 ### The Art Institute of Chicago
 
-After lunch, I spent the afternoon at the [Art Institute of Chicago](https://www.artic.edu/). The Art Intitute is one of the world's great art museums, renowned for its collection of Impressionist and Post-Impressionist art.  
+After lunch, I spent the afternoon at the [Art Institute of Chicago](https://www.artic.edu/). The Art Institute is one of the world's great art museums, renowned for its collection of Impressionist and Post-Impressionist art.  
 
 Having looked through the museum's collection ahead of time and noted my favorites, I saw many great works. For fun, I also took the [Be Like Ferris Tour](https://www.artic.edu/my-museum-tour/5178), featuring art works seen in Ferris Bueller's Day Off when [Ferris, Cameron, and Sloane visit the museum](https://youtu.be/vBBOMLURSGA?si=3OLtiWJt2C2vB8jj). 
 
@@ -100,7 +100,7 @@ The front of The Art Institute of Chicago
 ![](djangocon-us-2025-recap-images/art-institute-of-chicago-room.jpg)
 [Gallery 211](https://www.artic.edu/galleries/2147483626/gallery-211), one of my favorite rooms
 
-The [Thorne Minature Rooms](https://www.artic.edu/highlights/12/thorne-miniature-rooms) in the basement are also a must see. 
+The [Thorne Miniature Rooms](https://www.artic.edu/highlights/12/thorne-miniature-rooms) in the basement are also a must see. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -177,7 +177,7 @@ Carson told the story of [Gunpei Yokoi](https://en.wikipedia.org/wiki/Gunpei_Yok
 
 Despite its mixed reviews and the sophistication of its competitor Sega with its full-color screen, Game Boy won massively. 
 
-Why? Because techology is not its own end. It is in service to something else. You don't have to use the latest technology to have fun. 
+Why? Because technology is not its own end. It is in service to something else. You don't have to use the latest technology to have fun. 
 
 Lateral thinking with weathered technology is about taking an existing technology and adapting it to a new use. This philosophy can be applied to web development. 
 
@@ -236,10 +236,6 @@ Useful-to-me notes:
 
 [Django for AI: Deploying Machine Learning Models with Django](https://2025.djangocon.us/talks/django-for-ai-deploying-machine-learning-models-with-django/) by Will Vincent
 
-<!--
-https://wsvincent.com/django-for-ai-djangocon/
--->
-
 Will works as a developer advocate at JetBrains and is a popular author, Django Chat podcaster, and Django News newsletter curator.
 
 His talk was about the shift happening due to AI. Django can and should be a part of it. 
@@ -258,7 +254,7 @@ Criticisms Will hears about Django... it is perceived as:
 * big/hard to learn (akin to the Flask microframework versus batteries-included debate)
 
 Will split his talk into two sections: 
-* Classic Machine Learning protope- how to train a model from scratch and deploy to Django
+* Classic Machine Learning prototype- how to train a model from scratch and deploy to Django
 * LLMs- the key difference between serving a classic machine learning model versus an LLM, followed by a protype
 
 ![](djangocon-us-2025-recap-images/jupyter-code.png)
@@ -278,7 +274,7 @@ A function-based view accepts forms values from the user and makes predictions u
 Optional:
 * A models directory for multiple models
 * A model to store predictions- the data can used to retrain the model
-* A django admin to see user responses and predictions in real time and interact with the data
+* A Django admin to see user responses and predictions in real time and interact with the data
 
 The code is in the repo [django_irisml](https://github.com/wsvincent/django_irisml). You can try it out at [DjangoforDataScience.com](https://djangofordatascience.com/). 
 
@@ -290,7 +286,7 @@ Will moved on to LLMs.
 
 They are token prediction machines. 
 
-Will explained the AI heirarchy of Machine Learning, Neural Networks, and Deep Learning. LLMs are a form of Deep Learning. 
+Will explained the AI hierarchy of Machine Learning, Neural Networks, and Deep Learning. LLMs are a form of Deep Learning. 
 
 These concepts have been around since the 1940s, but there were technical challenges around scaling them. 
 
@@ -351,10 +347,6 @@ Useful-to-me notes:
 
 [Django's GeneratedField by Example](https://2025.djangocon.us/talks/django-s-generatedfield-by-example/) by Paolo Melchiorre
 
-<!--
-https://www.paulox.net/2025/09/08/djangocon-us-2025/
--->
-
 Paolo walked through the process of how GeneratedField feature became a reality in [Django 5.0](https://docs.djangoproject.com/en/5.2/releases/5.0/#database-generated-model-field). 
 
 This was not his first time contributing to Django. In 2017, he added [RandomUUID for Postgres](https://github.com/django/django/commit/fcb5dbfec0542faaa1b0adad754a1caf1bcd65e2). 
@@ -373,6 +365,8 @@ Unfortunately, there was only one example in the docs. Paolo gave a plethora of 
 Examples:
 -->
 
+Check out more examples in his [slides](https://www.paulox.net/2025/09/08/djangocon-us-2025/). 
+
 Useful-to-me notes:
 * [Database Generated Columns Part 1 Django and SQLite](https://www.paulox.net/2023/11/07/database-generated-columns-part-1-django-and-sqlite/)
 * [Database Generated Columns Part 2 Django and PostgreSQL](https://www.paulox.net/2023/11/24/database-generated-columns-part-2-django-and-postgresql/)
@@ -389,7 +383,7 @@ Chicagoan David Beazley is a well-known author and teacher in the Python communi
 Me and my sweet friends Afi and Velda. They surprised me with gifts to show their appreciation for me. I felt so special! Afi did a great job managing program and giving opening remarks and Velda serving on the DEFNA Board and moderating the Two Decades of Django panel. (photo credit: Dawn Wages)
 
 ![](djangocon-us-2025-recap-images/djangocon-us-gifts-from-afi-and-velda.jpg)
-Gifts from Afi and Velda: beautiful flowers, Harrods spiced salted caramel shortbread, a British keychain, a postcard with handritten messages
+Gifts from Afi and Velda: beautiful flowers, Harrods spiced salted caramel shortbread, a British keychain, a postcard with handwritten messages
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -618,7 +612,7 @@ Those in the know said this was a notably large foosball table. Continuing the t
 
 ### Pre-conference
 
-I knew Wednesday morning would likely be my last chance to make the short walk from my hotel to Oak Street Beach. I couldn't resist getting up early to do so. It was surprisingly beach-like, despite bordering Lake Michigan. I enjoyed a quiet walk down the coast and watched nearby beach-goers play vollyball and cold-plunge. 
+I knew Wednesday morning would likely be my last chance to make the short walk from my hotel to Oak Street Beach. I couldn't resist getting up early to do so. It was surprisingly beach-like, despite bordering Lake Michigan. I enjoyed a quiet walk down the coast and watched nearby beach-goers play volleyball and cold-plunge. 
 
 ![](djangocon-us-2025-recap-images/oak-street-beach.jpg)
 Mild waves rolling in
@@ -678,7 +672,7 @@ Marlene told about the non-profit ZimboPy that she started with Ron Maravanyika 
 
 They utilized the popular and effective Django Girls tutorial that helps women "fall in love" with programming. 
 
-Although the initative started in affluent areas, they went to rural areas, too. The conditions were tough. There was no internet in community centers and electricity only some of the time. 
+Although the initiative started in affluent areas, they went to rural areas, too. The conditions were tough. There was no internet in community centers and electricity only some of the time. 
 
 She has been [exploring the use of a small language model bot offline](https://www.linkedin.com/posts/marlenemhangami_i-spent-a-bunch-of-time-recently-experimenting-activity-7373746042548355072-9DI6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOxk18BcgN6WcUZfIqPuO1XxHylxwxaOJ4) to walk learners through the Django Girls tutorial in places like this. 
 
@@ -765,7 +759,7 @@ Jacob Kaplan-Moss gave a [keynote](https://www.youtube.com/watch?v=hIJdFxYlEKE) 
 
 He had no idea it was his first day sober. Returning home, he found his family there to stage an intervention. He accepted the help that was being offered. 
 
-He had to be open that he was being intentional to no longer drink. Tim was assured that recovery is part of DjangoCon US diversity initatives and welcome. Steps were taken to de-emphasize alcohol, and local recovery groups were added to the conference website. 
+He had to be open that he was being intentional to no longer drink. Tim was assured that recovery is part of DjangoCon US diversity initiatives and welcome. Steps were taken to de-emphasize alcohol, and local recovery groups were added to the conference website. 
 
 Tim was going to focus on tech in his talk, but that changed on Friday when he found out his co-worker Lindsay Rees has passed away. 
 
@@ -805,7 +799,7 @@ Continue scrolling for more post-conference fun and sightseeing.
 
 ### Wendella Chicago Architecture Boat Tour
 
-I'd heard many great things about Chicago architecture boat cruises and considered taking one on Sunday, but decided it would be one thing too many. When I heard that a group of attendees would be taking one Wednesday evening, I had to join. It surpassed my expections, and I'd love to go again sometime.  
+I'd heard many great things about Chicago architecture boat cruises and considered taking one on Sunday, but decided it would be one thing too many. When I heard that a group of attendees would be taking one Wednesday evening, I had to join. It surpassed my expectations, and I'd love to go again sometime.  
 
 ![](djangocon-us-2025-recap-images/wendella-the-boat.jpg)
 Our [Wendella](https://wendellaboats.com/) boat (photo credit: Tobias McNulty)
@@ -821,7 +815,7 @@ After the boat trip, several of us stopped to eat at Navy Pier Giordano's.
 
 Earlier in the week, I'd had a [Lou Malnati's](https://www.loumalnatis.com/) deep-dish, Chicago Classic with sausage, mozzarella, and tomato sauce on a Buttercrust™. The pizza was tasty, but it was surprisingly watery, and the crust was difficult to cut. [Giordano's](https://giordanos.com/) pizza sauce was a bit too sweet for me. I am Goldilocks. Maybe next visit, I will find my perfect deep-dish pizza. 
 
-I had delicious fettuccini alfredo instead. 
+I had delicious fettuccini Alfredo instead. 
 
 ![](djangocon-us-2025-recap-images/giordanos-pizza-crowd.jpg)
 Hopping on a Wednesday night!
