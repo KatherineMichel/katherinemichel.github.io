@@ -308,14 +308,22 @@ Key training tasks
 * Data prep: data has to be cleaned, deduplicated, offensive content removed
 * Getting data: just like in search, some sources are weighted more highly than others. 
 * Tokenization: transforming words (or subwords) into numerical IDs. Will says there are approximately one quadrillion tokens. 
- 
+
+![](djangocon-us-2025-recap-images/llm-inference-processing.png)
+LLM inference processing
+
 Will explained LLM internals in order to make a point "... the web itself has never been more important. These fancy models are useless without a way to connect them to paying users. How do they do that? With the web. But there’s a catch. Serving these models via inference is radically different than the database-driven paradigm we’re all used to with Django."
+
+![](djangocon-us-2025-recap-images/traditional-web-request-versus-inference.png)
+Traditional web request versus inference
 
 Why Django is a poor choice to serve LLM models: 
 * Frontier-level models are terabytes size
 * We cannot optimize inference like a traditional web request served up by a database. We can only buy more GPU. 
-  
+
 <!--
+![](djangocon-us-2025-recap-images/llm-inference-api-fastapi.png)
+
 https://github.com/wsvincent/djangoforai
 -->
 
