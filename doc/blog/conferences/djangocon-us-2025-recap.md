@@ -302,7 +302,7 @@ These two concepts together were revolutionary.
 
 The two stages to building an LLM model:
 * Training: vacuum up the entire internet
-* Inference: inputs are fed into an LLM model, computed, stream output. Text works best. 
+* Inference: inputs are fed into an LLM model, computed, output streamed. Text works best. 
 
 Key training tasks
 * Data prep: data has to be cleaned, deduplicated, offensive content removed
