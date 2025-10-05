@@ -686,7 +686,7 @@ She said AI presents serous ethical issues, and we need to hold frontier labs ac
 Just because something is flawed, it does not mean it isn't useful. 
 
 As a Django dev, how can I control the context I send? 
-1. Rag
+1. RAG
 2. MCP
 3. AGENTS.md
 
