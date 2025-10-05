@@ -240,7 +240,7 @@ Useful-to-me notes:
 https://wsvincent.com/django-for-ai-djangocon/
 -->
 
-Will works as a developer advocate at JetBrains and is a popular author and contributor to the community.
+Will works as a developer advocate at JetBrains and is a popular author, Django Chat podcaster, and Django News newsletter curator.
 
 His talk was about the shift happening due to AI. Django can and should be a part of it. 
 
@@ -284,9 +284,39 @@ The code is in the repo [django_irisml](https://github.com/wsvincent/django_iris
 
 Will's books [Django for Beginners](https://www.amazon.com/Django-Beginners-5th-Modern-Applications/dp/173546726X) and [Django for Professionals](https://www.amazon.com/Django-Professionals-Production-websites-Python-ebook/dp/B08FNLQHGN?ref_=ast_author_dp&th=1&psc=1) explain many of the steps needed to create and deploy Django apps. 
 
-Will's key point is that the model created in this not so big as to be computationally hard to serve. 
+Will's key point is that the model created in this not so big as to be computationally hard to serve. Django is great for small and medium ML models. 
+
+At a high level, LLMs are token prediction machines. 
+
+Will explained the AI heirarchy of Machine Learning, Neural Networks, and Deep Learning. 
+
+These concepts had been around since the 1940s, but there were technical challenges around scaling them. 
+
+Original architectures were sequential, one token at a time. Google's famous 2017 paper "[All You Need is Attention](https://research.google/pubs/attention-is-all-you-need/)" demonstrated that you could look at all the tokens at once. 
+
+OpenAI's 2020 paper [Scaling Laws for Neural Language Models Paper](https://arxiv.org/pdf/2001.08361) showed the bigger your LLM model, dataset, and compute, the better the result. 
+
+These two concepts together were revolutionary. 
+
+The two stages to building an LLM model:
+* Training: vacuum up the entire internet
+* Inference
+ 
+Will explained LLM internals in order to make a point "... the web itself has never been more important. These fancy models are useless without a way to connect them to paying users. How do they do that? With the web. But there’s a catch. Serving these models via inference is radically different than the database-driven paradigm we’re all used to with Django."
+
+Why Django is a poor choice to serve LLM models
+* Frontier-level models are terabytes size
+* We cannot optimize inference like a traditional web request served up by a database. We can only buy more GPU. 
+  
+<!--
+https://github.com/wsvincent/djangoforai
+-->
 
 Thank you to Will for a particularly relevant deep dive. It was my favorite talk of the conference. Inspired by Simon Willison, Will did a [detailed write-up](https://wsvincent.com/django-for-ai-djangocon/) of this talk. 
+
+Useful-to-me notes:
+* [Ollama](https://ollama.com/)
+* [Gemma](https://deepmind.google/models/gemma/)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
