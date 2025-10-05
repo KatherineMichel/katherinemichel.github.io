@@ -261,9 +261,8 @@ Will split his talk into two sections:
 * Classic Machine Learning protope- how to train a model from scratch and deploy to Django
 * LLMs- the key difference between serving a classic machine learning model versus an LLM and a protype
 
-Will showed how to train a classic machine learning model and deploy with Django
-* Create a Jupyter notebook
-* 
+![](djangocon-us-2025-recap-images/jupyter-code.png)
+The start of the classic machine learning model
 
 
 
