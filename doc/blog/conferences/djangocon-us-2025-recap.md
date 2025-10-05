@@ -360,7 +360,7 @@ In line with Carson's talk, Will used "the boring old web" to create a Django LL
 * Server-sent events: send one HTTP request, receive a streaming response (StreamingHttpResponse- added in Django 1.5 in 2013)
 * HTML Streaming
 * Two templates and htmx- no JavaScript
-* Ollama model–Gemma 3:4B streams tokens to an API endpoint
+* [Ollama](https://ollama.com/) model [Gemma](https://deepmind.google/models/gemma/) 3:4B streams tokens to an API endpoint
 * Python generator sends one token at a time
 * Regular synchronous views
 * Results stored in database and accessed via admin
@@ -371,8 +371,6 @@ Thank you to Will for a particularly relevant deep dive. It was my favorite talk
 
 Useful-to-me notes:
 * [Common Crawl](https://commoncrawl.org/)
-* [Ollama](https://ollama.com/)
-* [Gemma](https://deepmind.google/models/gemma/)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
