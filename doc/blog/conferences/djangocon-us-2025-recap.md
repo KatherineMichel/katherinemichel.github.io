@@ -259,7 +259,7 @@ Criticisms Will hears about Django... it is perceived as:
 
 Will split his talk into two sections: 
 * Classic Machine Learning protope- how to train a model from scratch and deploy to Django
-* LLMs- the key difference between serving a classic machine learning model versus an LLM and a protype
+* LLMs- the key difference between serving a classic machine learning model versus an LLM, followed by a protype
 
 ![](djangocon-us-2025-recap-images/jupyter-code.png)
 Jupyter code... the start of the classic machine learning model in a [Jupyter notebook](https://github.com/wsvincent/iris_ml). 
@@ -286,11 +286,13 @@ Will's books [Django for Beginners](https://www.amazon.com/Django-Beginners-5th-
 
 Will's key point is that the model created in this not so big as to be computationally hard to serve. Django is great for small and medium ML models. 
 
-At a high level, LLMs are token prediction machines. 
+Will moved on to LLMs. 
 
-Will explained the AI heirarchy of Machine Learning, Neural Networks, and Deep Learning. 
+They are token prediction machines. 
 
-These concepts had been around since the 1940s, but there were technical challenges around scaling them. 
+Will explained the AI heirarchy of Machine Learning, Neural Networks, and Deep Learning. LLMs are a form of Deep Learning. 
+
+These concepts have been around since the 1940s, but there were technical challenges around scaling them. 
 
 Original architectures were sequential, one token at a time. Google's famous 2017 paper "[All You Need is Attention](https://research.google/pubs/attention-is-all-you-need/)" demonstrated that you could look at all the tokens at once. 
 
@@ -300,11 +302,16 @@ These two concepts together were revolutionary.
 
 The two stages to building an LLM model:
 * Training: vacuum up the entire internet
-* Inference
+* Inference: a unique prompt triggers a GPU cluster to run, then returns generated tokens
+
+Key training tasks
+* Data prep: data has to be cleaned, deduplicated, offensive content removed
+* Getting data: just like in search, some sources are weighted more highly than others. 
+* Tokenization: transforming words (or subwords) into numerical IDs. Will says there are approximately one quadrillion tokens. 
  
 Will explained LLM internals in order to make a point "... the web itself has never been more important. These fancy models are useless without a way to connect them to paying users. How do they do that? With the web. But there’s a catch. Serving these models via inference is radically different than the database-driven paradigm we’re all used to with Django."
 
-Why Django is a poor choice to serve LLM models
+Why Django is a poor choice to serve LLM models: 
 * Frontier-level models are terabytes size
 * We cannot optimize inference like a traditional web request served up by a database. We can only buy more GPU. 
   
@@ -315,6 +322,7 @@ https://github.com/wsvincent/djangoforai
 Thank you to Will for a particularly relevant deep dive. It was my favorite talk of the conference. Inspired by Simon Willison, Will did a [detailed write-up](https://wsvincent.com/django-for-ai-djangocon/) of this talk. 
 
 Useful-to-me notes:
+* [Common Crawl](https://commoncrawl.org/)
 * [Ollama](https://ollama.com/)
 * [Gemma](https://deepmind.google/models/gemma/)
 
