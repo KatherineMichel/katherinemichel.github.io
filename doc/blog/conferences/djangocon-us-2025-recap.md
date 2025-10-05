@@ -271,11 +271,22 @@ Django is the web interface we can use to bring the model to the world.
 ![](djangocon-us-2025-recap-images/django-gameplan.png)
 Django gameplan
 
+The iris.joblib file is added to the base directory. 
+
+A function-based view accepts forms values from the user and makes predictions using the model. 
+
+Optional:
+* A models directory for multiple models
+* A model to store predictions- the data can used to retrain the model
+* A django admin to see user responses and predictions in real time and interact with the data
+
 The code is in the repo [django_irisml](https://github.com/wsvincent/django_irisml). You can try it out at [DjangoforDataScience.com](https://djangofordatascience.com/). 
 
 Will's books [Django for Beginners](https://www.amazon.com/Django-Beginners-5th-Modern-Applications/dp/173546726X) and [Django for Professionals](https://www.amazon.com/Django-Professionals-Production-websites-Python-ebook/dp/B08FNLQHGN?ref_=ast_author_dp&th=1&psc=1) explain many of the steps needed to create and deploy Django apps. 
 
-Thank you to Will for a particularly relevant deep dive. It was my favorite talk of the conference. 
+Will's key point is that the model created in this not so big as to be computationally hard to serve. 
+
+Thank you to Will for a particularly relevant deep dive. It was my favorite talk of the conference. Inspired by Simon Willison, Will did a [detailed write-up](https://wsvincent.com/django-for-ai-djangocon/) of this talk. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
