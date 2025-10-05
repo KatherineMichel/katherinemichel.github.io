@@ -302,24 +302,26 @@ These two concepts together were revolutionary.
 
 The two stages to building an LLM model:
 * Training: vacuum up the entire internet
-* Inference: a unique prompt triggers a GPU cluster to run, then returns generated tokens
+* Inference: inputs are fed into an LLM model, computed, stream output. Text works best. 
 
 Key training tasks
 * Data prep: data has to be cleaned, deduplicated, offensive content removed
 * Getting data: some sources are weighted more highly than others. 
 * Tokenization: transforming words (or subwords) into numerical IDs. Will says there are approximately one quadrillion tokens. 
 
+Will gave a detailed explanation of how LLM inference works. 
+
 ![](djangocon-us-2025-recap-images/llm-inference-processing.png)
 LLM inference processing
 
-Will explained LLM internals in order to make a point "... the web itself has never been more important. These fancy models are useless without a way to connect them to paying users. How do they do that? With the web. But there’s a catch. Serving these models via inference is radically different than the database-driven paradigm we’re all used to with Django."
+Will's point "... the web itself has never been more important. These fancy models are useless without a way to connect them to paying users. How do they do that? With the web. But there’s a catch. Serving these models via inference is radically different than the database-driven paradigm we’re all used to with Django."
 
 ![](djangocon-us-2025-recap-images/traditional-web-request-versus-inference.png)
 Traditional web request versus inference
 
 Why Django is a poor choice to serve LLM models: 
 * Frontier-level models are terabytes size
-* We cannot optimize inference like a traditional web request served up by a database. We can only buy more GPU. 
+* We cannot optimize inference like a traditional web request served up by a database. We can only buy more GPU. Every input causes a GPU cluster to run, which is expensive. 
 
 <!--
 ![](djangocon-us-2025-recap-images/llm-inference-api-fastapi.png)
