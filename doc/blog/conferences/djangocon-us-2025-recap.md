@@ -19,32 +19,32 @@ Table of Contents
     - [My Incredible Room](#my-incredible-room)
     - [Pre-conference Social](#pre-conference-social)
 - [Monday](#monday)
-    - [Pre-conference](#pre-conference)
+    - [Monday Pre-conference](#monday-pre-conference)
     - [Orientation](#orientation)
-    - [Opening Remarks (Monday)](#opening-remarks-monday)
+    - [Monday Opening Remarks](#monday-opening-remarks)
     - [Keynote: Lateral Thinking with Weathered Technology: How The Nintendo Philosophy Applies to Modern Web Development](#keynote-lateral-thinking-with-weathered-technology-how-the-nintendo-philosophy-applies-to-modern-web-development)
     - [Community Update: Django Events Foundation North America](#community-update-django-events-foundation-north-america)
     - [Django for AI: Deploying Machine Learning Models with Django](#django-for-ai-deploying-machine-learning-models-with-django)
     - [Django's GeneratedField by Example](#django-s-generatedfield-by-example)
-    - [Bonus](#bonus)
+    - [Monday Bonus](#monday-bonus)
     - [Lincoln Loop Social Event](#lincoln-loop-social-event)
 - [Tuesday](#tuesday)
-    - [Opening Remarks (Tuesday)](#opening-remarks-tuesday)
+    - [Tuesday Opening Remarks)](#tuesday-opening-remarks)
     - [Keynote: All The Ways To Use Django](#keynote-all-the-ways-to-use-django)
     - [Community Update: Python Software Foundation](#community-update-python-software-foundation)
     - [Hidden Dangers Of AI In Developer Workflows: Navigating Security Risks with Human Insight](#hidden-dangers-of-ai-in-developer-workflows-navigating-security-risks-with-human-insight)
     - [Django as a Database Documentation Tool: The Hidden Power of Model Comments](#django-as-a-database-documentation-tool-the-hidden-power-of-model-comments)
-    - [Bonus](#bonus)
+    - [Tuesday Bonus](#tuesday-bonus)
     - [Speaker and Organizer Dinner](#speaker-and-organizer-dinner)
     - [Amorino](#amorino)
     - [Six Feet Up Social Event](#six-feet-up-social-event)
 - [Wednesday](#wednesday)
-    - [Pre-conference](#id2)
-    - [Opening Remarks (Wednesday)](#opening-remarks-wednesday)
+    - [Wednesday Pre-conference](#wednesday-pre-conference)
+    - [Wednesday Opening Remarks](#wednesday-opening-remarks)
     - [Keynote: Django Reimagined For The Age of AI](#keynote-django-reimagined-for-the-age-of-ai)
     - [Community Update: Django Software Foundation](#community-update-django-software-foundation)
     - [What a Decade!](#what-a-decade)
-    - [Bonus](#bonus)
+    - [Wednesday Bonus](#wednesday-bonus)
     - [Conference Conclusion](#conference-conclusion)
 - [Post-Conference](#post-conference)
     - [Wendella Chicago Architecture Boat Tour](#wendella-chicago-architecture-boat-tour)
@@ -162,7 +162,7 @@ What a view!
 
 ## Monday
 
-### Pre-conference
+### Monday Pre-conference
 
 ![](djangocon-us-2025-recap-images/original-house-of-pancakes-strawberry-crepes.jpg)
 I couldn't resist getting breakfast at the [Original Pancake House](https://ophchicagoland.com/original-pancake-house-gold-coast/), conspicuously located directly across from my hotel. The strawberry crepes were divine, and the coffee was perfectly strong. 
@@ -180,7 +180,7 @@ Enjoying the view along the Chicago River on the way to the nearby venue
 
 ### Orientation
 
-### Opening Remarks (Monday)
+### Monday Opening Remarks
 
 <!--
 https://2025.djangocon.us/schedule/
@@ -407,7 +407,7 @@ Useful-to-me notes:
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Bonus
+### Monday Bonus
 
 ![](djangocon-us-2025-recap-images/djangocon-us-python-distilled-signed.jpg)
 Chicagoan David Beazley is a well-known author and teacher in the Python community who offers [advanced programming courses](https://www.dabeaz.com/). I first met Dave at PyGotham 2019 after his keynote and was excited to reconnect. I scored a signed copy of his book [Python Distilled](https://www.oreilly.com/library/view/python-distilled/9780134173399/)! 
@@ -431,7 +431,7 @@ The bar area before the room soon reached full-capacity.
 
 ## Tuesday
 
-### Opening Remarks (Tuesday)
+### Tuesday Opening Remarks
 
 Peter Grandstaff gave the opening remarks. 
 
@@ -578,7 +578,7 @@ This can make life easier for those who only have access to the database and our
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Bonus
+### Tuesday Bonus
 
 ![](djangocon-us-2025-recap-images/djangocon-us-me-jeff-marlene-paolo.png)
 Jeff, Marlene, me, Paolo. Marlene did a fascinating closing keynote Django Reimagined For The Age of AI. 
@@ -643,7 +643,7 @@ Those in the know said this was a notably large foosball table. Continuing the t
 
 ## Wednesday
 
-### Pre-conference
+### Wednesday Pre-conference
 
 I knew Wednesday morning would likely be my last chance to make the short walk from my hotel to Oak Street Beach. I couldn't resist getting up early to do so. It was surprisingly beach-like, despite bordering Lake Michigan. I enjoyed a quiet walk down the coast and watched nearby beach-goers play volleyball and cold-plunge. 
 
@@ -652,7 +652,7 @@ Mild waves rolling in
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Opening Remarks (Wednesday)
+### Wednesday Opening Remarks
 
 In addition to housekeeping, Afi reminded us to seize the day and make new friends. 
 
@@ -805,7 +805,7 @@ The community is willing to have difficult conversations and help. "You matter. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Bonus
+### Wednesday Bonus
 
 ![](djangocon-us-2025-recap-images/djangocon-us-me-and-jon.jpeg)
 Continuing a tradition, Jon of [Foxley Talent](https://foxleytalent.com/) and I took a photo together! 
