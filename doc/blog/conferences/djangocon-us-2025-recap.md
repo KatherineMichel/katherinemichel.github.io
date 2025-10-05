@@ -186,21 +186,22 @@ The conference kicked off with the orientation that only Kojo can give, includin
 
 ### Monday Opening Remarks
 
-Conference Chair Keanya Phelps gave an inspiring welcome. 
+Conference Chair Keanya Phelps is a native Chicagoan who loves house music. She is a project manager at Caktus Group and a Djangonaut Captain. 
+
+She put her heart into making the conference relevant and approachable for everyone and gave it a unique Chicago flavor. Ahead of the conference, I enjoyed her [Chicago Like a Local](https://www.caktusgroup.com/blog/2025/03/06/chicago-local/) blog posts for tips. 
+
+Learn more about her in her DjangoCon US [interview blog post](https://2025.djangocon.us/news/conference-chair/). 
+
+She gave an inspiring welcome. 
 
 "DjangoCon is more than just code, its about creating a space where everyone feels welcome and valued." 
 
+I am looking forward to the [post-conference series of blog posts](https://www.linkedin.com/posts/keanyaphelps_djangocon-us-2025-has-come-to-a-close-and-activity-7373401942875664384-uNnH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOxk18BcgN6WcUZfIqPuO1XxHylxwxaOJ4) she will be publishing. 
+
+Thank you to Caktus for supporting her in her conference chair work. 
+
 ![](djangocon-us-2025-recap-images/djangocon-us-hey-we-dont-do-that-here.jpg)
 As always, hey, we don't do that here. 
-
-<!--
-https://2025.djangocon.us/news/conference-chair/
-
-Stacey's talk
-
-Conference Chair
-Caktus
--->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
