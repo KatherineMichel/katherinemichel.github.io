@@ -272,6 +272,9 @@ The model is eventually saved as a joblib file, "a serialized Python object for 
 
 Django is the web interface we can use to bring the model to the world. 
 
+![](djangocon-us-2025-recap-images/django-gameplan.png)
+Django gameplan
+
 The code is in the repo [django_irisml](https://github.com/wsvincent/django_irisml). You can try it out at [DjangoforDataScience.com](https://djangofordatascience.com/). 
 
 Will's books [Django for Beginners](https://www.amazon.com/Django-Beginners-5th-Modern-Applications/dp/173546726X) and [Django for Professionals](https://www.amazon.com/Django-Professionals-Production-websites-Python-ebook/dp/B08FNLQHGN?ref_=ast_author_dp&th=1&psc=1) explain many of the steps needed to create and deploy Django apps. 
