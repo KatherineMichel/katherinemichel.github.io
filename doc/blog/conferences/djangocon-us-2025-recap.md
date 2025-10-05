@@ -688,7 +688,7 @@ Just because something is flawed, it does not mean it isn't useful.
 As a Django dev, how can I control the context I send? 
 1. Rag
 2. MCP
-3. Agents.md
+3. AGENTS.md
 
 RAG involves feeding info from docs or a database into an LLM through the messages param in order control how the LLM responds. 
 
@@ -698,7 +698,7 @@ MCP is an open protocol that standardizes how apps provide context to LLMs. A Dj
 
 Marlene created an example Welcome to [Django Chat MCP app](https://github.com/marlenezw/django-mcp). 
 
-While vibe coding in VSCode, you can use an [agents.md file](https://code.visualstudio.com/docs/copilot/customization/custom-instructions#_use-an-agentsmd-file-experimental) to specify best practices to follow. 
+While vibe coding in VSCode, you can use an [AGENTS.md file](https://code.visualstudio.com/docs/copilot/customization/custom-instructions#_use-an-agentsmd-file-experimental) to specify best practices to follow. 
 
 AI generated code falls short in security, scalability, and maintainability. 
 
