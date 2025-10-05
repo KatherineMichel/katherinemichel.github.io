@@ -323,11 +323,20 @@ Why Django is a poor choice to serve LLM models:
 * Frontier-level models are terabytes size
 * We cannot optimize inference like a traditional web request served up by a database. We can only buy more GPU. Every input causes a GPU cluster to run, which is expensive. 
 
-<!--
 ![](djangocon-us-2025-recap-images/llm-inference-api-fastapi.png)
 
-https://github.com/wsvincent/djangoforai
--->
+Will said, Django can do more than you think. 
+
+In line with Carson's talk, Will used "the boring old web" to create a Django LLM chatbot prototype. 
+* Server-sent events: send one HTTP request, receive a streaming response (StreamingHttpResponse- added in Django 1.5 in 2013)
+* HTML Streaming
+* Two templates and HTMX- no JavaScript
+* Ollama model–Gemma 3:4B streams tokens to an API endpoint
+* Python generator sends one token at a time
+* Regular synchronous views
+* Results stored in database and accessed via admin
+
+The [code](https://github.com/wsvincent/djangoforai) 
 
 Thank you to Will for a particularly relevant deep dive. It was my favorite talk of the conference. Inspired by Simon Willison, Will did a [detailed write-up](https://wsvincent.com/django-for-ai-djangocon/) of this talk. 
 
