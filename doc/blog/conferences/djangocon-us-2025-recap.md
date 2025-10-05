@@ -733,17 +733,6 @@ If you have helped the Django community in some way, you may be eligible to beco
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### High Performance Django at Ten: Old Tricks & New Picks
-
-<!--
-https://2025.djangocon.us/talks/high-performance-django-at-ten-old-tricks-new-picks/
--->
-
-![](djangocon-us-2025-recap-images/peter-baumgartner-valkey.jpg)
-
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
 ### What a Decade!
 
 [What a Decade!](https://2025.djangocon.us/talks/what-a-decade/) by Tim Allen
