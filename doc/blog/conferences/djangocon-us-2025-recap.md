@@ -659,8 +659,19 @@ As a Django dev, how can I control the context I send?
 
 RAG involves feeding info from docs or a database into an LLM through the messages param in order control how the LLM responds. 
 
+MCP is an open protocol that standardizes how apps provide context to LLMs. A Django app can be an MCP host. 
 
 ![](djangocon-us-2025-recap-images/marlene-mhangami-mcp.jpg)
+
+Marlene created an example Welcome to [Django Chat MCP app](https://github.com/marlenezw/django-mcp). 
+
+<!--
+Clients maintain 1:1 connection with MCP server (lang chain + her choice of LLM).
+Servers- can create your own, or use online, resources or tools for map client to gives data
+MCP in depth slide- tools, resources, prompts
+Connect NCP servers to Django Apps with LangChain
+Huggingface
+-->
 
 While vibe coding in VSCode, you can use an [agents.md file](https://code.visualstudio.com/docs/copilot/customization/custom-instructions#_use-an-agentsmd-file-experimental) to specify best practices to follow. 
 
@@ -674,7 +685,7 @@ They utilized the popular and effective Django Girls tutorial that helps women "
 
 Although the initiative started in affluent areas, they went to rural areas, too. The conditions were tough. There was no internet in community centers and electricity only some of the time. 
 
-She has been [exploring the use of a small language model bot offline](https://www.linkedin.com/posts/marlenemhangami_i-spent-a-bunch-of-time-recently-experimenting-activity-7373746042548355072-9DI6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOxk18BcgN6WcUZfIqPuO1XxHylxwxaOJ4) to walk learners through the Django Girls tutorial in places like this. 
+She has been exploring the use of [a small language model bot offline](https://github.com/marlenezw/django-girls-offline/) to walk learners through the Django Girls tutorial in places like this and [has made progress](https://www.linkedin.com/posts/marlenemhangami_i-spent-a-bunch-of-time-recently-experimenting-activity-7373746042548355072-9DI6). 
 
 She says people still need to learn programming from scratch, but can be inspired by vibe coding. Be modular. Do a section at a time, read through the code yourself. Test the code. 
 
