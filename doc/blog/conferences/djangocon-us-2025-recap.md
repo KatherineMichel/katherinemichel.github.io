@@ -895,7 +895,7 @@ I had delicious fettuccini Alfredo instead.
 Hopping on a Wednesday night!
 
 ![](djangocon-us-2025-recap-images/giordanos-fettuccini-alfredo.jpg)
-My fettuccini alfredo really hit the spot!
+My fettuccini Alfredo really hit the spot!
 
 ![](djangocon-us-2025-recap-images/giordanos-pizza.jpg)
 Deep-dish, spinach pizza
