@@ -465,11 +465,16 @@ https://drive.google.com/file/d/1y-lwJZyiANhGvBl7WZAkz0jBx0fW-xPp/view
 
 Zags is the co-founder and CTO of Zagaran, Inc. a software consultancy. He has used Django extensively and has seen a lot of use cases, including unexpected ones.
 
+Some scenarios covered in his talk
+* Django and frontend frameworks
+* Django and multi-service architectures
+* Django and other databases- Django's ORM is pluggable
+* Django and worker environments
+* Inheriting an ecosystem- the Stranger Fig Pattern, transitioning a Python service to Django, using Django patterns outside of Django 
+
 Django's greatest strength: boilerplate reduction. Django provides the generic code. You can write the code specific to your app. 
 
 Django's most powerful feature: the ORM
-
-
 
 Zags warned that looking at StackOverflow tags data, Django appears to be losing popularity to Next.js. This could be because Django is well-documented and stable. 
 
