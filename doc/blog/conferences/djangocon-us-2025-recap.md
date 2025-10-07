@@ -301,7 +301,7 @@ Will split his talk into two sections:
 * Classic Machine Learning prototype- how to train a model from scratch and deploy to Django
 * LLMs- the key difference between serving a classic machine learning model versus an LLM, followed by a protype
 
-![](djangocon-us-2025-recap-images/jupyter-code.png)
+![](djangocon-us-2025-recap-images/djangocon-us-will-vincent-jupyter-code.png)
 Jupyter code... the start of the classic machine learning model in a [Jupyter notebook](https://github.com/wsvincent/iris_ml). 
 
 Notably, this takes about 20 lines of code (including imports), with a mere 2 lines doing the training. A Jupyter cell can be added to enter inputs and see results for the model. The model is eventually saved as a joblib file, "a serialized Python object for saving and loading trained ML models." 
@@ -356,7 +356,7 @@ LLM inference processing
 
 Will's point "... the web itself has never been more important. These fancy models are useless without a way to connect them to paying users. How do they do that? With the web. But there’s a catch. Serving these models via inference is radically different than the database-driven paradigm we’re all used to with Django."
 
-![](djangocon-us-2025-recap-images/traditional-web-request-versus-inference.png)
+![](djangocon-us-2025-recap-images/djangocon-us-will-vincent-traditional-web-request-versus-inference.png)
 Traditional web request versus inference
 
 Why Django is a poor choice to serve LLM models: 
