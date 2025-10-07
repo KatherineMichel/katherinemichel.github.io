@@ -482,13 +482,13 @@ Zags warned that looking at StackOverflow tags data, Django appears to be losing
 
 Zags said, maybe Django needs a JavaScript Strategy. To make it another 20 years, we need to accept that JavaScript is part of the web. 
 
-![](djangocon-us-2025-recap-images/benjamin-zagorsky-javascript-easy.jpg)
+![](djangocon-us-2025-recap-images/djangocon-us-benjamin-zagorsky-javascript-easy.jpg)
 Easy ideas: Django 1.7 absorbed South and it bacame Django migrations. Could the same happen with Django Rest Framework? 
 
-![](djangocon-us-2025-recap-images/benjamin-zagorsky-javascript-medium.jpg)
+![](djangocon-us-2025-recap-images/djangocon-us-benjamin-zagorsky-javascript-medium.jpg)
 Medium hard ideas
 
-![](djangocon-us-2025-recap-images/benjamin-zagorsky-javascript-three-more-ideas.jpg)
+![](djangocon-us-2025-recap-images/djangocon-us-benjamin-zagorsky-javascript-three-more-ideas.jpg)
 Three more ideas: Next.js has an entire hosting menu even though they sell hosting and is a recommended framework for partnership with React
 
 Final thoughts: help Django get there, but don’t wait for Django to get there.
