@@ -308,7 +308,7 @@ Notably, this takes about 20 lines of code (including imports), with a mere 2 li
 
 Django is the web interface we can use to bring the model to the world. 
 
-![](djangocon-us-2025-recap-images/django-gameplan.png)
+![](djangocon-us-2025-recap-images/djangocon-us-will-vincent-gameplan.png)
 Django gameplan
 
 The iris.joblib file is added to the base directory. 
