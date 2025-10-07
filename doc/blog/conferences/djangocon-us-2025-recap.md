@@ -364,6 +364,7 @@ Why Django is a poor choice to serve LLM models:
 * We cannot optimize inference like a traditional web request served up by a database. We can only buy more GPU. Every input causes a GPU cluster to run, which is expensive. 
 
 ![](djangocon-us-2025-recap-images/djangocon-us-will-vincent-llm-inference-api-fastapi.png)
+FastAPI is built into many AI tools. Uses Starlette ASGI framework, Pydantic, can stream token asynchronously. 
 
 Will said, Django can do more than you think. 
 
