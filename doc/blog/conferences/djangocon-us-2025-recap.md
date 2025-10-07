@@ -15,7 +15,7 @@ Table of Contents
 - [Pre-conference Activities](#pre-conference-activities)
     - [The View from Above](#the-view-from-above)
     - [The Field Museum](#the-field-museum)
-    - [Shaw's Crab House Lunch Special](#shaw-s-crab-house-lunch-special)
+    - [Shaw's Crab House Lunch Special](#shaws-crab-house-lunch-special)
     - [The Art Institute of Chicago](#the-art-institute-of-chicago)
     - [My Incredible Room](#my-incredible-room)
     - [Pre-conference Social](#pre-conference-social)
@@ -26,7 +26,7 @@ Table of Contents
     - [Keynote: Lateral Thinking with Weathered Technology: How the Nintendo Philosophy Applies to Modern Web Development](#keynote-lateral-thinking-with-weathered-technology-how-the-nintendo-philosophy-applies-to-modern-web-development)
     - [Community Update: Django Events Foundation North America](#community-update-django-events-foundation-north-america)
     - [Django for AI: Deploying Machine Learning Models with Django](#django-for-ai-deploying-machine-learning-models-with-django)
-    - [Django's GeneratedField by Example](#django-s-generatedfield-by-example)
+    - [Django's GeneratedField by Example](#djangos-generatedfield-by-example)
     - [Monday Bonus](#monday-bonus)
     - [Lincoln Loop Social Event](#lincoln-loop-social-event)
 - [Tuesday](#tuesday)
@@ -49,7 +49,7 @@ Table of Contents
     - [Conference Conclusion](#conference-conclusion)
 - [Post-Conference](#post-conference)
     - [Wendella Chicago Architecture Boat Tour](#wendella-chicago-architecture-boat-tour)
-    - [Giordano's](#giordano-s)
+    - [Giordano's](#giordanos)
 - [More Sight Seeing!](#more-sight-seeing)
     - [More of The View From Above](#more-of-the-view-from-above)
     - [More from The Field Museum](#more-from-the-field-museum)
@@ -98,6 +98,7 @@ Among the museum's holdings is one of the most impressive [ancient Egypt collect
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+(shaws-crab-house-lunch-special)=
 ### Shaw's Crab House Lunch Special
 
 While researching Chicago, I came across many recommendations for Shaw's Crab House, a beloved, 40-year-old Chicago institution. I took a break from sightseeing to enjoy their reasonably-priced [gourmet 3-course lunch](https://www.shawscrabhouse.com/events/3-course-lunch-2/) special. The food was delicious, and the ambience left me feeling like I was a character in a movie. 
@@ -387,6 +388,7 @@ Useful-to-me notes:
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+(djangos-generatedfield-by-example)=
 ### Django's GeneratedField by Example
 
 [Django's GeneratedField by Example](https://2025.djangocon.us/talks/django-s-generatedfield-by-example/) by Paolo Melchiorre
@@ -880,6 +882,7 @@ Our guide, Jai. When we started out, it was daylight, by the end, it was night. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+(giordanos)=
 ### Giordano's
 
 After the boat trip, several of us stopped to eat at Navy Pier Giordano's. 
