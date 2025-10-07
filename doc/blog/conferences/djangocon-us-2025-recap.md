@@ -403,9 +403,14 @@ The GeneratedField can perform an operation on database fields at a database-lev
 
 Unfortunately, there was only one example in the docs. Paolo gave a plethora of examples. 
 
-<!--
-Examples:
--->
+![](djangocon-us-2025-recap-images/djangocon-us-paolo-melchiorre-json-object.png)
+![](djangocon-us-2025-recap-images/djangocon-us-paolo-melchiorre-json-object-output.png)
+
+![](djangocon-us-2025-recap-images/djangocon-us-paolo-melchiorre-full-text-search.png)
+![](djangocon-us-2025-recap-images/djangocon-us-paolo-melchiorre-full-text-search-output.png)
+
+![](djangocon-us-2025-recap-images/djangocon-us-paolo-melchiorre-geohash.png)
+![](djangocon-us-2025-recap-images/djangocon-us-paolo-melchiorre-geohash-output.png)
 
 Check out more examples in his [slides](https://www.paulox.net/2025/09/08/djangocon-us-2025/). 
 
