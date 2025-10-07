@@ -22,7 +22,7 @@ Table of Contents
     - [Monday Pre-conference](#monday-pre-conference)
     - [Orientation](#orientation)
     - [Monday Opening Remarks](#monday-opening-remarks)
-    - [Keynote: Lateral Thinking with Weathered Technology: How The Nintendo Philosophy Applies to Modern Web Development](#keynote-lateral-thinking-with-weathered-technology-how-the-nintendo-philosophy-applies-to-modern-web-development)
+    - [Keynote: Lateral Thinking with Weathered Technology: How the Nintendo Philosophy Applies to Modern Web Development](#keynote-lateral-thinking-with-weathered-technology-how-the-nintendo-philosophy-applies-to-modern-web-development)
     - [Community Update: Django Events Foundation North America](#community-update-django-events-foundation-north-america)
     - [Django for AI: Deploying Machine Learning Models with Django](#django-for-ai-deploying-machine-learning-models-with-django)
     - [Django's GeneratedField by Example](#django-s-generatedfield-by-example)
@@ -30,9 +30,9 @@ Table of Contents
     - [Lincoln Loop Social Event](#lincoln-loop-social-event)
 - [Tuesday](#tuesday)
     - [Tuesday Opening Remarks](#tuesday-opening-remarks)
-    - [Keynote: All The Ways To Use Django](#keynote-all-the-ways-to-use-django)
+    - [Keynote: All the Ways to Use Django](#keynote-all-the-ways-to-use-django)
     - [Community Update: Python Software Foundation](#community-update-python-software-foundation)
-    - [Hidden Dangers Of AI In Developer Workflows: Navigating Security Risks with Human Insight](#hidden-dangers-of-ai-in-developer-workflows-navigating-security-risks-with-human-insight)
+    - [Hidden Dangers of AI in Developer Workflows: Navigating Security Risks with Human Insight](#hidden-dangers-of-ai-in-developer-workflows-navigating-security-risks-with-human-insight)
     - [Django as a Database Documentation Tool: The Hidden Power of Model Comments](#django-as-a-database-documentation-tool-the-hidden-power-of-model-comments)
     - [Tuesday Bonus](#tuesday-bonus)
     - [Speaker and Organizer Dinner](#speaker-and-organizer-dinner)
@@ -41,7 +41,7 @@ Table of Contents
 - [Wednesday](#wednesday)
     - [Wednesday Pre-conference](#wednesday-pre-conference)
     - [Wednesday Opening Remarks](#wednesday-opening-remarks)
-    - [Keynote: Django Reimagined For The Age of AI](#keynote-django-reimagined-for-the-age-of-ai)
+    - [Keynote: Django Reimagined for The Age of AI](#keynote-django-reimagined-for-the-age-of-ai)
     - [Community Update: Django Software Foundation](#community-update-django-software-foundation)
     - [What a Decade!](#what-a-decade)
     - [Wednesday Bonus](#wednesday-bonus)
@@ -209,9 +209,9 @@ As always, hey, we don't do that here.
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Keynote: Lateral Thinking with Weathered Technology: How The Nintendo Philosophy Applies to Modern Web Development
+### Keynote: Lateral Thinking with Weathered Technology: How the Nintendo Philosophy Applies to Modern Web Development
 
-[Lateral Thinking with Weathered Technology: How The Nintendo Philosophy Applies to Modern Web Development](https://2025.djangocon.us/talks/keynote-monday/) by Carson Gross
+[Lateral Thinking with Weathered Technology: How the Nintendo Philosophy Applies to Modern Web Development](https://2025.djangocon.us/talks/keynote-monday/) by Carson Gross
 
 Carson is the creator of the htmx library and the founder of the HyperMedia Research Group at Montana State University. 
 
@@ -460,9 +460,9 @@ Let's sustain Django and make the world a better place.
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Keynote: All The Ways To Use Django
+### Keynote: All the Ways to Use Django
 
-[All The Ways To Use Django](https://2025.djangocon.us/talks/keynote-tuesday/) by Zags (Benjamin Zagorsky)
+[All the Ways to Use Django](https://2025.djangocon.us/talks/keynote-tuesday/) by Zags (Benjamin Zagorsky)
 
 Zags is the co-founder and CTO of Zagaran, Inc. a software consultancy. He has used Django extensively and has seen a lot of use cases, including unexpected ones.
 
@@ -535,9 +535,9 @@ How to get involved at a local level? Find a [PuG (Python User Group) on meetup.
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Hidden Dangers Of AI In Developer Workflows: Navigating Security Risks with Human Insight
+### Hidden Dangers of AI in Developer Workflows: Navigating Security Risks with Human Insight
 
-[Hidden Dangers Of AI In Developer Workflows: Navigating Security Risks with Human Insight](https://2025.djangocon.us/talks/hidden-dangers-of-ai-in-developer-workflows-navigating-security-risks-with-human-insight/) by Dwayne McDaniel
+[Hidden Dangers of AI in Developer Workflows: Navigating Security Risks with Human Insight](https://2025.djangocon.us/talks/hidden-dangers-of-ai-in-developer-workflows-navigating-security-risks-with-human-insight/) by Dwayne McDaniel
 
 <!--
 https://docs.google.com/presentation/d/1tzdzDd7Pmh-wdyfJhTgQyl6bFe-4JXpf5ISVpcIwVfc/edit
@@ -615,7 +615,7 @@ This can make life easier for those who only have access to the database and our
 ### Tuesday Bonus
 
 ![](djangocon-us-2025-recap-images/djangocon-us-me-jeff-marlene-paolo.png)
-Jeff, Marlene, me, Paolo. Marlene did a fascinating closing keynote Django Reimagined For The Age of AI. 
+Jeff, Marlene, me, Paolo. Marlene did a fascinating closing keynote Django Reimagined for The Age of AI. 
 
 ![](djangocon-us-2025-recap-images/djangocon-us-happy-birthday-django-cake.jpg)
 Django turned 20 this year. To commemorate the occasion, conference attendees were treated to delicious raspberry cake! 
@@ -695,9 +695,9 @@ Afi
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Keynote: Django Reimagined For The Age of AI
+### Keynote: Django Reimagined for The Age of AI
 
-[Django Reimagined For The Age of AI](https://2025.djangocon.us/talks/keynote-wednesday/) by Marlene Mhangami
+[Django Reimagined for The Age of AI](https://2025.djangocon.us/talks/keynote-wednesday/) by Marlene Mhangami
 
 Marlene led the first PyCon Africa and is a former PSF Chair. She is an explorer and maker, and one of my favorite follows on social media. 
 
