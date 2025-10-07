@@ -402,16 +402,8 @@ Paolo pointed to the Django performance and optimization docs which say that [it
 
 The GeneratedField can perform an operation on database fields at a database-level. It is supported by all db backends. 
 
-Unfortunately, there was only one example in the docs. Paolo gave a plethora of examples. 
+Unfortunately, there was only one example in the docs. Paolo gave a plethora of examples including geometric, DateRange, JSONObject, full-text search, and GIS calculations. 
 
-![](djangocon-us-2025-recap-images/djangocon-us-paolo-melchiorre-json-object.png)
-![](djangocon-us-2025-recap-images/djangocon-us-paolo-melchiorre-json-object-output.png)
-
-![](djangocon-us-2025-recap-images/djangocon-us-paolo-melchiorre-full-text-search.png)
-![](djangocon-us-2025-recap-images/djangocon-us-paolo-melchiorre-full-text-search-output.png)
-
-![](djangocon-us-2025-recap-images/djangocon-us-paolo-melchiorre-geohash.png)
-![](djangocon-us-2025-recap-images/djangocon-us-paolo-melchiorre-geohash-output.png)
 
 Check out more examples in his [slides](https://www.paulox.net/2025/09/08/djangocon-us-2025/). 
 
