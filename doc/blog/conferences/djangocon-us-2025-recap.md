@@ -704,7 +704,7 @@ Marlene pointed out that ChatGPT was the fastest growing app in history and the 
 
 What does the future of Django look like in the age of AI?
 
-![](djangocon-us-2025-recap-images/marlene-mhangami-key-points.jpg)
+![](djangocon-us-2025-recap-images/djangocon-us-marlene-mhangami-key-points.jpg)
 
 Despite the [Django design philosophy](https://docs.djangoproject.com/en/5.2/misc/design-philosophies/#explicit-is-better-than-implicit) (based on [The Zen of Python/PEP 20](https://peps.python.org/pep-0020/)) that Django should not do too much magic, LLMs feel like magic. 
 
@@ -727,7 +727,7 @@ RAG involves feeding info from docs or a database into an LLM through the messag
 
 MCP is an open protocol that standardizes how apps provide context to LLMs. A Django app can be an MCP host. 
 
-![](djangocon-us-2025-recap-images/marlene-mhangami-mcp.jpg)
+![](djangocon-us-2025-recap-images/djangocon-us-marlene-mhangami-mcp.jpg)
 
 Marlene created an example Welcome to [Django Chat MCP app](https://github.com/marlenezw/django-mcp). 
 
