@@ -351,7 +351,7 @@ Key training tasks
 
 Will gave a detailed explanation of how LLM inference works. 
 
-![](djangocon-us-2025-recap-images/llm-inference-processing.png)
+![](djangocon-us-2025-recap-images/djangocon-us-will-vincent-llm-inference-processing.png)
 LLM inference processing
 
 Will's point "... the web itself has never been more important. These fancy models are useless without a way to connect them to paying users. How do they do that? With the web. But there’s a catch. Serving these models via inference is radically different than the database-driven paradigm we’re all used to with Django."
@@ -363,7 +363,7 @@ Why Django is a poor choice to serve LLM models:
 * Frontier-level models are terabytes size
 * We cannot optimize inference like a traditional web request served up by a database. We can only buy more GPU. Every input causes a GPU cluster to run, which is expensive. 
 
-![](djangocon-us-2025-recap-images/llm-inference-api-fastapi.png)
+![](djangocon-us-2025-recap-images/djangocon-us-will-vincent-llm-inference-api-fastapi.png)
 
 Will said, Django can do more than you think. 
 
