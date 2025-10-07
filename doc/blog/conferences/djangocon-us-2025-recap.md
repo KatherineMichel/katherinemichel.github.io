@@ -405,10 +405,8 @@ The GeneratedField can perform an operation on database fields at a database-lev
 Unfortunately, there was only one example in the docs. Paolo gave a plethora of examples including geometric, DateRange, JSONObject, full-text search, and GIS calculations. 
 
 ![](djangocon-us-2025-recap-images/djangocon-us-paolo-melchiorre-total-price.png)
-Total price calculation
-
 ![](djangocon-us-2025-recap-images/djangocon-us-paolo-melchiorre-total-price-output.png)
-Total price calculation output
+Total price calculation and output
 
 Check out more examples in his [slides](https://www.paulox.net/2025/09/08/djangocon-us-2025/). 
 
