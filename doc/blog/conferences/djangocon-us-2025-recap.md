@@ -268,7 +268,7 @@ DEFNA has put out a [Call for Venue Proposals](https://www.defna.org/announcemen
 
 Sprints are a way to contribute back to Django through code, docs, community. Lilian of Djangonaut Space talked about how to get started. 
 
-![](djangocon-us-2025-recap-images/lilian-tips.jpg)
+![](djangocon-us-2025-recap-images/djangocon-us-lilian-tips.jpg)
 Tips from Lilian
 
 Useful-to-me notes:
