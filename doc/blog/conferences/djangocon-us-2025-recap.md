@@ -235,7 +235,7 @@ htmx provides a surprisingly modern web experiences using a hypermedia interface
 
 Doing everything in JavaScript would rob Django of its Django-ness. Django's hypermedia-oriented features can become useful again
 
-![](djangocon-us-2025-recap-images/carson-gross-tips.jpg)
+![](djangocon-us-2025-recap-images/djangocon-us-carson-gross-tips.jpg)
 Tips from Carson
 
 During Q&A, Jeff Triplett asked what can Django to do better support htmx/frameworks that embrace htmx (as of Django 6.0, template partials are baked-in) and Natalia Bidart pointed out the challenge with testing. 
@@ -506,7 +506,7 @@ Three priorities:
 * [The PSF Grants program was temporarily paused](https://www.python.org/psf/grants/) after hitting the funding cap, which was a shock to the community
 * The PSF will have a fundraiser soon
 
-![](djangocon-us-2025-recap-images/dawn-wages-psf-update.jpg)
+![](djangocon-us-2025-recap-images/djangocon-us-dawn-wages-psf-update.jpg)
 Priorities 2 and 3
 
 What qualifies for the 5 hours? Among other things: 
