@@ -213,9 +213,11 @@ As always, hey, we don't do that here.
 
 ### Keynote: Lateral Thinking with Weathered Technology: How the Nintendo Philosophy Applies to Modern Web Development
 
+<!--
 [Lateral Thinking with Weathered Technology: How the Nintendo Philosophy Applies to Modern Web Development](https://2025.djangocon.us/talks/keynote-monday/) by Carson Gross
+-->
 
-Carson is the creator of the htmx library and the founder of the HyperMedia Research Group at Montana State University. 
+Carson Gross is the creator of the htmx library and the founder of the HyperMedia Research Group at Montana State University. 
 
 htmx enables developers to use custom HTML attributes that trigger AJAX requests and update fragments of a page without a full reload, without using JavaScript. As a hypermedia-driven approach, the server can return HTML fragments.
 
@@ -280,9 +282,11 @@ Useful-to-me notes:
 
 ### Django for AI: Deploying Machine Learning Models with Django
 
+<!--
 [Django for AI: Deploying Machine Learning Models with Django](https://2025.djangocon.us/talks/django-for-ai-deploying-machine-learning-models-with-django/) by Will Vincent
+-->
 
-Will works as a developer advocate at JetBrains and is a popular author, Django Chat podcaster, and Django News newsletter curator.
+Will Vincent works as a developer advocate at JetBrains and is a popular author, Django Chat podcaster, and Django News newsletter curator.
 
 His talk was about the shift happening due to AI. Django can and should be a part of it. 
 
@@ -391,9 +395,11 @@ Useful-to-me notes:
 (djangos-generatedfield-by-example)=
 ### Django's GeneratedField by Example
 
+<!--
 [Django's GeneratedField by Example](https://2025.djangocon.us/talks/django-s-generatedfield-by-example/) by Paolo Melchiorre
+-->
 
-Paolo walked through the process of how GeneratedField feature became a reality in [Django 5.0](https://docs.djangoproject.com/en/5.2/releases/5.0/#database-generated-model-field). 
+Paolo Melchiorre walked through the process of how GeneratedField feature became a reality in [Django 5.0](https://docs.djangoproject.com/en/5.2/releases/5.0/#database-generated-model-field). 
 
 This was not his first time contributing to Django. In 2017, he added [RandomUUID for Postgres](https://github.com/django/django/commit/fcb5dbfec0542faaa1b0adad754a1caf1bcd65e2). 
 
@@ -465,9 +471,11 @@ Let's sustain Django and make the world a better place.
 
 ### Keynote: All the Ways to Use Django
 
+<!--
 [All the Ways to Use Django](https://2025.djangocon.us/talks/keynote-tuesday/) by Zags (Benjamin Zagorsky)
+-->
 
-Zags is the co-founder and CTO of Zagaran, Inc. a software consultancy. He has used Django extensively and has seen a lot of use cases, including unexpected ones.
+Zags (Benjamin Zagorsky) is the co-founder and CTO of Zagaran, Inc. a software consultancy. He has used Django extensively and has seen a lot of use cases, including unexpected ones.
 
 He gave a wealth of info from his experiences. 
 
@@ -540,13 +548,13 @@ How to get involved at a local level? Find a [PuG (Python User Group) on meetup.
 
 ### Hidden Dangers of AI in Developer Workflows: Navigating Security Risks with Human Insight
 
+<!--
 [Hidden Dangers of AI in Developer Workflows: Navigating Security Risks with Human Insight](https://2025.djangocon.us/talks/hidden-dangers-of-ai-in-developer-workflows-navigating-security-risks-with-human-insight/) by Dwayne McDaniel
 
-<!--
 https://docs.google.com/presentation/d/1tzdzDd7Pmh-wdyfJhTgQyl6bFe-4JXpf5ISVpcIwVfc/edit
 -->
 
-Dwayne is a developer advocate at GitGuardian, an enterprise platform helping teams solve Non-Human Identity security crisis via secrets detection and remediation, developer tooling for prevention, honeytokens, and public monitoring of GitHub. 
+Dwayne McDaniel is a developer advocate at GitGuardian, an enterprise platform helping teams solve Non-Human Identity security crisis via secrets detection and remediation, developer tooling for prevention, honeytokens, and public monitoring of GitHub. 
 
 A non-human identity is an agentic AI. 
 
@@ -575,9 +583,11 @@ Dwayne's talk had some important examples and stats. Check out the [slides](http
 
 ### Django as a Database Documentation Tool: The Hidden Power of Model Comments
 
+<!--
 [Django as a Database Documentation Tool: The Hidden Power of Model Comments](https://2025.djangocon.us/talks/django-as-a-database-documentation-tool-the-hidden-power-of-model-comments/) by Ryan Cheley
+-->
 
-Ryan works in healthcare. Due to the complexity of the terminology, it can be difficult to decipher what data in a database table field is used for. 
+Ryan Cheley works in healthcare. Due to the complexity of the terminology, it can be difficult to decipher what data in a database table field is used for. 
 
 There is a documentation gap. Code comments != database documentation. Wiki pages get stale. Undocumented expertise doesn't scale. 
 
@@ -700,9 +710,11 @@ Afi
 
 ### Keynote: Django Reimagined for The Age of AI
 
+<!--
 [Django Reimagined for The Age of AI](https://2025.djangocon.us/talks/keynote-wednesday/) by Marlene Mhangami
+-->
 
-Marlene led the first PyCon Africa and is a former PSF Chair. She is an explorer and maker, and one of my favorite follows on social media. 
+Marlene Mhangami led the first PyCon Africa and is a former PSF Chair. She is an explorer and maker, and one of my favorite follows on social media. 
 
 Marlene pointed out that ChatGPT was the fastest growing app in history and the 5th most visited website in the world. AI is not just for CEOs are futurists. Real people are using it in their everyday lives. We should pay attention. 
 
@@ -802,9 +814,11 @@ If you have helped the Django community in some way, you may be eligible to beco
 
 ### What a Decade!
 
+<!--
 [What a Decade!](https://2025.djangocon.us/talks/what-a-decade/) by Tim Allen
+-->
 
-Tim told the audience, you are my people, people trying to be a better version of themselves everyday and make the world a better place. 
+Tim Allen told the audience, you are my people, people trying to be a better version of themselves everyday and make the world a better place. 
 
 Tim is a Principal Engineer at Wharton Research Data Services who loves ice cream. 
 
