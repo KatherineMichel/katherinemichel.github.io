@@ -110,7 +110,9 @@ Pan-seared Alaskan cod
 ![](djangocon-us-2025-recap-images/shaws-chocolate-cake.jpg)
 Mini chocolate cake
 
+<!--
 [View from the Bar Video](https://youtu.be/YxGYLfhE22w)
+-->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
