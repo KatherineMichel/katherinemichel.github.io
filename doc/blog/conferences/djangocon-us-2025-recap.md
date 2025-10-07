@@ -238,14 +238,14 @@ Tips from Carson
 
 During Q&A, Jeff Triplett asked what can Django to do better support htmx/frameworks that embrace htmx (as of Django 6.0, template partials are baked-in) and Natalia Bidart pointed out the challenge with testing. 
 
-As promised, soon thereafter Carson cut htmx release 2.0.7. Adam Johnson bundled it into his [django-htmx 1.24.1 release](https://www.linkedin.com/feed/update/urn:li:activity:7372092845651873792/). 
+As promised, Carson cut htmx release 2.0.7 the same day. Adam Johnson bundled it into his [django-htmx 1.24.1 release](https://www.linkedin.com/feed/update/urn:li:activity:7372092845651873792/). 
 
 Django community loves htmx. Adam Johnson and Carlton Gibson, former Django Fellow, are two high profile advocates. 
 
 Useful-to-me notes:
 * Carson's books: [The Grugbrained Developer](https://grugbrain.dev/) and [Hypermedia Systems](https://hypermedia.systems/)
 * [django-htmx](https://github.com/adamchainz/django-htmx)
-* [htmx release 2.0.7 changelog](https://github.com/bigskysoftware/htmx/blob/master/CHANGELOG.md#207---2025-09-08)
+* [htmx release 2.0.7 changelog](https://github.com/bigskysoftware/htmx/blob/master/CHANGELOG.md)
 * [intercoolor.js](https://intercoolerjs.org/) (predecessor to htmx)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
