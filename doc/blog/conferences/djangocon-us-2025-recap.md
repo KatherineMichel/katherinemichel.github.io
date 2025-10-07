@@ -409,7 +409,7 @@ Unfortunately, there was only one example in the docs. Paolo gave a plethora of 
 
 ![](djangocon-us-2025-recap-images/djangocon-us-paolo-melchiorre-total-price.png)
 ![](djangocon-us-2025-recap-images/djangocon-us-paolo-melchiorre-total-price-output.png)
-Total price calculation and output
+Total price calculation and output example
 
 Check out more examples in his [slides](https://www.paulox.net/2025/09/08/djangocon-us-2025/). 
 
