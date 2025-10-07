@@ -55,9 +55,9 @@ Table of Contents
     - [More from The Field Museum](#more-from-the-field-museum)
     - [More from The Art Institute of Chicago](#more-from-the-art-institute-of-chicago)
 
-## Intro
-
 Disclaimer: the content of this post is a reflection of my career journey and not specific to my work at JPMorganChase.
+
+## Intro
 
 DjangoCon US took place in Chicago, Illinois from September 8-12. It was a stellar experience. 
 
