@@ -459,13 +459,11 @@ Let's sustain Django and make the world a better place.
 
 [All The Ways To Use Django](https://2025.djangocon.us/talks/keynote-tuesday/) by Zags (Benjamin Zagorsky)
 
-<!--
-https://drive.google.com/file/d/1y-lwJZyiANhGvBl7WZAkz0jBx0fW-xPp/view
--->
-
 Zags is the co-founder and CTO of Zagaran, Inc. a software consultancy. He has used Django extensively and has seen a lot of use cases, including unexpected ones.
 
-Some scenarios covered in his talk
+He gave a wealth of info from his experiences. 
+
+Some scenarios covered in his talk:
 * Django and frontend frameworks
 * Django and multi-service architectures
 * Django and other databases- Django's ORM is pluggable
@@ -490,6 +488,8 @@ Medium hard ideas
 Three more ideas: Next.js has an entire hosting menu even though they sell hosting and is a recommended framework for partnership with React
 
 Final thoughts: help Django get there, but don’t wait for Django to get there.
+
+Check out his [slides](https://drive.google.com/file/d/1y-lwJZyiANhGvBl7WZAkz0jBx0fW-xPp/view) for more. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
