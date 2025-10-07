@@ -60,7 +60,7 @@ Disclaimer: the content of this post is a reflection of my career journey and no
 
 DjangoCon US took place in Chicago, Illinois from September 8-12. It was a stellar experience. 
 
-Ensuring Django is relevant for the next 20 years and Django and the AI landscape were topics of interest, in addition to the latest Django features and community news. 
+Ensuring Django is relevant for the next 20 years and Django and the AI landscape were hot topics, in addition to the latest Django features and community news. 
 
 I was also able to spend the day before the conference sightseeing. I couldn't help but think of the 1986 movie Ferris Bueller's Day Off, widely considered to be a "love letter to Chicago" by director John Hughes and one of my favorite movies. After a day of adventures across Chicago, Cameron famously tells Ferris that [he doesn't think he has seen anything good](https://youtu.be/o0iVd8b5QyA?si=wxTvTEL98johebOB). 
 
@@ -304,7 +304,7 @@ Will split his talk into two sections:
 ![](djangocon-us-2025-recap-images/djangocon-us-will-vincent-jupyter-code.png)
 Jupyter code... the start of the classic machine learning model in a [Jupyter notebook](https://github.com/wsvincent/iris_ml). 
 
-Notably, this takes about 20 lines of code (including imports), with a mere 2 lines doing the training. A Jupyter cell can be added to enter inputs and see results for the model. The model is eventually saved as a joblib file, "a serialized Python object for saving and loading trained ML models." 
+Notably, Will's classic machine learning model consists of about 20 lines of code (including imports), with a mere 2 lines doing the training. A Jupyter cell can be added to enter inputs and see results for the model. The model is eventually saved as a joblib file, "a serialized Python object for saving and loading trained ML models." 
 
 Django is the web interface we can use to bring the model to the world. 
 
