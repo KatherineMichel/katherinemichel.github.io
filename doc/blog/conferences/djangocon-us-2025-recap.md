@@ -585,7 +585,7 @@ Db comments can be at a field or table-level:
 * Field-level: db_comment
 * Table-level: db_table_comment
 
-![](djangocon-us-2025-recap-images/ryan-cheley-db-comment-example.jpg)
+![](djangocon-us-2025-recap-images/djangocon-us-ryan-cheley-db-comment-example.jpg)
 db_comment example
 
 Not everyone has access to the frontend. 
@@ -594,7 +594,7 @@ help_text is only visible on the frontend/admin. It doesn't help on the database
 
 It is recommended that help_text and db_comment both be used, but they tend to not be the same. 
 
-![](djangocon-us-2025-recap-images/ryan-cheley-different-audiences.jpg)
+![](djangocon-us-2025-recap-images/djangocon-us-ryan-cheley-different-audiences.jpg)
 Different audiences, different needs
   
 How to get started with database comments at a field-level
