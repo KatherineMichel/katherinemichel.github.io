@@ -463,9 +463,28 @@ Let's sustain Django and make the world a better place.
 https://drive.google.com/file/d/1y-lwJZyiANhGvBl7WZAkz0jBx0fW-xPp/view
 -->
 
+Zags is the co-founder and CTO of Zagaran, Inc. a software consultancy. He has used Django extensively and has seen a lot of use cases, including unexpected ones.
+
+Django's greatest strength: boilerplate reduction. Django provides the generic code. You can write the code specific to your app. 
+
+Django's most powerful feature: the ORM
+
+
+
+Zags warned that looking at StackOverflow tags data, Django appears to be losing popularity to Next.js. This could be because Django is well-documented and stable. 
+
+Zags said, maybe Django needs a JavaScript Strategy. To make it another 20 years, we need to accept that JavaScript is part of the web. 
+
 ![](djangocon-us-2025-recap-images/benjamin-zagorsky-javascript-easy.jpg)
+Easy ideas: Django 1.7 absorbed South and it bacame Django migrations. Could the same happen with Django Rest Framework? 
+
 ![](djangocon-us-2025-recap-images/benjamin-zagorsky-javascript-medium.jpg)
+Medium hard ideas
+
 ![](djangocon-us-2025-recap-images/benjamin-zagorsky-javascript-three-more-ideas.jpg)
+Three more ideas: Next.js has an entire hosting menu even though they sell hosting and is a recommended framework for partnership with React
+
+Final thoughts: help Django get there, but don’t wait for Django to get there.
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
