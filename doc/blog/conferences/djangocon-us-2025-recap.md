@@ -559,10 +559,10 @@ Dwayne referenced [the Nx "s1ngularity" Attack](https://blog.gitguardian.com/the
 
 I learned about [OWASP Non-Human Identities Top 10](https://owasp.org/www-project-non-human-identities-top-10/) and [Gen AI Security Project](https://genai.owasp.org/) from Dwayne's talk, two of my favorite pieces of learning I took away from the conference.
 
-![](djangocon-us-2025-recap-images/dwayne-mcdaniel-owasp.jpg)
+![](djangocon-us-2025-recap-images/djangocon-us-dwayne-mcdaniel-owasp.jpg)
 [OWASP Non-Human Identities Top 10](https://owasp.org/www-project-non-human-identities-top-10/)
 
-![](djangocon-us-2025-recap-images/dwayne-mcdaniel-venn.jpg)
+![](djangocon-us-2025-recap-images/djangocon-us-dwayne-mcdaniel-venn.jpg)
 A better way to do it
 
 Dwayne's talk had some important examples and stats. Check out the [slides](https://docs.google.com/presentation/d/1tzdzDd7Pmh-wdyfJhTgQyl6bFe-4JXpf5ISVpcIwVfc/edit). 
