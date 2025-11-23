@@ -500,6 +500,62 @@ You can read my [2024 Recap](https://katherinemichel.github.io/blog/annual-recap
 
 ## More Favorite Snapshots Throughout The Year
 
-### Placeholder
+### Oath of Office
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### New Furniture
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### If Anyone is Interested in How I am Related
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Breakfast Bar
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Carriage Crossing
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Coco Ichibanya
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Baccus Cemetery
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Hoodie
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Cyber Truck
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Bird
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Employee Garden
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### IP Breakfast
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Hutchins X3
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Granite Park
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Harvest Moon
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
