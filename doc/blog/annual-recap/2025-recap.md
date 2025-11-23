@@ -83,12 +83,15 @@ Table of Contents
     - [Breakfast Bar](#breakfast-bar)
     - [Carriage Crossing](#carriage-crossing)
     - [Coco Ichibanya](#coco-ichibanya)
+    - [More Fun in Dallas](#more-fun-in-dallas)
+    - [More Hutchins](#more-hutchins)
     - [La La Land Banana Cream Top Latte](#la-la-land-banana-cream-top-latte)
     - [Baccus Cemetery](#baccus-cemetery)
     - [Cyber Truck](#cyber-truck)
     - [Employee Garden](#employee-garden)
     - [IP Breakfast](#ip-breakfast)
-    - [Hutchins X3](#hutchins-x3)
+    - [More Commit Your Code Conference](#more-commit-your-code-conference)
+    - [More Six Flags](#more-six-flags)
     - [Harvest Moon](#harvest-moon)
 
 <!--
@@ -604,6 +607,14 @@ Talk show appearance
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+### More Fun in Dallas
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### More Hutchins
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
 ### La La Land Banana Cream Top Latte
 
 ![](2025-recap-images/lala-land-banana-cream-top-latte.jpg)
@@ -634,7 +645,11 @@ Talk show appearance
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Hutchins X3
+### More Commit Your Code Conference
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### More Six Flags
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
