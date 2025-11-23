@@ -32,15 +32,19 @@ Table of Contents
         - [Stonebriar Centre](#stonebriar-centre)
 -->
         - [Battle House Laser Tag](#battle-house-laser-tag)
+<!--
         - [Johnny Morris Outdoor World](#outdoor-world)
+-->
         - [Scheels Ferris Wheel](#scheels-ferris-wheel)
         - [Boot Barn](#boot-barn)
 - [May](#may)
     - [Building Better Bone](#building-better-bone)
+<!--
     - [Offsite](#offsite)
         - [Networking Event](#networking-event)
         - [CFP Connect](#cfp-connect)
-        - [Zero Latency Virtual Reality](#zero-latency-virtual-reality)
+-->
+    - [Zero Latency Virtual Reality](#zero-latency-virtual-reality)
 - [June](#june)
     - [Stepped Down From DEFNA Board](#stepped-down-from-defna-board)
     - [Innovation Week](#innovation-week)
@@ -255,9 +259,11 @@ You can read my [2024 Recap](https://katherinemichel.github.io/blog/annual-recap
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+<!--
 #### Johnny Morris Outdoor World
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
+-->
 
 #### Scheels Ferris Wheel
 
@@ -283,6 +289,7 @@ Talk show appearance
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+<!--
 ### Offsite
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
@@ -294,8 +301,9 @@ Talk show appearance
 #### CFP Connect
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
+-->
 
-#### Zero Latency Virtual Reality
+### Zero Latency Virtual Reality
 
 ![](2025-recap-images/zero-latency-vr-score-board.jpg)
 
