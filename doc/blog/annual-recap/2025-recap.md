@@ -69,7 +69,6 @@ Table of Contents
     - [Halloween Contest](#halloween-contest)
     - [Favorite Restaurants](#favorite-restaurants)
 - [November](#november)
-    - [Pic of Me](#pic-of-me)
     - [Birthday](#birthday)
     - [Elvis](#elvis)
     - [Northern Lights](#northern-lights)
@@ -84,8 +83,8 @@ Table of Contents
     - [Breakfast Bar](#breakfast-bar)
     - [Carriage Crossing](#carriage-crossing)
     - [Coco Ichibanya](#coco-ichibanya)
+    - [La La Land Banana Cream Top Latte](#la-la-land-banana-cream-top-latte)
     - [Baccus Cemetery](#baccus-cemetery)
-    - [Hoodie](#hoodie)
     - [Cyber Truck](#cyber-truck)
     - [Employee Garden](#employee-garden)
     - [IP Breakfast](#ip-breakfast)
@@ -93,6 +92,12 @@ Table of Contents
     - [Harvest Moon](#harvest-moon)
 
 <!--
+    - [Pic of Me](#pic-of-me)
+
+    - [Hoodie](#hoodie)
+
+### La La Land Banana Cream Top Latte
+
     - [PAD](#pad)
 
 ### PAD
@@ -199,9 +204,6 @@ Table of Contents
 ![](2025-recap-images/fredonia-jackets-t-shirt.jpg)
 
 ![](2025-recap-images/i-am-thankful.jpg)
-
-![](2025-recap-images/lala-land-banana-cream-top-latte-2.jpg)
-![](2025-recap-images/lala-land-banana-cream-top-latte.jpg)
 
 ![](2025-recap-images/me-in-front-of-a-big-truck.jpg)
 ![](2025-recap-images/mick-jagger-mocktail.jpg)
@@ -525,13 +527,9 @@ Talk show appearance
 
 ## November
 
-### Pic of Me
+### Birthday
 
 ![](2025-recap-images/it-me.jpg)
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-### Birthday
 
 ![](2025-recap-images/birthday-sky.jpg)
 
@@ -606,13 +604,17 @@ Talk show appearance
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Baccus Cemetery
+### La La Land Banana Cream Top Latte
+
+![](2025-recap-images/lala-land-banana-cream-top-latte.jpg)
+
+<!--
+![](2025-recap-images/lala-land-banana-cream-top-latte-2.jpg)
+-->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Hoodie
-
-![](2025-recap-images/jpmorgan-hoodie.jpg)
+### Baccus Cemetery
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
