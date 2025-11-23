@@ -50,7 +50,6 @@ Table of Contents
         - [Salmon](#salmon)
         - [Fruit](#fruit)
         - [Giant Grapes and Strawberries](#giant-grapes-and-strawberries)
-
     - [Stroopwafels](#stroopwafels)
     - [Summer Fun for My Nieces](#summer-fun-for-my-nieces)
         - [Lemonade Stand](#lemonade-stand)
