@@ -32,7 +32,7 @@ Table of Contents
         - [Scheels Ferris Wheel](#scheels-ferris-wheel)
         - [Boot Barn](#boot-barn)
 - [May](#may)
-    - [Building Better Bone](#building-better-bone)
+    - [Vonda Wright's Building Better Bone](#vonda-wrights-building-better-bone)
     - [Zero Latency Virtual Reality](#zero-latency-virtual-reality)
 - [June](#june)
     - [Stepped Down From DEFNA Board](#stepped-down-from-defna-board)
@@ -58,8 +58,6 @@ Table of Contents
     - [Employee Appreciation Week](#employee-appreciation-week)
         - [Street Art](#street-art)
     - [Annual Physical](#annual-physical)
-        - [Vaccinations](#vaccinations)
-    - [View](#view)
     - [PAD](#pad)
     - [Commit Your Code Conference](#commit-your-code-conference)
 - [October](#october)
@@ -68,10 +66,7 @@ Table of Contents
     - [PSH](#psh)
     - [PowerUp](#powerup)
     - [Mammogram](#mammogram)
-        - [Original House](#original-house)
-    - [Breast Cancer Awareness Month](#breast-cancer-awareness-month)
     - [Dermatologist](#dermatologist)
-    - [Self-Evaluation](#self-evaluation)
     - [Halloween Contest](#halloween-contest)
     - [Favorite Restaurants](#favorite-restaurants)
 - [November](#november)
@@ -80,7 +75,7 @@ Table of Contents
     - [Elvis](#elvis)
     - [Northern Lights](#northern-lights)
     - [Therapy Dogs](#therapy-dogs)
-    - [Three Year Work Anniversary](#three-year-work-anniversary)
+    - [JPMorganChase Three Year Work Anniversary](#jpmorganchase-three-year-work-anniversary)
 - [December](#december)
     - [JPMorganChase Advent of Code Texas Leadership](#jpmorganchase-advent-of-code-leadership)
     - [JPMorganChase DjangoCon US Recap Presentation](#jpmorganchase-djangocon-us-recap-presentation)
@@ -99,6 +94,72 @@ Table of Contents
     - [Harvest Moon](#harvest-moon)
 
 <!--
+    - [Self-Evaluation](#self-evaluation)
+
+### Self-Evaluation
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Flight Photos
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+-->
+
+<!--
+    - [View](#view)
+
+### View
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### View
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+-->
+
+<!--
+#### Stonebriar Centre
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+#### Johnny Morris Outdoor World
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Offsite
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+#### Networking Event
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+#### CFP Connect
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Bird
+
+![](2025-recap-images/bird.jpg)
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### New Furniture
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### If Anyone is Interested in How I am Related
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Granite Park
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+-->
+
+<!--
+        - [Vaccinations](#vaccinations)
+
         - [Stonebriar Centre](#stonebriar-centre)
         - [Johnny Morris Outdoor World](#outdoor-world)
 
@@ -107,9 +168,6 @@ Table of Contents
         - [CFP Connect](#cfp-connect)
 
         - [Giant Grapes](#giant-grapes)
-        - [Hummus](#hummus)
-        - [Salmon](#salmon)
-        - [Fruit](#fruit)
         - [Giant Grapes and Strawberries](#giant-grapes-and-strawberries)
 
     - [Digitizing](#digitizing)
@@ -125,6 +183,9 @@ Table of Contents
 
     - [Granite Park](#granite-park)
 
+    - [Breast Cancer Awareness Month](#breast-cancer-awareness-month)
+
+
 
 ![](2025-recap-images/back-in-black.jpg)
 
@@ -137,7 +198,6 @@ Table of Contents
 ![](2025-recap-images/lala-land-banana-cream-top-latte-2.jpg)
 ![](2025-recap-images/lala-land-banana-cream-top-latte.jpg)
 
-![](2025-recap-images/me-and-vonda.jpeg)
 ![](2025-recap-images/me-in-front-of-a-big-truck.jpg)
 ![](2025-recap-images/mick-jagger-mocktail.jpg)
 
@@ -239,23 +299,11 @@ You can read my [2024 Recap](https://katherinemichel.github.io/blog/annual-recap
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-<!--
-#### Stonebriar Centre
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
--->
-
 #### Battle House Laser Tag
 
 ![](2025-recap-images/me-at-battle-house.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-<!--
-#### Johnny Morris Outdoor World
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
--->
 
 #### Scheels Ferris Wheel
 
@@ -271,29 +319,17 @@ You can read my [2024 Recap](https://katherinemichel.github.io/blog/annual-recap
 
 ## May
 
-### Building Better Bone
+### Vonda Wright's Building Better Bone
 
 ![](2025-recap-images/vonda-wright-building-better-bone.jpg)
+
+![](2025-recap-images/me-and-vonda.jpeg)
 
 <!--
 Talk show appearance
 -->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-<!--
-### Offsite
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-#### Networking Event
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-#### CFP Connect
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
--->
 
 ### Zero Latency Virtual Reality
 
@@ -330,9 +366,6 @@ Talk show appearance
 
 <!--
         - [Giant Grapes](#giant-grapes)
-        - [Hummus](#hummus)
-        - [Salmon](#salmon)
-        - [Fruit](#fruit)
         - [Giant Grapes and Strawberries](#giant-grapes-and-strawberries)
 -->
 
@@ -414,14 +447,6 @@ Talk show appearance
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-#### Vaccinations
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-### View
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
 ### PAD
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
@@ -472,45 +497,19 @@ Talk show appearance
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-<!--
-### View
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
--->
-
 ### PowerUp
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Mammogram
 
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-#### Original House
-
 ![](2025-recap-images/original-house-of-pancakes-omelette.jpg)
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-### Breast Cancer Awareness Month
-
-![](2025-recap-images/breast-cancer-awareness-month.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Dermatologist
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-### Self-Evaluation
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-<!--
-### Flight Photos
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
--->
 
 ### Halloween Contest
 
@@ -566,7 +565,7 @@ Talk show appearance
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 -->
 
-### Three Year Work Anniversary
+### JPMorganChase Three Year Work Anniversary
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
     
@@ -593,16 +592,6 @@ Talk show appearance
 ![](2025-recap-images/oath-of-office-3.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-<!--
-### New Furniture
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-### If Anyone is Interested in How I am Related
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
--->
 
 ### Breakfast Bar
 
@@ -632,14 +621,6 @@ Talk show appearance
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-<!--
-### Bird
-
-![](2025-recap-images/bird.jpg)
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
--->
-
 ### Employee Garden
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
@@ -653,12 +634,6 @@ Talk show appearance
 ### Hutchins X3
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-<!--
-### Granite Park
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
--->
 
 ### Harvest Moon
 
