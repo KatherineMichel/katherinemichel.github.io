@@ -19,7 +19,7 @@ Table of Contents
     - [Texas Tuesday Longhorn](#texas-tuesday-longhorn)
 - [March](#march)
     - [Spring Fun for My Nieces](#spring-fun-for-my-nieces)
-    - [Jamie Dimon Townhall](#jamie-dimon-townhall)
+    - [Jamie Dimon Plano Townhall](#jamie-dimon-plano-townhall)
 - [April](#april)
     - [Trip to Benton, Missouri](#trip-to-benton-missouri)
         - [La Nonna](#la-nonna)
@@ -76,14 +76,12 @@ Table of Contents
     - [Six Flags](#six-flags)
     - [Class Reunion](#class-reunion)
     - [PSH](#psh)
-    - [View](#view)
     - [PowerUp](#powerup)
     - [Mammogram](#mammogram)
         - [Original House](#original-house)
     - [Breast Cancer Awareness Month](#breast-cancer-awareness-month)
     - [Dermatologist](#dermatologist)
     - [Self-Evaluation](#self-evaluation)
-    - [Flight Photos](#flight-photos)
     - [Halloween Contest](#halloween-contest)
     - [Favorite Restaurants](#favorite-restaurants)
 - [November](#november)
@@ -92,8 +90,10 @@ Table of Contents
     - [Elvis](#elvis)
     - [Northern Lights](#northern-lights)
     - [Therapy Dogs](#therapy-dogs)
+<!--
     - [Digitizing](#digitizing)
     - [T-shirts](#t-shirts)
+-->
     - [Three Year Work Anniversary](#three-year-work-anniversary)
 - [December](#december)
     - [JPMorganChase Advent of Code Texas Leadership](#jpmorganchase-advent-of-code-leadership)
@@ -101,22 +101,31 @@ Table of Contents
 - [Parting Thoughts](#parting-thoughts)
 - [More Favorite Snapshots Throughout The Year](#more-favorite-snapshots-throughout-the-year)
     - [Oath of Office](#oath-of-office)
+<!--
     - [New Furniture](#new-furniture)
     - [If Anyone is Interested in How I am Related](#if-anyone-is-interested-in-how-i-am-related)
+-->
     - [Breakfast Bar](#breakfast-bar)
     - [Carriage Crossing](#carriage-crossing)
     - [Coco Ichibanya](#coco-ichibanya)
     - [Baccus Cemetery](#baccus-cemetery)
     - [Hoodie](#hoodie)
     - [Cyber Truck](#cyber-truck)
+<!--
     - [Bird](#bird)
+-->
     - [Employee Garden](#employee-garden)
     - [IP Breakfast](#ip-breakfast)
     - [Hutchins X3](#hutchins-x3)
+<!--
     - [Granite Park](#granite-park)
+-->
     - [Harvest Moon](#harvest-moon)
 
 <!--
+    - [View](#view)
+    - [Flight Photos](#flight-photos)
+
 ![](2025-recap-images/back-in-black.jpg)
 
 ![](2025-recap-images/building-f-entryway.jpg)
@@ -124,7 +133,6 @@ Table of Contents
 ![](2025-recap-images/fredonia-jackets-t-shirt.jpg)
 
 ![](2025-recap-images/i-am-thankful.jpg)
-![](2025-recap-images/it-me.jpg)
 
 ![](2025-recap-images/lala-land-banana-cream-top-latte-2.jpg)
 ![](2025-recap-images/lala-land-banana-cream-top-latte.jpg)
@@ -179,10 +187,13 @@ You can read my [2024 Recap](https://katherinemichel.github.io/blog/annual-recap
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Jamie Dimon Townhall
+### Jamie Dimon Plano Townhall
 
 ![](2025-recap-images/jamie-dimon-townhall.jpg)
+
+<!--
 ![](2025-recap-images/jamie-dimon-townhall-cole.jpg)
+-->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -455,9 +466,11 @@ Talk show appearance
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+<!--
 ### View
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
+-->
 
 ### PowerUp
 
@@ -487,9 +500,11 @@ Talk show appearance
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+<!--
 ### Flight Photos
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
+-->
 
 ### Halloween Contest
 
@@ -505,6 +520,8 @@ Talk show appearance
 ## November
 
 ### Pic of Me
+
+![](2025-recap-images/it-me.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -533,6 +550,7 @@ Talk show appearance
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+<!--
 ### Digitizing
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
@@ -540,6 +558,7 @@ Talk show appearance
 ### T-shirts
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
+-->
 
 ### Three Year Work Anniversary
 
@@ -569,6 +588,7 @@ Talk show appearance
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+<!--
 ### New Furniture
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
@@ -576,6 +596,7 @@ Talk show appearance
 ### If Anyone is Interested in How I am Related
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
+-->
 
 ### Breakfast Bar
 
@@ -605,11 +626,13 @@ Talk show appearance
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+<!--
 ### Bird
 
 ![](2025-recap-images/bird.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
+-->
 
 ### Employee Garden
 
@@ -625,9 +648,11 @@ Talk show appearance
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+<!--
 ### Granite Park
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
+-->
 
 ### Harvest Moon
 
