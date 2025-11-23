@@ -28,22 +28,11 @@ Table of Contents
     - [Lucy's Bakery](#lucys-bakery)
     - [Fun in Dallas](#fun-in-dallas)
         - [Hutchins BBQ](#hutchins-bbq)
-<!--
-        - [Stonebriar Centre](#stonebriar-centre)
--->
         - [Battle House Laser Tag](#battle-house-laser-tag)
-<!--
-        - [Johnny Morris Outdoor World](#outdoor-world)
--->
         - [Scheels Ferris Wheel](#scheels-ferris-wheel)
         - [Boot Barn](#boot-barn)
 - [May](#may)
     - [Building Better Bone](#building-better-bone)
-<!--
-    - [Offsite](#offsite)
-        - [Networking Event](#networking-event)
-        - [CFP Connect](#cfp-connect)
--->
     - [Zero Latency Virtual Reality](#zero-latency-virtual-reality)
 - [June](#june)
     - [Stepped Down From DEFNA Board](#stepped-down-from-defna-board)
@@ -51,13 +40,6 @@ Table of Contents
 - [July](#july)
     - [Training Recap Presentation](#training-recap-presentation)
     - [Eating Clean](#eating-clean)
-<!--
-        - [Giant Grapes](#giant-grapes)
-        - [Hummus](#hummus)
-        - [Salmon](#salmon)
-        - [Fruit](#fruit)
-        - [Giant Grapes and Strawberries](#giant-grapes-and-strawberries)
--->
     - [Stroopwafels](#stroopwafels)
     - [Summer Fun for My Nieces](#summer-fun-for-my-nieces)
         - [Lemonade Stand](#lemonade-stand)
@@ -98,10 +80,6 @@ Table of Contents
     - [Elvis](#elvis)
     - [Northern Lights](#northern-lights)
     - [Therapy Dogs](#therapy-dogs)
-<!--
-    - [Digitizing](#digitizing)
-    - [T-shirts](#t-shirts)
--->
     - [Three Year Work Anniversary](#three-year-work-anniversary)
 - [December](#december)
     - [JPMorganChase Advent of Code Texas Leadership](#jpmorganchase-advent-of-code-leadership)
@@ -109,30 +87,44 @@ Table of Contents
 - [Parting Thoughts](#parting-thoughts)
 - [More Favorite Snapshots Throughout The Year](#more-favorite-snapshots-throughout-the-year)
     - [Oath of Office](#oath-of-office)
-<!--
-    - [New Furniture](#new-furniture)
-    - [If Anyone is Interested in How I am Related](#if-anyone-is-interested-in-how-i-am-related)
--->
     - [Breakfast Bar](#breakfast-bar)
     - [Carriage Crossing](#carriage-crossing)
     - [Coco Ichibanya](#coco-ichibanya)
     - [Baccus Cemetery](#baccus-cemetery)
     - [Hoodie](#hoodie)
     - [Cyber Truck](#cyber-truck)
-<!--
-    - [Bird](#bird)
--->
     - [Employee Garden](#employee-garden)
     - [IP Breakfast](#ip-breakfast)
     - [Hutchins X3](#hutchins-x3)
-<!--
-    - [Granite Park](#granite-park)
--->
     - [Harvest Moon](#harvest-moon)
 
 <!--
+        - [Stonebriar Centre](#stonebriar-centre)
+        - [Johnny Morris Outdoor World](#outdoor-world)
+
+    - [Offsite](#offsite)
+        - [Networking Event](#networking-event)
+        - [CFP Connect](#cfp-connect)
+
+        - [Giant Grapes](#giant-grapes)
+        - [Hummus](#hummus)
+        - [Salmon](#salmon)
+        - [Fruit](#fruit)
+        - [Giant Grapes and Strawberries](#giant-grapes-and-strawberries)
+
+    - [Digitizing](#digitizing)
+    - [T-shirts](#t-shirts)
+
+    - [New Furniture](#new-furniture)
+    - [If Anyone is Interested in How I am Related](#if-anyone-is-interested-in-how-i-am-related)
+
+    - [Bird](#bird)
+
     - [View](#view)
     - [Flight Photos](#flight-photos)
+
+    - [Granite Park](#granite-park)
+
 
 ![](2025-recap-images/back-in-black.jpg)
 
