@@ -28,7 +28,9 @@ Table of Contents
     - [Lucy's Bakery](#lucys-bakery)
     - [Fun in Dallas](#fun-in-dallas)
         - [Hutchins BBQ](#hutchins-bbq)
+<!--
         - [Stonebriar Centre](#stonebriar-centre)
+-->
         - [Battle House Laser Tag](#battle-house-laser-tag)
         - [Johnny Morris Outdoor World](#outdoor-world)
         - [Scheels Ferris Wheel](#scheels-ferris-wheel)
@@ -45,11 +47,13 @@ Table of Contents
 - [July](#july)
     - [Training Recap Presentation](#training-recap-presentation)
     - [Eating Clean](#eating-clean)
+<!--
         - [Giant Grapes](#giant-grapes)
         - [Hummus](#hummus)
         - [Salmon](#salmon)
         - [Fruit](#fruit)
         - [Giant Grapes and Strawberries](#giant-grapes-and-strawberries)
+-->
     - [Stroopwafels](#stroopwafels)
     - [Summer Fun for My Nieces](#summer-fun-for-my-nieces)
         - [Lemonade Stand](#lemonade-stand)
@@ -239,9 +243,11 @@ You can read my [2024 Recap](https://katherinemichel.github.io/blog/annual-recap
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+<!--
 #### Stonebriar Centre
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
+-->
 
 #### Battle House Laser Tag
 
