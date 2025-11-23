@@ -80,7 +80,7 @@ Table of Contents
     - [JPMorganChase DjangoCon US Recap Presentation](#jpmorganchase-djangocon-us-recap-presentation)
 - [Parting Thoughts](#parting-thoughts)
 - [More Favorite Snapshots Throughout The Year](#more-favorite-snapshots-throughout-the-year)
-    - [Oath of Office](#oath-of-office)
+    - [Dallas Love Field Oath of Office](#dallas-love-field-oath-of-office)
     - [Breakfast Bar](#breakfast-bar)
     - [Carriage Crossing](#carriage-crossing)
     - [Coco Ichibanya](#coco-ichibanya)
@@ -586,7 +586,7 @@ Talk show appearance
 
 ## More Favorite Snapshots Throughout The Year
 
-### Oath of Office
+### Dallas Love Field Oath of Office
 
 ![](2025-recap-images/oath-of-office-1.jpg)
 ![](2025-recap-images/oath-of-office-2.jpg)
