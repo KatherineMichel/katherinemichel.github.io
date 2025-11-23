@@ -118,62 +118,32 @@ Table of Contents
 
 <!--
 ![](2025-recap-images/back-in-black.jpg)
-![](2025-recap-images/blueberries.jpg)
-![](2025-recap-images/breast-cancer-awareness-month.jpg)
+
 ![](2025-recap-images/building-f-entryway.jpg)
 ![](2025-recap-images/cfp-connect-databases.jpg)
 ![](2025-recap-images/fredonia-jackets-t-shirt.jpg)
-![](2025-recap-images/halloween-costume-contest.jpg)
-![](2025-recap-images/harvest-moon.jpg)
-![](2025-recap-images/hummus-and-triscuits.jpg)
 
 ![](2025-recap-images/i-am-thankful.jpg)
 ![](2025-recap-images/it-me.jpg)
 
-![](2025-recap-images/jpmorgan-hoodie.jpg)
-![](2025-recap-images/la-nonna.jpg)
 ![](2025-recap-images/lala-land-banana-cream-top-latte-2.jpg)
 ![](2025-recap-images/lala-land-banana-cream-top-latte.jpg)
-![](2025-recap-images/low-cholesterol-salad.jpg)
-![](2025-recap-images/lucys-bakery.jpg)
-![](2025-recap-images/me-and-a-texas-longhorn.jpeg)
-![](2025-recap-images/me-and-alked.jpeg)
-
-
-![](2025-recap-images/me-and-mom-for-halloween.jpg)
 
 ![](2025-recap-images/me-and-vonda.jpeg)
-![](2025-recap-images/me-at-battle-house.jpg)
 ![](2025-recap-images/me-in-front-of-a-big-truck.jpg)
 ![](2025-recap-images/mick-jagger-mocktail.jpg)
 
 ![](2025-recap-images/my-shadow.jpg)
 
-![](2025-recap-images/original-house-of-pancakes-omelette.jpg)
-![](2025-recap-images/phil-me-julie-christine.jpeg)
-![](2025-recap-images/psh-bingo.jpg)
-![](2025-recap-images/psh-flower.jpg)
-![](2025-recap-images/psh-mom-at-her-keyboard.jpg)
-![](2025-recap-images/psh-pink-and-orange-roses.jpg)
 ![](2025-recap-images/saint-louis-arch.jpg)
-![](2025-recap-images/salmon-and-broccoli-cauliflower-mix.jpg)
-![](2025-recap-images/salmon-and-rice.jpg)
-![](2025-recap-images/scheels-ferris-wheel.jpg)
-![](2025-recap-images/six-flags.jpg)
-![](2025-recap-images/strawberries-and-greek-yogurt.jpg)
-![](2025-recap-images/stroopwafels.jpg)
+
 ![](2025-recap-images/sunrise-from-a-plane-2.jpg)
 ![](2025-recap-images/sunrise-from-a-plane.jpg)
 ![](2025-recap-images/sunrise-on-a-plane.jpg)
-![](2025-recap-images/tesla-cybertruck-see-through-roof.jpg)
-
-![](2025-recap-images/the-texas-giant.jpg)
 
 ![](2025-recap-images/vaccinations.jpg)
-![](2025-recap-images/vonda-wright-building-better-bone.jpg)
 ![](2025-recap-images/wilson-county-historical-society-janell-smith-carson.jpg)
 ![](2025-recap-images/window-washer.jpg)
-![](2025-recap-images/zero-latency-vr-score-board.jpg)
 -->
 
 Disclaimer: the content of this post is a reflection of my life journey and not specific to my work at JPMorganChase.
@@ -199,6 +169,8 @@ You can read my [2024 Recap](https://katherinemichel.github.io/blog/annual-recap
 
 ### Texas Tuesday Longhorn
 
+![](2025-recap-images/me-and-a-texas-longhorn.jpeg)
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## March
@@ -220,11 +192,9 @@ You can read my [2024 Recap](https://katherinemichel.github.io/blog/annual-recap
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Trip to Benton, Missouri
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
 #### La Nonna
+
+![](2025-recap-images/la-nonna.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -237,6 +207,8 @@ You can read my [2024 Recap](https://katherinemichel.github.io/blog/annual-recap
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Lucy's Bakery
+
+![](2025-recap-images/lucys-bakery.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -262,6 +234,8 @@ You can read my [2024 Recap](https://katherinemichel.github.io/blog/annual-recap
 
 #### Battle House Laser Tag
 
+![](2025-recap-images/me-at-battle-house.jpg)
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 #### Johnny Morris Outdoor World
@@ -270,15 +244,25 @@ You can read my [2024 Recap](https://katherinemichel.github.io/blog/annual-recap
 
 #### Scheels Ferris Wheel
 
+![](2025-recap-images/scheels-ferris-wheel.jpg)
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 #### Boot Barn
+
+![](2025-recap-images/me-and-alked.jpeg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## May
 
 ### Building Better Bone
+
+![](2025-recap-images/vonda-wright-building-better-bone.jpg)
+
+<!--
+Talk show appearance
+-->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -295,6 +279,8 @@ You can read my [2024 Recap](https://katherinemichel.github.io/blog/annual-recap
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 #### Zero Latency Virtual Reality
+
+![](2025-recap-images/zero-latency-vr-score-board.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -316,6 +302,13 @@ You can read my [2024 Recap](https://katherinemichel.github.io/blog/annual-recap
 
 ### Eating Clean
 
+![](2025-recap-images/hummus-and-triscuits.jpg)
+![](2025-recap-images/blueberries.jpg)
+![](2025-recap-images/low-cholesterol-salad.jpg)
+![](2025-recap-images/salmon-and-broccoli-cauliflower-mix.jpg)
+![](2025-recap-images/salmon-and-rice.jpg)
+![](2025-recap-images/strawberries-and-greek-yogurt.jpg)
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 <!--
@@ -327,6 +320,8 @@ You can read my [2024 Recap](https://katherinemichel.github.io/blog/annual-recap
 -->
 
 ### Stroopwafels
+
+![](2025-recap-images/stroopwafels.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -379,6 +374,8 @@ You can read my [2024 Recap](https://katherinemichel.github.io/blog/annual-recap
 
 ### Phil and Christine
 
+![](2025-recap-images/phil-me-julie-christine.jpeg)
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### DjangoCon US
@@ -420,6 +417,9 @@ You can read my [2024 Recap](https://katherinemichel.github.io/blog/annual-recap
 
 ### Six Flags
 
+![](2025-recap-images/six-flags.jpg)
+![](2025-recap-images/the-texas-giant.jpg)
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Class Reunion
@@ -448,6 +448,11 @@ You can read my [2024 Recap](https://katherinemichel.github.io/blog/annual-recap
 
 ### PSH
 
+![](2025-recap-images/psh-bingo.jpg)
+![](2025-recap-images/psh-flower.jpg)
+![](2025-recap-images/psh-mom-at-her-keyboard.jpg)
+![](2025-recap-images/psh-pink-and-orange-roses.jpg)
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### View
@@ -464,9 +469,13 @@ You can read my [2024 Recap](https://katherinemichel.github.io/blog/annual-recap
 
 #### Original House
 
+![](2025-recap-images/original-house-of-pancakes-omelette.jpg)
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Breast Cancer Awareness Month
+
+![](2025-recap-images/breast-cancer-awareness-month.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -483,6 +492,9 @@ You can read my [2024 Recap](https://katherinemichel.github.io/blog/annual-recap
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Halloween Contest
+
+![](2025-recap-images/me-and-mom-for-halloween.jpg)
+![](2025-recap-images/halloween-costume-contest.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -583,9 +595,13 @@ You can read my [2024 Recap](https://katherinemichel.github.io/blog/annual-recap
 
 ### Hoodie
 
+![](2025-recap-images/jpmorgan-hoodie.jpg)
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Cyber Truck
+
+![](2025-recap-images/tesla-cybertruck-see-through-roof.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -614,5 +630,7 @@ You can read my [2024 Recap](https://katherinemichel.github.io/blog/annual-recap
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Harvest Moon
+
+![](2025-recap-images/harvest-moon.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
