@@ -58,12 +58,11 @@ Table of Contents
     - [Employee Appreciation Week](#employee-appreciation-week)
         - [Street Art](#street-art)
     - [Annual Physical](#annual-physical)
-    - [PAD](#pad)
     - [Commit Your Code Conference](#commit-your-code-conference)
 - [October](#october)
     - [Six Flags](#six-flags)
     - [Class Reunion](#class-reunion)
-    - [PSH](#psh)
+    - [Prairie Sunset Home](#prairie-sunset-home)
     - [PowerUp](#powerup)
     - [Mammogram](#mammogram)
     - [Dermatologist](#dermatologist)
@@ -94,6 +93,12 @@ Table of Contents
     - [Harvest Moon](#harvest-moon)
 
 <!--
+    - [PAD](#pad)
+
+### PAD
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
     - [Self-Evaluation](#self-evaluation)
 
 ### Self-Evaluation
@@ -447,10 +452,6 @@ Talk show appearance
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### PAD
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
 ### Commit Your Code Conference
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
@@ -488,7 +489,7 @@ Talk show appearance
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### PSH
+### Prairie Sunset Home
 
 ![](2025-recap-images/psh-bingo.jpg)
 ![](2025-recap-images/psh-flower.jpg)
