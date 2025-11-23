@@ -123,16 +123,10 @@ Table of Contents
 ![](2025-recap-images/building-f-entryway.jpg)
 ![](2025-recap-images/cfp-connect-databases.jpg)
 ![](2025-recap-images/fredonia-jackets-t-shirt.jpg)
-![](2025-recap-images/fredonia-umc-beef-burger-meal.jpg)
 ![](2025-recap-images/halloween-costume-contest.jpg)
 ![](2025-recap-images/harvest-moon.jpg)
 ![](2025-recap-images/hummus-and-triscuits.jpg)
-![](2025-recap-images/hutchins-bbq-brisket-and-potatoes.jpg)
-![](2025-recap-images/hutchins-bbq-counter.jpg)
-![](2025-recap-images/hutchins-bbq-dessert.jpg)
-![](2025-recap-images/hutchins-bbq-ice-cream-cone.jpg)
-![](2025-recap-images/hutchins-bbq-jalapeno-sausage-texas-twinkie-mac-and-cheese.jpg)
-![](2025-recap-images/hutchins-bbq-me.jpg)
+
 ![](2025-recap-images/i-am-thankful.jpg)
 ![](2025-recap-images/it-me.jpg)
 
@@ -142,21 +136,17 @@ Table of Contents
 ![](2025-recap-images/lala-land-banana-cream-top-latte.jpg)
 ![](2025-recap-images/low-cholesterol-salad.jpg)
 ![](2025-recap-images/lucys-bakery.jpg)
-![](2025-recap-images/lulu-giving-a-hug.jpg)
 ![](2025-recap-images/me-and-a-texas-longhorn.jpeg)
 ![](2025-recap-images/me-and-alked.jpeg)
-![](2025-recap-images/me-and-jubilee.jpg)
+
+
 ![](2025-recap-images/me-and-mom-for-halloween.jpg)
-![](2025-recap-images/me-and-rebecca-timmons.jpg)
-![](2025-recap-images/me-and-sandy-mcbride-turner.jpg)
 
 ![](2025-recap-images/me-and-vonda.jpeg)
 ![](2025-recap-images/me-at-battle-house.jpg)
 ![](2025-recap-images/me-in-front-of-a-big-truck.jpg)
 ![](2025-recap-images/mick-jagger-mocktail.jpg)
-![](2025-recap-images/mike-jeffers.jpg)
 
-![](2025-recap-images/mom-and-susan-welton.jpg)
 ![](2025-recap-images/my-shadow.jpg)
 
 ![](2025-recap-images/original-house-of-pancakes-omelette.jpg)
@@ -255,6 +245,14 @@ You can read my [2024 Recap](https://katherinemichel.github.io/blog/annual-recap
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 #### Hutchins BBQ
+
+![](2025-recap-images/hutchins-bbq-me.jpg)
+
+![](2025-recap-images/hutchins-bbq-brisket-and-potatoes.jpg)
+![](2025-recap-images/hutchins-bbq-counter.jpg)
+![](2025-recap-images/hutchins-bbq-dessert.jpg)
+![](2025-recap-images/hutchins-bbq-ice-cream-cone.jpg)
+![](2025-recap-images/hutchins-bbq-jalapeno-sausage-texas-twinkie-mac-and-cheese.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -437,6 +435,15 @@ You can read my [2024 Recap](https://katherinemichel.github.io/blog/annual-recap
 ![](2025-recap-images/the-hive-entryway.jpg)
 ![](2025-recap-images/the-hive-menu.jpg)
 
+![](2025-recap-images/me-and-sandy-mcbride-turner.jpg)
+
+![](2025-recap-images/fredonia-umc-beef-burger-meal.jpg)
+
+![](2025-recap-images/mike-jeffers.jpg)
+
+![](2025-recap-images/me-and-rebecca-timmons.jpg)
+![](2025-recap-images/mom-and-susan-welton.jpg)
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### PSH
@@ -508,6 +515,9 @@ You can read my [2024 Recap](https://katherinemichel.github.io/blog/annual-recap
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Therapy Dogs
+
+![](2025-recap-images/lulu-giving-a-hug.jpg)
+![](2025-recap-images/me-and-jubilee.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
