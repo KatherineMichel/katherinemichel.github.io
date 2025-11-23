@@ -118,12 +118,10 @@ Table of Contents
 
 <!--
 ![](2025-recap-images/back-in-black.jpg)
-![](2025-recap-images/birthday-sky.jpg)
 ![](2025-recap-images/blueberries.jpg)
 ![](2025-recap-images/breast-cancer-awareness-month.jpg)
 ![](2025-recap-images/building-f-entryway.jpg)
 ![](2025-recap-images/cfp-connect-databases.jpg)
-![](2025-recap-images/elvis-and-me.jpg)
 ![](2025-recap-images/fredonia-jackets-t-shirt.jpg)
 ![](2025-recap-images/fredonia-umc-beef-burger-meal.jpg)
 ![](2025-recap-images/halloween-costume-contest.jpg)
@@ -157,11 +155,9 @@ Table of Contents
 ![](2025-recap-images/me-in-front-of-a-big-truck.jpg)
 ![](2025-recap-images/mick-jagger-mocktail.jpg)
 ![](2025-recap-images/mike-jeffers.jpg)
-![](2025-recap-images/mom-and-rodeo-royalty-1.jpg)
-![](2025-recap-images/mom-and-rodeo-royalty-2.jpg)
+
 ![](2025-recap-images/mom-and-susan-welton.jpg)
 ![](2025-recap-images/my-shadow.jpg)
-![](2025-recap-images/northern-lights.jpeg)
 
 ![](2025-recap-images/original-house-of-pancakes-omelette.jpg)
 ![](2025-recap-images/phil-me-julie-christine.jpeg)
@@ -332,6 +328,37 @@ You can read my [2024 Recap](https://katherinemichel.github.io/blog/annual-recap
         - [Giant Grapes and Strawberries](#giant-grapes-and-strawberries)
 -->
 
+### Stroopwafels
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Summer Fun for My Nieces
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+#### Lemonade Stand
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+#### Gymnastics Inflatable Mat and Sewing Supplies
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+#### Gymnastics Donation
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Django's 20th Birthday
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Mom Meets Rodeo Royalty
+
+![](2025-recap-images/mom-and-rodeo-royalty-1.jpg)
+![](2025-recap-images/mom-and-rodeo-royalty-2.jpg)
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+    
 ## August
 
 ### Return to Office Full-time
@@ -464,13 +491,19 @@ You can read my [2024 Recap](https://katherinemichel.github.io/blog/annual-recap
 
 ### Birthday
 
+![](2025-recap-images/birthday-sky.jpg)
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Elvis
 
+![](2025-recap-images/elvis-and-me.jpg)
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Northern Lights
+
+![](2025-recap-images/northern-lights.jpeg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
