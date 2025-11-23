@@ -118,13 +118,11 @@ Table of Contents
 
 <!--
 ![](2025-recap-images/back-in-black.jpg)
-![](2025-recap-images/bird.jpg)
 ![](2025-recap-images/birthday-sky.jpg)
 ![](2025-recap-images/blueberries.jpg)
 ![](2025-recap-images/breast-cancer-awareness-month.jpg)
 ![](2025-recap-images/building-f-entryway.jpg)
 ![](2025-recap-images/cfp-connect-databases.jpg)
-![](2025-recap-images/class-reunion.jpg)
 ![](2025-recap-images/elvis-and-me.jpg)
 ![](2025-recap-images/fredonia-jackets-t-shirt.jpg)
 ![](2025-recap-images/fredonia-umc-beef-burger-meal.jpg)
@@ -138,10 +136,8 @@ Table of Contents
 ![](2025-recap-images/hutchins-bbq-jalapeno-sausage-texas-twinkie-mac-and-cheese.jpg)
 ![](2025-recap-images/hutchins-bbq-me.jpg)
 ![](2025-recap-images/i-am-thankful.jpg)
-![](2025-recap-images/ip-forum-breakfast-buffet.jpg)
 ![](2025-recap-images/it-me.jpg)
-![](2025-recap-images/jamie-dimon-townhall-cole.jpg)
-![](2025-recap-images/jamie-dimon-townhall.jpg)
+
 ![](2025-recap-images/jpmorgan-hoodie.jpg)
 ![](2025-recap-images/la-nonna.jpg)
 ![](2025-recap-images/lala-land-banana-cream-top-latte-2.jpg)
@@ -155,8 +151,7 @@ Table of Contents
 ![](2025-recap-images/me-and-mom-for-halloween.jpg)
 ![](2025-recap-images/me-and-rebecca-timmons.jpg)
 ![](2025-recap-images/me-and-sandy-mcbride-turner.jpg)
-![](2025-recap-images/me-and-street-art-plane.jpg)
-![](2025-recap-images/me-and-street-art-rock.jpg)
+
 ![](2025-recap-images/me-and-vonda.jpeg)
 ![](2025-recap-images/me-at-battle-house.jpg)
 ![](2025-recap-images/me-in-front-of-a-big-truck.jpg)
@@ -167,9 +162,7 @@ Table of Contents
 ![](2025-recap-images/mom-and-susan-welton.jpg)
 ![](2025-recap-images/my-shadow.jpg)
 ![](2025-recap-images/northern-lights.jpeg)
-![](2025-recap-images/oath-of-office-1.jpg)
-![](2025-recap-images/oath-of-office-2.jpg)
-![](2025-recap-images/oath-of-office-3.jpg)
+
 ![](2025-recap-images/original-house-of-pancakes-omelette.jpg)
 ![](2025-recap-images/phil-me-julie-christine.jpeg)
 ![](2025-recap-images/psh-bingo.jpg)
@@ -187,13 +180,9 @@ Table of Contents
 ![](2025-recap-images/sunrise-from-a-plane.jpg)
 ![](2025-recap-images/sunrise-on-a-plane.jpg)
 ![](2025-recap-images/tesla-cybertruck-see-through-roof.jpg)
-![](2025-recap-images/the-hive-counter.jpg)
-![](2025-recap-images/the-hive-entryway.jpg)
-![](2025-recap-images/the-hive-menu.jpg)
-![](2025-recap-images/the-kitchen-table-baked-goods.jpg)
-![](2025-recap-images/the-kitchen-table-breakfast-buffet.jpg)
+
 ![](2025-recap-images/the-texas-giant.jpg)
-![](2025-recap-images/tri-mee-meal.jpg)
+
 ![](2025-recap-images/vaccinations.jpg)
 ![](2025-recap-images/vonda-wright-building-better-bone.jpg)
 ![](2025-recap-images/wilson-county-historical-society-janell-smith-carson.jpg)
@@ -233,6 +222,9 @@ You can read my [2024 Recap](https://katherinemichel.github.io/blog/annual-recap
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Jamie Dimon Townhall
+
+![](2025-recap-images/jamie-dimon-townhall.jpg)
+![](2025-recap-images/jamie-dimon-townhall-cole.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -374,6 +366,9 @@ You can read my [2024 Recap](https://katherinemichel.github.io/blog/annual-recap
 
 #### Street Art
 
+![](2025-recap-images/me-and-street-art-plane.jpg)
+![](2025-recap-images/me-and-street-art-rock.jpg)
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Annual Physical
@@ -403,6 +398,17 @@ You can read my [2024 Recap](https://katherinemichel.github.io/blog/annual-recap
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Class Reunion
+
+![](2025-recap-images/class-reunion.jpg)
+
+![](2025-recap-images/tri-mee-meal.jpg)
+
+![](2025-recap-images/the-kitchen-table-baked-goods.jpg)
+![](2025-recap-images/the-kitchen-table-breakfast-buffet.jpg)
+
+![](2025-recap-images/the-hive-counter.jpg)
+![](2025-recap-images/the-hive-entryway.jpg)
+![](2025-recap-images/the-hive-menu.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -502,6 +508,10 @@ You can read my [2024 Recap](https://katherinemichel.github.io/blog/annual-recap
 
 ### Oath of Office
 
+![](2025-recap-images/oath-of-office-1.jpg)
+![](2025-recap-images/oath-of-office-2.jpg)
+![](2025-recap-images/oath-of-office-3.jpg)
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### New Furniture
@@ -538,6 +548,8 @@ You can read my [2024 Recap](https://katherinemichel.github.io/blog/annual-recap
 
 ### Bird
 
+![](2025-recap-images/bird.jpg)
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Employee Garden
@@ -545,6 +557,8 @@ You can read my [2024 Recap](https://katherinemichel.github.io/blog/annual-recap
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### IP Breakfast
+
+![](2025-recap-images/ip-forum-breakfast-buffet.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
