@@ -117,88 +117,88 @@ Table of Contents
     - [Harvest Moon](#harvest-moon)
 
 <!--
-back-in-black.jpg
-bird.jpg
-birthday-sky.jpg
-blueberries.jpg
-breast-cancer-awareness-month.jpg
-building-f-entryway.jpg
-cfp-connect-databases.jpg
-class-reunion.jpg
-elvis-and-me.jpg
-fredonia-jackets-t-shirt.jpg
-fredonia-umc-beef-burger-meal.jpg
-halloween-costume-contest.jpg
-harvest-moon.jpg
-hummus-and-triscuits.jpg
-hutchins-bbq-brisket-and-potatoes.jpg
-hutchins-bbq-counter.jpg
-hutchins-bbq-dessert.jpg
-hutchins-bbq-ice-cream-cone.jpg
-hutchins-bbq-jalapeno-sausage-texas-twinkie-mac-and-cheese.jpg
-hutchins-bbq-me.jpg
-i-am-thankful.jpg
-ip-forum-breakfast-buffet.jpg
-it-me.jpg
-jamie-dimon-townhall-cole.jpg
-jamie-dimon-townhall.jpg
-jpmorgan-hoodie.jpg
-la-nonna.jpg
-lala-land-banana-cream-top-latte-2.jpg
-lala-land-banana-cream-top-latte.jpg
-low-cholesterol-salad.jpg
-lucys-bakery.jpg
-lulu-giving-a-hug.jpg
-me-and-a-texas-longhorn.jpeg
-me-and-alked.jpeg
-me-and-jubilee.jpg
-me-and-mom-for-halloween.jpg
-me-and-rebecca-timmons.jpg
-me-and-sandy-mcbride-turner.jpg
-me-and-street-art-plane.jpg
-me-and-street-art-rock.jpg
-me-and-vonda.jpeg
-me-at-battle-house.jpg
-me-in-front-of-a-big-truck.jpg
-mick-jagger-mocktail.jpg
-mike-jeffers.jpg
-mom-and-rodeo-royalty-1.jpg
-mom-and-rodeo-royalty-2.jpg
-mom-and-susan-welton.jpg
-my-shadow.jpg
-northern-lights.jpeg
-oath-of-office-1.jpg
-oath-of-office-2.jpg
-oath-of-office-3.jpg
-original-house-of-pancakes-omelette.jpg
-phil-me-julie-christine.jpeg
-psh-bingo.jpg
-psh-flower.jpg
-psh-mom-at-her-keyboard.jpg
-psh-pink-and-orange-roses.jpg
-saint-louis-arch.jpg
-salmon-and-broccoli-cauliflower-mix.jpg
-salmon-and-rice.jpg
-scheels-ferris-wheel.jpg
-six-flags.jpg
-strawberries-and-greek-yogurt.jpg
-stroopwafels.jpg
-sunrise-from-a-plane-2.jpg
-sunrise-from-a-plane.jpg
-sunrise-on-a-plane.jpg
-tesla-cybertruck-see-through-roof.jpg
-the-hive-counter.jpg
-the-hive-entryway.jpg
-the-hive-menu.jpg
-the-kitchen-table-baked-goods.jpg
-the-kitchen-table-breakfast-buffet.jpg
-the-texas-giant.jpg
-tri-mee-meal.jpg
-vaccinations.jpg
-vonda-wright-building-better-bone.jpg
-wilson-county-historical-society-janell-smith-carson.jpg
-window-washer.jpg
-zero-latency-vr-score-board.jpg
+![](2025-recap-images/back-in-black.jpg)
+![](2025-recap-images/bird.jpg)
+![](2025-recap-images/birthday-sky.jpg)
+![](2025-recap-images/blueberries.jpg)
+![](2025-recap-images/breast-cancer-awareness-month.jpg)
+![](2025-recap-images/building-f-entryway.jpg)
+![](2025-recap-images/cfp-connect-databases.jpg)
+![](2025-recap-images/class-reunion.jpg)
+![](2025-recap-images/elvis-and-me.jpg)
+![](2025-recap-images/fredonia-jackets-t-shirt.jpg)
+![](2025-recap-images/fredonia-umc-beef-burger-meal.jpg)
+![](2025-recap-images/halloween-costume-contest.jpg)
+![](2025-recap-images/harvest-moon.jpg)
+![](2025-recap-images/hummus-and-triscuits.jpg)
+![](2025-recap-images/hutchins-bbq-brisket-and-potatoes.jpg)
+![](2025-recap-images/hutchins-bbq-counter.jpg)
+![](2025-recap-images/hutchins-bbq-dessert.jpg)
+![](2025-recap-images/hutchins-bbq-ice-cream-cone.jpg)
+![](2025-recap-images/hutchins-bbq-jalapeno-sausage-texas-twinkie-mac-and-cheese.jpg)
+![](2025-recap-images/hutchins-bbq-me.jpg)
+![](2025-recap-images/i-am-thankful.jpg)
+![](2025-recap-images/ip-forum-breakfast-buffet.jpg)
+![](2025-recap-images/it-me.jpg)
+![](2025-recap-images/jamie-dimon-townhall-cole.jpg)
+![](2025-recap-images/jamie-dimon-townhall.jpg)
+![](2025-recap-images/jpmorgan-hoodie.jpg)
+![](2025-recap-images/la-nonna.jpg)
+![](2025-recap-images/lala-land-banana-cream-top-latte-2.jpg)
+![](2025-recap-images/lala-land-banana-cream-top-latte.jpg)
+![](2025-recap-images/low-cholesterol-salad.jpg)
+![](2025-recap-images/lucys-bakery.jpg)
+![](2025-recap-images/lulu-giving-a-hug.jpg)
+![](2025-recap-images/me-and-a-texas-longhorn.jpeg)
+![](2025-recap-images/me-and-alked.jpeg)
+![](2025-recap-images/me-and-jubilee.jpg)
+![](2025-recap-images/me-and-mom-for-halloween.jpg)
+![](2025-recap-images/me-and-rebecca-timmons.jpg)
+![](2025-recap-images/me-and-sandy-mcbride-turner.jpg)
+![](2025-recap-images/me-and-street-art-plane.jpg)
+![](2025-recap-images/me-and-street-art-rock.jpg)
+![](2025-recap-images/me-and-vonda.jpeg)
+![](2025-recap-images/me-at-battle-house.jpg)
+![](2025-recap-images/me-in-front-of-a-big-truck.jpg)
+![](2025-recap-images/mick-jagger-mocktail.jpg)
+![](2025-recap-images/mike-jeffers.jpg)
+![](2025-recap-images/mom-and-rodeo-royalty-1.jpg)
+![](2025-recap-images/mom-and-rodeo-royalty-2.jpg)
+![](2025-recap-images/mom-and-susan-welton.jpg)
+![](2025-recap-images/my-shadow.jpg)
+![](2025-recap-images/northern-lights.jpeg)
+![](2025-recap-images/oath-of-office-1.jpg)
+![](2025-recap-images/oath-of-office-2.jpg)
+![](2025-recap-images/oath-of-office-3.jpg)
+![](2025-recap-images/original-house-of-pancakes-omelette.jpg)
+![](2025-recap-images/phil-me-julie-christine.jpeg)
+![](2025-recap-images/psh-bingo.jpg)
+![](2025-recap-images/psh-flower.jpg)
+![](2025-recap-images/psh-mom-at-her-keyboard.jpg)
+![](2025-recap-images/psh-pink-and-orange-roses.jpg)
+![](2025-recap-images/saint-louis-arch.jpg)
+![](2025-recap-images/salmon-and-broccoli-cauliflower-mix.jpg)
+![](2025-recap-images/salmon-and-rice.jpg)
+![](2025-recap-images/scheels-ferris-wheel.jpg)
+![](2025-recap-images/six-flags.jpg)
+![](2025-recap-images/strawberries-and-greek-yogurt.jpg)
+![](2025-recap-images/stroopwafels.jpg)
+![](2025-recap-images/sunrise-from-a-plane-2.jpg)
+![](2025-recap-images/sunrise-from-a-plane.jpg)
+![](2025-recap-images/sunrise-on-a-plane.jpg)
+![](2025-recap-images/tesla-cybertruck-see-through-roof.jpg)
+![](2025-recap-images/the-hive-counter.jpg)
+![](2025-recap-images/the-hive-entryway.jpg)
+![](2025-recap-images/the-hive-menu.jpg)
+![](2025-recap-images/the-kitchen-table-baked-goods.jpg)
+![](2025-recap-images/the-kitchen-table-breakfast-buffet.jpg)
+![](2025-recap-images/the-texas-giant.jpg)
+![](2025-recap-images/tri-mee-meal.jpg)
+![](2025-recap-images/vaccinations.jpg)
+![](2025-recap-images/vonda-wright-building-better-bone.jpg)
+![](2025-recap-images/wilson-county-historical-society-janell-smith-carson.jpg)
+![](2025-recap-images/window-washer.jpg)
+![](2025-recap-images/zero-latency-vr-score-board.jpg)
 -->
 
 Disclaimer: the content of this post is a reflection of my life journey and not specific to my work at JPMorganChase.
@@ -216,70 +216,284 @@ You can read my [2024 Recap](https://katherinemichel.github.io/blog/annual-recap
 
 ## January 
 
-### Placeholder
-
+### Christmas in Lawrence
+      
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## February
 
-### Placeholder
+### Texas Tuesday Longhorn
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## March
 
-### Placeholder
+### Spring Fun for My Nieces
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Jamie Dimon Townhall
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## April
 
-### Placeholder
+### Trip to Benton, Missouri
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Trip to Benton, Missouri
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+#### La Nonna
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+#### KC League Gymnastics Championships
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Investment
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Lucy's Bakery
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Fun in Dallas
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+#### Hutchins BBQ
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+#### Stonebriar Centre
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+#### Battle House Laser Tag
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+#### Johnny Morris Outdoor World
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+#### Scheels Ferris Wheel
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+#### Boot Barn
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## May
 
-### Placeholder
+### Building Better Bone
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Offsite
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+#### Networking Event
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+#### CFP Connect
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+#### Zero Latency Virtual Reality
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## June
 
-### Placeholder
+### Stepped Down From DEFNA Board
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Innovation Week
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## July
 
-### Placeholder
+### Training Recap Presentation
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Eating Clean
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+<!--
+        - [Giant Grapes](#giant-grapes)
+        - [Hummus](#hummus)
+        - [Salmon](#salmon)
+        - [Fruit](#fruit)
+        - [Giant Grapes and Strawberries](#giant-grapes-and-strawberries)
+-->
 
 ## August
 
-### Placeholder
+### Return to Office Full-time
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### DjangoCon US Interview
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## September
 
-### Placeholder
+### Vonda Wright's Unbreakable
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Wellness Screening
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Phil and Christine
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### DjangoCon US
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Employee Appreciation Week
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+#### Street Art
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Annual Physical
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+#### Vaccinations
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### View
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### PAD
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Commit Your Code Conference
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## October
 
-### Placeholder
+### Six Flags
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Class Reunion
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### PSH
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### View
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### PowerUp
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Mammogram
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+#### Original House
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Breast Cancer Awareness Month
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Dermatologist
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Self-Evaluation
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Flight Photos
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Halloween Contest
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Favorite Restaurants
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## November
 
-### Placeholder
+### Pic of Me
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+### Birthday
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Elvis
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Northern Lights
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Therapy Dogs
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Digitizing
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### T-shirts
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Three Year Work Anniversary
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+    
 ## December
 
+### JPMorganChase Advent of Code Texas Leadership
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### JPMorganChase DjangoCon US Recap Presentation
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+    
 ## Parting Thoughts
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
