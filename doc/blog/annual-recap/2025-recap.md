@@ -61,6 +61,7 @@ Table of Contents
 - [October](#october)
     - [Six Flags](#six-flags)
     - [Trip to Fredonia, Kansas](#trip-to-fredonia-kansas)
+        - [Tour Around Town](#tour-around-town)
         - [Bucket List](#bucket-list)
         - [Class Reunion](#class-reunion)
     - [Prairie Sunset Home](#prairie-sunset-home)
@@ -510,14 +511,6 @@ https://www.sixflags.com/overtexas/attractions/new-texas-giant
 
 ### Trip to Fredonia, Kansas
         
-![](2025-recap-images/class-reunion.jpg)
-
-![](2025-recap-images/me-and-the-yellowjacket-sculpture.jpg)
-
-![](2025-recap-images/the-kitchen-table-breakfast-buffet.jpg)
-
-![](2025-recap-images/the-hive-counter.jpg)
-
 ![](2025-recap-images/fredonia-umc-beef-burger-meal.jpg)
 
 ![](2025-recap-images/mike-jeffers.jpg)
@@ -526,11 +519,21 @@ https://www.sixflags.com/overtexas/attractions/new-texas-giant
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+#### Tour Around Town
+
+![](2025-recap-images/me-and-the-yellowjacket-sculpture.jpg)
+
 #### Bucket List
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+![](2025-recap-images/the-kitchen-table-breakfast-buffet.jpg)
+
+![](2025-recap-images/the-hive-counter.jpg)
+
 #### Class Reunion
+
+![](2025-recap-images/class-reunion.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
