@@ -513,8 +513,10 @@ https://2025.djangocon.us/news/getting-to-know-folks/
 
 ### Vonda Wright's Unbreakable
 
+After I read an interview Vonda Wright did for The Times, I immediately bought her new book Unbreakable. I know she is a voice you can trust. Her words on page 23 of the Kindle version hit me: "Movement gives you agency over life." That is what it's about: agency over life. I immediately felt motivated to take action. I also love that she uses her dad Gene as an example in the book.
+
 <!--
-After I read a recent interview she did for The Times, I immediately bought her new book Unbreakable. I know she is a voice you can trust. Her words on page 23 of the Kindle version hit me: "Movement gives you agency over life." That is what it's about: agency over life. I immediately felt motivated to take action. Excited to learn the why and how and get started. I also love that she uses her dad Gene as an example in the book.
+I am excited to learn the why and how and get started. 
 
 https://www.drvondawright.com/resources/books/unbreakable
 -->
@@ -605,13 +607,20 @@ The Texas Giant: the rollercoaster that did me in...
 
 #### Tour Around Town
 
+Mom and I went on a little Fredonia driving tour. I couldn’t resist a photo at my high school in front of a yellowjacket sculpture made by a student. Fredonia High School is on the site of the former Ben S. Paulen Elementary School. I started school and graduated from the same place. 
+
 ![](2025-recap-images/me-and-the-yellowjacket-sculpture.jpg)
+Home of the Yellowjackets
 
 #### Bucket List
 
+I crossed a couple of items off of my "bucket list." 
+
 ![](2025-recap-images/the-kitchen-table-breakfast-buffet.jpg)
+The Kitchen breakfast buffet
 
 ![](2025-recap-images/the-hive-counter.jpg)
+Coffee at The Hive, a student-led coffee shop
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
