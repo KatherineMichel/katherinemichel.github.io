@@ -221,14 +221,14 @@ Table of Contents
 ![](2025-recap-images/saint-louis-arch.jpg)
 
 
+DjangoCon US website and talk topics inspiration list
+
 ![](2025-recap-images/fredonia-jackets-t-shirt.jpg)
 
 ![](2025-recap-images/i-am-thankful.jpg)
 
 ![](2025-recap-images/sunrise-on-a-plane.jpg)
 ![](2025-recap-images/sunrise-on-a-plane-pink-floyd.jpg)
-
-![](2025-recap-images/wilson-county-historical-society-janell-smith-carson.jpg)
 -->
 
 Disclaimer: the content of this post is a reflection of my life journey and not specific to my work at JPMorganChase.
@@ -306,6 +306,10 @@ You can read my [2024 Recap](https://katherinemichel.github.io/blog/annual-recap
 
 #### Hutchins BBQ
 
+<!--
+https://hutchinsbbq.com/
+-->
+
 ![](2025-recap-images/hutchins-bbq-me.jpg)
 
 ![](2025-recap-images/hutchins-bbq-jalapeno-sausage-texas-twinkie-mac-and-cheese.jpg)
@@ -339,6 +343,8 @@ You can read my [2024 Recap](https://katherinemichel.github.io/blog/annual-recap
 ![](2025-recap-images/me-and-vonda.jpeg)
 
 <!--
+https://www.drvondawright.net/betterbone
+
 Talk show appearance
 -->
 
@@ -353,6 +359,10 @@ Talk show appearance
 ## June
 
 ### Stepped Down From DEFNA Board
+
+<!--
+https://www.defna.org/defna-board-member-update-july
+-->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -401,6 +411,10 @@ Talk show appearance
 
 ### Django's 20th Birthday
 
+<!--
+https://katherinemichel.github.io/blog/personal/happy-20th-birthday-django.html
+-->
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Mom Meets Rodeo Royalty
@@ -418,11 +432,19 @@ Talk show appearance
 
 ### DjangoCon US Interview
 
+<!--
+https://2025.djangocon.us/news/getting-to-know-folks/
+-->
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## September
 
 ### Vonda Wright's Unbreakable
+
+<!--
+https://www.drvondawright.com/resources/books/unbreakable
+-->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -437,6 +459,11 @@ Talk show appearance
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### DjangoCon US
+
+<!--
+How many times was I featured in Django News this year? 
+https://katherinemichel.github.io/blog/conferences/djangocon-us-2025-recap.html
+-->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -461,11 +488,20 @@ Talk show appearance
 
 ### Commit Your Code Conference
 
+<!--
+https://www.commityourcode.com/
+https://katherinemichel.github.io/blog/conferences/commit-your-code-2025-recap.html
+-->
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## October
 
 ### Six Flags
+
+<!--
+https://www.sixflags.com/overtexas/attractions/new-texas-giant
+-->
 
 ![](2025-recap-images/six-flags-the-texas-giant.jpg)
 
@@ -501,7 +537,9 @@ Talk show appearance
 
 ![](2025-recap-images/psh-mom-at-her-keyboard.jpg)
 ![](2025-recap-images/psh-flower.jpg)
+<!--
 ![](2025-recap-images/psh-pink-and-orange-roses.jpg)
+-->
 ![](2025-recap-images/psh-bingo.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
@@ -520,6 +558,11 @@ Talk show appearance
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Favorite Restaurants
+
+<!--
+https://www.yoderkansas.com/carriagecrossing
+https://www.dutchkitchenrestaurant.org/
+-->
 
 ![](2025-recap-images/dutch-kitchen-chicken-and-noodles.jpg)
 
@@ -588,6 +631,10 @@ Talk show appearance
 
 ### Dallas Love Field Oath of Office Observation Deck
 
+<!--
+https://www.dallas-lovefield.com/passenger-services/art-program/public-art/permanent-artwork/lbj-observation-deck
+-->
+
 ![](2025-recap-images/oath-of-office-1.jpg)
 ![](2025-recap-images/oath-of-office-2.jpg)
 ![](2025-recap-images/oath-of-office-3.jpg)
@@ -596,7 +643,7 @@ Talk show appearance
 
 ### JPMorganChase Plano Breakfast Buffet
 
-![](2025-recap-images/breakfast-buffet.jpg)
+![](2025-recap-images/jpmorganchase-plano-breakfast-buffet.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -605,6 +652,10 @@ Talk show appearance
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Coco Ichibanya
+
+<!--
+https://ichibanyausa.com/
+-->
 
 ![](2025-recap-images/coco-ichibanya-cream-and-mushroom-omelet-curry.jpg)
 
@@ -628,6 +679,10 @@ Talk show appearance
 
 ### Baccus Cemetery
 
+<!--
+https://www.baccuscemetery.com/
+-->
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Cyber Truck
@@ -637,6 +692,10 @@ Talk show appearance
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### More Hutchins BBQ
+
+<!--
+https://hutchinsbbq.com/
+-->
 
 ![](2025-recap-images/hutchins-bbq-brisket-and-potatoes.jpg)
 ![](2025-recap-images/hutchins-bbq-counter.jpg)
@@ -657,6 +716,10 @@ Talk show appearance
 
 ### More Six Flags
 
+<!--
+https://www.sixflags.com/greatadventure/attractions/skyscreamer
+-->
+
 ![](2025-recap-images/six-flags-skyscreamer.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
@@ -671,6 +734,7 @@ Talk show appearance
 
 ![](2025-recap-images/tri-mee-meal.jpg)
 ![](2025-recap-images/the-kitchen-table-baked-goods.jpg)
+![](2025-recap-images/wilson-county-historical-society-janell-smith-carson.jpg)
 ![](2025-recap-images/the-hive-entryway.jpg)
 ![](2025-recap-images/the-hive-menu.jpg)
 ![](2025-recap-images/me-and-sandy-mcbride-turner.jpg)
