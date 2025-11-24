@@ -437,7 +437,7 @@ Strawberries and plain Greek yogurt
 A low-cholesterol salad (lettuce, low-cholesterol dressing, half an avocado, hard-boiled egg with the yolk removed, veggies)
 
 ![](2025-recap-images/salmon-and-broccoli-cauliflower-mix.jpg)
-A baked salmon filet served with steamed broccoli and cauliflower (I use Kroger 2 lb "Big Deal" individually wrapped Atlantic salmon portions that can be cooked from frozen. They are tastier and more convenient than the Pink salmon version.)
+A baked salmon filet served with steamed broccoli and cauliflower (I use Kroger 2 lb "Big Deal" individually wrapped Atlantic salmon portions that can be cooked from frozen. They are tastier and more convenient than the pink salmon version.)
 
 <!--
 ![](2025-recap-images/blueberries.jpg)
