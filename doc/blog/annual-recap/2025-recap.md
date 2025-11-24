@@ -844,7 +844,7 @@ Complimentary peach cobbler and banana pudding. Not pictured: vanilla ice cream 
 ### Window Washer
 
 ![](2025-recap-images/window-washer.jpg)
-Window washer... would you do this job? 
+High-rise window washer... would you do this job? 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
