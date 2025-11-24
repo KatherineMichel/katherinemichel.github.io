@@ -864,11 +864,13 @@ Harvest moon as seen from JPMorganChase Plano
 Baked goods at The Kitchen
 
 ![](2025-recap-images/wilson-county-historical-society-janell-smith-carson.jpg)
+Wilson County Historical Society Janell Smith-Carson exhibit. A Fredonia native, she competed in the women's 400 metres at the 1964 Summer Olympics.
 
 ![](2025-recap-images/the-hive-entryway.jpg)
 The Hive entryway
 
 ![](2025-recap-images/me-and-sandy-mcbride-turner.jpg)
+Me with my former co-worker Sandy McBride-Turner
 
 ![](2025-recap-images/mom-and-susan-welton.jpg)
 Mom with her childhood friend Susan Welton
