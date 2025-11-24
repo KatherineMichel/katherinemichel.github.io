@@ -620,7 +620,7 @@ Home of the Yellowjackets
 I crossed a couple of items off of my "bucket list." 
 
 ![](2025-recap-images/the-kitchen-table-breakfast-buffet.jpg)
-The Kitchen breakfast buffet
+The Kitchen's perfect breakfast buffet. 
 
 ![](2025-recap-images/the-hive-counter.jpg)
 Coffee at The Hive, a student-led coffee shop
@@ -633,17 +633,22 @@ I had a Wake-Up Call at The Hive
 #### Class Reunion
 
 ![](2025-recap-images/class-reunion.jpg)
+Me and some of my classmates. I appreciate them all! 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Prairie Sunset Home
 
 ![](2025-recap-images/psh-mom-at-her-keyboard.jpg)
+Mom, a music therapist, at her keyboard. 
+
 <!--
 ![](2025-recap-images/psh-flower.jpg)
 ![](2025-recap-images/psh-pink-and-orange-roses.jpg)
 -->
+
 ![](2025-recap-images/psh-bingo.jpg)
+Blackout! 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -688,6 +693,7 @@ Me the day before my birthday
 Elvis holding court
 
 ![](2025-recap-images/elvis-and-me.jpg)
+Elvis and me. Elvis was working the crowd. He was making some audience-members sing. I was afraid he was going to make me sing! 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
