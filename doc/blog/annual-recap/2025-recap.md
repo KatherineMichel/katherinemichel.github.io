@@ -268,7 +268,7 @@ Me with a Texas longhorn!
 
 ### Jamie Dimon Plano Townhall
 
-Jamie Dimon visited Plano a few weeks before I joined JPMorgan. I was disappointed to have missed it. 
+Jamie Dimon visited Plano a few weeks before I joined JPMorganChase. I was disappointed to have missed it. 
 
 When I found out he was visiting again to do a townhall, I had to attend. 
 
