@@ -258,7 +258,7 @@ You can read my [2024 Recap](https://katherinemichel.github.io/blog/annual-recap
 JPMorganChase Plano celebrated Texas Independence Day with line dancing, painting classes, Texas trivia, and a photo op with a real Texas longhorn. 
 
 ![](2025-recap-images/me-and-a-texas-longhorn.jpeg)
-Me with a Texas longhorn!
+Me with a Texas longhorn! I had to sign a waiver, but this longhorn was a sweetheart, lol. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -272,7 +272,7 @@ Jamie Dimon visited Plano a few weeks before I joined JPMorgan. I was disappoint
 
 When I found out he was visiting again to do a townhall, I had to attend. 
 
-I saw the Queen of England in-person a few times. Jamie Dimon might be the second-most influential person I've ever seen. He was exactly the same as he is online and on TV. 
+I saw the Queen of England in-person a few times. Jamie Dimon might be the second-most influential person I've ever seen. He was exactly the same as he is on TV. 
 
 I arrived at 11:30 am and had 40 people waiting in line in front of me. I got a pretty good seat! 
 
@@ -404,9 +404,7 @@ I experienced VR for the first time. It was amazing! So realistic.
 
 ### Stepped Down From DEFNA Board
 
-<!--
-https://www.defna.org/defna-board-member-update-july
--->
+After ~8 years on the DEFNA Board, I stepped down. This [thank you from the board](https://www.defna.org/defna-board-member-update-july) was a wonderful surprise! 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
