@@ -93,7 +93,6 @@ Table of Contents
     - [More Six Flags](#more-six-flags)
     - [Harvest Moon](#harvest-moon)
     - [More Class Reunion](#more-class-reunion)
-    - [More Northern Lights](#more-northern-lights)
 
 <!--
     - [Pic of Me](#pic-of-me)
@@ -198,6 +197,7 @@ Table of Contents
     - [Granite Park](#granite-park)
 
     - [Breast Cancer Awareness Month](#breast-cancer-awareness-month)
+
 
 
 
@@ -461,7 +461,6 @@ Talk show appearance
 
 ### Six Flags
 
-![](2025-recap-images/six-flags.jpg)
 ![](2025-recap-images/the-texas-giant.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
@@ -470,23 +469,17 @@ Talk show appearance
 
 ![](2025-recap-images/class-reunion.jpg)
 
+![](2025-recap-images/me-and-the-yellowjacket-sculpture.jpg)
+
 ![](2025-recap-images/tri-mee-meal.jpg)
 
-![](2025-recap-images/the-kitchen-table-baked-goods.jpg)
 ![](2025-recap-images/the-kitchen-table-breakfast-buffet.jpg)
 
 ![](2025-recap-images/the-hive-counter.jpg)
-![](2025-recap-images/the-hive-entryway.jpg)
-![](2025-recap-images/the-hive-menu.jpg)
-
-![](2025-recap-images/me-and-sandy-mcbride-turner.jpg)
-
-![](2025-recap-images/fredonia-umc-beef-burger-meal.jpg)
 
 ![](2025-recap-images/mike-jeffers.jpg)
 
 ![](2025-recap-images/me-and-rebecca-timmons.jpg)
-![](2025-recap-images/mom-and-susan-welton.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -521,6 +514,8 @@ Talk show appearance
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Favorite Restaurants
+
+![](2025-recap-images/dutch-kitchen-chicken-and-noodles.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -649,6 +644,8 @@ Talk show appearance
 
 ### More Six Flags
 
+![](2025-recap-images/six-flags.jpg)
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Harvest Moon
@@ -659,8 +656,11 @@ Talk show appearance
 
 ### More Class Reunion
 
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-### More Northern Lights
+![](2025-recap-images/the-kitchen-table-baked-goods.jpg)
+![](2025-recap-images/the-hive-entryway.jpg)
+![](2025-recap-images/the-hive-menu.jpg)
+![](2025-recap-images/me-and-sandy-mcbride-turner.jpg)
+![](2025-recap-images/mom-and-susan-welton.jpg)
+![](2025-recap-images/fredonia-umc-beef-burger-meal.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
