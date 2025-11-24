@@ -620,7 +620,7 @@ Home of the Yellowjackets
 I crossed a couple of items off of my "bucket list." 
 
 ![](2025-recap-images/the-kitchen-table-breakfast-buffet.jpg)
-The Kitchen's perfect breakfast buffet. 
+The Kitchen Table's oustanding breakfast buffet. 
 
 ![](2025-recap-images/the-hive-counter.jpg)
 Coffee at The Hive, a student-led coffee shop
@@ -874,7 +874,7 @@ Harvest moon as seen from JPMorganChase Plano
 ![](2025-recap-images/tri-mee-meal.jpg)
 
 ![](2025-recap-images/the-kitchen-table-baked-goods.jpg)
-Baked goods at The Kitchen
+Baked goods at The Kitchen Table
 
 ![](2025-recap-images/wilson-county-historical-society-janell-smith-carson.jpg)
 Wilson County Historical Society Janell Smith-Carson exhibit. A Fredonia native, she competed in the women's 400 metres at the 1964 Summer Olympics.
