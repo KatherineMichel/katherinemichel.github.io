@@ -793,7 +793,7 @@ https://ichibanyausa.com/
 -->
 
 ![](2025-recap-images/coco-ichibanya-cream-and-mushroom-omelet-curry.jpg)
-Cream and mushroom omelet curry
+Cream and mushroom omelet curry... the omelet is filled with rice
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
