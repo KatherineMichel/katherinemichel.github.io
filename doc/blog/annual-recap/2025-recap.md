@@ -471,7 +471,7 @@ Talk show appearance
 
 ### Six Flags
 
-![](2025-recap-images/the-texas-giant.jpg)
+![](2025-recap-images/six-flags-the-texas-giant.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
