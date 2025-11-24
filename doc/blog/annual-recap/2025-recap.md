@@ -56,7 +56,6 @@ Table of Contents
     - [Phil and Christine](#phil-and-christine)
     - [DjangoCon US](#djangocon-us)
     - [Employee Appreciation Week](#employee-appreciation-week)
-        - [Street Art](#street-art)
     - [Annual Physical](#annual-physical)
     - [Commit Your Code Conference](#commit-your-code-conference)
 - [October](#october)
@@ -209,9 +208,6 @@ Table of Contents
 ![](2025-recap-images/fredonia-jackets-t-shirt.jpg)
 
 ![](2025-recap-images/i-am-thankful.jpg)
-
-![](2025-recap-images/me-in-front-of-a-big-truck.jpg)
-![](2025-recap-images/mick-jagger-mocktail.jpg)
 
 ![](2025-recap-images/my-shadow.jpg)
 
@@ -448,10 +444,10 @@ Talk show appearance
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-#### Street Art
-
 ![](2025-recap-images/me-and-street-art-plane.jpg)
 ![](2025-recap-images/me-and-street-art-rock.jpg)
+
+![](2025-recap-images/mick-jagger-mocktail.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -610,6 +606,8 @@ Talk show appearance
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### More Fun in Dallas
+
+![](2025-recap-images/me-in-front-of-a-big-truck.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
