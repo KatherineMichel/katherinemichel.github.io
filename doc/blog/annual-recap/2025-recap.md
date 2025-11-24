@@ -36,7 +36,6 @@ Table of Contents
     - [Zero Latency Virtual Reality](#zero-latency-virtual-reality)
 - [June](#june)
     - [Stepped Down From DEFNA Board](#stepped-down-from-defna-board)
-    - [Innovation Week](#innovation-week)
 - [July](#july)
     - [Training Recap Presentation](#training-recap-presentation)
     - [Eating Clean](#eating-clean)
@@ -63,7 +62,6 @@ Table of Contents
     - [Six Flags](#six-flags)
     - [Class Reunion](#class-reunion)
     - [Prairie Sunset Home](#prairie-sunset-home)
-    - [PowerUp](#powerup)
     - [Mammogram](#mammogram)
     - [Halloween Contest](#halloween-contest)
     - [Favorite Restaurants](#favorite-restaurants)
@@ -94,6 +92,14 @@ Table of Contents
     - [Harvest Moon](#harvest-moon)
     - [More Class Reunion](#more-class-reunion)
 
+<!--
+    - [Innovation Week](#innovation-week)
+
+    - [PowerUp](#powerup)
+
+        - [Giant Grapes](#giant-grapes)
+        - [Giant Grapes and Strawberries](#giant-grapes-and-strawberries)
+-->
 <!--
     - [Pic of Me](#pic-of-me)
 
@@ -202,14 +208,14 @@ Table of Contents
 
 
 ![](2025-recap-images/back-in-black.jpg)
-
 ![](2025-recap-images/building-f-entryway.jpg)
 ![](2025-recap-images/cfp-connect-databases.jpg)
+![](2025-recap-images/my-shadow.jpg)
+
+
 ![](2025-recap-images/fredonia-jackets-t-shirt.jpg)
 
 ![](2025-recap-images/i-am-thankful.jpg)
-
-![](2025-recap-images/my-shadow.jpg)
 
 ![](2025-recap-images/saint-louis-arch.jpg)
 
@@ -349,10 +355,6 @@ Talk show appearance
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Innovation Week
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
 ## July
 
 ### Training Recap Presentation
@@ -366,16 +368,13 @@ Talk show appearance
 ![](2025-recap-images/strawberries-and-greek-yogurt.jpg)
 ![](2025-recap-images/salmon-and-rice.jpg)
 
+<!--
 ![](2025-recap-images/blueberries.jpg)
 ![](2025-recap-images/salmon-and-broccoli-cauliflower-mix.jpg)
 ![](2025-recap-images/hummus-and-triscuits.jpg)
+-->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-<!--
-        - [Giant Grapes](#giant-grapes)
-        - [Giant Grapes and Strawberries](#giant-grapes-and-strawberries)
--->
 
 ### Stroopwafels
 
@@ -495,10 +494,6 @@ Talk show appearance
 ![](2025-recap-images/psh-flower.jpg)
 ![](2025-recap-images/psh-pink-and-orange-roses.jpg)
 ![](2025-recap-images/psh-bingo.jpg)
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-### PowerUp
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
