@@ -79,7 +79,7 @@ Table of Contents
 - [Parting Thoughts](#parting-thoughts)
 - [More Favorite Snapshots Throughout The Year](#more-favorite-snapshots-throughout-the-year)
     - [Dallas Love Field Oath of Office](#dallas-love-field-oath-of-office)
-    - [Breakfast Bar](#breakfast-bar)
+    - [JPMorganChase Plano Breakfast Buffet](#jpmorganchase-plano-breakfast-buffet)
     - [Carriage Crossing](#carriage-crossing)
     - [Coco Ichibanya](#coco-ichibanya)
     - [More Fun in Dallas](#more-fun-in-dallas)
@@ -88,7 +88,7 @@ Table of Contents
     - [Baccus Cemetery](#baccus-cemetery)
     - [Cyber Truck](#cyber-truck)
     - [Employee Garden](#employee-garden)
-    - [IP Breakfast](#ip-breakfast)
+    - [IP Forum Breakfast Buffet](#ip-forum-breakfast-buffet)
     - [More Commit Your Code Conference](#more-commit-your-code-conference)
     - [More Six Flags](#more-six-flags)
     - [Harvest Moon](#harvest-moon)
@@ -594,7 +594,7 @@ Talk show appearance
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Breakfast Bar
+### JPMorganChase Plano Breakfast Buffet
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
