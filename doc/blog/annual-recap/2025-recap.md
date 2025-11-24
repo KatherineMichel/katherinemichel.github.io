@@ -221,6 +221,7 @@ Table of Contents
 ![](2025-recap-images/saint-louis-arch.jpg)
 
 
+Website upgrade for PyLadies repo
 DjangoCon US website and talk topics inspiration list
 
 ![](2025-recap-images/fredonia-jackets-t-shirt.jpg)
@@ -419,8 +420,8 @@ https://katherinemichel.github.io/blog/personal/happy-20th-birthday-django.html
 
 ### Mom Meets Rodeo Royalty
 
-![](2025-recap-images/mom-and-rodeo-royalty-1.jpg)
-![](2025-recap-images/mom-and-rodeo-royalty-2.jpg)
+![](2025-recap-images/mom-and-rodeo-royalty-justin-rumford.jpg)
+![](2025-recap-images/mom-and-rodeo-royalty-tyler-dahl-wacey-munsell.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
     
@@ -700,7 +701,10 @@ https://hutchinsbbq.com/
 ![](2025-recap-images/hutchins-bbq-brisket-and-potatoes.jpg)
 ![](2025-recap-images/hutchins-bbq-counter.jpg)
 ![](2025-recap-images/hutchins-bbq-dessert.jpg)
+
+<!--
 ![](2025-recap-images/hutchins-bbq-ice-cream-cone.jpg)
+-->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
