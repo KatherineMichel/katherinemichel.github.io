@@ -807,6 +807,7 @@ https://www.baccuscemetery.com/
 ### Cyber Truck
 
 ![](2025-recap-images/tesla-cybertruck-see-through-roof.jpg)
+Tesla Cybertruck see-through roof
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
