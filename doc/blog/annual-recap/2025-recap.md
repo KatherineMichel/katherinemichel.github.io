@@ -298,7 +298,7 @@ Mom and I traveled to Belton, Missouri to attend my niece's last gymnastics meet
 
 #### La Nonna
 
-I googled "Best restaurant in Belton." The answer was La Nonna.
+The evening before the meet, I googled "Best restaurant in Belton." The answer was La Nonna.
 
 Mom wasn't too sure about the place, until the bread came out. It was heavenly.
 
