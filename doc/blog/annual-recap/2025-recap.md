@@ -622,6 +622,9 @@ The Kitchen breakfast buffet
 ![](2025-recap-images/the-hive-counter.jpg)
 Coffee at The Hive, a student-led coffee shop
 
+![](2025-recap-images/the-hive-menu.jpg)
+I had a Wake-up Call
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 #### Class Reunion
@@ -741,6 +744,7 @@ https://www.dallas-lovefield.com/passenger-services/art-program/public-art/perma
 ### JPMorganChase Plano Breakfast Buffet
 
 ![](2025-recap-images/jpmorganchase-plano-breakfast-buffet.jpg)
+JPMorganChase Plano breakfast buffet
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -761,6 +765,7 @@ https://ichibanyausa.com/
 ### More Fun in Dallas
 
 ![](2025-recap-images/me-in-front-of-a-big-truck.jpg)
+Me in front of a big truck...
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -795,8 +800,13 @@ https://hutchinsbbq.com/
 -->
 
 ![](2025-recap-images/hutchins-bbq-counter.jpg)
+Hutchins BBQ counter
+
 ![](2025-recap-images/hutchins-bbq-brisket-and-potatoes.jpg)
+Sliced brisket and potato casserole
+
 ![](2025-recap-images/hutchins-bbq-dessert.jpg)
+Complimentary peach cobbler and banana pudding. Not pictured: vanilla ice cream cone
 
 <!--
 ![](2025-recap-images/hutchins-bbq-ice-cream-cone.jpg)
@@ -822,7 +832,7 @@ https://www.sixflags.com/greatadventure/attractions/skyscreamer
 -->
 
 ![](2025-recap-images/six-flags-skyscreamer.jpg)
-The swing ride you see at a carnival, except it's 400 feet in the air. Tallest ride at the park.
+Texas SkyScreamer: the swing ride you see at a carnival, except it's 400 feet in the air. Tallest ride at the park.
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -839,7 +849,6 @@ Harvest moon as seen from JPMorganChase Plano
 ![](2025-recap-images/the-kitchen-table-baked-goods.jpg)
 ![](2025-recap-images/wilson-county-historical-society-janell-smith-carson.jpg)
 ![](2025-recap-images/the-hive-entryway.jpg)
-![](2025-recap-images/the-hive-menu.jpg)
 ![](2025-recap-images/me-and-sandy-mcbride-turner.jpg)
 ![](2025-recap-images/mom-and-susan-welton.jpg)
 
