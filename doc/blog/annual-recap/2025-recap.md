@@ -442,8 +442,6 @@ A low-cholesterol salad (lettuce, low-cholesterol dressing, half an avocado, har
 A baked salmon filet served with steamed broccoli and cauliflower (I use Kroger 2 lb "Big Deal" individually wrapped Atlantic salmon portions that can be cooked from frozen. They are tastier and more convenient than the pink salmon version.)
 
 <!--
-![](2025-recap-images/blueberries.jpg)
-![](2025-recap-images/salmon-and-rice.jpg)
 ![](2025-recap-images/hummus-and-triscuits.jpg)
 -->
 
