@@ -759,7 +759,7 @@ https://www.dallas-lovefield.com/passenger-services/art-program/public-art/perma
 -->
 
 ![](2025-recap-images/oath-of-office-info.jpg)
-An exibit overlooking the spot where then vice-president Lyndon B. Johnson took the oath of office November 22, 1963 on the Air Force One 
+An exibit overlooking the spot where Vice President Lyndon B. Johnson took the oath of office November 22, 1963 on the Air Force One 
 
 ![](2025-recap-images/oath-of-office-presidential-seal-and-marker.jpg)
 Replica presidential seal and marker
