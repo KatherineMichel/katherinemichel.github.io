@@ -620,7 +620,7 @@ Home of the Yellowjackets
 I crossed a couple of items off of my "bucket list." 
 
 ![](2025-recap-images/the-kitchen-table-breakfast-buffet.jpg)
-The Kitchen Table's oustanding breakfast buffet. 
+The Kitchen Table's outstanding breakfast buffet
 
 ![](2025-recap-images/the-hive-counter.jpg)
 Coffee at The Hive, a student-led coffee shop
