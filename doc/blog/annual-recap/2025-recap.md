@@ -57,6 +57,7 @@ Table of Contents
     - [DjangoCon US](#djangocon-us)
     - [Employee Appreciation Week](#employee-appreciation-week)
     - [Annual Physical](#annual-physical)
+    - [Dermatologist](#dermatologist)
     - [Commit Your Code Conference](#commit-your-code-conference)
 - [October](#october)
     - [Six Flags](#six-flags)
@@ -64,7 +65,6 @@ Table of Contents
     - [Prairie Sunset Home](#prairie-sunset-home)
     - [PowerUp](#powerup)
     - [Mammogram](#mammogram)
-    - [Dermatologist](#dermatologist)
     - [Halloween Contest](#halloween-contest)
     - [Favorite Restaurants](#favorite-restaurants)
 - [November](#november)
@@ -361,12 +361,14 @@ Talk show appearance
 
 ### Eating Clean
 
-![](2025-recap-images/hummus-and-triscuits.jpg)
-![](2025-recap-images/blueberries.jpg)
+![](2025-recap-images/giant-grapes.jpg)
 ![](2025-recap-images/low-cholesterol-salad.jpg)
-![](2025-recap-images/salmon-and-broccoli-cauliflower-mix.jpg)
-![](2025-recap-images/salmon-and-rice.jpg)
 ![](2025-recap-images/strawberries-and-greek-yogurt.jpg)
+![](2025-recap-images/salmon-and-rice.jpg)
+
+![](2025-recap-images/blueberries.jpg)
+![](2025-recap-images/salmon-and-broccoli-cauliflower-mix.jpg)
+![](2025-recap-images/hummus-and-triscuits.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -453,6 +455,10 @@ Talk show appearance
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+### Dermatologist
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
 ### Commit Your Code Conference
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
@@ -502,10 +508,6 @@ Talk show appearance
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Dermatologist
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
 ### Halloween Contest
 
 ![](2025-recap-images/me-and-mom-for-halloween.jpg)
@@ -530,6 +532,8 @@ Talk show appearance
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Elvis
+
+![](2025-recap-images/elvis.jpg)
 
 ![](2025-recap-images/elvis-and-me.jpg)
 
@@ -632,7 +636,7 @@ Talk show appearance
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### IP Breakfast
+### IP Forum Breakfast Buffet
 
 ![](2025-recap-images/ip-forum-breakfast-buffet.jpg)
 
