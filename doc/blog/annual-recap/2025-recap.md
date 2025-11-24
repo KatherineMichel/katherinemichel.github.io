@@ -14,7 +14,7 @@ Table of Contents
 - [This Year's Theme](#this-years-theme)
 - [Work](#work)
 - [January](#january)
-    - [Christmas in Lawrence](#christmas-in-lawrence)
+    - [Christmas on New Year's Eve in Lawrence](#christmas-on-near-years-eve-in-lawrence)
 - [February](#february)
     - [Texas Tuesday Longhorn](#texas-tuesday-longhorn)
 - [March](#march)
@@ -242,7 +242,7 @@ You can read my [2024 Recap](https://katherinemichel.github.io/blog/annual-recap
 
 ## January 
 
-### Christmas in Lawrence
+### Christmas on New Year's Eve in Lawrence
       
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -365,8 +365,8 @@ Talk show appearance
 ### Eating Clean
 
 ![](2025-recap-images/giant-grapes.jpg)
-![](2025-recap-images/low-cholesterol-salad.jpg)
 ![](2025-recap-images/strawberries-and-greek-yogurt.jpg)
+![](2025-recap-images/low-cholesterol-salad.jpg)
 ![](2025-recap-images/salmon-and-rice.jpg)
 
 <!--
