@@ -214,10 +214,8 @@ Table of Contents
 ![](2025-recap-images/saint-louis-arch.jpg)
 
 ![](2025-recap-images/sunrise-from-a-plane-2.jpg)
-![](2025-recap-images/sunrise-from-a-plane.jpg)
 ![](2025-recap-images/sunrise-on-a-plane.jpg)
 
-![](2025-recap-images/vaccinations.jpg)
 ![](2025-recap-images/wilson-county-historical-society-janell-smith-carson.jpg)
 ![](2025-recap-images/window-washer.jpg)
 -->
