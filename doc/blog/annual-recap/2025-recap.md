@@ -481,11 +481,11 @@ Talk show appearance
 
 ![](2025-recap-images/me-and-the-yellowjacket-sculpture.jpg)
 
-![](2025-recap-images/tri-mee-meal.jpg)
-
 ![](2025-recap-images/the-kitchen-table-breakfast-buffet.jpg)
 
 ![](2025-recap-images/the-hive-counter.jpg)
+
+![](2025-recap-images/fredonia-umc-beef-burger-meal.jpg)
 
 ![](2025-recap-images/mike-jeffers.jpg)
 
@@ -610,7 +610,7 @@ Talk show appearance
 
 ### Coco Ichibanya
 
-![](2025-recap-images/cream-and-mushroom-omelet-curry.jpg)
+![](2025-recap-images/coco-ichibanya-cream-and-mushroom-omelet-curry.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -656,7 +656,7 @@ Talk show appearance
 
 ### More Six Flags
 
-![](2025-recap-images/six-flags.jpg)
+![](2025-recap-images/six-flags-skyscreamer.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -668,11 +668,11 @@ Talk show appearance
 
 ### More Class Reunion
 
+![](2025-recap-images/tri-mee-meal.jpg)
 ![](2025-recap-images/the-kitchen-table-baked-goods.jpg)
 ![](2025-recap-images/the-hive-entryway.jpg)
 ![](2025-recap-images/the-hive-menu.jpg)
 ![](2025-recap-images/me-and-sandy-mcbride-turner.jpg)
 ![](2025-recap-images/mom-and-susan-welton.jpg)
-![](2025-recap-images/fredonia-umc-beef-burger-meal.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
