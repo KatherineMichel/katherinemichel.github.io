@@ -421,7 +421,7 @@ After I was diagnosed with high cholesterol last year, I began to adjust my eati
 When I did my annual physical later in the year, I found out that this approach was highly effective, more effective than I had imagined. 
 
 Some favorite substitutions: 
-* Hummus and triscuits instead of dairy-based dip and potatoe chips
+* Hummus and triscuits instead of dairy-based dip and potato chips
 * Grapes, strawberries, or blueberries instead of an egg, bacon, and croissant breakfast sandwich or afternoon snack containing refined sugar
 * A low cholesterol salad as a quick, healthy meal or snack
 * A salmon filet drizzled with olive oil, lemon juice, and a bit of honey, baked and served with steamed veggies or rice instead of a hamburger or dairy-based dinner
