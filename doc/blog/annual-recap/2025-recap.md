@@ -22,7 +22,7 @@ Table of Contents
 - [April](#april)
     - [Trip to Belton, Missouri](#trip-to-belton-missouri)
         - [La Nonna](#la-nonna)
-        - [KC League Gymnastics Championships](#kc-league-gymnastics-championships)
+        - [Last Gymnastics Meet of the Season](#last-gymnastics-meet-of-the-season)
     - [Investment](#investment)
     - [Lucy's Bakery](#lucys-bakery)
     - [Fun in Dallas](#fun-in-dallas)
@@ -307,9 +307,9 @@ Dining at La Nonna
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-#### KC League Gymnastics Championships
+#### Last Gymnastics Meet of the Season
 
-I've never been to a gymnastics tournament before. It was surreal to find out that famous gymnastics start out at tournaments just this and rise to the top of the sport. 
+I've never been to a gymnastics tournament before. It was surreal to find out that famous gymnasts start out at tournaments just this and rise to the top of the sport. 
 
 My niece did well, and I interviewed her afterward for fun. She said, if I ever want to interview her again, she is happy to do it!
 
@@ -416,7 +416,7 @@ After ~8 years on the DEFNA Board, I stepped down. This [thank you from the boar
 
 ### Eating Clean
 
-After I was diagnosed with high cholesterol last year, I began to adjust my eating habits. After some health issues this year, including both a stomach bug and food poisoning, I wanted to start "eating clean" for good. I have replaced many high cholesterol foods with low-cholesterol alternatives. While I have not completely cut out red/poultry meat and dairy, by default, I do not eat it. On the occassion that I eat it, it is less impactful.  
+After I was diagnosed with high cholesterol last year, I began to adjust my eating habits. After some health issues this year, including both a stomach bug and food poisoning, I wanted to start "eating clean" for good. I have replaced many high cholesterol foods with low-cholesterol alternatives. While I have not completely cut out red/poultry meat and dairy, by default, I do not eat it at home, and I eat it less often outside of home. On the occassion that I eat it, it is less impactful.  
 
 When I did my annual physical later in the year, I found out that this approach was highly effective, more effective than I had imagined. 
 
@@ -471,9 +471,7 @@ A baked salmon filet served with steamed broccoli and cauliflower (I use Kroger 
 
 ### Django's 20th Birthday
 
-<!--
-https://katherinemichel.github.io/blog/personal/happy-20th-birthday-django.html
--->
+I wrote a [short reflection](https://katherinemichel.github.io/blog/personal/happy-20th-birthday-django.html) in celebration of Django's 20th birthday. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -492,6 +490,8 @@ Mom with Bullfighters Tyler Dahl and Wacey Munsell. Wacey is a multiple time-fre
 ## August
 
 ### Return to Office Full-time
+
+In August, my workplace returned to office full-time. 
 
 ![](2025-recap-images/the-view-from-my-floor.jpg)
 The view from my floor
