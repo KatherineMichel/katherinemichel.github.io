@@ -638,7 +638,7 @@ https://www.dallas-lovefield.com/passenger-services/art-program/public-art/perma
 
 ![](2025-recap-images/oath-of-office-1.jpg)
 ![](2025-recap-images/oath-of-office-2.jpg)
-![](2025-recap-images/oath-of-office-3.jpg)
+![](2025-recap-images/oath-of-office-light.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -698,8 +698,8 @@ https://www.baccuscemetery.com/
 https://hutchinsbbq.com/
 -->
 
-![](2025-recap-images/hutchins-bbq-brisket-and-potatoes.jpg)
 ![](2025-recap-images/hutchins-bbq-counter.jpg)
+![](2025-recap-images/hutchins-bbq-brisket-and-potatoes.jpg)
 ![](2025-recap-images/hutchins-bbq-dessert.jpg)
 
 <!--
