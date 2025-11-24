@@ -428,7 +428,7 @@ Some favorite substitutions:
 * Almond milk instead of cow milk
 
 ![](2025-recap-images/giant-grapes.jpg)
-Giant black grapes from Kroger. So delicious. You can practically eat them with a knife and fork. 
+A giant black grape from Kroger compared to a red grape of more normal size. So delicious. You can practically eat them with a knife and fork. 
 
 ![](2025-recap-images/strawberries-and-greek-yogurt.jpg)
 Strawberries and plain Greek yogurt
@@ -554,6 +554,10 @@ https://katherinemichel.github.io/blog/conferences/djangocon-us-2025-recap.html
 
 ### Dermatologist
 
+<!--
+https://www.facebook.com/3crazykids/posts/pfbid0RdvNS5W4Pu4bRKzggFsWrDz9G7xQMY5rMTfLXHQnvfFM6zMu8dHTPrRhJp6nw9N5l
+-->
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Commit Your Code Conference
@@ -593,11 +597,11 @@ https://www.sixflags.com/overtexas/attractions/new-texas-giant
 
 #### Bucket List
 
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
 ![](2025-recap-images/the-kitchen-table-breakfast-buffet.jpg)
 
 ![](2025-recap-images/the-hive-counter.jpg)
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 #### Class Reunion
 
