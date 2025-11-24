@@ -492,10 +492,10 @@ Talk show appearance
 
 ### Prairie Sunset Home
 
-![](2025-recap-images/psh-bingo.jpg)
-![](2025-recap-images/psh-flower.jpg)
 ![](2025-recap-images/psh-mom-at-her-keyboard.jpg)
+![](2025-recap-images/psh-flower.jpg)
 ![](2025-recap-images/psh-pink-and-orange-roses.jpg)
+![](2025-recap-images/psh-bingo.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
