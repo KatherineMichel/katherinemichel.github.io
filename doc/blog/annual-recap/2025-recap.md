@@ -344,6 +344,9 @@ https://hutchinsbbq.com/
 ![](2025-recap-images/hutchins-bbq-me.jpg)
 Me in front of the world-famous Hutchins BBQ
 
+![](2025-recap-images/hutchins-bbq-main-dining-hall.jpg)
+Hutchins BBQ main dining hall
+
 ![](2025-recap-images/hutchins-bbq-jalapeno-sausage-texas-twinkie-mac-and-cheese.jpg)
 Jalapeño sausage, Texas Twinkie, mac & cheese
 
