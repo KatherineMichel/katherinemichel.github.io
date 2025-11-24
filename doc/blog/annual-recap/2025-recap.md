@@ -423,9 +423,9 @@ When I did my annual physical later in the year, I found out that this approach 
 Some favorite substitutions: 
 * Hummus and triscuits instead of dairy-based dip and potatoe chips
 * Grapes, strawberries, or blueberries instead of an egg, bacon, and croissant breakfast sandwich or afternoon snack containing refined sugar
-* A low cholesterol salad as a quick, healthy meal
+* A low cholesterol salad as a quick, healthy meal or snack
 * A salmon filet drizzled with olive oil, lemon juice, and a bit of honey, baked and served with steamed veggies or rice instead of a hamburger or dairy-based dinner
-* Almond milk instead of cow milk
+* Almond milk instead of cow milk (not a doctor's recommendation, just a personal preference at times)
 
 ![](2025-recap-images/giant-grapes.jpg)
 A giant black grape from Kroger compared to a red grape of more normal size. So delicious. You can practically eat them with a knife and fork. 
@@ -437,7 +437,7 @@ Strawberries and plain Greek yogurt
 A low-cholesterol salad (lettuce, low-cholesterol dressing, half an avocado, hard-boiled egg with the yolk removed, veggies)
 
 ![](2025-recap-images/salmon-and-broccoli-cauliflower-mix.jpg)
-A baked salmon filet served with steamed broccoli and cauliflower (I use Kroger 2 lb "Big Deal" individually wrapped Atlantic salmon portions that can be cooked from frozen)
+A baked salmon filet served with steamed broccoli and cauliflower (I use Kroger 2 lb "Big Deal" individually wrapped Atlantic salmon portions that can be cooked from frozen. They are tastier and more convenient than the Pink salmon version.)
 
 <!--
 ![](2025-recap-images/blueberries.jpg)
@@ -577,7 +577,16 @@ https://katherinemichel.github.io/blog/conferences/commit-your-code-2025-recap.h
 https://www.sixflags.com/overtexas/attractions/new-texas-giant
 -->
 
+JPMorganChase Plano offered discounted Six Flags tickets. I couldn't resist buying one. It had been years since I'd been to an amusement park. 
+
+I decided to go on the two most popular rollercoasters first and get that out of the way. So I trekked to the far corner of the park where The Texas Giant and Titan are. I encountered The Texas Giant first, so I went on it. Oh my. It was intense and relentless. I felt nauseous by the time I got off. I sat for a while outside of the Titan entryway, wondering if I could go on it, but I could see that it was similarly extreme. I decided to walk away. 
+
+As I was walking, I started to feel terrible. I walked straight into a bathroom, went into a stall, and threw up. 
+
+The heat didn't help. I guess my amusement park days are over.
+
 ![](2025-recap-images/six-flags-new-texas-giant.jpg)
+The Texas Giant: the rollercoaster that did me in...
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
