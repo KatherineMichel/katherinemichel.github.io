@@ -292,7 +292,7 @@ Jamie Dimon thanks employees at the end of the townhall I attended a month ago.
 
 ### Trip to Benton, Missouri
 
-Mom and I traveled to Benton, Missouri to attend my niece's last gymnastics meet of the year. I only found out after the trip that we were near the Mahomes Family home! 
+Mom and I traveled to Benton, Missouri to attend my niece's last gymnastics meet of the season. I only found out after the trip that we were near the Mahomes Family home! 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
