@@ -378,7 +378,7 @@ Scheels indoor Ferris wheel
 One of my managers from work randomly texted me to suggest that I watch an interview with an "amazing" doctor named Vonda Wright. He had no idea we are from the same town and that she was my childhood ballet teacher. Vonda is now a highly regarded orthopedic sports surgeon who trains high performance athletes and teaches women midlife and beyond how to reach "max badassery." 
 
 ![](2025-recap-images/me-and-vonda.jpeg)
-Me and my incredible ballet teacher Vonda Wright in her studio at the back of her dad's shop.
+Me and my incredible ballet teacher Vonda Wright in her studio at the back of her dad's shop in our hometown.
 
 As I get older, I have started to learn how underserved by the healthcare industry women midlife and beyond are. Vonda is trying to change that by starting the conversation and providing the most up-to-date, science-based knowledge and tools available. 
 
