@@ -94,6 +94,7 @@ Table of Contents
     - [Harvest Moon](#harvest-moon)
     - [More Class Reunion](#more-class-reunion)
     - [IP Forum Breakfast Buffet](#ip-forum-breakfast-buffet)
+    - [Sunrise on a Plane](#sunrise-on-a-plane)
 
 <!--
     - [Innovation Week](#innovation-week)
@@ -230,7 +231,6 @@ DjangoCon US website and talk topics inspiration list
 ![](2025-recap-images/i-am-thankful.jpg)
 
 ![](2025-recap-images/sunrise-on-a-plane.jpg)
-![](2025-recap-images/sunrise-on-a-plane-pink-floyd.jpg)
 -->
 
 Disclaimer: the content of this post is a reflection of my life journey and not specific to my work at JPMorganChase.
@@ -754,5 +754,11 @@ https://www.sixflags.com/greatadventure/attractions/skyscreamer
 ### IP Forum Breakfast Buffet
 
 ![](2025-recap-images/ip-forum-breakfast-buffet.jpg)
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Sunrise on a Plane
+
+![](2025-recap-images/sunrise-on-a-plane-pink-floyd.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
