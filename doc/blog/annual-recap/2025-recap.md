@@ -83,11 +83,10 @@ Table of Contents
     - [Carriage Crossing](#carriage-crossing)
     - [Coco Ichibanya](#coco-ichibanya)
     - [More Fun in Dallas](#more-fun-in-dallas)
-    - [More Hutchins](#more-hutchins)
+    - [More Hutchins BBQ](#more-hutchins-bbq)
     - [La La Land Banana Cream Top Latte](#la-la-land-banana-cream-top-latte)
     - [Baccus Cemetery](#baccus-cemetery)
     - [Cyber Truck](#cyber-truck)
-    - [Employee Garden](#employee-garden)
     - [IP Forum Breakfast Buffet](#ip-forum-breakfast-buffet)
     - [More Commit Your Code Conference](#more-commit-your-code-conference)
     - [More Six Flags](#more-six-flags)
@@ -103,6 +102,11 @@ Table of Contents
         - [Giant Grapes and Strawberries](#giant-grapes-and-strawberries)
 -->
 <!--
+### Employee Garden
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+
     - [Pic of Me](#pic-of-me)
 
     - [Hoodie](#hoodie)
@@ -596,6 +600,8 @@ Talk show appearance
 
 ### JPMorganChase Plano Breakfast Buffet
 
+![](2025-recap-images/breakfast-buffet.jpg)
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Carriage Crossing
@@ -603,6 +609,8 @@ Talk show appearance
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Coco Ichibanya
+
+![](2025-recap-images/cream-and-mushroom-omelet-curry.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -612,7 +620,7 @@ Talk show appearance
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### More Hutchins
+### More Hutchins BBQ
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -633,10 +641,6 @@ Talk show appearance
 ### Cyber Truck
 
 ![](2025-recap-images/tesla-cybertruck-see-through-roof.jpg)
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-### Employee Garden
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
