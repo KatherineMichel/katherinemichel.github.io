@@ -213,16 +213,15 @@ Table of Contents
 ![](2025-recap-images/building-f-entryway.jpg)
 ![](2025-recap-images/cfp-connect-databases.jpg)
 ![](2025-recap-images/my-shadow.jpg)
+![](2025-recap-images/saint-louis-arch.jpg)
 
 
 ![](2025-recap-images/fredonia-jackets-t-shirt.jpg)
 
 ![](2025-recap-images/i-am-thankful.jpg)
 
-![](2025-recap-images/saint-louis-arch.jpg)
-
-![](2025-recap-images/sunrise-from-a-plane-2.jpg)
 ![](2025-recap-images/sunrise-on-a-plane.jpg)
+![](2025-recap-images/sunrise-on-a-plane-pink-floyd.jpg)
 
 ![](2025-recap-images/wilson-county-historical-society-janell-smith-carson.jpg)
 ![](2025-recap-images/window-washer.jpg)
