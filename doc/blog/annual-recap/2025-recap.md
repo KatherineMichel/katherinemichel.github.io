@@ -358,7 +358,7 @@ Me kitted out for laser tag
 
 #### Scheels Ferris Wheel
 
-Scheel's in The Colony contains a 65-foot indoor Ferris wheel. It costs $1 to ride. I jumped at the chance. 
+Scheels in The Colony contains a 65-foot indoor Ferris wheel. It costs $1 to ride. I jumped at the chance. 
 
 ![](2025-recap-images/scheels-ferris-wheel.jpg)
 Scheels indoor Ferris wheel
