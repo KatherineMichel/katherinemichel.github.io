@@ -83,7 +83,6 @@ Table of Contents
     - [Carriage Crossing](#carriage-crossing)
     - [Coco Ichibanya](#coco-ichibanya)
     - [More Fun in Dallas](#more-fun-in-dallas)
-    - [More Hutchins BBQ](#more-hutchins-bbq)
     - [La La Land Banana Cream Top Latte](#la-la-land-banana-cream-top-latte)
     - [Baccus Cemetery](#baccus-cemetery)
     - [Cyber Truck](#cyber-truck)
@@ -309,10 +308,6 @@ You can read my [2024 Recap](https://katherinemichel.github.io/blog/annual-recap
 
 ![](2025-recap-images/hutchins-bbq-me.jpg)
 
-![](2025-recap-images/hutchins-bbq-brisket-and-potatoes.jpg)
-![](2025-recap-images/hutchins-bbq-counter.jpg)
-![](2025-recap-images/hutchins-bbq-dessert.jpg)
-![](2025-recap-images/hutchins-bbq-ice-cream-cone.jpg)
 ![](2025-recap-images/hutchins-bbq-jalapeno-sausage-texas-twinkie-mac-and-cheese.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
@@ -642,6 +637,11 @@ Talk show appearance
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### More Hutchins BBQ
+
+![](2025-recap-images/hutchins-bbq-brisket-and-potatoes.jpg)
+![](2025-recap-images/hutchins-bbq-counter.jpg)
+![](2025-recap-images/hutchins-bbq-dessert.jpg)
+![](2025-recap-images/hutchins-bbq-ice-cream-cone.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
