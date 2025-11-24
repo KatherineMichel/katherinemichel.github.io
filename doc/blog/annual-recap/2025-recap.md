@@ -437,7 +437,7 @@ Strawberries and plain Greek yogurt
 A low-cholesterol salad (lettuce, low-cholesterol dressing, half an avocado, hard-boiled egg with the yolk removed, veggies)
 
 ![](2025-recap-images/salmon-and-broccoli-cauliflower-mix.jpg)
-A baked salmon filet served with steamed broccoli and cauliflower (I use Kroger 2 lb "Big Deal" individual wrapped Atlantic Salmon portions that can be cooked from frozen)
+A baked salmon filet served with steamed broccoli and cauliflower (I use Kroger 2 lb "Big Deal" individually wrapped Atlantic salmon portions that can be cooked from frozen)
 
 <!--
 ![](2025-recap-images/blueberries.jpg)
@@ -479,8 +479,13 @@ https://katherinemichel.github.io/blog/personal/happy-20th-birthday-django.html
 
 ### Mom Meets Rodeo Royalty
 
+I always enjoy seeing mom have fun at work. When the rodeo comes to town, the celebrities stop by the nursing home where she works to meet the residents. 
+
 ![](2025-recap-images/mom-and-rodeo-royalty-justin-rumford.jpg)
+Mom with local Barrelman Justin Rumford, one of the most decorated entertainers in the history of the PRCA (10x Clown of the Year)
+
 ![](2025-recap-images/mom-and-rodeo-royalty-tyler-dahl-wacey-munsell.jpg)
+Mom with Bullfighters Tyler Dahl and Wacey Munsell. Wacey is a multiple time-freestyle bullfighting world champion. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
     
@@ -489,6 +494,7 @@ https://katherinemichel.github.io/blog/personal/happy-20th-birthday-django.html
 ### Return to Office Full-time
 
 ![](2025-recap-images/the-view-from-my-floor.jpg)
+The view from my floor
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
