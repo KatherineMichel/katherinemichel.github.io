@@ -686,6 +686,7 @@ https://www.dutchkitchenrestaurant.org/
 ### Elvis
 
 ![](2025-recap-images/elvis.jpg)
+Elvis holding court
 
 ![](2025-recap-images/elvis-and-me.jpg)
 
@@ -699,8 +700,13 @@ https://www.dutchkitchenrestaurant.org/
 
 ### Therapy Dogs
 
+I love spending time with my therapy dog friends. 
+
 ![](2025-recap-images/lulu-giving-a-hug.jpg)
+Lulu giving me another hug last week before Elvis performed
+
 ![](2025-recap-images/me-and-jubilee.jpg)
+Me and Baxter's sister Jubilee after the Veterans Day Pinning Ceremony. She helped with the ceremony!
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
