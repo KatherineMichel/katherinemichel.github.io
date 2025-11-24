@@ -60,7 +60,9 @@ Table of Contents
     - [Commit Your Code Conference](#commit-your-code-conference)
 - [October](#october)
     - [Six Flags](#six-flags)
-    - [Class Reunion](#class-reunion)
+    - [Trip to Fredonia, Kansas](#trip-to-fredonia-kansas)
+        - [Bucket List](#bucket-list)
+        - [Class Reunion](#class-reunion)
     - [Prairie Sunset Home](#prairie-sunset-home)
     - [Mammogram](#mammogram)
     - [Halloween Contest](#halloween-contest)
@@ -470,8 +472,8 @@ Talk show appearance
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Class Reunion
-
+### Trip to Fredonia, Kansas
+        
 ![](2025-recap-images/class-reunion.jpg)
 
 ![](2025-recap-images/me-and-the-yellowjacket-sculpture.jpg)
@@ -485,6 +487,14 @@ Talk show appearance
 ![](2025-recap-images/mike-jeffers.jpg)
 
 ![](2025-recap-images/me-and-rebecca-timmons.jpg)
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+#### Bucket List
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+#### Class Reunion
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
