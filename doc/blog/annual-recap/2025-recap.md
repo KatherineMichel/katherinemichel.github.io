@@ -547,7 +547,10 @@ https://katherinemichel.github.io/blog/conferences/djangocon-us-2025-recap.html
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ![](2025-recap-images/me-and-street-art-plane.jpg)
+
+<!--
 ![](2025-recap-images/me-and-street-art-rock.jpg)
+-->
 
 ![](2025-recap-images/mick-jagger-mocktail.jpg)
 
@@ -623,7 +626,7 @@ The Kitchen breakfast buffet
 Coffee at The Hive, a student-led coffee shop
 
 ![](2025-recap-images/the-hive-menu.jpg)
-I had a Wake-up Call
+I had a Wake-Up Call at The Hive
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -636,8 +639,8 @@ I had a Wake-up Call
 ### Prairie Sunset Home
 
 ![](2025-recap-images/psh-mom-at-her-keyboard.jpg)
-![](2025-recap-images/psh-flower.jpg)
 <!--
+![](2025-recap-images/psh-flower.jpg)
 ![](2025-recap-images/psh-pink-and-orange-roses.jpg)
 -->
 ![](2025-recap-images/psh-bingo.jpg)
@@ -736,8 +739,12 @@ https://www.dallas-lovefield.com/passenger-services/art-program/public-art/perma
 -->
 
 ![](2025-recap-images/oath-of-office-info.jpg)
+
 ![](2025-recap-images/oath-of-office-presidential-seal-and-marker.jpg)
+Replica presidential seal and marker
+
 ![](2025-recap-images/oath-of-office-light.jpg)
+A light marking the spot where the oath of office was taken
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -759,6 +766,7 @@ https://ichibanyausa.com/
 -->
 
 ![](2025-recap-images/coco-ichibanya-cream-and-mushroom-omelet-curry.jpg)
+Cream and mushroom omelet curry
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -846,11 +854,19 @@ Harvest moon as seen from JPMorganChase Plano
 ### More Class Reunion
 
 ![](2025-recap-images/tri-mee-meal.jpg)
+
 ![](2025-recap-images/the-kitchen-table-baked-goods.jpg)
+Baked goods at The Kitchen
+
 ![](2025-recap-images/wilson-county-historical-society-janell-smith-carson.jpg)
+
 ![](2025-recap-images/the-hive-entryway.jpg)
+The Hive entryway
+
 ![](2025-recap-images/me-and-sandy-mcbride-turner.jpg)
+
 ![](2025-recap-images/mom-and-susan-welton.jpg)
+Mom with her childhood friend Susan Welton
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
