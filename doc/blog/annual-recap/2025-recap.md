@@ -879,7 +879,7 @@ Harvest moon as seen from JPMorganChase Plano
 ### More Class Reunion
 
 ![](2025-recap-images/tri-mee-meal.jpg)
-Our Airbnb was conveniently located directly across the street from Tri-Mee. We walked acoss for a jumbo beef burger, Frito Pie, fries, and chocolate milk shake. I hadn't had a beef burger in probably years and had two of them within 24 hours in Fredonia. The town has a beef burger thing.
+Our Airbnb was conveniently located directly across the street from Tri-Mee, a Fredonia institution. We walked acoss for a jumbo beef burger, Frito Pie, fries, and chocolate milk shake. I hadn't had a beef burger in years and had two of them within 24 hours in Fredonia. The town has a beef burger thing.
 
 ![](2025-recap-images/the-kitchen-table-baked-goods.jpg)
 Baked goods at The Kitchen Table
