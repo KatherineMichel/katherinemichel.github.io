@@ -15,9 +15,8 @@ Table of Contents
 - [Work](#work)
 - [January](#january)
     - [Christmas on New Year's Eve in Lawrence](#christmas-on-near-years-eve-in-lawrence)
-- [February](#february)
-    - [Texas Tuesday Longhorn](#texas-tuesday-longhorn)
 - [March](#march)
+    - [Texas Tuesday Longhorn](#texas-tuesday-longhorn)
     - [Spring Fun for My Nieces](#spring-fun-for-my-nieces)
     - [Jamie Dimon Plano Townhall](#jamie-dimon-plano-townhall)
 - [April](#april)
@@ -252,16 +251,16 @@ You can read my [2024 Recap](https://katherinemichel.github.io/blog/annual-recap
       
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-## February
+## March
 
 ### Texas Tuesday Longhorn
 
+JPMorganChase Plano celebrated Texas Independence Day with line dancing, painting classes, Texas trivia, and a photo op with a real Texas longhorn. 
+
 ![](2025-recap-images/me-and-a-texas-longhorn.jpeg)
-Me with a Texas longhorn! 
+Me with a Texas longhorn!
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-## March
 
 ### Spring Fun for My Nieces
 
@@ -269,10 +268,22 @@ Me with a Texas longhorn!
 
 ### Jamie Dimon Plano Townhall
 
+Jamie Dimon visited Plano a few weeks before I joined JPMorgan. I was disappointed to have missed it. 
+
+When I found out he was visiting again to do a townhall, I had to attend. 
+
+I saw the Queen of England in-person a few times. Jamie Dimon might be the second-most influential person I've ever seen. He was exactly the same as he is online and on TV. 
+
+I arrived at 11:30 am and had 40 people waiting in line in front of me. I got a pretty good seat! 
+
 ![](2025-recap-images/jamie-dimon-townhall.jpg)
+Jamie Dimon on stage
+
+![](2025-recap-images/jamie-dimon-townhall-cole.jpg)
+Expert level: my friend Cole getting his AI podcast on Jamie's radar! Jamie asked him to send him the link. 
 
 <!--
-![](2025-recap-images/jamie-dimon-townhall-cole.jpg)
+Jamie Dimon thanks employees at the end of the townhall I attended a month ago.
 -->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
@@ -375,9 +386,10 @@ https://www.drvondawright.net/betterbone
 
 ### Zero Latency Virtual Reality
 
-I experienced VR for the first time. It was amazing! 
+I experienced VR for the first time. It was amazing! So realistic. 
 
 ![](2025-recap-images/zero-latency-vr-score-board.jpg)
+#4... not bad for a first-timer
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
