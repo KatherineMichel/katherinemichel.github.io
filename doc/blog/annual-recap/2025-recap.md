@@ -787,10 +787,7 @@ Me in front of a big truck...
 ### La La Land Banana Cream Top Latte
 
 ![](2025-recap-images/lala-land-banana-cream-top-latte.jpg)
-
-<!--
-![](2025-recap-images/lala-land-banana-cream-top-latte-2.jpg)
--->
+La La Land Banana Cream Top Latte... so delicous. Fresh banana, secret sauce, vanilla bean cloud, cinnamon, expresso, ice. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
