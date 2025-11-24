@@ -661,7 +661,10 @@ Blackout!
 ### Halloween Contest
 
 ![](2025-recap-images/me-and-mom-for-halloween.jpg)
+Mom and I before the nursing home Halloween party. She was wearing a skeleton costume that belonged to my Aunt Judy. I joked that I was dressed as a PSH volunteer. 
+
 ![](2025-recap-images/halloween-costume-contest.jpg)
+I judged a Halloween costume contest for the first time. It was a tough decision. The winning staff costume was "a flock of ostriches." 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -684,6 +687,7 @@ https://www.dutchkitchenrestaurant.org/
 Me the day before my birthday
 
 ![](2025-recap-images/birthday-sky.jpg)
+The sky while driving home from my birthday dinner
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -699,7 +703,10 @@ Elvis and me. Elvis was working the crowd. He was making some audience-members s
 
 ### Northern Lights
 
+Had I known about the Northern Lights in advance, I would have planned an unobstructed view. It is what it is. Still, this pic is not bad for seeing a post about it on social media in real-time and running outside with my phone. 
+
 ![](2025-recap-images/northern-lights.jpeg)
+Northern Lights in rural Kansas
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
