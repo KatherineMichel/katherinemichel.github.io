@@ -290,6 +290,8 @@ You can read my [2024 Recap](https://katherinemichel.github.io/blog/annual-recap
 
 #### KC League Gymnastics Championships
 
+![](2025-recap-images/gymnastics-tournament.jpg)
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Investment
