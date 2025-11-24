@@ -902,6 +902,6 @@ Walked into a presentation and had an amazing breakfast…
 ### Sunrise on a Plane
 
 ![](2025-recap-images/sunrise-on-a-plane-pink-floyd.jpg)
-In a plane enroute to Saint Louis. A Pink Floyd sunrise. 
+In a plane enroute to St. Louis. A Pink Floyd sunrise. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
