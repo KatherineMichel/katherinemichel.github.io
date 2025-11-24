@@ -807,6 +807,7 @@ https://hutchinsbbq.com/
 ### Window Washer
 
 ![](2025-recap-images/window-washer.jpg)
+Window washer... would you do this job? 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -821,12 +822,14 @@ https://www.sixflags.com/greatadventure/attractions/skyscreamer
 -->
 
 ![](2025-recap-images/six-flags-skyscreamer.jpg)
+The swing ride you see at a carnival, except it's 400 feet in the air. Tallest ride at the park.
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Harvest Moon
 
 ![](2025-recap-images/harvest-moon.jpg)
+Harvest moon as seen from JPMorganChase Plano
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
