@@ -430,6 +430,8 @@ https://katherinemichel.github.io/blog/personal/happy-20th-birthday-django.html
 
 ### Return to Office Full-time
 
+![](2025-recap-images/the-view-from-my-floor.jpg)
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### DjangoCon US Interview
