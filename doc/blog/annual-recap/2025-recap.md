@@ -550,12 +550,14 @@ https://katherinemichel.github.io/blog/conferences/djangocon-us-2025-recap.html
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ![](2025-recap-images/me-and-street-art-plane.jpg)
+Me posing on street art
 
 <!--
 ![](2025-recap-images/me-and-street-art-rock.jpg)
 -->
 
 ![](2025-recap-images/mick-jagger-mocktail.jpg)
+A yummy Mick Jagger mocktail
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
