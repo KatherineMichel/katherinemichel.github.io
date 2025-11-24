@@ -678,6 +678,7 @@ https://www.dutchkitchenrestaurant.org/
 ### Birthday
 
 ![](2025-recap-images/it-me.jpg)
+Me the day before my birthday
 
 ![](2025-recap-images/birthday-sky.jpg)
 
