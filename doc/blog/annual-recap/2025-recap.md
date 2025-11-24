@@ -93,6 +93,8 @@ Table of Contents
     - [More Commit Your Code Conference](#more-commit-your-code-conference)
     - [More Six Flags](#more-six-flags)
     - [Harvest Moon](#harvest-moon)
+    - [More Class Reunion](#more-class-reunion)
+    - [More Northern Lights](#more-northern-lights)
 
 <!--
     - [Pic of Me](#pic-of-me)
@@ -656,5 +658,13 @@ Talk show appearance
 ### Harvest Moon
 
 ![](2025-recap-images/harvest-moon.jpg)
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### More Class Reunion
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### More Northern Lights
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
