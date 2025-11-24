@@ -303,7 +303,7 @@ The evening before the meet, I googled "Best restaurant in Belton." The answer w
 Mom wasn't too sure about the place, until the bread came out. It was heavenly.
 
 ![](2025-recap-images/la-nonna.jpg)
-Our meal at La Nonna 
+Dining at La Nonna 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
