@@ -504,7 +504,7 @@ https://katherinemichel.github.io/blog/conferences/commit-your-code-2025-recap.h
 https://www.sixflags.com/overtexas/attractions/new-texas-giant
 -->
 
-![](2025-recap-images/six-flags-the-texas-giant.jpg)
+![](2025-recap-images/six-flags-new-texas-giant.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -636,8 +636,8 @@ https://www.dutchkitchenrestaurant.org/
 https://www.dallas-lovefield.com/passenger-services/art-program/public-art/permanent-artwork/lbj-observation-deck
 -->
 
-![](2025-recap-images/oath-of-office-1.jpg)
-![](2025-recap-images/oath-of-office-2.jpg)
+![](2025-recap-images/oath-of-office-info.jpg)
+![](2025-recap-images/oath-of-office-presidential-seal-and-marker.jpg)
 ![](2025-recap-images/oath-of-office-light.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
