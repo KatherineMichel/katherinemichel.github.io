@@ -703,7 +703,7 @@ Elvis and me. Elvis was working the crowd. He was making some audience-members s
 
 ### Northern Lights
 
-Had I known about the Northern Lights in advance, I would have planned an unobstructed view. It is what it is. Still, this pic is not bad for seeing a post about it on social media in real-time and running outside with my phone. 
+Had I known about the Northern Lights in advance, I would have planned an unobstructed view. Still, this pic is not bad for seeing a post about it on social media in real-time and running outside with my phone. 
 
 ![](2025-recap-images/northern-lights.jpeg)
 Northern Lights in rural Kansas
