@@ -20,7 +20,7 @@ Table of Contents
     - [Spring Fun for My Nieces](#spring-fun-for-my-nieces)
     - [Jamie Dimon Plano Townhall](#jamie-dimon-plano-townhall)
 - [April](#april)
-    - [Trip to Benton, Missouri](#trip-to-benton-missouri)
+    - [Trip to Belton, Missouri](#trip-to-belton-missouri)
         - [La Nonna](#la-nonna)
         - [KC League Gymnastics Championships](#kc-league-gymnastics-championships)
     - [Investment](#investment)
@@ -290,21 +290,28 @@ Jamie Dimon thanks employees at the end of the townhall I attended a month ago.
 
 ## April
 
-### Trip to Benton, Missouri
+### Trip to Belton, Missouri
 
-Mom and I traveled to Benton, Missouri to attend my niece's last gymnastics meet of the season. I only found out after the trip that we were near the Mahomes Family home! 
+Mom and I traveled to Belton, Missouri to attend my niece's last gymnastics meet of the season. I only found out after the trip that we were near the Mahomes Family home! 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 #### La Nonna
 
+I googled "Best restaurant in Belton." The answer was La Nonna.
+
+Mom wasn't too sure about the place, until the bread came out. It was heavenly.
+
 ![](2025-recap-images/la-nonna.jpg)
+Our meal at La Nonna 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 #### KC League Gymnastics Championships
 
 I've never been to a gymnastics tournament before. It was surreal to find out that famous gymnastics start out at tournaments just this and rise to the top of the sport. 
+
+My niece did well, and I interviewed her afterward for fun. She said, if I ever want to interview her again, she is happy to do it!
 
 ![](2025-recap-images/gymnastics-tournament.jpg)
 Gymnastics tournament arena
