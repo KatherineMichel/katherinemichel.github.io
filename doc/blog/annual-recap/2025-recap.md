@@ -836,11 +836,13 @@ https://www.sixflags.com/greatadventure/attractions/skyscreamer
 ### IP Forum Breakfast Buffet
 
 ![](2025-recap-images/ip-forum-breakfast-buffet.jpg)
+Walked into a presentation and had an amazing breakfast…
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Sunrise on a Plane
 
 ![](2025-recap-images/sunrise-on-a-plane-pink-floyd.jpg)
+In a plane enroute to Saint Louis. A Pink Floyd sunrise. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
