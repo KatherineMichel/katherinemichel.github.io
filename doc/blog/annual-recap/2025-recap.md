@@ -257,6 +257,7 @@ You can read my [2024 Recap](https://katherinemichel.github.io/blog/annual-recap
 ### Texas Tuesday Longhorn
 
 ![](2025-recap-images/me-and-a-texas-longhorn.jpeg)
+Me with a Texas longhorn! 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -280,6 +281,8 @@ You can read my [2024 Recap](https://katherinemichel.github.io/blog/annual-recap
 
 ### Trip to Benton, Missouri
 
+Mom and I traveled to Benton, Missouri to attend my niece's last gymnastics meet of the year. I only found out after the trip that we were near the Mahomes Family home! 
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 #### La Nonna
@@ -290,7 +293,10 @@ You can read my [2024 Recap](https://katherinemichel.github.io/blog/annual-recap
 
 #### KC League Gymnastics Championships
 
+I've never been to a gymnastics tournament before. It was surreal to find out that famous gymnastics start out at tournaments just this and rise to the top of the sport. 
+
 ![](2025-recap-images/gymnastics-tournament.jpg)
+Gymnastics tournament arena
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -300,7 +306,10 @@ You can read my [2024 Recap](https://katherinemichel.github.io/blog/annual-recap
 
 ### Lucy's Bakery
 
+JPMorganChase Plano invites local vendors to sell food at lunchtime. Lucy's Bakery is my favorite. They serve Argentinian empanadas and arepas (round, flat corn patty sliced open and filled with protein). Chicken is my go-to. 
+
 ![](2025-recap-images/lucys-bakery.jpg)
+Arepa filled with chicken, rice, black beans, fried plantains, fried mozarella stick
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -322,13 +331,19 @@ https://hutchinsbbq.com/
 
 #### Battle House Laser Tag
 
+I played laser tag for the first time at a team-building event. My co-workers keep me young.
+
 ![](2025-recap-images/me-at-battle-house.jpg)
+Me kitted out for laser tag 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 #### Scheels Ferris Wheel
 
+Scheel's in The Colony contains a 65-foot indoor Ferris wheel. It costs $1 to ride. I jumped at the chance. 
+
 ![](2025-recap-images/scheels-ferris-wheel.jpg)
+Scheels indoor Ferris wheel
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -342,19 +357,25 @@ https://hutchinsbbq.com/
 
 ### Vonda Wright's Building Better Bone
 
-![](2025-recap-images/vonda-wright-building-better-bone.jpg)
+One of my managers from work randomly texted me to suggest that I watch an interview with an "amazing" doctor named Vonda Wright. He had no idea we are from the same town and that she was my childhood ballet teacher. Vonda is now a highly regarded orthopedic sports surgeon who trains high performance athletes and teaches women midlife and beyond how to reach "max badassery." 
 
 ![](2025-recap-images/me-and-vonda.jpeg)
+Me and my incredible ballet teacher Vonda Wright in her studio at the back of her dad's shop.
+
+As I get older, I have started to learn how underserved by the healthcare industry women midlife and beyond are. Vonda is trying to change that by starting the conversation and providing the most up-to-date, science-based knowledge and tools available. 
+
+![](2025-recap-images/vonda-wright-building-better-bone.jpg)
+I bought Vonda's course Building Better Bone and am using it
 
 <!--
 https://www.drvondawright.net/betterbone
-
-Talk show appearance
 -->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Zero Latency Virtual Reality
+
+I experienced VR for the first time. It was amazing! 
 
 ![](2025-recap-images/zero-latency-vr-score-board.jpg)
 
@@ -449,6 +470,8 @@ https://2025.djangocon.us/news/getting-to-know-folks/
 ### Vonda Wright's Unbreakable
 
 <!--
+After I read a recent interview she did for The Times, I immediately bought her new book Unbreakable. I know she is a voice you can trust. Her words on page 23 of the Kindle version hit me: "Movement gives you agency over life." That is what it's about: agency over life. I immediately felt motivated to take action. Excited to learn the why and how and get started. I also love that she uses her dad Gene as an example in the book.
+
 https://www.drvondawright.com/resources/books/unbreakable
 -->
 
