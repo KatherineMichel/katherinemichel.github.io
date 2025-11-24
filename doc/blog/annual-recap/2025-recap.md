@@ -676,6 +676,7 @@ https://www.dutchkitchenrestaurant.org/
 -->
 
 ![](2025-recap-images/dutch-kitchen-chicken-and-noodles.jpg)
+Dutch Kitchen chicken and noodles special. So good! 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
