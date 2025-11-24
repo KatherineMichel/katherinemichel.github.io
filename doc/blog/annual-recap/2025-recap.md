@@ -449,7 +449,10 @@ A baked salmon filet served with steamed broccoli and cauliflower (I use Kroger 
 
 ### Stroopwafels
 
+It's not everyday that you get a special delivery of stroopwafels from the Netherlands! Thank you to Roy Tomeij and AppSignal for your generosity. It put a huge smile on my face! I also love the Developer Dilemmas card deck. 
+
 ![](2025-recap-images/stroopwafels.jpg)
+Special delivery of stroopwafels!
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
