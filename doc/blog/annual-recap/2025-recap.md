@@ -416,14 +416,32 @@ After ~8 years on the DEFNA Board, I stepped down. This [thank you from the boar
 
 ### Eating Clean
 
+After I was diagnosed with high cholesterol last year, I began to adjust my eating habits. After some health issues this year, including both a stomach bug and food poisoning, I wanted to start "eating clean" for good. I have replaced many high cholesterol foods with low-cholesterol alternatives. While I have not completely cut out red/poultry meat and dairy, by default, I do not eat it. On the occassion that I eat it, it is less impactful.  
+
+When I did my annual physical later in the year, I found out that this approach was highly effective, more effective than I had imagined. 
+
+Some favorite substitutions: 
+* Hummus and triscuits instead of dairy-based dip and potatoe chips
+* Grapes, strawberries, or blueberries instead of an egg, bacon, and croissant breakfast sandwich or afternoon snack containing refined sugar
+* A low cholesterol salad as a quick, healthy meal
+* A salmon filet drizzled with olive oil, lemon juice, and a bit of honey, baked and served with steamed veggies or rice instead of a hamburger or dairy-based dinner
+* Almond milk instead of cow milk
+
 ![](2025-recap-images/giant-grapes.jpg)
+Giant black grapes from Kroger. So delicious. You can practically eat them with a knife and fork. 
+
 ![](2025-recap-images/strawberries-and-greek-yogurt.jpg)
+Strawberries and plain Greek yogurt
+
 ![](2025-recap-images/low-cholesterol-salad.jpg)
-![](2025-recap-images/salmon-and-rice.jpg)
+A low-cholesterol salad (lettuce, low-cholesterol dressing, half an avocado, hard-boiled egg with the yolk removed, veggies)
+
+![](2025-recap-images/salmon-and-broccoli-cauliflower-mix.jpg)
+A baked salmon filet served with steamed broccoli and cauliflower (I use Kroger 2 lb "Big Deal" individual wrapped Atlantic Salmon portions that can be cooked from frozen)
 
 <!--
 ![](2025-recap-images/blueberries.jpg)
-![](2025-recap-images/salmon-and-broccoli-cauliflower-mix.jpg)
+![](2025-recap-images/salmon-and-rice.jpg)
 ![](2025-recap-images/hummus-and-triscuits.jpg)
 -->
 
