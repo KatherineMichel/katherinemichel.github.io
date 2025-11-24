@@ -258,7 +258,7 @@ You can read my [2024 Recap](https://katherinemichel.github.io/blog/annual-recap
 JPMorganChase Plano celebrated Texas Independence Day with line dancing, painting classes, Texas trivia, and a photo op with a real Texas longhorn. 
 
 ![](2025-recap-images/me-and-a-texas-longhorn.jpeg)
-Me with a Texas longhorn! I had to sign a waiver, but this longhorn was a sweetheart, lol. 
+Me with a Texas longhorn!
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -416,7 +416,7 @@ After ~8 years on the DEFNA Board, I stepped down. This [thank you from the boar
 
 ### Eating Clean
 
-After I was diagnosed with high cholesterol last year, I began to adjust my eating habits. After some health issues this year, including both a stomach bug and food poisoning, I wanted to start "eating clean" for good. I have replaced many high cholesterol foods with low-cholesterol alternatives. While I have not completely cut out red/poultry meat and dairy, by default, I do not eat it at home, and I eat it less often outside of home. On the occassion that I eat it, it is less impactful.  
+After I was diagnosed with high cholesterol last year, I began to adjust my eating habits in line with the recommendations of my doctor. After some health issues this year, including both a stomach bug and food poisoning, I wanted to start "eating clean" for good. I have replaced many high cholesterol foods with low-cholesterol alternatives. While I have not completely cut out red/poultry meat and dairy, by default, I do not eat it at home, and I eat it less often outside of home. On the occassion that I eat it, it is less impactful.  
 
 When I did my annual physical later in the year, I found out that this approach was highly effective, more effective than I had imagined. 
 
