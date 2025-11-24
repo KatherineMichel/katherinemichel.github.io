@@ -610,7 +610,7 @@ The Texas Giant: the rollercoaster that did me in...
 
 #### Tour Around Town
 
-Mom and I went on a little Fredonia driving tour. I couldn’t resist a photo at my high school in front of a yellowjacket sculpture made by a student. Fredonia High School is on the site of the former Ben S. Paulen Elementary School. I started school and graduated from the same place. 
+Mom and I went on a little Fredonia driving tour. I couldn’t resist a photo at my high school in front of a yellowjacket sculpture made by a student. Fredonia High School is on the site of the former Ben S. Paulen Elementary School. I started school at and graduated from the same place. 
 
 ![](2025-recap-images/me-and-the-yellowjacket-sculpture.jpg)
 Home of the Yellowjackets
