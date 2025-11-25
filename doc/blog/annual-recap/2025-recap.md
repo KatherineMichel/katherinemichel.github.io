@@ -40,9 +40,8 @@ Table of Contents
     - [Eating Clean](#eating-clean)
     - [Stroopwafels](#stroopwafels)
     - [Summer Fun for My Nieces](#summer-fun-for-my-nieces)
-        - [Lemonade Stand](#lemonade-stand)
-        - [Gymnastics Inflatable Mat and Sewing Supplies](#gymnastics-inflatable-and-sewing-supplies)
         - [Gymnastics Donation](#gymnastics-donation)
+        - [Gymnastics Inflatable Mat and Sewing Supplies](#gymnastics-inflatable-and-sewing-supplies)
     - [Django's 20th Birthday](#djangos-20th-birthday)
     - [Mom Meets Rodeo Royalty](#mom-meets-rodeo-royalty)
 - [August](#august)
@@ -55,7 +54,6 @@ Table of Contents
     - [DjangoCon US](#djangocon-us)
     - [Employee Appreciation Week](#employee-appreciation-week)
     - [Annual Physical](#annual-physical)
-    - [Dermatologist](#dermatologist)
     - [Commit Your Code Conference](#commit-your-code-conference)
 - [October](#october)
     - [Six Flags](#six-flags)
@@ -63,9 +61,10 @@ Table of Contents
         - [Tour Around Town](#tour-around-town)
         - [Bucket List](#bucket-list)
         - [Class Reunion](#class-reunion)
+        - [Homecoming Day](#homecoming-day)
     - [Prairie Sunset Home](#prairie-sunset-home)
     - [Mammogram](#mammogram)
-    - [Halloween Contest](#halloween-contest)
+    - [Halloween](#halloween)
     - [Favorite Restaurants](#favorite-restaurants)
 - [November](#november)
     - [Birthday](#birthday)
@@ -88,7 +87,6 @@ Table of Contents
     - [Cyber Truck](#cyber-truck)
     - [More Hutchins BBQ](#more-hutchins-bbq)
     - [Window Washer](#window-washer)
-    - [More Commit Your Code Conference](#more-commit-your-code-conference)
     - [More Six Flags](#more-six-flags)
     - [Harvest Moon](#harvest-moon)
     - [More Class Reunion](#more-class-reunion)
@@ -462,15 +460,15 @@ Special delivery of stroopwafels!
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-#### Lemonade Stand
+#### Gymnastics Donation
+
+<!--
+Fundraiser and lemonade stand
+-->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 #### Gymnastics Inflatable Mat and Sewing Supplies
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-#### Gymnastics Donation
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -567,11 +565,8 @@ A yummy Mick Jagger mocktail
 
 ### Annual Physical
 
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-### Dermatologist
-
 <!--
+Dermatologist
 https://www.facebook.com/3crazykids/posts/pfbid0RdvNS5W4Pu4bRKzggFsWrDz9G7xQMY5rMTfLXHQnvfFM6zMu8dHTPrRhJp6nw9N5l
 -->
 
@@ -609,12 +604,6 @@ The Texas Giant: the rollercoaster that did me in...
 
 ### Trip to Fredonia, Kansas
         
-![](2025-recap-images/fredonia-umc-beef-burger-meal.jpg)
-
-![](2025-recap-images/mike-jeffers.jpg)
-
-![](2025-recap-images/me-and-rebecca-timmons.jpg)
-
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 #### Tour Around Town
@@ -646,6 +635,16 @@ Me and some of my classmates. I appreciate them all!
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+#### Homecoming Day
+
+![](2025-recap-images/fredonia-umc-beef-burger-meal.jpg)
+
+![](2025-recap-images/mike-jeffers.jpg)
+
+![](2025-recap-images/me-and-rebecca-timmons.jpg)
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
 ### Prairie Sunset Home
 
 ![](2025-recap-images/psh-mom-at-her-keyboard.jpg)
@@ -667,7 +666,7 @@ Blackout!
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Halloween Contest
+### Halloween
 
 ![](2025-recap-images/me-and-mom-for-halloween.jpg)
 Mom and I before the nursing home Halloween party. She was wearing a skeleton costume that belonged to my Aunt Judy. I joked that I was dressed as a PSH volunteer. 
@@ -839,10 +838,6 @@ Complimentary peach cobbler and banana pudding. Not pictured: vanilla ice cream 
 
 ![](2025-recap-images/window-washer.jpg)
 High-rise window washer... would you do this job? 
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-### More Commit Your Code Conference
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
