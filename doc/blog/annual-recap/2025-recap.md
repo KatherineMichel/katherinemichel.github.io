@@ -666,7 +666,10 @@ Blackout!
 
 ### Mammogram
 
+Fortunate to be healthy
+
 ![](2025-recap-images/original-house-of-pancakes-omelette.jpg)
+Omelette and pancakes after my mammogram
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
