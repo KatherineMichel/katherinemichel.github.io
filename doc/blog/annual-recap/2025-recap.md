@@ -506,9 +506,7 @@ The view from my floor
 
 ### DjangoCon US Interview
 
-<!--
-https://2025.djangocon.us/news/getting-to-know-folks/
--->
+Thank you to Velda Kiara for [interviewing me about DjangoCon US](https://2025.djangocon.us/news/getting-to-know-folks/)! It was a trip down memory lane. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
