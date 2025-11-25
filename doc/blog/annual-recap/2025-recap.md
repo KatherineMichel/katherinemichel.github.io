@@ -630,8 +630,10 @@ I had a Wake-Up Call at The Hive
 
 #### Class Reunion
 
+Loved hanging out with my classmates! It's like no time has passed. Appreciate you all!
+
 ![](2025-recap-images/class-reunion.jpg)
-Me and some of my classmates. I appreciate them all! 
+Me and some of my classmates
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
