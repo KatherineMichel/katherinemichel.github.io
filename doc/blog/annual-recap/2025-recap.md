@@ -609,6 +609,8 @@ Mom and I went on a little Fredonia driving tour. I couldn’t resist a photo at
 ![](2025-recap-images/me-and-the-yellowjacket-sculpture.jpg)
 Home of the Yellowjackets
 
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
 #### Bucket List
 
 I crossed a couple of items off of my "bucket list." 
