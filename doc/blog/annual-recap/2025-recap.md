@@ -739,7 +739,7 @@ Northern Lights in rural Kansas
 I love spending time with my therapy dog friends. 
 
 ![](2025-recap-images/lulu-giving-a-hug.jpg)
-Lulu giving me another hug last week before Elvis performed
+Lulu giving me another hug before Elvis performed
 
 ![](2025-recap-images/me-and-jubilee.jpg)
 Me and Baxter's sister Jubilee after a Veterans Day Pinning Ceremony. She helped with the ceremony!
