@@ -399,6 +399,9 @@ I signed up for the [Building Better Bone](https://www.drvondawright.net/betterb
 
 I experienced VR for the first time at [Zero Latency Virtual Reality](https://zerolatencyvr.com/en/frisco). It was amazing! So realistic. 
 
+![](2025-recap-images/zero-latency-virtual-reality-players.jpg)
+Players
+
 ![](2025-recap-images/zero-latency-vr-score-board.jpg)
 #4... not bad for a first-timer
 
