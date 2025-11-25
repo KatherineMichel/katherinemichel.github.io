@@ -262,6 +262,10 @@ Me with a Texas longhorn!
 
 ### Spring Fun for My Nieces
 
+Last year, I set the goal to do random, fun things for my nieces. I continued this year. 
+
+I ordered a special delivery of board games and fun toys including Checkers, Chinese checkers, Twister, Trouble, Pictionary, Scrabble, Exploding Kittens, and Do you Really Know Your Family?. The Magic 8 Ball in particular was a big hit. 
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Jamie Dimon Plano Townhall
@@ -385,11 +389,7 @@ As I get older, I have started to learn how underserved by the healthcare indust
 Dr. Vonda has the bones of a 30-year-old. Bone health is an important topic that many of us do not know enough about until it's too late.
 
 ![](2025-recap-images/vonda-wright-building-better-bone.jpg)
-I signed up for the Building Better Bone course.
-
-<!--
-https://www.drvondawright.net/betterbone
--->
+I signed up for the [Building Better Bone](https://www.drvondawright.net/betterbone) course.
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -440,10 +440,6 @@ A low-cholesterol salad (lettuce, low-cholesterol dressing, half an avocado, har
 
 ![](2025-recap-images/salmon-and-broccoli-cauliflower-mix.jpg)
 A baked salmon filet served with steamed broccoli and cauliflower (I use Kroger 2 lb "Big Deal" individually wrapped Atlantic salmon portions that can be cooked from frozen. They are tastier and more convenient than the pink salmon version.)
-
-<!--
-![](2025-recap-images/hummus-and-triscuits.jpg)
--->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
