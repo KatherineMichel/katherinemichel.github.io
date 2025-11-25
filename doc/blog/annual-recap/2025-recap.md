@@ -845,10 +845,6 @@ Sliced brisket and potato casserole
 ![](2025-recap-images/hutchins-bbq-dessert.jpg)
 Complimentary peach cobbler and banana pudding. Not pictured: vanilla ice cream cone
 
-<!--
-![](2025-recap-images/hutchins-bbq-ice-cream-cone.jpg)
--->
-
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Window Washer
@@ -864,12 +860,8 @@ High-rise window washer... would you do this job?
 
 ### More Six Flags
 
-<!--
-https://www.sixflags.com/greatadventure/attractions/skyscreamer
--->
-
 ![](2025-recap-images/six-flags-skyscreamer.jpg)
-Texas SkyScreamer: the swing ride you see at a carnival, except it's 400 feet in the air. Tallest ride at the park.
+[Texas SkyScreamer](https://www.sixflags.com/greatadventure/attractions/skyscreamer): the swing ride you see at a carnival, except it's 400 feet in the air. Tallest ride at the park.
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -889,7 +881,7 @@ Our Airbnb was conveniently located directly across the street from Tri-Mee, a F
 Baked goods at The Kitchen Table
 
 ![](2025-recap-images/wilson-county-historical-society-janell-smith-carson.jpg)
-Wilson County Historical Society Janell Smith-Carson exhibit. A Fredonia native, she competed in the women's 400 metres at the 1964 Summer Olympics.
+[Wilson County Historical Society](https://www.wilsoncountykshistoricalsociety.org/) Janell Smith-Carson exhibit. A Fredonia native, she competed in the women's 400 metres at the 1964 Summer Olympics.
 
 ![](2025-recap-images/the-hive-entryway.jpg)
 The Hive entryway
