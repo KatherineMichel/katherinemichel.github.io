@@ -79,7 +79,6 @@ Table of Contents
 - [More Favorite Snapshots Throughout The Year](#more-favorite-snapshots-throughout-the-year)
     - [Dallas Love Field Oath of Office Observation Deck](#dallas-love-field-oath-of-office-observation-deck)
     - [JPMorganChase Plano Breakfast Buffet](#jpmorganchase-plano-breakfast-buffet)
-    - [Carriage Crossing](#carriage-crossing)
     - [Coco Ichibanya](#coco-ichibanya)
     - [More Fun in Dallas](#more-fun-in-dallas)
     - [La La Land Banana Cream Top Latte](#la-la-land-banana-cream-top-latte)
@@ -425,7 +424,7 @@ After ~8 years on the DEFNA Board, I stepped down. This [thank you from the boar
 
 ### Eating Clean
 
-My cholesterol was first identified as being high at my work Wellness Screening in 2023. Although I brought it down, it was still considered high at my annual physical in 2024. I began to adjust my eating habits in line with the recommendations of my doctor. After some health issues this year, including both a stomach bug and food poisoning, I wanted to start "eating clean" for good. I have replaced many high cholesterol foods with low-cholesterol alternatives. While I have not completely cut out red/poultry meat and dairy, by default, I do not eat it at home, and I eat it less often outside of home. On the occassion that I eat it, it is less impactful.  
+My cholesterol was first identified as being high at my work Wellness Screening in 2023. I began to adjust my eating habits in line with the recommendations of my doctor. Since then, my numbers have consistently improved. This year, I decided to go all-in on "eating clean." I replaced high cholesterol foods in my apartment with low-cholesterol alternatives. While I have not completely cut out red meat, poultry, and dairy, by default, I do not eat them at home, and I eat them less often outside of home.  
 
 When I did my annual physical later this year, I had lost 16 pounds, my cholesterol was greatly reduced, and I did not need a prescription, to my great surprise. 
 
@@ -433,8 +432,8 @@ Some favorite substitutions:
 * Hummus and triscuits instead of dairy-based dip and potato chips
 * Grapes, strawberries, or blueberries instead of an egg, bacon, and croissant breakfast sandwich or afternoon snack containing refined sugar
 * A low cholesterol salad as a quick, healthy meal or snack
-* A salmon filet drizzled with olive oil, lemon juice, and a bit of honey, baked and served with steamed veggies or rice instead of a hamburger or dairy-based dinner
-* Almond milk or skim/low-fat milk instead of whole milk (almond milk is not a doctor's recommendation, just a personal preference at times)
+* A salmon filet drizzled with olive oil, lemon juice, and a bit of honey, baked and served with steamed veggies or rice instead of a hamburger, chicken, or dairy-based dinner
+* Almond milk or skim/fat-free milk instead of whole milk (almond milk is not a doctor's recommendation, just a personal preference at times)
 
 ![](2025-recap-images/giant-grapes.jpg)
 A giant black grape from Kroger compared to a red grape of more normal size. So delicious. You can practically eat them with a knife and fork. 
@@ -796,10 +795,6 @@ A light marking the spot where the oath of office was taken
 
 ![](2025-recap-images/jpmorganchase-plano-breakfast-buffet.jpg)
 JPMorganChase Plano breakfast buffet
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-### Carriage Crossing
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
