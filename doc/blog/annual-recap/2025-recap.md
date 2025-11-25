@@ -764,12 +764,8 @@ Me and Baxter's sister Jubilee after a Veterans Day Pinning Ceremony. She helped
 
 ### Dallas Love Field Oath of Office Observation Deck
 
-<!--
-https://www.dallas-lovefield.com/passenger-services/art-program/public-art/permanent-artwork/lbj-observation-deck
--->
-
 ![](2025-recap-images/oath-of-office-info.jpg)
-An exhibit overlooking the spot where Vice President Lyndon B. Johnson took the oath of office November 22, 1963 on the Air Force One 
+An [observation deck](https://www.dallas-lovefield.com/passenger-services/art-program/public-art/permanent-artwork/lbj-observation-deck) overlooking the spot where Vice President Lyndon B. Johnson took the oath of office November 22, 1963 on the Air Force One 
 
 ![](2025-recap-images/oath-of-office-presidential-seal-and-marker.jpg)
 Replica presidential seal and marker
@@ -792,12 +788,8 @@ JPMorganChase Plano breakfast buffet
 
 ### Coco Ichibanya
 
-<!--
-https://ichibanyausa.com/
--->
-
 ![](2025-recap-images/coco-ichibanya-cream-and-mushroom-omelet-curry.jpg)
-Cream and mushroom omelet curry... the omelet is filled with rice
+[Coco Ichibanya](https://ichibanyausa.com/) cream and mushroom omelet curry... the omelet is filled with rice
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -811,7 +803,7 @@ Me in front of a big truck...
 ### La La Land Banana Cream Top Latte
 
 ![](2025-recap-images/lala-land-banana-cream-top-latte.jpg)
-La La Land Banana Cream Top Latte... so delicous. Fresh banana, secret sauce, vanilla bean cloud, cinnamon, expresso, ice. 
+[La La Land](https://lalalandkindcafe.com/pages/menu) Banana Cream Top Latte... so delicous. Fresh banana, secret sauce, vanilla bean cloud, cinnamon, expresso, ice. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -831,10 +823,6 @@ Tesla Cybertruck see-through roof
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### More Hutchins BBQ
-
-<!--
-https://hutchinsbbq.com/
--->
 
 ![](2025-recap-images/hutchins-bbq-counter.jpg)
 Hutchins BBQ counter
