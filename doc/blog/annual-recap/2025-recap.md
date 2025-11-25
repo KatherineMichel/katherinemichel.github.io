@@ -61,7 +61,7 @@ Table of Contents
         - [Tour Around Town](#tour-around-town)
         - [Bucket List](#bucket-list)
         - [Class Reunion](#class-reunion)
-        - [Homecoming Day](#homecoming-day)
+        - [Homecoming](#homecoming)
     - [Prairie Sunset Home](#prairie-sunset-home)
     - [Mammogram](#mammogram)
     - [Halloween](#halloween)
@@ -649,13 +649,18 @@ Me and some of my classmates
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-#### Homecoming Day
+#### Homecoming
+
+I enjoyed reconnecting with people and places I've known all my life. 
 
 ![](2025-recap-images/fredonia-umc-beef-burger-meal.jpg)
+Fredonia United Methodist Church beef burger meal. My mom was the church organist for many years. 
 
 ![](2025-recap-images/mike-jeffers.jpg)
+At the band stand, Mike Jeffers, longtime President of First National Bank, was performing on the left. Mom and I went up to him afterwards to say hello. I commented that he'd given me my first loan and that it was for my first car. He immediately said "and you never missed a lick." Decades later, he remembered the loan and that I'd never missed a payment. It was for around $800 and a lot of money to me back then. Guidance Counselor Gene John helped me get a job at Dr. Rindt's Office and the loan. Two great men.
 
 ![](2025-recap-images/me-and-rebecca-timmons.jpg)
+Me with my former boss and director Rebecca Timmons
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
