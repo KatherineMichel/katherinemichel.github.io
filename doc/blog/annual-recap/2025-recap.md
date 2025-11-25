@@ -601,6 +601,8 @@ The Texas Giant: the rollercoaster that did me in...
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Trip to Fredonia, Kansas
+
+Mom and I traveled to Fredonia, Kansas for my thirty year class reunion. 
         
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
