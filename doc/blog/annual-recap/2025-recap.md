@@ -75,7 +75,7 @@ Table of Contents
 - [December](#december)
     - [JPMorganChase Advent of Code Texas Leadership](#jpmorganchase-advent-of-code-leadership)
     - [JPMorganChase DjangoCon US Recap Presentation](#jpmorganchase-djangocon-us-recap-presentation)
-- [Parting Thoughts](#parting-thoughts)
+- [Looking Ahead to Next Year](#looking-ahead-to-next-year)
 - [More Favorite Snapshots Throughout The Year](#more-favorite-snapshots-throughout-the-year)
     - [Dallas Love Field Oath of Office Observation Deck](#dallas-love-field-oath-of-office-observation-deck)
     - [JPMorganChase Plano Breakfast Buffet](#jpmorganchase-plano-breakfast-buffet)
@@ -762,7 +762,7 @@ Me and Baxter's sister Jubilee after a Veterans Day Pinning Ceremony. She helped
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
     
-## Parting Thoughts
+## Looking Ahead to Next Year
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
