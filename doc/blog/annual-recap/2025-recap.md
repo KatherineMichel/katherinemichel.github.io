@@ -380,7 +380,7 @@ Me and my sweet Italian colleague from London trying on cowboy hats. He asked me
 
 ### Vonda Wright's Building Better Bone
 
-One of my managers from work randomly texted me to suggest that I watch [an interview](https://youtu.be/ffgpqk5hZBE?si=tJRCGOYYjrReQhAm) with an "amazing" doctor named Vonda Wright. He had no idea we are from the same town and that she was my childhood ballet teacher. Vonda is now a highly regarded orthopedic sports surgeon who trains high performance athletes and teaches women midlife and beyond how to reach "max badassery." 
+One of my managers from work randomly texted me to suggest that I watch [an interview](https://youtu.be/ffgpqk5hZBE?si=tJRCGOYYjrReQhAm) with an "amazing" doctor named Vonda Wright. He had no idea we are from the same small town and that she was my childhood ballet teacher. Vonda is now a highly regarded orthopedic sports surgeon who trains high performance athletes and teaches women midlife and beyond how to reach "max badassery." 
 
 ![](2025-recap-images/me-and-vonda.jpeg)
 Me and my incredible ballet teacher Vonda Wright in her studio at the back of her dad's shop in our hometown.
