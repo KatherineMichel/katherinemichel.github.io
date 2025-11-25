@@ -282,10 +282,6 @@ Jamie Dimon on stage
 ![](2025-recap-images/jamie-dimon-townhall-cole.jpg)
 Expert level: my friend Cole getting his AI podcast on Jamie's radar! Jamie asked him to send him the link. 
 
-<!--
-Jamie Dimon thanks employees at the end of the townhall I attended a month ago.
--->
-
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## April
@@ -298,7 +294,7 @@ Mom and I traveled to Belton, Missouri to attend my niece's last gymnastics meet
 
 #### La Nonna
 
-The evening before the meet, I googled "Best restaurant in Belton." The answer was La Nonna.
+The evening before the meet, I googled "Best restaurant in Belton." The answer was [La Nonna](https://www.orderlanonnabelton.com/).
 
 Mom wasn't too sure about the place, until the bread came out. It was heavenly.
 
@@ -324,10 +320,10 @@ Gymnastics tournament arena
 
 ### Lucy's Bakery
 
-JPMorganChase Plano invites local vendors to sell food at lunchtime. Lucy's Bakery is my favorite. They serve Argentinian empanadas and arepas (round, flat corn patty sliced open and filled with protein). Chicken is my go-to. 
+JPMorganChase Plano invites local vendors to sell food at lunchtime. [Lucy's Bakery](https://www.lucisbakery.com/) is my favorite. They serve Argentinian empanadas and arepas (round, flat corn patty sliced open and filled with protein). Chicken is my go-to. 
 
 ![](2025-recap-images/lucys-bakery.jpg)
-Arepa filled with chicken, rice, black beans, fried plantains, fried mozarella stick
+Arepa filled with chicken, rice, black beans, fried plantains, entrada (fried mozarella stick)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -337,9 +333,7 @@ Arepa filled with chicken, rice, black beans, fried plantains, fried mozarella s
 
 #### Hutchins BBQ
 
-<!--
-https://hutchinsbbq.com/
--->
+[Hutchins BBQ](https://hutchinsbbq.com/) is a must-visit when you are in Dallas. 
 
 ![](2025-recap-images/hutchins-bbq-me.jpg)
 Me in front of the world-famous Hutchins BBQ
@@ -354,7 +348,7 @@ Jalapeño sausage, Texas Twinkie, mac & cheese
 
 #### Battle House Laser Tag
 
-I played laser tag for the first time at a team-building event. My co-workers keep me young.
+I played laser tag for the first time at a team-building event at [Battle House](https://www.battlehouselasercombat.com/plano-tx/). My co-workers keep me young.
 
 ![](2025-recap-images/me-at-battle-house.jpg)
 Me kitted out for laser tag 
@@ -363,7 +357,7 @@ Me kitted out for laser tag
 
 #### Scheels Ferris Wheel
 
-Scheels in The Colony contains a 65-foot indoor Ferris wheel. It costs $1 to ride. I jumped at the chance. 
+[Scheels in The Colony](https://www.scheels.com/store/the-colony/096/) contains a 65-foot indoor Ferris wheel. It costs $1 to ride. I jumped at the chance. 
 
 ![](2025-recap-images/scheels-ferris-wheel.jpg)
 Scheels indoor Ferris wheel
@@ -372,7 +366,10 @@ Scheels indoor Ferris wheel
 
 #### Boot Barn
 
+A trip to [Boot Barn](https://www.bootbarn.com/stores?StoreID=0306) was in order. 
+
 ![](2025-recap-images/me-and-alked.jpeg)
+Me and my sweet Italian colleague from London trying on cowboy hats. He asked me for a selfie.
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -380,15 +377,17 @@ Scheels indoor Ferris wheel
 
 ### Vonda Wright's Building Better Bone
 
-One of my managers from work randomly texted me to suggest that I watch an interview with an "amazing" doctor named Vonda Wright. He had no idea we are from the same town and that she was my childhood ballet teacher. Vonda is now a highly regarded orthopedic sports surgeon who trains high performance athletes and teaches women midlife and beyond how to reach "max badassery." 
+One of my managers from work randomly texted me to suggest that I watch [an interview](https://youtu.be/ffgpqk5hZBE?si=tJRCGOYYjrReQhAm) with an "amazing" doctor named Vonda Wright. He had no idea we are from the same town and that she was my childhood ballet teacher. Vonda is now a highly regarded orthopedic sports surgeon who trains high performance athletes and teaches women midlife and beyond how to reach "max badassery." 
 
 ![](2025-recap-images/me-and-vonda.jpeg)
 Me and my incredible ballet teacher Vonda Wright in her studio at the back of her dad's shop in our hometown.
 
-As I get older, I have started to learn how underserved by the healthcare industry women midlife and beyond are. Vonda is trying to change that by starting the conversation and providing the most up-to-date, science-based knowledge and tools available. 
+As I get older, I have started to learn how underserved by the healthcare industry women midlife and beyond are. Dr. Vonda is trying to change that by starting the conversation and providing the most up-to-date, science-based knowledge and tools available. 
+
+Dr. Vonda has the bones of a 30-year-old. Bone health is an important topic that many of us do not know enough about until it's too late.
 
 ![](2025-recap-images/vonda-wright-building-better-bone.jpg)
-I bought Vonda's course Building Better Bone and am using it
+I signed up for the Building Better Bone course.
 
 <!--
 https://www.drvondawright.net/betterbone
@@ -398,7 +397,7 @@ https://www.drvondawright.net/betterbone
 
 ### Zero Latency Virtual Reality
 
-I experienced VR for the first time. It was amazing! So realistic. 
+I experienced VR for the first time at [Zero Latency Virtual Reality](https://zerolatencyvr.com/en/frisco). It was amazing! So realistic. 
 
 ![](2025-recap-images/zero-latency-vr-score-board.jpg)
 #4... not bad for a first-timer
@@ -423,14 +422,14 @@ After ~8 years on the DEFNA Board, I stepped down. This [thank you from the boar
 
 After I was diagnosed with high cholesterol last year, I began to adjust my eating habits in line with the recommendations of my doctor. After some health issues this year, including both a stomach bug and food poisoning, I wanted to start "eating clean" for good. I have replaced many high cholesterol foods with low-cholesterol alternatives. While I have not completely cut out red/poultry meat and dairy, by default, I do not eat it at home, and I eat it less often outside of home. On the occassion that I eat it, it is less impactful.  
 
-When I did my annual physical later in the year, I found out that this approach was highly effective, more effective than I had imagined. 
+When I did my annual physical later in the year, I had lost 16 pounds, my cholesterol was greatly reduced, and I did not need a prescription, to my great surprise. 
 
 Some favorite substitutions: 
 * Hummus and triscuits instead of dairy-based dip and potato chips
 * Grapes, strawberries, or blueberries instead of an egg, bacon, and croissant breakfast sandwich or afternoon snack containing refined sugar
 * A low cholesterol salad as a quick, healthy meal or snack
 * A salmon filet drizzled with olive oil, lemon juice, and a bit of honey, baked and served with steamed veggies or rice instead of a hamburger or dairy-based dinner
-* Almond milk instead of cow milk (not a doctor's recommendation, just a personal preference at times)
+* Almond milk or skim/low-fat milk instead of whole milk (almond milk is not a doctor's recommendation, just a personal preference at times)
 
 ![](2025-recap-images/giant-grapes.jpg)
 A giant black grape from Kroger compared to a red grape of more normal size. So delicious. You can practically eat them with a knife and fork. 
@@ -516,13 +515,13 @@ https://2025.djangocon.us/news/getting-to-know-folks/
 
 ### Vonda Wright's Unbreakable
 
-After I read an interview Vonda Wright did for The Times, I immediately bought her new book Unbreakable. I know she is a voice you can trust. Her words on page 23 of the Kindle version hit me: "Movement gives you agency over life." That is what it's about: agency over life. I immediately felt motivated to take action. I also love that she uses her dad Gene as an example in the book.
+After I read an interview Vonda Wright did for The Times, I immediately bought her new book [Unbreakable](https://www.drvondawright.com/resources/books/unbreakable). I know she is a voice you can trust. 
 
-<!--
-I am excited to learn the why and how and get started. 
+Her words on page 23 of the Kindle version hit me: "Movement gives you agency over life." That is what it's about: agency over life. 
 
-https://www.drvondawright.com/resources/books/unbreakable
--->
+I immediately felt motivated to take action. I also love that she uses her dad Gene as an example in the book.
+
+Along with the Building Better Bone course, it is a lifestyle change that I am in the process of implementing and will take time. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -532,7 +531,12 @@ https://www.drvondawright.com/resources/books/unbreakable
 
 ### Phil and Christine
 
+My friends and colleagues Phil and Christine visited Plano for DevUp, and we had time to hangout before I flew out for DjangoCon US in Chicago. 
+
+Phil was part of the interview process when I was hired at JPMorganChase and Christine and Julie were two of my teammates. I have learned so much from all of them!  
+
 ![](2025-recap-images/phil-me-julie-christine.jpeg)
+Phil, me, Julie, and Christine
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -547,10 +551,10 @@ https://katherinemichel.github.io/blog/conferences/djangocon-us-2025-recap.html
 
 ### Employee Appreciation Week
 
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
+I returned from DjangoCon US in time to enjoy the spoils of JPMorganChase Plano Employee Appreciation Week. 
 
 ![](2025-recap-images/me-and-street-art-plane.jpg)
-Me posing on street art
+Me posing on street art at our campus block party
 
 <!--
 ![](2025-recap-images/me-and-street-art-rock.jpg)
