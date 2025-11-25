@@ -535,7 +535,7 @@ Fortunately, my numbers are all trending toward optimal.
 
 ### Phil and Christine
 
-My friends and colleagues Phil and Christine visited Plano for DevUp, and we had time to hangout before I flew out for DjangoCon US in Chicago. 
+My friends and colleagues Phil and Christine visited Plano to speak at DevUp, an internal JPMorganChase conference, and we had time to hangout before I flew out for DjangoCon US in Chicago. 
 
 Phil was part of the interview process when I was hired at JPMorganChase and Christine and Julie were two of my teammates. I have learned so much from all of them!  
 
