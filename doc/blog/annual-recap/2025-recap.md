@@ -306,7 +306,7 @@ Dining at La Nonna
 
 #### Last Gymnastics Meet of the Season
 
-I've never been to a gymnastics tournament before. It was surreal to find out that famous gymnasts start out at tournaments just this and rise to the top of the sport. 
+I've never been to a gymnastics tournament before. It was surreal to find out that famous gymnasts start out at tournaments just like this and rise to the top of the sport. 
 
 My niece did well, and I interviewed her afterward for fun. She said, if I ever want to interview her again, she is happy to do it!
 
