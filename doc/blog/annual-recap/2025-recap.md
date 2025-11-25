@@ -697,7 +697,7 @@ Dutch Kitchen chicken and noodles special. So good!
 Me the day before my birthday
 
 ![](2025-recap-images/birthday-sky.jpg)
-The sky while driving home from my birthday dinner
+The incredible sky while driving home from my birthday dinner
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
