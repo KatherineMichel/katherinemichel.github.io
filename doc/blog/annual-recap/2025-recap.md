@@ -263,7 +263,7 @@ Me with a Texas longhorn!
 
 Last year, I set the goal to do random, fun things for my nieces. I continued this year. 
 
-I ordered a special delivery of board games and fun toys including Checkers, Chinese checkers, Twister, Trouble, Pictionary, Scrabble, Exploding Kittens, and Do you Really Know Your Family?. The Magic 8 Ball in particular was a big hit. 
+Just in time for spring break, I ordered a special delivery of board games and fun toys including Checkers, Chinese checkers, Twister, Trouble, Pictionary, Scrabble, Exploding Kittens, and Do you Really Know Your Family?. The Magic 8 Ball in particular was a big hit. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
