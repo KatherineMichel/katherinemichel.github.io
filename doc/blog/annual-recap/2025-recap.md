@@ -331,6 +331,8 @@ Arepa filled with chicken, rice, black beans, fried plantains, entrada (fried mo
 
 ### Fun in Dallas
 
+It was great hosting colleagues from London in Plano and a perfect opportunity to extend some Texas-style hospitality. Love that my work is a passport to the world.
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 #### Hutchins BBQ
@@ -344,7 +346,7 @@ Me in front of the world-famous Hutchins BBQ
 Hutchins BBQ main dining hall
 
 ![](2025-recap-images/hutchins-bbq-jalapeno-sausage-texas-twinkie-mac-and-cheese.jpg)
-Jalapeño sausage, Texas Twinkie, mac & cheese
+Jalapeño sausage, Texas Twinkie (a maple-syrup coated, bacon-wrapped jalapeño filled with brisket and cream cheese), mac & cheese
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
