@@ -627,7 +627,7 @@ Me in front of a yellowjacket sculpture made by a student
 
 #### Bucket List
 
-I crossed a couple of items off of my "bucket list." 
+I crossed a couple of items off of my "bucket list": a meal at The Kitchen Table and coffee at The Hive.  
 
 ![](2025-recap-images/the-kitchen-table-breakfast-buffet.jpg)
 The Kitchen Table's outstanding breakfast buffet
