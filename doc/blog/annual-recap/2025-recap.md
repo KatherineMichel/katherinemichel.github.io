@@ -425,9 +425,9 @@ After ~8 years on the DEFNA Board, I stepped down. This [thank you from the boar
 
 ### Eating Clean
 
-After I was diagnosed with high cholesterol last year, I began to adjust my eating habits in line with the recommendations of my doctor. After some health issues this year, including both a stomach bug and food poisoning, I wanted to start "eating clean" for good. I have replaced many high cholesterol foods with low-cholesterol alternatives. While I have not completely cut out red/poultry meat and dairy, by default, I do not eat it at home, and I eat it less often outside of home. On the occassion that I eat it, it is less impactful.  
+My cholesterol was first identified as being high at my work Wellness Screening in 2023. Although I brought it down, it was still considered high at my annual physical in 2024. I began to adjust my eating habits in line with the recommendations of my doctor. After some health issues this year, including both a stomach bug and food poisoning, I wanted to start "eating clean" for good. I have replaced many high cholesterol foods with low-cholesterol alternatives. While I have not completely cut out red/poultry meat and dairy, by default, I do not eat it at home, and I eat it less often outside of home. On the occassion that I eat it, it is less impactful.  
 
-When I did my annual physical later in the year, I had lost 16 pounds, my cholesterol was greatly reduced, and I did not need a prescription, to my great surprise. 
+When I did my annual physical later this year, I had lost 16 pounds, my cholesterol was greatly reduced, and I did not need a prescription, to my great surprise. 
 
 Some favorite substitutions: 
 * Hummus and triscuits instead of dairy-based dip and potato chips
@@ -525,6 +525,12 @@ Along with the Building Better Bone course, it is a lifestyle change that I am i
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Wellness Screening
+
+For the third year in a row, I took advantage of JPMorganChase wellness activities. After completing certain wellness activities, JPMorganChase will pay money into my MRA (Medical Reimbursement Account) and reduce my monthly insurance premiums. Although it’s not the primary reason to do it, it’s a nice incentive.
+
+At my wellness screening, my blood pressure and body mass index (BMI) were calculated, and a fingerstick was used to calculate my blood sugar, cholesterol and triglycerides. 
+
+Fortunately, my numbers are all trending toward optimal. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
