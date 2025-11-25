@@ -331,7 +331,7 @@ Arepa filled with chicken, rice, black beans, fried plantains, entrada (fried mo
 
 ### Fun in Dallas
 
-It was great hosting colleagues from London in Plano and a perfect opportunity to extend some Texas-style hospitality. Love that my work is a passport to the world.
+It was great hosting colleagues from London in Plano and a perfect opportunity to extend some Texas-style hospitality. I love that my work is a passport to the world.
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
