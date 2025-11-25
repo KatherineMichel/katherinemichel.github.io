@@ -758,7 +758,7 @@ Me and Baxter's sister Jubilee after a Veterans Day Pinning Ceremony. She helped
 
 ### JPMorganChase Three Year Work Anniversary
 
-![](2025-recap-images/jpmc-three-years.jpg)
+![](2025-recap-images/jpmc-three-years.png)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
     
