@@ -699,20 +699,22 @@ I judged a Halloween costume contest for the first time. It was a tough decision
 
 Spending time in Kansas gave me the opportunity to have some stellar meals at my favorite restaurants [Carriage Crossing](https://www.yoderkansas.com/carriagecrossing) and [Dutch Kitchen](https://www.dutchkitchenrestaurant.org/). 
 
+<!--
 ![](2025-recap-images/carriage-crossing.jpg)
 Carriage Crossing
+-->
 
 ![](2025-recap-images/carriage-crossing-breakfast.jpg)
-Carriage Crossing breakfast
+Carriage Crossing breakfast... homemade bread and the most delicous sausage gravy made with local sausage
 
 ![](2025-recap-images/carriage-crossing-cinnamon-rolls.jpg)
-Carriage Crossing Cinnamon Rolls
+Carriage Crossing cinnamon rolls
 
 ![](2025-recap-images/carriage-crossing-fried-chicken.jpg)
 Carriage Crossing fried chicken
 
 ![](2025-recap-images/carriage-crossing-cherry-crumble-pie-to-go.jpg)
-Carriage Crossing Cherry Crumble pie to-go
+Carriage Crossing cherry crumble pie to-go
 
 ![](2025-recap-images/dutch-kitchen-chicken-and-noodles.jpg)
 Dutch Kitchen chicken and noodles special. So good! 
