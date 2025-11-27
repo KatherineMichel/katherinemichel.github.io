@@ -583,10 +583,11 @@ https://www.facebook.com/3crazykids/posts/pfbid0RdvNS5W4Pu4bRKzggFsWrDz9G7xQMY5r
 
 ### Commit Your Code Conference
 
-<!--
-https://www.commityourcode.com/
-https://katherinemichel.github.io/blog/conferences/commit-your-code-2025-recap.html
--->
+I was able to spend time at [Commit Your Code conference](https://www.commityourcode.com/) held a few blocks away from JPMorganChase Plano. 
+
+A special thank you to Danny Thompson, Francesco Ciulla, Erik Weibust, Rizel Scarlett, and Mark Thompson for taking my experience to the next level. 
+
+I wrote up a [recap of my experience](https://katherinemichel.github.io/blog/conferences/commit-your-code-2025-recap.html). 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -594,13 +595,9 @@ https://katherinemichel.github.io/blog/conferences/commit-your-code-2025-recap.h
 
 ### Six Flags
 
-<!--
-https://www.sixflags.com/overtexas/attractions/new-texas-giant
--->
-
 JPMorganChase Plano offered discounted Six Flags tickets. I couldn't resist buying one. It had been years since I'd been to an amusement park. 
 
-I decided to go on the two most popular rollercoasters first and get that out of the way. So I trekked to the far corner of the park where The Texas Giant and Titan are. I encountered The Texas Giant first, so I went on it. Oh my. It was intense and relentless. I felt nauseous by the time I got off. I sat for a while outside of the Titan entryway, wondering if I could go on it, but I could see that it was similarly extreme. I decided to walk away. 
+I decided to go on the two most popular rollercoasters first and get that out of the way. So I trekked to the far corner of the park where The Texas Giant and Titan are. I encountered [The Texas Giant](https://www.sixflags.com/overtexas/attractions/new-texas-giant) first, so I went on it. Oh my. It was intense and relentless. I felt nauseous by the time I got off. I sat for a while outside of the Titan entryway, wondering if I could go on it, but I could see that it was similarly extreme. I decided to walk away. 
 
 As I was walking, I started to feel terrible. I walked straight into a bathroom, went into a stall, and threw up. 
 
@@ -690,6 +687,8 @@ Omelette and pancakes after my mammogram
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Halloween
+
+I had the pleasure of spending time at PSH on Halloween. 
 
 ![](2025-recap-images/me-and-mom-for-halloween.jpg)
 Mom and I before the nursing home Halloween party. She was wearing a skeleton costume that belonged to my Aunt Judy. I joked that I was dressed as a PSH volunteer. 
