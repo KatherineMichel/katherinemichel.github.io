@@ -697,10 +697,7 @@ I judged a Halloween costume contest for the first time. It was a tough decision
 
 ### Favorite Restaurants
 
-<!--
-https://www.yoderkansas.com/carriagecrossing
-https://www.dutchkitchenrestaurant.org/
--->
+Spending time in Kansas gave me the opportunity to have some stellar meals at my favorite restaurants [Carriage Crossing](https://www.yoderkansas.com/carriagecrossing) and [Dutch Kitchen](https://www.dutchkitchenrestaurant.org/). 
 
 ![](2025-recap-images/dutch-kitchen-chicken-and-noodles.jpg)
 Dutch Kitchen chicken and noodles special. So good! 
@@ -720,6 +717,8 @@ The incredible sky while driving home from my birthday dinner
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Elvis
+
+A nursing home resident invited her friend Elvis to entertain residents
 
 ![](2025-recap-images/elvis.jpg)
 Elvis holding court
