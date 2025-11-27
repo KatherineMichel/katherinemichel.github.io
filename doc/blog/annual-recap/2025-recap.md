@@ -827,9 +827,8 @@ Me next to a big truck...
 
 ### Baccus Cemetery
 
-<!--
-https://www.baccuscemetery.com/
--->
+![](2025-recap-images/baccus-cemetery.jpg)
+[Baccus Cemetery](https://www.baccuscemetery.com/)... earliest known marked burial in Plano and other local history
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
