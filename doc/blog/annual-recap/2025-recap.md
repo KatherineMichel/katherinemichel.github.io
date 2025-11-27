@@ -402,10 +402,8 @@ I experienced VR for the first time at [Zero Latency Virtual Reality](https://ze
 ![](2025-recap-images/zero-latency-virtual-reality-session.png)
 Me on the left in virtual reality
 
-<!--
 ![](2025-recap-images/zero-latency-vr-score-board.jpg)
 #4... not bad for a first-timer
--->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -669,7 +667,6 @@ Mom, a music therapist, at her keyboard.
 
 <!--
 ![](2025-recap-images/psh-flower.jpg)
-![](2025-recap-images/psh-pink-and-orange-roses.jpg)
 -->
 
 ![](2025-recap-images/psh-bingo.jpg)
