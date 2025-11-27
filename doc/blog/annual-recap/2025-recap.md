@@ -91,6 +91,7 @@ Table of Contents
     - [More Class Reunion](#more-class-reunion)
     - [IP Forum Breakfast Buffet](#ip-forum-breakfast-buffet)
     - [Sunrise on a Plane](#sunrise-on-a-plane)
+    - [Fried Green Tomato](#fried-green-tomato)
 
 <!--
     - [Innovation Week](#innovation-week)
@@ -910,5 +911,12 @@ Walked into a presentation and had an amazing breakfast…
 
 ![](2025-recap-images/sunrise-on-a-plane-pink-floyd.jpg)
 In a plane enroute to St. Louis. A Pink Floyd sunrise. 
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Fried Green Tomato
+
+![](2025-recap-images/fried-green-tomato.jpg)
+First time trying a fried green tomato. I had it at Grace Cafe. It was tasty! 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
