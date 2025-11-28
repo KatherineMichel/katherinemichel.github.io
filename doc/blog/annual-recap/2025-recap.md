@@ -713,8 +713,10 @@ Carriage Crossing cinnamon rolls
 ![](2025-recap-images/carriage-crossing-fried-chicken.jpg)
 Carriage Crossing fried chicken
 
+<!--
 ![](2025-recap-images/carriage-crossing-cherry-crumble-pie-to-go.jpg)
 Carriage Crossing cherry crumble pie to-go
+-->
 
 ![](2025-recap-images/dutch-kitchen-chicken-and-noodles.jpg)
 Dutch Kitchen chicken and noodles special. So good! 
@@ -740,7 +742,7 @@ The incredible sky while driving home from my birthday dinner
 
 ### Elvis
 
-A nursing home resident invited her friend Elvis to entertain residents
+Elvis visited PSH. 
 
 ![](2025-recap-images/elvis.jpg)
 Elvis holding court
