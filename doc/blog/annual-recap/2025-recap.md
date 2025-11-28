@@ -80,7 +80,7 @@ Table of Contents
     - [Dallas Love Field Oath of Office Observation Deck](#dallas-love-field-oath-of-office-observation-deck)
     - [JPMorganChase Plano Breakfast Buffet](#jpmorganchase-plano-breakfast-buffet)
     - [Coco Ichibanya](#coco-ichibanya)
-    - [More Fun in Dallas](#more-fun-in-dallas)
+    - [Big Truck](#big-truck)
     - [La La Land Banana Cream Top Latte](#la-la-land-banana-cream-top-latte)
     - [More Hutchins BBQ](#more-hutchins-bbq)
     - [Window Washer](#window-washer)
@@ -834,7 +834,7 @@ JPMorganChase Plano breakfast buffet
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### More Fun in Dallas
+### Big Truck
 
 ![](2025-recap-images/me-in-front-of-a-big-truck.jpg)
 Me next to a big truck...
