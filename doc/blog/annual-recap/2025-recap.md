@@ -82,7 +82,6 @@ Table of Contents
     - [Coco Ichibanya](#coco-ichibanya)
     - [More Fun in Dallas](#more-fun-in-dallas)
     - [La La Land Banana Cream Top Latte](#la-la-land-banana-cream-top-latte)
-    - [Baccus Cemetery](#baccus-cemetery)
     - [Cyber Truck](#cyber-truck)
     - [More Hutchins BBQ](#more-hutchins-bbq)
     - [Window Washer](#window-washer)
@@ -629,10 +628,12 @@ I crossed a couple of items off of my "bucket list": a meal at The Kitchen Table
 The Kitchen Table's outstanding breakfast buffet
 
 ![](2025-recap-images/the-hive-counter.jpg)
-Coffee at The Hive, a student-led coffee shop
+Coffee at The Hive, a student-led coffee shop. I had a Wake-Up Call. 
 
+<!--
 ![](2025-recap-images/the-hive-menu.jpg)
 I had a Wake-Up Call at The Hive
+-->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -667,10 +668,10 @@ Mom, a music therapist, at her keyboard.
 
 <!--
 ![](2025-recap-images/psh-flower.jpg)
--->
 
 ![](2025-recap-images/psh-bingo.jpg)
 Blackout! 
+-->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -719,8 +720,10 @@ Carriage Crossing cherry crumble pie to-go
 ![](2025-recap-images/dutch-kitchen-chicken-and-noodles.jpg)
 Dutch Kitchen chicken and noodles special. So good! 
 
+<!--
 ![](2025-recap-images/yoder-meats.jpg)
 While you are in the area, make a stop at Yoder Meats for delicious cheese, bierocks, baked goods, and other homestyle food. 
+-->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -844,12 +847,14 @@ Me next to a big truck...
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+<!--
 ### Baccus Cemetery
 
 ![](2025-recap-images/baccus-cemetery.jpg)
 [Baccus Cemetery](https://www.baccuscemetery.com/)... earliest known marked burial in Plano and other local history
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
+-->
 
 ### Cyber Truck
 
