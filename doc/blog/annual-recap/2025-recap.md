@@ -82,7 +82,6 @@ Table of Contents
     - [Coco Ichibanya](#coco-ichibanya)
     - [More Fun in Dallas](#more-fun-in-dallas)
     - [La La Land Banana Cream Top Latte](#la-la-land-banana-cream-top-latte)
-    - [Cyber Truck](#cyber-truck)
     - [More Hutchins BBQ](#more-hutchins-bbq)
     - [Window Washer](#window-washer)
     - [More Six Flags](#more-six-flags)
@@ -854,7 +853,6 @@ Me next to a big truck...
 [Baccus Cemetery](https://www.baccuscemetery.com/)... earliest known marked burial in Plano and other local history
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
--->
 
 ### Cyber Truck
 
@@ -862,6 +860,7 @@ Me next to a big truck...
 Tesla Cybertruck see-through roof
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
+--<
 
 ### More Hutchins BBQ
 
