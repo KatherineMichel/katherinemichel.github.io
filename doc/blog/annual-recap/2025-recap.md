@@ -862,7 +862,7 @@ Me next to a big truck...
 Tesla Cybertruck see-through roof
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
---<
+-->
 
 ### More Hutchins BBQ
 
