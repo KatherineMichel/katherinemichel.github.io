@@ -653,7 +653,7 @@ I enjoyed reconnecting with people and places I've known all my life.
 Fredonia United Methodist Church beef burger meal. My mom was the church organist for many years. 
 
 ![](2025-recap-images/mike-jeffers.jpg)
-At the band stand, Mike Jeffers, longtime President of First National Bank, was performing on the left. Mom and I went up to him afterwards to say hello. I commented that he'd given me my first loan and that it was for my first car. He immediately said "and you never missed a lick." Decades later, he remembered the loan and that I'd never missed a payment. It was for around $800 and a lot of money to me back then. Guidance Counselor Gene John helped me get a job at Dr. Rindt's Office and the loan. Two great men.
+At the band stand, Mike Jeffers, longtime President of First National Bank, was performing (on the left). Mom and I went up to him afterwards to say hello. I commented that he'd given me my first loan and that it was for my first car. He immediately said "and you never missed a lick." Decades later, he remembered the loan and that I'd never missed a payment. It was for around $800 and a lot of money to me back then. Guidance Counselor Gene John helped me get a job at Dr. Rindt's Office and the loan. Two great men.
 
 ![](2025-recap-images/me-and-rebecca-timmons.jpg)
 Me with my former boss and director Rebecca Timmons
