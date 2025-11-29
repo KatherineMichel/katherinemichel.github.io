@@ -682,7 +682,7 @@ It was a tough decision. The winning staff costume was "a flock of ostriches."
 
 ### Favorite Restaurants
 
-Spending time in Kansas gave me the opportunity to have some stellar meals at my favorite restaurants [Carriage Crossing](https://www.yoderkansas.com/carriagecrossing) and [Dutch Kitchen](https://www.dutchkitchenrestaurant.org/). 
+Spending time in Kansas also gave me the opportunity to have some stellar meals at my favorite restaurants [Carriage Crossing](https://www.yoderkansas.com/carriagecrossing) and [Dutch Kitchen](https://www.dutchkitchenrestaurant.org/). 
 
 ![](2025-recap-images/carriage-crossing-breakfast.jpg)
 Carriage Crossing breakfast... homemade bread and the most delicous sausage gravy, made with local sausage
