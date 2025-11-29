@@ -417,7 +417,7 @@ After ~8 years on the DEFNA Board, I stepped down. This [thank you from the boar
 
 My cholesterol was first identified as being high at my work Wellness Screening in 2023. I began to adjust my eating habits in line with the recommendations of my doctor. Since then, my numbers have consistently improved. This year, I decided to go all-in on "eating clean." I replaced high cholesterol foods in my apartment with low-cholesterol alternatives. While I have not completely cut out red meat, poultry, and dairy, by default, I do not eat them at home, and I eat them less often outside of home.  
 
-When I did my annual physical later this year, I had lost 16 pounds, my cholesterol was greatly reduced, and I did not need a prescription, to my surprise. 
+When I did my annual physical later in the year, the results were amazing. 
 
 Some favorite substitutions: 
 * Hummus and triscuits instead of dairy-based dip and potato chips
@@ -562,10 +562,16 @@ A yummy Mick Jagger mocktail
 
 ### Annual Physical
 
-<!--
-Dermatologist
-https://www.facebook.com/3crazykids/posts/pfbid0RdvNS5W4Pu4bRKzggFsWrDz9G7xQMY5rMTfLXHQnvfFM6zMu8dHTPrRhJp6nw9N5l
--->
+Last year, for the first time, my doctor and I created a comprehensive, longterm annual preventative care plan. I completed a full physical, mammogram, and got up-to-date with my vaccinations again. After cutting most high cholesterol foods out of my diet and eating more fruits and vegetables, I had lost 16 pounds and my bad cholesterol was greatly reduced. My doctor assured me that I did not need a prescription, to my surprise, something I had assumed would be inevitable. This only motivated me to eat even better. 
+
+I asked for a dermatologist visit to be added to my preventative care regimen. In August, a college sorority sister of mine [revealed](https://www.facebook.com/3crazykids/posts/pfbid0RdvNS5W4Pu4bRKzggFsWrDz9G7xQMY5rMTfLXHQnvfFM6zMu8dHTPrRhJp6nw9N5l) that she had been diagnosed with Stage 4 Metastatic Melanoma with mets in her liver, lungs, brain, and soft tissue. She's a redhead with fair skin. She knew she was at higher risk, but never had a checkup. She made the news public, believing that if her story helped someone else prevent skin cancer, it would be worth it. 
+
+Although I have no cause for concern, it's a good idea. 
+
+![](2025-recap-images/original-house-of-pancakes-omelette.jpg)
+Omelette and pancakes after my mammogram
+
+I feel fortunate to be healthy.
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -665,15 +671,6 @@ Mom, a music therapist, at her keyboard.
 ![](2025-recap-images/psh-bingo.jpg)
 Blackout! 
 -->
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-### Mammogram
-
-Fortunate to be healthy
-
-![](2025-recap-images/original-house-of-pancakes-omelette.jpg)
-Omelette and pancakes after my mammogram
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
