@@ -686,7 +686,7 @@ Omelette and pancakes after my mammogram
 
 I had the pleasure of spending time at Prairie Sunset Home on Halloween. 
 
-![](2025-recap-images/me-and-mom-for-halloween.jpg)
+![](2025-recap-images/psh-me-and-mom-for-halloween.jpg)
 Mom and I before the Halloween party. She was wearing a skeleton costume that belonged to my Aunt Judy. I joked that I was dressed as a Prairie Sunset Home volunteer. 
 
 ![](2025-recap-images/halloween-costume-contest.jpg)
