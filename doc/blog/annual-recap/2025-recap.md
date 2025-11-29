@@ -23,7 +23,6 @@ Table of Contents
     - [Trip to Belton, Missouri](#trip-to-belton-missouri)
         - [La Nonna](#la-nonna)
         - [Last Gymnastics Meet of the Season](#last-gymnastics-meet-of-the-season)
-    - [Investment](#investment)
     - [Lucy's Bakery](#lucys-bakery)
     - [Fun in Dallas](#fun-in-dallas)
         - [Hutchins BBQ](#hutchins-bbq)
@@ -310,10 +309,6 @@ My niece did well, and I interviewed her afterward for fun. She said, if I ever 
 
 ![](2025-recap-images/gymnastics-tournament.jpg)
 Gymnastics tournament arena
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-### Investment
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
