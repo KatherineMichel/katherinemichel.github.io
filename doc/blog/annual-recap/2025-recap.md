@@ -472,7 +472,7 @@ I wrote a [short reflection](https://katherinemichel.github.io/blog/personal/hap
 
 ### Mom Meets Rodeo Royalty
 
-I always enjoy seeing mom have fun at work. When the rodeo comes to town, the celebrities stop by the nursing home where she works to meet the residents. 
+I always enjoy seeing mom have fun at work. When the rodeo comes to town, the celebrities stop by Prairie Sunset Home, the nursing home where she works, to meet the residents. 
 
 ![](2025-recap-images/mom-and-rodeo-royalty-justin-rumford.jpg)
 Mom with local Barrelman Justin Rumford, one of the most decorated entertainers in the history of the PRCA (10x Clown of the Year)
@@ -658,6 +658,8 @@ Me with my former boss and director Rebecca Timmons
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Prairie Sunset Home
+
+I am a longtime volunteer at Prairie Sunset Home. Spending some time in Kansas gave me the opportunity to do some volunteering. 
 
 ![](2025-recap-images/psh-mom-at-her-keyboard.jpg)
 Mom, a music therapist, at her keyboard. 
