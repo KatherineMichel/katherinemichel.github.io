@@ -618,13 +618,13 @@ Me in front of a yellowjacket sculpture made by a student
 
 #### Bucket List
 
-I crossed a couple of items off of my "bucket list": a meal at The Kitchen Table and coffee at The Hive.  
+I crossed a couple of items off of my "bucket list": a meal at The Kitchen Table, a restaurant and bakery specializing in homestyle favorites, and coffee at The Hive, a student-led coffee shop.  
 
 ![](2025-recap-images/the-kitchen-table-breakfast-buffet.jpg)
 The Kitchen Table's outstanding breakfast buffet
 
 ![](2025-recap-images/the-hive-counter.jpg)
-Coffee at The Hive, a student-led coffee shop. I had a signature Wake-Up Call. 
+Coffee at The Hive. I had a signature Wake-Up Call. 
 
 <!--
 ![](2025-recap-images/the-hive-menu.jpg)
