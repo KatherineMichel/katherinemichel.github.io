@@ -14,7 +14,7 @@ Table of Contents
 - [This Year's Theme](#this-years-theme)
 - [Work](#work)
 - [January](#january)
-    - [Christmas on New Year's Eve in Lawrence](#christmas-on-near-years-eve-in-lawrence)
+    - [Christmas on New Year's Eve](#christmas-on-near-years-eve)
 - [March](#march)
     - [Texas Tuesday Longhorn](#texas-tuesday-longhorn)
     - [Spring Fun for My Nieces](#spring-fun-for-my-nieces)
@@ -241,7 +241,7 @@ You can read my [2024 Recap](https://katherinemichel.github.io/blog/annual-recap
 
 ## January 
 
-### Christmas on New Year's Eve in Lawrence
+### Christmas on New Year's Eve
       
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
