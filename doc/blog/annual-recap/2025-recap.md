@@ -456,13 +456,11 @@ Special delivery of stroopwafels!
 
 ### Summer Fun for My Nieces
 
-<!--
-Gymnastics Donation
-
-Fundraiser and lemonade stand
-
-Gymnastics Inflatable Mat and Sewing Supplies
--->
+In keeping with my plan to do more random, fun things for my nieces, I supported their hobbies.
+* Lemonade stand donation (proceeds went to gymanstics)
+* Gymnastics fundraiser donation
+* Gymnastics inflatable mat
+* Sewing supplies money
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
