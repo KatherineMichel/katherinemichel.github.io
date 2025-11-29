@@ -414,7 +414,7 @@ After ~8 years on the DEFNA Board, I stepped down. This [thank you from the boar
 
 ### Eating Clean
 
-My cholesterol was first identified as being high at my work Wellness Screening in 2023. I began to adjust my eating habits in line with the recommendations of my doctor. Since then, my numbers have consistently improved. This year, I decided to go all-in on "eating clean." I replaced high cholesterol foods in my apartment with low-cholesterol alternatives. While I have not completely cut out red meat, poultry, and dairy, by default, I do not eat them at home, and I eat them less often outside of home.  
+My cholesterol was identified as being high at my work wellness screening in 2023. I began to adjust my eating habits in line with the recommendations of my doctor. Since then, my numbers have consistently improved. This year, I decided to go all-in on "eating clean." I replaced high cholesterol foods in my apartment with low-cholesterol alternatives. While I have not completely cut out red meat, poultry, and dairy, by default, I do not eat them at home, and I eat them less often outside of home.  
 
 When I did my annual physical later in the year, the results were amazing. 
 
