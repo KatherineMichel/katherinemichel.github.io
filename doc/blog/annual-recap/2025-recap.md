@@ -456,8 +456,8 @@ Special delivery of stroopwafels!
 
 ### Summer Fun for My Nieces
 
-In keeping with my plan to do more random, fun things for my nieces, I supported their hobbies.
-* Lemonade stand donation (proceeds went to gymanstics)
+In keeping with my plan to do more random, fun things for my nieces, I supported their hobbies:
+* Lemonade stand donation (proceeds went to gymnastics)
 * Gymnastics fundraiser donation
 * Gymnastics inflatable mat
 * Sewing supplies money
