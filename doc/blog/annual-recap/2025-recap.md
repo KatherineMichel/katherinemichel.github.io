@@ -61,8 +61,7 @@ Table of Contents
         - [Class Reunion](#class-reunion)
         - [Homecoming](#homecoming)
     - [Prairie Sunset Home](#prairie-sunset-home)
-    - [Mammogram](#mammogram)
-    - [Halloween](#halloween)
+        - [Halloween](#halloween)
     - [Favorite Restaurants](#favorite-restaurants)
 - [November](#november)
     - [Birthday](#birthday)
@@ -667,24 +666,17 @@ I am a longtime volunteer at Prairie Sunset Home. Spending some time in Kansas g
 ![](2025-recap-images/psh-mom-at-her-keyboard.jpg)
 Mom, a music therapist, at her keyboard. 
 
-<!--
-![](2025-recap-images/psh-flower.jpg)
-
-![](2025-recap-images/psh-bingo.jpg)
-Blackout! 
--->
-
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Halloween
+#### Halloween
 
-I had the pleasure of spending time at Prairie Sunset Home on Halloween. 
+I judged a Halloween costume contest for the first time. 
 
 ![](2025-recap-images/psh-me-and-mom-for-halloween.jpg)
 Mom and I before the Halloween party. She was wearing a skeleton costume that belonged to my Aunt Judy. I joked that I was dressed as a Prairie Sunset Home volunteer. 
 
 ![](2025-recap-images/halloween-costume-contest.jpg)
-I judged a Halloween costume contest for the first time. It was a tough decision. The winning staff costume was "a flock of ostriches." 
+It was a tough decision. The winning staff costume was "a flock of ostriches." 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -778,7 +770,7 @@ Me and Baxter's sister Jubilee after a Veterans Day Pinning Ceremony. She helped
 ![](2025-recap-images/jpmc-three-years.png)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
-    
+
 ## December
 
 ### JPMorganChase Advent of Code Texas Leadership
@@ -923,6 +915,16 @@ Walked into a presentation and had an amazing breakfast…
 
 ![](2025-recap-images/sunrise-on-a-plane-pink-floyd.jpg)
 In a plane enroute to St. Louis. A Pink Floyd sunrise. 
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Prairie Sunset Home
+
+![](2025-recap-images/psh-flower.jpg)
+A row of flowers on a gorgeous plant mom pointed out to me
+
+![](2025-recap-images/psh-bingo.jpg)
+Blackout! 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
