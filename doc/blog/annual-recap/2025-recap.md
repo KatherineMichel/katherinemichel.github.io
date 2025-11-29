@@ -544,7 +544,7 @@ I attended DjangoCon US, and it was truly epic. I wrote a [deep-dive about my ex
 
 ### Featured Three Times in Django News
 
-It's always an honor to be featured in Django News. I was featured three times in 2025, as far as I know. 
+It's always an honor to be featured in Django News. I was featured three times in 2025, that I know of. 
 * [Happy Birthday, Django! in Issue 294](https://django-news.com/issues/294#start)
 * [Getting to know folks: a preference interview in Issue 296](https://django-news.com/issues/296#start)
 * [DjangoCon US Recap in Issue 303](https://django-news.com/issues/303#start)
