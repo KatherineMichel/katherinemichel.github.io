@@ -724,9 +724,9 @@ While you are in the area, make a stop at Yoder Meats for delicious cheese, bier
 
 ## November
 
-Thankful for every day
-
 ### Birthday
+
+Thankful for every day
 
 ![](2025-recap-images/it-me.jpg)
 Me the day before my birthday
