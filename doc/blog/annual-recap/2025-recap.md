@@ -317,7 +317,7 @@ Gymnastics tournament arena
 JPMorganChase Plano invites local vendors to sell food at lunchtime. [Lucy's Bakery](https://www.lucisbakery.com/) is my favorite. They serve Argentinian empanadas and arepas (round, flat corn patty sliced open and filled with protein). Chicken is my go-to. 
 
 ![](2025-recap-images/lucys-bakery.jpg)
-Arepa filled with chicken, rice, black beans, fried plantains, entrada (fried mozarella stick)
+Arepa filled with chicken, rice, black beans, fried plantains, entrada (fried mozzarella stick)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -373,7 +373,7 @@ Me and my sweet Italian colleague from London trying on cowboy hats. He asked me
 
 ### Vonda Wright's Building Better Bone
 
-One of my managers from work randomly texted me to suggest that I watch [an interview](https://youtu.be/ffgpqk5hZBE?si=tJRCGOYYjrReQhAm) with an "amazing" doctor named Vonda Wright. He had no idea we are from the same small town and that she was my childhood ballet teacher. Vonda is now a highly regarded orthopedic sports surgeon who trains high performance athletes and teaches women midlife and beyond how to reach "max badassery." 
+One of my managers from work randomly texted me to suggest that I watch [an interview](https://youtu.be/ffgpqk5hZBE?si=tJRCGOYYjrReQhAm) with an "amazing" doctor named Vonda Wright. He had no idea we were from the same small town and that she was my childhood ballet teacher. Vonda is now a highly regarded orthopedic sports surgeon who trains high performance athletes and teaches women midlife and beyond how to reach "max badassery." 
 
 ![](2025-recap-images/me-and-vonda.jpeg)
 Me and my incredible ballet teacher Vonda Wright in her studio at the back of her dad's shop in our hometown.
@@ -827,7 +827,7 @@ Me next to a big truck...
 ### La La Land Banana Cream Top Latte
 
 ![](2025-recap-images/lala-land-banana-cream-top-latte.jpg)
-[La La Land](https://lalalandkindcafe.com/pages/menu) Banana Cream Top Latte... so delicous. Fresh banana, secret sauce, vanilla bean cloud, cinnamon, expresso, ice. 
+[La La Land](https://lalalandkindcafe.com/pages/menu) Banana Cream Top Latte... so delicious. Fresh banana, secret sauce, vanilla bean cloud, cinnamon, espresso, ice. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -884,7 +884,7 @@ Harvest moon as seen from JPMorganChase Plano
 ### More Class Reunion
 
 ![](2025-recap-images/tri-mee-meal.jpg)
-Our Airbnb was conveniently located directly across the street from Tri-Mee, a Fredonia institution. We walked acoss for a jumbo beef burger, Frito Pie, fries, and chocolate milk shake. I hadn't had a beef burger in years and had two of them within 24 hours in Fredonia. The town has a beef burger thing.
+Our Airbnb was conveniently located directly across the street from Tri-Mee, a Fredonia institution. We walked across for a jumbo beef burger, Frito Pie, fries, and chocolate milk shake. I hadn't had a beef burger in years and had two of them within 24 hours in Fredonia. The town has a beef burger thing.
 
 ![](2025-recap-images/the-kitchen-table-baked-goods.jpg)
 Baked goods at The Kitchen Table
