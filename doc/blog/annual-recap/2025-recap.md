@@ -86,6 +86,7 @@ Table of Contents
     - [More Class Reunion](#more-class-reunion)
     - [IP Forum Breakfast Buffet](#ip-forum-breakfast-buffet)
     - [Sunrise on a Plane](#sunrise-on-a-plane)
+    - [More Prairie Sunset Home](#more-prairie-sunset-home)
     - [Fried Green Tomato](#fried-green-tomato)
 
 <!--
@@ -891,11 +892,6 @@ Baked goods at The Kitchen Table
 ![](2025-recap-images/wilson-county-historical-society-janell-smith-carson.jpg)
 [Wilson County Historical Society](https://www.wilsoncountykshistoricalsociety.org/) Janell Smith-Carson exhibit. A Fredonia native, she competed in the women's 400 metres at the 1964 Summer Olympics.
 
-<!--
-![](2025-recap-images/the-hive-entryway.jpg)
-The Hive entryway
--->
-
 ![](2025-recap-images/me-and-sandy-mcbride-turner.jpg)
 Me with my former co-worker Sandy McBride-Turner
 
@@ -918,7 +914,7 @@ In a plane enroute to St. Louis. A Pink Floyd sunrise.
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Prairie Sunset Home
+### More Prairie Sunset Home
 
 ![](2025-recap-images/psh-flower.jpg)
 A row of flowers on a gorgeous plant mom pointed out to me
