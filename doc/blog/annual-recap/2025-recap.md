@@ -684,10 +684,10 @@ Omelette and pancakes after my mammogram
 
 ### Halloween
 
-I had the pleasure of spending time at PSH on Halloween. 
+I had the pleasure of spending time at Prairie Sunset Home on Halloween. 
 
 ![](2025-recap-images/me-and-mom-for-halloween.jpg)
-Mom and I before the Halloween party. She was wearing a skeleton costume that belonged to my Aunt Judy. I joked that I was dressed as a PSH volunteer. 
+Mom and I before the Halloween party. She was wearing a skeleton costume that belonged to my Aunt Judy. I joked that I was dressed as a Prairie Sunset Home volunteer. 
 
 ![](2025-recap-images/halloween-costume-contest.jpg)
 I judged a Halloween costume contest for the first time. It was a tough decision. The winning staff costume was "a flock of ostriches." 
@@ -738,7 +738,7 @@ The incredible sky while driving home from my birthday dinner
 
 ### Elvis
 
-Elvis visited PSH. 
+Elvis visited Prairie Sunset Home. 
 
 ![](2025-recap-images/elvis.jpg)
 Elvis holding court
@@ -759,7 +759,7 @@ Northern Lights in rural Kansas
 
 ### Therapy Dogs
 
-I love spending time with my therapy dog friends. 
+I love spending time with my therapy dog friends at Prairie Sunset Home. 
 
 ![](2025-recap-images/lulu-giving-a-hug.jpg)
 Lulu giving me another hug before Elvis performed
@@ -905,8 +905,10 @@ Baked goods at The Kitchen Table
 ![](2025-recap-images/wilson-county-historical-society-janell-smith-carson.jpg)
 [Wilson County Historical Society](https://www.wilsoncountykshistoricalsociety.org/) Janell Smith-Carson exhibit. A Fredonia native, she competed in the women's 400 metres at the 1964 Summer Olympics.
 
+<!--
 ![](2025-recap-images/the-hive-entryway.jpg)
 The Hive entryway
+-->
 
 ![](2025-recap-images/me-and-sandy-mcbride-turner.jpg)
 Me with my former co-worker Sandy McBride-Turner
