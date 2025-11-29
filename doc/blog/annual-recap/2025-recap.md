@@ -545,9 +545,10 @@ Phil, me, Julie, and Christine
 
 ### DjangoCon US
 
+I attended DjangoCon US last month, and it was truly epic. I wrote a [deep-dive about my experience](https://katherinemichel.github.io/blog/conferences/djangocon-us-2025-recap.html). Thank you to everyone who brought the knowledge and fun! Can't wait for next year. 
+
 <!--
 How many times was I featured in Django News this year? 
-https://katherinemichel.github.io/blog/conferences/djangocon-us-2025-recap.html
 -->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
