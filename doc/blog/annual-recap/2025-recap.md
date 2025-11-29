@@ -40,8 +40,6 @@ Table of Contents
     - [Eating Clean](#eating-clean)
     - [Stroopwafels](#stroopwafels)
     - [Summer Fun for My Nieces](#summer-fun-for-my-nieces)
-        - [Gymnastics Donation](#gymnastics-donation)
-        - [Gymnastics Inflatable Mat and Sewing Supplies](#gymnastics-inflatable-and-sewing-supplies)
     - [Django's 20th Birthday](#djangos-20th-birthday)
     - [Mom Meets Rodeo Royalty](#mom-meets-rodeo-royalty)
 - [August](#august)
@@ -458,17 +456,13 @@ Special delivery of stroopwafels!
 
 ### Summer Fun for My Nieces
 
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-#### Gymnastics Donation
-
 <!--
+Gymnastics Donation
+
 Fundraiser and lemonade stand
+
+Gymnastics Inflatable Mat and Sewing Supplies
 -->
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-#### Gymnastics Inflatable Mat and Sewing Supplies
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
