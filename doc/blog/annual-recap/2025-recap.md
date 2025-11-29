@@ -685,7 +685,7 @@ Omelette and pancakes after my mammogram
 I had the pleasure of spending time at PSH on Halloween. 
 
 ![](2025-recap-images/me-and-mom-for-halloween.jpg)
-Mom and I before the nursing home Halloween party. She was wearing a skeleton costume that belonged to my Aunt Judy. I joked that I was dressed as a PSH volunteer. 
+Mom and I before the Halloween party. She was wearing a skeleton costume that belonged to my Aunt Judy. I joked that I was dressed as a PSH volunteer. 
 
 ![](2025-recap-images/halloween-costume-contest.jpg)
 I judged a Halloween costume contest for the first time. It was a tough decision. The winning staff costume was "a flock of ostriches." 
