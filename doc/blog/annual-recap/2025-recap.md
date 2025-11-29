@@ -624,7 +624,7 @@ I crossed a couple of items off of my "bucket list": a meal at The Kitchen Table
 The Kitchen Table's outstanding breakfast buffet
 
 ![](2025-recap-images/the-hive-counter.jpg)
-Coffee at The Hive, a student-led coffee shop. I had a Wake-Up Call. 
+Coffee at The Hive, a student-led coffee shop. I had a signature Wake-Up Call. 
 
 <!--
 ![](2025-recap-images/the-hive-menu.jpg)
