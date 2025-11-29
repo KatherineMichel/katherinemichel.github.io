@@ -562,7 +562,9 @@ A yummy Mick Jagger mocktail
 
 ### Annual Physical
 
-Last year, for the first time, my doctor and I created a comprehensive, longterm annual preventative care plan. I completed a full physical, mammogram, and got up-to-date with my vaccinations again. After cutting most high cholesterol foods out of my diet and eating more fruits and vegetables, I had lost 16 pounds and my bad cholesterol was greatly reduced. My doctor assured me that I did not need a prescription, to my surprise, something I had assumed would be inevitable. This only motivated me to eat even better. 
+I completed a full physical, mammogram, and got up-to-date with my vaccinations again. 
+
+After cutting most high cholesterol foods out of my diet and eating more fruits and vegetables, I had lost 16 pounds and my bad cholesterol was greatly reduced. My doctor assured me that I did not need a prescription, to my surprise, something I had assumed would be inevitable. This only motivated me to eat even better. 
 
 I asked for a dermatologist visit to be added to my preventative care regimen. In August, a college sorority sister of mine [revealed](https://www.facebook.com/3crazykids/posts/pfbid0RdvNS5W4Pu4bRKzggFsWrDz9G7xQMY5rMTfLXHQnvfFM6zMu8dHTPrRhJp6nw9N5l) that she had been diagnosed with Stage 4 Metastatic Melanoma with mets in her liver, lungs, brain, and soft tissue. She's a redhead with fair skin. She knew she was at higher risk, but never had a checkup. She made the news public, believing that if her story helped someone else prevent skin cancer, it would be worth it. 
 
