@@ -52,6 +52,7 @@ Table of Contents
     - [Wellness Screening](#wellness-screening)
     - [Phil and Christine](#phil-and-christine)
     - [DjangoCon US](#djangocon-us)
+    - [Featured Three Times in Django News](#featured-three-times-in-django-news)
     - [Employee Appreciation Week](#employee-appreciation-week)
     - [Annual Physical](#annual-physical)
     - [Commit Your Code Conference](#commit-your-code-conference)
@@ -547,11 +548,14 @@ Phil, me, Julie, and Christine
 
 I attended DjangoCon US last month, and it was truly epic. I wrote a [deep-dive about my experience](https://katherinemichel.github.io/blog/conferences/djangocon-us-2025-recap.html). Thank you to everyone who brought the knowledge and fun! Can't wait for next year. 
 
-<!--
-How many times was I featured in Django News this year? 
--->
-
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Featured Three Times in Django News
+
+It's always an honor to be featured in Django News. I was featured three times in 2025, as far as I know. 
+* [Happy Birthday, Django! in Issue 294](https://django-news.com/issues/294#start)
+* [Getting to know folks: a preference interview in Issue 296](https://django-news.com/issues/296#start)
+* [DjangoCon US Recap in Issue 303](https://django-news.com/issues/303#start)
 
 ### Employee Appreciation Week
 
