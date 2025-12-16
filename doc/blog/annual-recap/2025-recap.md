@@ -88,6 +88,7 @@ Table of Contents
     - [Sunrise on a Plane](#sunrise-on-a-plane)
     - [More Prairie Sunset Home](#more-prairie-sunset-home)
     - [Fried Green Tomato](#fried-green-tomato)
+    - [Orchid](#orchid)
 
 <!--
     - [Innovation Week](#innovation-week)
@@ -435,8 +436,8 @@ Strawberries and plain Greek yogurt
 ![](2025-recap-images/low-cholesterol-salad.jpg)
 A low-cholesterol salad (lettuce, low-cholesterol dressing, half an avocado, hard-boiled egg with the yolk removed, veggies)
 
-![](2025-recap-images/salmon-and-broccoli-cauliflower-mix.jpg)
-A baked salmon filet served with steamed broccoli and cauliflower (I use Kroger 2 lb "Big Deal" individually wrapped Atlantic salmon portions that can be cooked from frozen. They are tastier and more convenient than the pink salmon version.)
+![](2025-recap-images/salmon-and-sweet-corn.jpg)
+A baked salmon filet served with steamed sweet corn (I use Kroger 2 lb "Big Deal" individually wrapped Atlantic salmon portions that can be cooked from frozen. They are tastier and more convenient than the pink salmon version.)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -694,18 +695,8 @@ Carriage Crossing cinnamon rolls
 ![](2025-recap-images/carriage-crossing-fried-chicken.jpg)
 Carriage Crossing fried chicken
 
-<!--
-![](2025-recap-images/carriage-crossing-cherry-crumble-pie-to-go.jpg)
-Carriage Crossing cherry crumble pie to-go
--->
-
 ![](2025-recap-images/dutch-kitchen-chicken-and-noodles.jpg)
 Dutch Kitchen chicken and noodles special. So good! 
-
-<!--
-![](2025-recap-images/yoder-meats.jpg)
-While you are in the area, make a stop at Yoder Meats for delicious cheese, bierocks, baked goods, and other homestyle food. 
--->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -754,16 +745,19 @@ Lulu giving me another hug before Elvis performed
 ![](2025-recap-images/me-and-jubilee.jpg)
 Me and Baxter's sister Jubilee after a Veterans Day Pinning Ceremony. She helped with the ceremony!
 
-Me and "The Little Dog"
+![](2025-recap-images/me-and-the-little-dog.jpg)
+Me and "The Little Dog" (yes, that's her name). She is cute as a bug and could star in her own adventure movie!
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 <!--
+pasta-bar-fresh-pasta.jpg
+pasta-bar-plate.jpg
+btk-house.jpg
+-->
+
+<!--
 ### Digitizing
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-### T-shirts
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 -->
@@ -832,22 +826,6 @@ Me next to a big truck...
 [La La Land](https://lalalandkindcafe.com/pages/menu) Banana Cream Top Latte... so delicious. Fresh banana, secret sauce, vanilla bean cloud, cinnamon, espresso, ice. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-<!--
-### Baccus Cemetery
-
-![](2025-recap-images/baccus-cemetery.jpg)
-[Baccus Cemetery](https://www.baccuscemetery.com/)... earliest known marked burial in Plano and other local history
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-### Cyber Truck
-
-![](2025-recap-images/tesla-cybertruck-see-through-roof.jpg)
-Tesla Cybertruck see-through roof
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
--->
 
 ### More Hutchins BBQ
 
@@ -930,5 +908,19 @@ Blackout!
 
 ![](2025-recap-images/fried-green-tomato.jpg)
 First time trying a fried green tomato. I had it at Grace Cafe. It was tasty! 
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Orchid
+
+![](2025-recap-images/orchid.jpg)
+A beautiful orchid
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Amaryllis
+
+![](2025-recap-images/amaryllis.jpg)
+A gorgeouso amaryllis
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
