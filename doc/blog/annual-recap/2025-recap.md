@@ -751,12 +751,6 @@ pasta-bar-plate.jpg
 btk-house.jpg
 -->
 
-<!--
-### Digitizing
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
--->
-
 ### JPMorganChase Three Year Work Anniversary
 
 ![](2025-recap-images/jpmc-three-years.png)
