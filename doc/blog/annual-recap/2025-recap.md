@@ -889,17 +889,17 @@ In a plane enroute to St. Louis. A Pink Floyd sunrise.
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Fried Green Tomato
-
-![](2025-recap-images/fried-green-tomato.jpg)
-First time trying a fried green tomato. I had it at Grace Cafe. It was tasty! 
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
 ### Orchid
 
 ![](2025-recap-images/orchid.jpg)
 A beautiful orchid
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Fried Green Tomato
+
+![](2025-recap-images/fried-green-tomato.jpg)
+First time trying a fried green tomato. I had it at Grace Cafe. It was tasty! 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
