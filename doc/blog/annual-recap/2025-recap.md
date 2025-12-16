@@ -754,6 +754,8 @@ Lulu giving me another hug before Elvis performed
 ![](2025-recap-images/me-and-jubilee.jpg)
 Me and Baxter's sister Jubilee after a Veterans Day Pinning Ceremony. She helped with the ceremony!
 
+Me and "The Little Dog"
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 <!--
