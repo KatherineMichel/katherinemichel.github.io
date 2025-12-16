@@ -272,7 +272,7 @@ When I found out he was visiting again to do a townhall, I had to attend.
 
 I saw the Queen of England in-person a few times. Jamie Dimon might be the second-most influential person I've ever seen. He was exactly the same as he is on TV. 
 
-I arrived at 11:30 am and had 40 people waiting in line in front of me. I got a great seat! 
+I had 40 people waiting in line in front of me. I got a great seat! 
 
 ![](2025-recap-images/jamie-dimon-townhall.jpg)
 Jamie Dimon on stage
