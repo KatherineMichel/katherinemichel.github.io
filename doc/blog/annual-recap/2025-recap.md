@@ -86,9 +86,9 @@ Table of Contents
     - [More Class Reunion](#more-class-reunion)
     - [IP Forum Breakfast Buffet](#ip-forum-breakfast-buffet)
     - [Sunrise on a Plane](#sunrise-on-a-plane)
-    - [More Prairie Sunset Home](#more-prairie-sunset-home)
     - [Fried Green Tomato](#fried-green-tomato)
     - [Orchid](#orchid)
+    - [Amaryllis](#amaryllis)
 
 <!--
     - [Innovation Week](#innovation-week)
@@ -630,11 +630,6 @@ The Kitchen Table's outstanding breakfast buffet
 ![](2025-recap-images/the-hive-counter.jpg)
 Coffee at The Hive. I had a signature Wake-Up Call. 
 
-<!--
-![](2025-recap-images/the-hive-menu.jpg)
-I had a Wake-Up Call at The Hive
--->
-
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 #### Class Reunion
@@ -894,16 +889,6 @@ In a plane enroute to St. Louis. A Pink Floyd sunrise.
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### More Prairie Sunset Home
-
-![](2025-recap-images/psh-flower.jpg)
-A row of flowers on a gorgeous plant mom pointed out to me
-
-![](2025-recap-images/psh-bingo.jpg)
-Blackout! 
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
 ### Fried Green Tomato
 
 ![](2025-recap-images/fried-green-tomato.jpg)
@@ -921,6 +906,6 @@ A beautiful orchid
 ### Amaryllis
 
 ![](2025-recap-images/amaryllis.jpg)
-A gorgeouso amaryllis
+A gorgeous amaryllis
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
