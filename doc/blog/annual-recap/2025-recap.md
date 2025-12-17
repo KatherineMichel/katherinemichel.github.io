@@ -486,8 +486,10 @@ Mom with Bullfighters Tyler Dahl and Wacey Munsell. Wacey is a multiple time-fre
 
 In August, my workplace returned to office full-time. 
 
+<!--
 ![](2025-recap-images/the-view-from-my-floor.jpg)
 The view from my floor
+-->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
