@@ -89,18 +89,14 @@ Table of Contents
     - [Sunrise on a Plane](#sunrise-on-a-plane)
     - [Fried Green Tomato](#fried-green-tomato)
     - [Orchid](#orchid)
+    - [BTK House Lot](#btk-house-lot)
     - [Amaryllis](#amaryllis)
 
 <!--
-    - [New Furniture](#new-furniture)
-    - [If Anyone is Interested in How I am Related](#if-anyone-is-interested-in-how-i-am-related)
-
 ![](2025-recap-images/building-f-entryway.jpg)
 
 Website upgrade for PyLadies repo
 DjangoCon US website and talk topics inspiration list
-
-![](2025-recap-images/i-am-thankful.jpg)
 
 ![](2025-recap-images/sunrise-on-a-plane.jpg)
 -->
@@ -631,7 +627,7 @@ After three turkey dinners, Thanksgiving with family brought family time, Wicked
 Making fresh linguini and spaghetti
 
 ![](2025-recap-images/pasta-bar-plate.jpg)
-Round two...
+Round two... linguini, Alfredo sauce, mushrooms, spaghetti, marinara, hamburger, bread stick
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -784,13 +780,16 @@ First time trying a fried green tomato. I had it at Grace Cafe. It was tasty!
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+### BTK House Lot
+
+![](2025-recap-images/btk-house.jpg)
+After years of occasionally eating in a nearby restaurant, mom and I finally drove by the infamous BTK house lot
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
 ### Amaryllis
 
 ![](2025-recap-images/amaryllis.jpg)
 A gorgeous amaryllis
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-<!--
-btk-house.jpg
--->
