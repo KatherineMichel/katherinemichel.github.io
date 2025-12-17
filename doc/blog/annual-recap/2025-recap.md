@@ -425,7 +425,7 @@ Chicago River at night
 
 ### Featured Three Times in Django News
 
-It's always an honor to be featured in Django News. I was featured three times in 2025, that I know of. 
+It's always an honor to be featured in Django News Newsletter. I was featured three times in 2025, that I know of. 
 * [Happy Birthday, Django! in Issue 294](https://django-news.com/issues/294#start)
 * [Getting to know folks: a preference interview in Issue 296](https://django-news.com/issues/296#start)
 * [DjangoCon US Recap in Issue 303](https://django-news.com/issues/303#start)
