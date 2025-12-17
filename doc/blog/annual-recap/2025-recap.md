@@ -68,6 +68,7 @@ Table of Contents
     - [Elvis](#elvis)
     - [Northern Lights](#northern-lights)
     - [Therapy Dogs](#therapy-dogs)
+    - [Thanksgiving](#thanksgiving)
     - [JPMorganChase Three Year Work Anniversary](#jpmorganchase-three-year-work-anniversary)
 - [December](#december)
     - [JPMorganChase Advent of Code Texas Leadership](#jpmorganchase-advent-of-code-leadership)
@@ -91,136 +92,13 @@ Table of Contents
     - [Amaryllis](#amaryllis)
 
 <!--
-    - [Innovation Week](#innovation-week)
-
-    - [PowerUp](#powerup)
-
-        - [Giant Grapes](#giant-grapes)
-        - [Giant Grapes and Strawberries](#giant-grapes-and-strawberries)
--->
-<!--
-### Employee Garden
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-
-    - [Pic of Me](#pic-of-me)
-
-    - [Hoodie](#hoodie)
-
-### La La Land Banana Cream Top Latte
-
-    - [PAD](#pad)
-
-### PAD
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-    - [Self-Evaluation](#self-evaluation)
-
-### Self-Evaluation
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-### Flight Photos
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
--->
-
-<!--
-    - [View](#view)
-
-### View
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-### View
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
--->
-
-<!--
-#### Stonebriar Centre
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-#### Johnny Morris Outdoor World
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-### Offsite
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-#### Networking Event
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-#### CFP Connect
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-### Bird
-
-![](2025-recap-images/bird.jpg)
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-### New Furniture
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-### If Anyone is Interested in How I am Related
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-### Granite Park
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
--->
-
-<!--
-        - [Vaccinations](#vaccinations)
-
-        - [Stonebriar Centre](#stonebriar-centre)
-        - [Johnny Morris Outdoor World](#outdoor-world)
-
-    - [Offsite](#offsite)
-        - [Networking Event](#networking-event)
-        - [CFP Connect](#cfp-connect)
-
-        - [Giant Grapes](#giant-grapes)
-        - [Giant Grapes and Strawberries](#giant-grapes-and-strawberries)
-
-    - [Digitizing](#digitizing)
-    - [T-shirts](#t-shirts)
-
     - [New Furniture](#new-furniture)
     - [If Anyone is Interested in How I am Related](#if-anyone-is-interested-in-how-i-am-related)
 
-    - [Bird](#bird)
-
-    - [View](#view)
-    - [Flight Photos](#flight-photos)
-
-    - [Granite Park](#granite-park)
-
-    - [Breast Cancer Awareness Month](#breast-cancer-awareness-month)
-
-
-
-
-![](2025-recap-images/back-in-black.jpg)
 ![](2025-recap-images/building-f-entryway.jpg)
-![](2025-recap-images/cfp-connect-databases.jpg)
-![](2025-recap-images/my-shadow.jpg)
-![](2025-recap-images/saint-louis-arch.jpg)
-
 
 Website upgrade for PyLadies repo
 DjangoCon US website and talk topics inspiration list
-
-![](2025-recap-images/fredonia-jackets-t-shirt.jpg)
 
 ![](2025-recap-images/i-am-thankful.jpg)
 
@@ -745,11 +623,13 @@ Me and "The Little Dog" (yes, that's her name). She is cute as a bug and could s
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-<!--
-pasta-bar-fresh-pasta.jpg
-pasta-bar-plate.jpg
-btk-house.jpg
--->
+### Thanksgiving
+
+![](2025-recap-images/pasta-bar-fresh-pasta.jpg)
+
+![](2025-recap-images/pasta-bar-plate.jpg)
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### JPMorganChase Three Year Work Anniversary
 
@@ -906,3 +786,7 @@ First time trying a fried green tomato. I had it at Grace Cafe. It was tasty!
 A gorgeous amaryllis
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+<!--
+btk-house.jpg
+-->
