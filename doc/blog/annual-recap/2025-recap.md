@@ -621,7 +621,7 @@ Me and "The Little Dog" (yes, that's her name). She is cute as a bug and could s
 
 ### Thanksgiving
 
-After three turkey dinners, Thanksgiving with family brought family time, Wicked for Good, and a pasta bar! The bar consisted of fresh linguini and spaghetti, hamburger, chicken, Italian sausage, sautéed mushrooms, marinara sauce, vodka sauce, Alfredo sauce, breadsticks, and salad. 
+After three turkey dinners, Thanksgiving with family brought family time, Wicked for Good, National Lampoon's Christmas Vacation, and a pasta bar! The bar consisted of fresh linguini and spaghetti, hamburger, chicken, Italian sausage, sautéed mushrooms, marinara sauce, vodka sauce, Alfredo sauce, breadsticks, and salad. 
 
 ![](2025-recap-images/pasta-bar-fresh-pasta.jpg)
 Making fresh linguini and spaghetti
