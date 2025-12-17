@@ -238,6 +238,8 @@ You can read my [2024 Recap](https://katherinemichel.github.io/blog/annual-recap
 
 ## Work
 
+It has been another great year for me at JPMorganChase. I am grateful.
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## January 
@@ -273,7 +275,7 @@ When I found out he was visiting again to do a townhall, I had to attend.
 
 I saw the Queen of England in-person a few times. Jamie Dimon might be the second-most influential person I've ever seen. He was exactly the same as he is on TV. 
 
-I had 40 people waiting in line in front of me. I got a great seat! 
+I had 40 people waiting in line in front of me. I had a great seat! 
 
 ![](2025-recap-images/jamie-dimon-townhall.jpg)
 Jamie Dimon on stage
@@ -377,7 +379,7 @@ Me and my sweet Italian colleague from London trying on cowboy hats. He asked me
 One of my managers from work randomly texted me to suggest that I watch [an interview](https://youtu.be/ffgpqk5hZBE?si=tJRCGOYYjrReQhAm) with an "amazing" doctor named Vonda Wright. He had no idea we were from the same small town and that she was my childhood ballet teacher. Vonda is now a highly regarded orthopedic sports surgeon who trains high performance athletes and teaches women midlife and beyond how to reach "max badassery." 
 
 ![](2025-recap-images/me-and-vonda.jpeg)
-Me and my incredible ballet teacher Vonda Wright in her studio at the back of her dad's shop in our hometown.
+Me and my incredible ballet teacher Vonda Wright in her studio at the back of her dad Gene's shop in our hometown.
 
 As I get older, I have started to learn how underserved by the healthcare industry women midlife and beyond are. Dr. Vonda is trying to change that by starting the conversation and providing the most up-to-date, science-based knowledge and tools available. 
 
@@ -553,11 +555,9 @@ I returned from DjangoCon US in time to enjoy the spoils of JPMorganChase Plano 
 Me posing on street art at our campus block party
 
 <!--
-![](2025-recap-images/me-and-street-art-rock.jpg)
--->
-
 ![](2025-recap-images/mick-jagger-mocktail.jpg)
 A yummy Mick Jagger mocktail
+-->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -598,7 +598,7 @@ I decided to go on the two most popular rollercoasters first and get that out of
 
 As I was walking, I started to feel terrible. I walked straight into a bathroom, went into a stall, and threw up. 
 
-The heat didn't help. I guess my amusement park days are over.
+I should have paced myself, and the heat didn't help. I think my amusement park days are over.
 
 ![](2025-recap-images/six-flags-new-texas-giant.jpg)
 The Texas Giant: the rollercoaster that did me in...
@@ -607,7 +607,7 @@ The Texas Giant: the rollercoaster that did me in...
 
 ### Trip to Fredonia, Kansas
 
-Mom and I traveled to Fredonia, Kansas for my thirty year class reunion. 
+Mom and I traveled to Fredonia, Kansas for my class reunion. 
         
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -625,7 +625,7 @@ Me in front of a yellowjacket sculpture made by a student
 I crossed a couple of items off of my "bucket list": a meal at The Kitchen Table, a restaurant and bakery specializing in homestyle favorites, and coffee at The Hive, a student-led coffee shop.  
 
 ![](2025-recap-images/the-kitchen-table-breakfast-buffet.jpg)
-The Kitchen Table's outstanding breakfast buffet
+The Kitchen Table's outstanding breakfast buffet... best I've ever had
 
 ![](2025-recap-images/the-hive-counter.jpg)
 Coffee at The Hive. I had a signature Wake-Up Call. 
@@ -754,12 +754,15 @@ btk-house.jpg
 ### JPMorganChase Three Year Work Anniversary
 
 ![](2025-recap-images/jpmc-three-years.png)
+I have been at JPMorganChase for over three years. The time has flown by!
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## December
 
 ### JPMorganChase Advent of Code Texas Leadership
+
+I led JPMorganChase Advent of Code Texas for the third year in a row. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
