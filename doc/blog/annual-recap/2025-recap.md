@@ -123,6 +123,8 @@ It has been another great year for me at JPMorganChase. I am grateful.
 ## January 
 
 ### Christmas on New Year's Eve
+
+The year kicked off with family Christmas on New Year's Eve: Wicked movie, taco bar, gift exchange, and blow horns and champagne when the ball dropped. 
       
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
