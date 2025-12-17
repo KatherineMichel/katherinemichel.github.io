@@ -416,6 +416,9 @@ Phil, me, Julie, and Christine
 
 I attended DjangoCon US, and it was truly epic. I wrote a [deep-dive about my experience](https://katherinemichel.github.io/blog/conferences/djangocon-us-2025-recap.html). Thank you to everyone who brought the knowledge and fun! Can't wait for next year. 
 
+![](2025-recap-images/chicago-river-at-night.jpg)
+Chicago River at night
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Featured Three Times in Django News
