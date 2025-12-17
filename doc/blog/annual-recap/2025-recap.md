@@ -435,11 +435,6 @@ I returned from DjangoCon US in time to enjoy the spoils of JPMorganChase Plano 
 ![](2025-recap-images/me-and-street-art-plane.jpg)
 Me posing on street art at our campus block party
 
-<!--
-![](2025-recap-images/mick-jagger-mocktail.jpg)
-A yummy Mick Jagger mocktail
--->
-
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Annual Physical
