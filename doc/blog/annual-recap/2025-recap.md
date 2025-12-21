@@ -667,7 +667,9 @@ Mom and I took Christmas photos together in front of the four scenes at Prairie 
 Goals for the new year
 * Continue clean eating and get back to the gym
 * Fully embrace Building Better Bone course and Unbreakable: A Woman's Guide to Aging With Power lifestyles
+* Continue conference and personal travel (PyCon US, DjangoCon US, New York City, and Washington D.C. are on my radar)
 * Achieve Red Hat Enterprise Linux System Administrator Certification equivalent
+* Further professional learning. AI and Distributed System Design are topics of interest. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
