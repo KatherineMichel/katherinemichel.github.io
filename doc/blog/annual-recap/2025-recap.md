@@ -635,7 +635,7 @@ Round two... linguini, Alfredo sauce, mushrooms, spaghetti, marinara, hamburger,
 ### JPMorganChase Three Year Work Anniversary
 
 ![](2025-recap-images/jpmc-three-years.png)
-I have been at JPMorganChase for over three years. The time has flown by!
+I had my three year anniversary at JPMorganChase. I can't believe it has been three years. The time has flown by!
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -643,7 +643,7 @@ I have been at JPMorganChase for over three years. The time has flown by!
 
 ### JPMorganChase Advent of Code Texas Leadership
 
-I led JPMorganChase Advent of Code Texas for the third year in a row. 
+I led JPMorganChase Advent of Code Texas for the third year in a row. It was an honor to play a role in a record-breaking year. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -653,9 +653,13 @@ I led JPMorganChase Advent of Code Texas for the third year in a row.
 
 ### JPMorganChase Financial Advisor
 
+Last year, I began working with a JPMorganChase Financial Advisor. This year, he continued to counsel myself, and now other family members, about complex financial subjects that are highly impact to our future. I have begun to understand over time the benefit of having an advisor on my side. 
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Christmas Festivities
+
+Christmas season brought much-needed family time in Lawrence. 
 
 ![](2025-recap-images/me-and-mom.jpg)
 Mom and I took Christmas photos together in front of the four scenes at Prairie Sunset Home. This was my favorite...
