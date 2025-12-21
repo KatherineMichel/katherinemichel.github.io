@@ -73,6 +73,8 @@ Table of Contents
 - [December](#december)
     - [JPMorganChase Advent of Code Texas Leadership](#jpmorganchase-advent-of-code-leadership)
     - [JPMorganChase DjangoCon US Recap Presentation](#jpmorganchase-djangocon-us-recap-presentation)
+    - [JPMorganChase Financial Advisor](#jpmorganchase-financial-advisor)
+    - [Christmas Festivities](#christmas-festivities)
 - [Looking Ahead to Next Year](#looking-ahead-to-next-year)
 - [More Favorite Snapshots Throughout The Year](#more-favorite-snapshots-throughout-the-year)
     - [Dallas Love Field Oath of Office Observation Deck](#dallas-love-field-oath-of-office-observation-deck)
@@ -649,6 +651,10 @@ I led JPMorganChase Advent of Code Texas for the third year in a row.
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+### JPMorganChase Financial Advisor
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
 ### Christmas Festivities
 
 ![](2025-recap-images/me-and-mom.jpg)
@@ -658,7 +664,10 @@ Mom and I took Christmas photos together in front of the four scenes at Prairie 
     
 ## Looking Ahead to Next Year
 
-Building Better Bone course and Unbreakable: A Woman's Guide to Aging With Power are a lifestyle change that I am in the process of implementing and will take time. 
+Goals for the new year
+* Continue clean eating and get back to the gym
+* Fully embrace Building Better Bone course and Unbreakable: A Woman's Guide to Aging With Power lifestyles
+* Achieve Red Hat Enterprise Linux System Administrator Certification equivalent
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
