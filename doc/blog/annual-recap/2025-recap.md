@@ -76,7 +76,6 @@ Table of Contents
 - [Looking Ahead to Next Year](#looking-ahead-to-next-year)
 - [More Favorite Snapshots Throughout The Year](#more-favorite-snapshots-throughout-the-year)
     - [Dallas Love Field Oath of Office Observation Deck](#dallas-love-field-oath-of-office-observation-deck)
-    - [JPMorganChase Plano Breakfast Buffet](#jpmorganchase-plano-breakfast-buffet)
     - [Coco Ichibanya](#coco-ichibanya)
     - [Big Truck](#big-truck)
     - [La La Land Banana Cream Top Latte](#la-la-land-banana-cream-top-latte)
@@ -668,13 +667,6 @@ Replica presidential seal and marker
 
 ![](2025-recap-images/oath-of-office-light.jpg)
 A light marking the spot where the oath of office was taken
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-### JPMorganChase Plano Breakfast Buffet
-
-![](2025-recap-images/jpmorganchase-plano-breakfast-buffet.jpg)
-JPMorganChase Plano breakfast buffet
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
