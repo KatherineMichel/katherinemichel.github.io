@@ -652,6 +652,7 @@ I led JPMorganChase Advent of Code Texas for the third year in a row.
 ### Christmas Festivities
 
 ![](2025-recap-images/me-and-mom.jpg)
+Mom and I took Christmas photos together in front of the four scenes at Prairie Sunset Home. This was my favorite...
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
     
