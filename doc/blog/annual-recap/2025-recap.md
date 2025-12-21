@@ -649,6 +649,8 @@ I led JPMorganChase Advent of Code Texas for the third year in a row. It was an 
 
 ### JPMorganChase DjangoCon US Recap Presentation
 
+I presentation a DjangoCon US Recap presentation to my department. It kicked of a spirited conversation that led to a request to present to additional stakeholders. 
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### JPMorganChase Financial Advisor
