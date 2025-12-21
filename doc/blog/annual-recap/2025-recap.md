@@ -648,6 +648,12 @@ I led JPMorganChase Advent of Code Texas for the third year in a row.
 ### JPMorganChase DjangoCon US Recap Presentation
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Christmas Festivities
+
+![](2025-recap-images/me-and-mom.jpg)
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
     
 ## Looking Ahead to Next Year
 
