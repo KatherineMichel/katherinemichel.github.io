@@ -384,13 +384,11 @@ Thank you to Velda Kiara for [interviewing me about DjangoCon US](https://2025.d
 
 After I read an interview Dr. Vonda Wright did for The Times, I immediately bought her new book [Unbreakable: A Woman's Guide to Aging With Power](https://www.drvondawright.com/resources/books/unbreakable). I know she is a voice you can trust. 
 
+In the book, she gives a roadmap for defusing "timebombs of aging" through nutrition, exercise, lifestyle, and supplements to achieve stronger muscles and bones, increased mobility, and lifelong independence.
+
 Her words on page 23 of the Kindle version hit me: "Movement gives you agency over life." That is what it's about: agency over life. 
 
 I immediately felt motivated to take action. I also love that she uses her dad Gene as an example in the book.
-
-<!--
-Explain what book is about
--->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
