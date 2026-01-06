@@ -74,6 +74,7 @@ Table of Contents
     - [JPMorganChase DjangoCon US Recap Presentation](#jpmorganchase-djangocon-us-recap-presentation)
     - [JPMorganChase Financial Advisor](#jpmorganchase-financial-advisor)
     - [Christmas Festivities](#christmas-festivities)
+    - [A Family Tragedy and a Christmas Miracle](#a-family-tragedy-and-a-christmas-miracle)
 - [Looking Ahead to Next Year](#looking-ahead-to-next-year)
 - [More Favorite Snapshots Throughout The Year](#more-favorite-snapshots-throughout-the-year)
     - [Dallas Love Field Oath of Office Observation Deck](#dallas-love-field-oath-of-office-observation-deck)
@@ -670,7 +671,13 @@ Christmas season brought much-needed family time in Lawrence: sweet and savory b
 Mom and I took Christmas photos together in front of the four scenes at Prairie Sunset Home. This was my favorite...
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### A Family Tragedy and a Christmas Miracle
+
+Life is fragile. My cousin-in-law Lynette suffered a major brain bleed the Monday before Christmas. She was kept alive on a ventilator until her organs could be harvested on Christmas Eve. Through Midwest Transplant, multiple families received the Christmas miracle they had been waiting for. 
     
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
 ## Looking Ahead to Next Year
 
 Goals for the new year
