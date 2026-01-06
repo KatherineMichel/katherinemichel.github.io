@@ -658,7 +658,7 @@ I presentation a DjangoCon US Recap presentation to my department. It kicked of 
 
 ### JPMorganChase Financial Advisor
 
-Last year, I began working with a JPMorganChase Financial Advisor. This year, he continued to counsel myself, and now other family members, about complex financial subjects that are highly impact to our future. I have begun to understand over time the benefit of having an advisor on my side. 
+Last year, I began working with a JPMorganChase Financial Advisor. This year, he continued to counsel myself, and now other family members, about complex financial subjects that are highly impactful to our future. I have begun to understand over time the benefit of having an advisor on my side. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
