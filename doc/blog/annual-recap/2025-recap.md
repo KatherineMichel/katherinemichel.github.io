@@ -115,6 +115,10 @@ You can read my [2024 Recap](https://katherinemichel.github.io/blog/annual-recap
 
 It has been another great year for me at JPMorganChase. I am grateful.
 
+I continued working as a software engineer in Infrastructure Platforms, Databases Department.
+
+I spent most of the year working on a Python/Django control plane and React UI for a new Valkey product offering. 
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## January 
