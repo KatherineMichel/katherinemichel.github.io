@@ -35,7 +35,6 @@ Table of Contents
 - [June](#june)
     - [Stepped Down From DEFNA Board](#stepped-down-from-defna-board)
 - [July](#july)
-    - [Training Recap Presentation](#training-recap-presentation)
     - [Eating Clean](#eating-clean)
     - [Stroopwafels](#stroopwafels)
     - [Summer Fun for My Nieces](#summer-fun-for-my-nieces)
@@ -293,9 +292,11 @@ After ~8 years on the DEFNA Board, I stepped down. This [thank you from the boar
 
 ## July
 
+<!--
 ### Training Recap Presentation
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
+-->
 
 ### Eating Clean
 
