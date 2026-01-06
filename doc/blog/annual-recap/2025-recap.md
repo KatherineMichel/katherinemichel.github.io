@@ -664,7 +664,7 @@ Last year, I began working with a JPMorganChase Financial Advisor. This year, he
 
 ### Christmas Festivities
 
-Christmas season brought much-needed family time in Lawrence. 
+Christmas season brought much-needed family time in Lawrence: sweet and savory breakfast kolaches, gift exchange, and Wicked for Good movie. 
 
 ![](2025-recap-images/me-and-mom.jpg)
 Mom and I took Christmas photos together in front of the four scenes at Prairie Sunset Home. This was my favorite...
