@@ -109,6 +109,8 @@ You can read my [2024 Recap](https://katherinemichel.github.io/blog/annual-recap
 (this-years-theme)=
 ## This Year's Theme
 
+My theme last year was “I finally got organized and..." This year, I enjoyed a greater feeling of stabiity and began to think about taking the foot off the gas more to enjoy life. 
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Work
