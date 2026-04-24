@@ -17,6 +17,7 @@ Table of Contents
     - [Flight Simulators](#flight-simulators)
 - [Lunch](#lunch)
     - [Southwest Store](#southwest-store)
+    - [Social Media Serendipity](#social-media-serendipity)
 - [Afternoon](#afternoon)
     - [Network Operation Center](#network-operation-center)
     - [TechOps Hangar](#techops-hangar)
@@ -94,6 +95,8 @@ Thank you Southwest for a delicious complimentary lunch in the cafeteria!
 ![](southwest-headquarters-tour-2026/southwest-shop-onesie.jpg)
 An adult onesie that was a crowd favorite in the Southwest Shop
 
+### Social Media Serendipity
+
 Outside the Southwest Shop, I had the opportunity to meet Southwest social media staff and compliment them on my favorite warm and fuzzy Southwest stories. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
@@ -111,7 +114,7 @@ A livestream of the Southwest Network Operations Center
 Southwest has 4,000 flights a day. At the time of this photo, 1408 had been completed. 1 had been cancelled. 
 
 ![](southwest-headquarters-tour-2026/airline-experience.jpg)
-Everywhere you look, there are pieces of airplane and replicas. This area entitled "Airplane Experience" is a mockup of a Southwest counter and gate. 
+Around every corner, there are pieces of airplane and replicas. This area entitled "Airplane Experience" is a mockup of a Southwest counter and gate. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -137,10 +140,10 @@ Master technicians gathered around this plane for a quick fix and the hangar doo
 Me sitting in front of an engine fan. Gently pushing an $80,000 blade with your finger sets tons of engine into motion. Within the space of a few feet, temperatures can reach four times that of an oven. Holes dampen the sound. The swirl shape indicates to onlookers whether the fan is in motion. 
 
 ![](southwest-headquarters-tour-2026/group-photo-in-wheel-wells.jpg)
-Me and a few of my new friends, hanging out in wheel wells. A moment we'll never forget. Contrary to media reports, this area is not stowaway friendly. 
+Me and a few of my new friends, hanging out in wheel wells. A moment we'll never forget. Contrary to news reports, this area is not stowaway friendly. 
 
 ![](southwest-headquarters-tour-2026/strong-pipe.jpg)
-Our tour guide Jim shared some of his encyclopedic knowledge of plane engineering and their millions of components. He pointed out uniquely strong, but light materials that would enable more weight to be used for fuel or elsewhere.  
+Our tour guide Jim shared some of his encyclopedic knowledge of planes and their millions of components. He pointed out uniquely strong, but light materials such as in the pipe in the center of this photo that would enable more weight to be used for fuel or elsewhere.  
 
 ![](southwest-headquarters-tour-2026/a-light-teardown.jpg)
 A "light" teardown that left overhead compartments and some seats in place. The seats removed were placed in rows in the hangar in a surreal scene. 
@@ -170,7 +173,7 @@ Herb Kelleher and Colleen Barrett's offices as they were left upon retirement
 We finished our tour with a visit to The Listening Center, the social media command center that monitors online trends in real time. 
 
 ![](southwest-headquarters-tour-2026/the-listening-center.jpg)
-The Listening Center... a wall of monitors display top posts, keywords, emojis, and industry trends
+A wall of monitors displays top posts, keywords, emojis, and industry trends
 
 ![](southwest-headquarters-tour-2026/swag.jpg)
 An unexpected surprise... a swag gift bag! Super cute Southwest socks, the new Mexican cookie, sticker, souvenir safety glasses, and a real, historic boarding pass! We also left the Network Operations Center tour with an exclusive keychain.
@@ -178,9 +181,9 @@ An unexpected surprise... a swag gift bag! Super cute Southwest socks, the new M
 ## Thank You
 
 ![](southwest-headquarters-tour-2026/me-in-vintage-seat.jpg)
-Me sitting in a vintage airplane seat in The Listening Center at the end of the day
+Me sitting in a vintage airplane seat in The Listening Center
 
-In addition to the tour, it was fun to get to know other tour participants and experience their excitement, too. 
+In addition to the tour, it was fun to get to know other tour participants and experience their excitement, too. Super fan Zane's passion was particularly inspiring to see. 
 
 Thank you to Southwest for an incredible day. We definitely felt the Luv! 
 
