@@ -83,15 +83,16 @@ Table of Contents
 
 ### TechOps Hangar
 
-![](southwest-headquarters-tour-2026/a-light-teardown.jpg)
-![](southwest-headquarters-tour-2026/group-photo-in-wheel-wells.jpg)
-![](southwest-headquarters-tour-2026/hangar-internal.jpg)
-![](southwest-headquarters-tour-2026/me-in-the-cockpit.jpg)
-![](southwest-headquarters-tour-2026/me-sitting-in-front-of-an-engine-fan.jpg)
-![](southwest-headquarters-tour-2026/plane-and-doctors.jpg)
-![](southwest-headquarters-tour-2026/strong-pipe.jpg)
 ![](southwest-headquarters-tour-2026/techops-hangar.jpg)
 ![](southwest-headquarters-tour-2026/weather-thingy.jpg)
+![](southwest-headquarters-tour-2026/plane-and-doctors.jpg)
+![](southwest-headquarters-tour-2026/me-sitting-in-front-of-an-engine-fan.jpg)
+![](southwest-headquarters-tour-2026/group-photo-in-wheel-wells.jpg)
+![](southwest-headquarters-tour-2026/a-light-teardown.jpg)
+![](southwest-headquarters-tour-2026/me-in-the-cockpit.jpg)
+![](southwest-headquarters-tour-2026/hangar-internal.jpg)
+
+![](southwest-headquarters-tour-2026/strong-pipe.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
