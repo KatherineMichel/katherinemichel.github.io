@@ -184,7 +184,7 @@ An unexpected surprise... a swag gift bag! Super cute Southwest socks, the new M
 ![](southwest-headquarters-tour-2026/me-in-vintage-seat.jpg)
 Me sitting in a vintage airplane seat in The Listening Center
 
-In addition to the tour, it was fun to get to know other tour participants and experience their excitement, too. Super fan Zane's passion was particularly inspiring to see. 
+In addition to the tour, it was fun to get to know other tour participants and experience their excitement, too. Superfan Zane's passion was particularly inspiring to see. 
 
 Thank you to Southwest for an incredible day. We definitely felt the Luv! 
 
