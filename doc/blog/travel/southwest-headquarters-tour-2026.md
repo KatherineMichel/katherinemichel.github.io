@@ -67,7 +67,7 @@ Have you ever seen a Southwest pilot with a beard? Southwest pilots must be able
 This 1 million dollar P28 simulator was our first simulator experience. Although 23 are in use, they do not have the realism of the CAE simulators we would see later. 
 
 ![](southwest-headquarters-tour-2026/simulator.jpg)
-While real "turbine house" can be logged in this simulator, it also causes real motion sickness. 
+While real "turbine house" can be logged in this simulator. 
 
 ![](southwest-headquarters-tour-2026/simulator.jpg)
 
@@ -77,12 +77,17 @@ While real "turbine house" can be logged in this simulator, it also causes real 
 
 Etops, Rio
 long, short haul
+
+Ask them about the chickens hanging from the bottom
+, it also causes real motion sickness
+
+Sadly, we did learn that only 6%
 -->
 
-![](southwest-headquarters-tour-2026/me-in-front-of-a-simulator.jpg)
+![](southwest-headquarters-tour-2026/me-in-front-of-a-cae-simulator.jpg)
 Me in front of a CAE simulator in-use
 
-![](southwest-headquarters-tour-2026/me-in-front-of-simulators.jpg)
+![](southwest-headquarters-tour-2026/me-in-front-of-cae-simulators.jpg)
 Me at one end of the hall of CAE simulators
 
 ![](southwest-headquarters-tour-2026/tornado-fortified.jpg)
