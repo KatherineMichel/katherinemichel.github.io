@@ -46,9 +46,7 @@ Our superfan tour group! Our sweet host Carlye Thornton is the second from the l
 Vintage uniforms... two of what must be thousands of pictures and momentos covering the campus walls. 
 
 ![](southwest-headquarters-tour-2026/pilot-uniform-shop.jpg)
-On our way to the flight attendant uniform shop, we passed the pilot uniform shop
-
-![](southwest-headquarters-tour-2026/miniature-plane.jpg)
+The pilot uniform shop
 
 ![](southwest-headquarters-tour-2026/plane-training.jpg)
 
@@ -126,7 +124,7 @@ Around every corner, there are pieces of airplane and replicas. This area entitl
 
 ### TechOps Hangar
 
-Our final scheduled tour stop was TechOps. 
+Our final scheduled tour stop was TechOps. Southwest has 800+ Boeing 737s, the largest fleet of them in the world. Four are at the adjacent Dallas Love Field Airport. 
 
 ![](southwest-headquarters-tour-2026/techops-hangar.jpg)
 Michelle, Doug, and Jim welcoming us to TechOps in the empty "party hangar" where a lot of maintenance takes place at night. Master technicians have been here as long as 30+ years. Sheet metal experts are particularly skilled and respected here. It's a craft that takes around 10 years to master. Given how meticulously planned, recorded, and executed the airplane maintenance is, our tour guides have absolutely no qualms about flying. 
