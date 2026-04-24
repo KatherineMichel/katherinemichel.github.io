@@ -57,14 +57,24 @@ Flight attendants make it look easy. Tour participants volunteered to give the s
 ### Flight Simulators
 
 ![](southwest-headquarters-tour-2026/pilot-mask-training.jpg)
+Southwest pilots must be able to put an oxygen mask on with one hand in eight seconds while their other hand is on the controls. Southwest pilots can have a moustache, but not a full beard, in order to be able to create the necessary seal. 
+
 ![](southwest-headquarters-tour-2026/p28-simulator.jpg)
 
 ![](southwest-headquarters-tour-2026/simulator.jpg)
 
 ![](southwest-headquarters-tour-2026/simulator.jpg)
 
+<!--
+1 million
+14.2 million
+
+Real turbine hours
+Motion sickness
+-->
+
 ![](southwest-headquarters-tour-2026/me-in-front-of-a-simulator.jpg)
-Me in front of a simulator
+Me in front of a simulator in-use
 
 ![](southwest-headquarters-tour-2026/me-in-front-of-simulators.jpg)
 Me at one end of the hall of simulators
