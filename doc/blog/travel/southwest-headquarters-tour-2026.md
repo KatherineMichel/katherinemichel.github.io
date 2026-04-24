@@ -132,6 +132,7 @@ Me sitting in front of an engine fan. Gently pushing an $80,000 blade with your 
 ![](southwest-headquarters-tour-2026/group-photo-in-wheel-wells.jpg)
 Me and a few of my new friends, hanging out in wheel wells. A moment we'll never forget. Contrary to media reports, this area is not stowaway friendly. 
 
+![](southwest-headquarters-tour-2026/strong-pipe.jpg)
 Jim shared some of his encyclopedic knowledge of plane engineering and their millions of components. 
 
 ![](southwest-headquarters-tour-2026/a-light-teardown.jpg)
