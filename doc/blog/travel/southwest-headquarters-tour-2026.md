@@ -43,7 +43,7 @@ Our superfan tour group! Our sweet host Carlye Thornton is the second from the l
 ![](southwest-headquarters-tour-2026/raft-room.jpg)
 
 ![](southwest-headquarters-tour-2026/vintage-uniforms.jpg)
-Vintage uniforms... two of what must be thousands of pictures and momentos covering the campus walls. 
+Vintage uniforms... Southwest campus walls are covered in what must be thousands of pictures and momentos. 
 
 ![](southwest-headquarters-tour-2026/pilot-uniform-shop.jpg)
 The pilot uniform shop
@@ -54,13 +54,14 @@ The pilot uniform shop
 Flight attendants make it look easy. Tour participants volunteered to give the safety demonstration a try! 
 
 ![](southwest-headquarters-tour-2026/evacuation-slide.jpg)
+Plane evacuation slide
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Flight Simulators
 
 ![](southwest-headquarters-tour-2026/pilot-mask-training.jpg)
-Southwest pilots must be able to put an oxygen mask on with one hand in eight seconds while their other hand is on the controls. Southwest pilots can have a moustache, but not a full beard, in order to be able to create the necessary seal. 
+Have you ever seen a Southwest pilot with a beard? Southwest pilots must be able to put an oxygen mask on with one hand in eight seconds while their other hand is on the controls. They can have a moustache, but not a full beard, in order to be able to create the necessary seal. 
 
 ![](southwest-headquarters-tour-2026/p28-simulator.jpg)
 
@@ -71,6 +72,9 @@ Southwest pilots must be able to put an oxygen mask on with one hand in eight se
 <!--
 1 million
 14.2 million
+
+Etops, Rio
+long, short haul
 
 Real turbine hours
 Motion sickness
@@ -108,6 +112,12 @@ Outside the Southwest Shop, I had the opportunity to meet Southwest social media
 ## Afternoon
 
 ### Network Operation Center
+
+<!--
+Dispatch school
+Adrenaline
+Lavatory
+-->
 
 ![](southwest-headquarters-tour-2026/noc-left-panel.jpg)
 
