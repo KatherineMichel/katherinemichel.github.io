@@ -22,7 +22,8 @@ Table of Contents
     - [TechOps Hangar](#techops-hangar)
     - [Herb and Colleen Offices](#herb-and-colleen-offices)
     - [Listening Center](#listening-center)
-      
+- [Thank You](#thank-you)
+
 ## Intro
 
 ![](southwest-headquarters-tour-2026/group-pic.jpg)
@@ -81,7 +82,7 @@ Thank you Southwest for a delicious complimentary lunch in the cafeteria!
 ### Southwest Store
 
 ![](southwest-headquarters-tour-2026/southwest-shop-onesie.jpg)
-A onesie that was a crowd favorite in the Southwest Shop
+An adult onesie that was a crowd favorite in the Southwest Shop
 
 <!--
 Southwest Social Media
@@ -100,6 +101,8 @@ A livestream of the Southwest Network Operations Center
 
 ![](southwest-headquarters-tour-2026/noc-right-panel.jpg)
 
+We left with an exclusive Network Operations Center keychain. 
+
 ![](southwest-headquarters-tour-2026/airline-experience.jpg)
 Everywhere you look, there are pieces of airplane and replicas. This area entitled "Airplane Experience" is a mockup of a Southwest counter and gate. 
 
@@ -107,7 +110,14 @@ Everywhere you look, there are pieces of airplane and replicas. This area entitl
 
 ### TechOps Hangar
 
+<!--
+TechOps, formerly known as Maintenance. 
+Meticulously executed and recorded,
+-->
+
 ![](southwest-headquarters-tour-2026/techops-hangar.jpg)
+
+
 Master technicians have been here as long as 30+ years. Sheet metal experts are particularly skilled and respected here. It's a craft that takes around 10 years to master. 
 
 ![](southwest-headquarters-tour-2026/weather-thingy.jpg)
@@ -117,7 +127,7 @@ Getting up close and personal with a weather antenna at the front of a plane, be
 Master technicians gathered around this plane for a quick fix and the hangar door was soon opening
 
 ![](southwest-headquarters-tour-2026/me-sitting-in-front-of-an-engine-fan.jpg)
-Me sitting in front of an engine fan. Gently pushing an $80,000 blade with your finger sets tons of engine into motion. Within a few feet, temperatures in flight can reach four times that of an oven. The swirl shape indicates to onlookers whether the fan is in motion. 
+Me sitting in front of an engine fan. Gently pushing an $80,000 blade with your finger sets tons of engine into motion. Within a few feet, temperatures in flight can reach four times that of an oven. Holes dampen the sound. The swirl shape indicates to onlookers whether the fan is in motion. 
 
 ![](southwest-headquarters-tour-2026/group-photo-in-wheel-wells.jpg)
 Me and a few of my new friends, hanging out in wheel wells. A moment we'll never forget. Contrary to media reports, this area is not stowaway friendly. 
@@ -131,7 +141,7 @@ Me in a 737 cockpit
 ![](southwest-headquarters-tour-2026/hangar-internal.jpg)
 
 ![](southwest-headquarters-tour-2026/strong-pipe.jpg)
-Jim shared some of his encyclopedic knowledge of plane engineering. 
+Jim shared some of his encyclopedic knowledge of plane engineering and their millions of components. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -147,14 +157,20 @@ Bonus experience: visiting Herb Kelleher and Colleen Barrett's offices as they w
 
 ### Listening Center
 
-We finished our tour with a visit to The Listening Center. 
+We finished our tour with a visit to The Listening Center, the social media command center that monitors online trends in real time. 
 
 ![](southwest-headquarters-tour-2026/me-in-vintage-seat.jpg)
-Me sitting in a vintage airplane seat. 
+Me sitting in a vintage airplane seat
 
 <!--
 Swag
 -->
+
+An unexpected surprise... a swag gift bag! Super cute Southwest socks, the new Mexican cookie, souvenir safety glasses, and a real, historic boarding pass! 
+
+## Thank You
+
+In addition to the tour, it was fun to get to know other tour participants and experience their excitement, too. 
 
 Thank you to Southwest for an incredible day. We definitely felt the Luv! 
 
