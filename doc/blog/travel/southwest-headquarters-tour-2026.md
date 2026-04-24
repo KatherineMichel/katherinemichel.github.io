@@ -61,9 +61,10 @@ Plane evacuation slide
 ### Flight Simulators
 
 ![](southwest-headquarters-tour-2026/pilot-mask-training.jpg)
-Have you ever seen a Southwest pilot with a beard? Southwest pilots must be able to put an oxygen mask on with one hand in eight seconds while their other hand is on the controls. They can have a moustache, but not a full beard, in order to be able to create the necessary seal. 
+Have you ever seen a Southwest pilot with a beard? Southwest pilots must be able to put an oxygen mask on with one hand in eight seconds while their other hand is on the controls. They can have a moustache, but not a full beard, in order to be able to create the necessary seal. This testing station accommodates different masks for different types of airplanes. 
 
 ![](southwest-headquarters-tour-2026/p28-simulator.jpg)
+This 1 million dollar was our first simulator experience. Although 23 are in use, they do not have the realism of the CAE simulators we would see later. 
 
 ![](southwest-headquarters-tour-2026/simulator.jpg)
 
