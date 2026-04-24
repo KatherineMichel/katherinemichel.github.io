@@ -27,9 +27,9 @@ Table of Contents
 
 ## Intro
 
-I began attending tech conferences in 2017, and they have been incredibly beneficial to my career. In the early days, I had a shoestring budget, and would often apply for financial aid. The combination of Southwest's Wanna Get Away tickets and flexible travel credit policy enabled me to attend many conferences with less stress.
+I flew Southwest to my first tech conference in August of 2017 and quickly learned how beneficial conferences would be to my career. In the early days, I had a shoestring budget, and would often apply for financial aid. The combination of Southwest's Wanna Get Away tickets and flexible travel credit policy enabled me to attend many conferences.
 
-A few weeks ago, I was offered the chance to tour Southwest Headquarters along with other fans. I couldn't pass it up! 
+A few weeks ago, I was offered the chance to tour Southwest Headquarters. I jumped at the chance. I knew it would be a once-in-a-lifetime experience! 
 
 ![](southwest-headquarters-tour-2026/group-pic.jpg)
 Our superfan tour group! Our sweet host Carlye Thornton is the second from the left. 
@@ -126,15 +126,10 @@ Around every corner, there are pieces of airplane and replicas. This area entitl
 
 ### TechOps Hangar
 
-<!--
-TechOps, formerly known as Maintenance. 
-Meticulously executed and recorded,
--->
+Our final scheduled tour stop was TechOps. 
 
 ![](southwest-headquarters-tour-2026/techops-hangar.jpg)
-
-
-Master technicians have been here as long as 30+ years. Sheet metal experts are particularly skilled and respected here. It's a craft that takes around 10 years to master. 
+Michelle, Doug, and Jim welcoming us to TechOps in the empty "party hangar" where a lot of maintenance takes place at night. Master technicians have been here as long as 30+ years. Sheet metal experts are particularly skilled and respected here. It's a craft that takes around 10 years to master. Given how meticulously planned, recorded, and executed the airplane maintenance is, our tour guides have absolutely no qualms about flying. 
 
 ![](southwest-headquarters-tour-2026/weather-thingy.jpg)
 Getting up close and personal with a weather antenna at the front of a plane, before peering into the internals of the plane
@@ -149,7 +144,7 @@ Me sitting in front of an engine fan. Gently pushing an $80,000 blade with your 
 Me and a few of my new friends, hanging out in wheel wells. A moment we'll never forget. Contrary to news reports, this area is not stowaway friendly. 
 
 ![](southwest-headquarters-tour-2026/strong-pipe.jpg)
-Our tour guide Jim shared some of his encyclopedic knowledge of planes and their millions of components. He pointed out uniquely strong, yet lightweight materials, for example, seen in the pipe in the center of this photo, that would enable more weight to be allocated to fuel or elsewhere.  
+Our tour guide Jim shared some of his encyclopedic knowledge of planes and their millions of components. He pointed out uniquely strong, yet lightweight materials, for example, seen in the pipe in the center of this photo, that enable more weight to be allocated to fuel or elsewhere.  
 
 ![](southwest-headquarters-tour-2026/a-light-teardown.jpg)
 A "light" teardown that left overhead compartments and some seats in place. The seats removed were placed in rows in the hangar in a surreal scene. 
