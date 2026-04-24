@@ -94,9 +94,7 @@ Thank you Southwest for a delicious complimentary lunch in the cafeteria!
 ![](southwest-headquarters-tour-2026/southwest-shop-onesie.jpg)
 An adult onesie that was a crowd favorite in the Southwest Shop
 
-<!--
-Southwest Social Media
--->
+Outside the Southwest Shop, I had the opportunity to meet Southwest social media staff and compliment them on my favorite warm and fuzzy Southwest stories. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -110,8 +108,7 @@ Southwest Social Media
 A livestream of the Southwest Network Operations Center
 
 ![](southwest-headquarters-tour-2026/noc-right-panel.jpg)
-
-We left with an exclusive Network Operations Center keychain. 
+Southwest has 4,000 flights a day. At the time of this photo, 1408 had been completed. 1 had been cancelled. 
 
 ![](southwest-headquarters-tour-2026/airline-experience.jpg)
 Everywhere you look, there are pieces of airplane and replicas. This area entitled "Airplane Experience" is a mockup of a Southwest counter and gate. 
@@ -176,7 +173,7 @@ We finished our tour with a visit to The Listening Center, the social media comm
 The Listening Center... a wall of monitors display top posts, keywords, emojis, and industry trends
 
 ![](southwest-headquarters-tour-2026/swag.jpg)
-An unexpected surprise... a swag gift bag! Super cute Southwest socks, the new Mexican cookie, sticker, souvenir safety glasses, and a real, historic boarding pass! 
+An unexpected surprise... a swag gift bag! Super cute Southwest socks, the new Mexican cookie, sticker, souvenir safety glasses, and a real, historic boarding pass! We also left the Network Operations Center tour with an exclusive keychain.
 
 ## Thank You
 
