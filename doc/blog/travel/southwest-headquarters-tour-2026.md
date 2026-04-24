@@ -49,13 +49,15 @@ Table of Contents
 
 ### Flight Simulators
 
-![](southwest-headquarters-tour-2026/me-in-front-of-a-simulator.jpg)
-![](southwest-headquarters-tour-2026/me-in-front-of-simulators.jpg)
-![](southwest-headquarters-tour-2026/p28-simulator.jpg)
 ![](southwest-headquarters-tour-2026/pilot-mask-training.jpg)
+![](southwest-headquarters-tour-2026/p28-simulator.jpg)
+
 ![](southwest-headquarters-tour-2026/simulator.jpg)
 
 ![](southwest-headquarters-tour-2026/simulator.jpg)
+
+![](southwest-headquarters-tour-2026/me-in-front-of-a-simulator.jpg)
+![](southwest-headquarters-tour-2026/me-in-front-of-simulators.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
