@@ -133,7 +133,7 @@ Me sitting in front of an engine fan. Gently pushing an $80,000 blade with your 
 Me and a few of my new friends, hanging out in wheel wells. A moment we'll never forget. Contrary to media reports, this area is not stowaway friendly. 
 
 ![](southwest-headquarters-tour-2026/strong-pipe.jpg)
-Jim shared some of his encyclopedic knowledge of plane engineering and their millions of components. 
+Our tour guide Jim shared some of his encyclopedic knowledge of plane engineering and their millions of components. He pointed out uniquely strong, but light materials that would enable more weight to be used for fuel or customers. In one assessment, a pound saved could provide $50,000 to $100,000 per year. 
 
 ![](southwest-headquarters-tour-2026/a-light-teardown.jpg)
 A "light" teardown that left overhead compartments and some seats in place. The seats removed were placed in rows in the hangar in a surreal scene. 
@@ -142,6 +142,7 @@ A "light" teardown that left overhead compartments and some seats in place. The 
 Me in a 737 cockpit
 
 ![](southwest-headquarters-tour-2026/hangar-internal.jpg)
+An amazing view
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -162,7 +163,7 @@ Herb Kelleher and Colleen Barrett's offices as they were left upon retirement
 We finished our tour with a visit to The Listening Center, the social media command center that monitors online trends in real time. 
 
 ![](southwest-headquarters-tour-2026/the-listening-center.jpg)
-The Listening Center 
+The Listening Center... a wall of monitors display top posts, keywords, emojis, and industry trends
 
 ![](southwest-headquarters-tour-2026/swag.jpg)
 An unexpected surprise... a swag gift bag! Super cute Southwest socks, the new Mexican cookie, sticker, souvenir safety glasses, and a real, historic boarding pass! 
