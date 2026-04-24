@@ -26,6 +26,7 @@ Table of Contents
 ## Intro
 
 ![](southwest-headquarters-tour-2026/group-pic.jpg)
+Our sweet host 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -34,8 +35,12 @@ Table of Contents
 ### Flight Attendant Training
 
 ![](southwest-headquarters-tour-2026/raft-room.jpg)
+
 ![](southwest-headquarters-tour-2026/vintage-uniforms.jpg)
+Vintage uniforms
+
 ![](southwest-headquarters-tour-2026/pilot-uniform-shop.jpg)
+On our way to the flight attendant uniform shop, we passed the pilot uniform shop
 
 ![](southwest-headquarters-tour-2026/miniature-plane.jpg)
 
@@ -58,12 +63,14 @@ Table of Contents
 ![](southwest-headquarters-tour-2026/me-in-front-of-simulators.jpg)
 
 ![](southwest-headquarters-tour-2026/tornado-fortified.jpg)
+Given the risk to operations and equipment, this building could withstand an F3 tornado. Garage-like doors descend and inside, it is business as usual. The walls around the network command center are fortied with 12 inch concrete. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Lunch
 
 ![](southwest-headquarters-tour-2026/complimentary-lunch.jpg)
+Thank you Southwest for a delicious complimentary lunch in the cafeteria! 
 
 ### Southwest Store
 
@@ -98,13 +105,13 @@ Getting up close and personal with a weather antenna at the front of a plane, be
 Master technicians gathered around this plane for a quick fix and the hangar door was soon opening
 
 ![](southwest-headquarters-tour-2026/me-sitting-in-front-of-an-engine-fan.jpg)
-Me sitting in front of an engine fan. Gently pushing an $80,000 blade with your finger sets tons of engine into motion. Within a few feet, temperatures can reach four times that of an oven. 
+Me sitting in front of an engine fan. Gently pushing an $80,000 blade with your finger sets tons of engine into motion. Within a few feet, temperatures in flight can reach four times that of an oven. The swirl shape indicates whether the fan is in motion. 
 
 ![](southwest-headquarters-tour-2026/group-photo-in-wheel-wells.jpg)
 Me and a few of my new friends, hanging out in wheel wells. A moment we'll never forget. Contrary to media reports, this area is not stowaway friendly. 
 
 ![](southwest-headquarters-tour-2026/a-light-teardown.jpg)
-A "light" teardown that left overhead compartments and some seats in place. 
+A "light" teardown that left overhead compartments and some seats in place. The seats removed were placed in rows in the hangar in a surreal scene. 
 
 ![](southwest-headquarters-tour-2026/me-in-the-cockpit.jpg)
 Me in a 737 cockpit
@@ -112,6 +119,7 @@ Me in a 737 cockpit
 ![](southwest-headquarters-tour-2026/hangar-internal.jpg)
 
 ![](southwest-headquarters-tour-2026/strong-pipe.jpg)
+Jim shared some of his encyclopedic knowledge of plane engineering. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -128,5 +136,8 @@ Bonus experience: visiting Herb Kelleher and Colleen Barrett's offices as they w
 ### Listening Center
 
 ![](southwest-headquarters-tour-2026/me-in-vintage-seat.jpg)
+We finished our tour with a visit to The Listening Center. Here I am sitting in a vintage airplane seat. 
+
+Thank you to Southwest for an incredible day. We definitely felt the Luv! 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
