@@ -70,7 +70,7 @@ Me in front of a simulator
 Me at one end of the hall of simulators
 
 ![](southwest-headquarters-tour-2026/tornado-fortified.jpg)
-Given the risk to operations and equipment, this building could withstand an F3 tornado. Garage-like doors descend and inside, it is business as usual. The walls around the network command center are fortied with 12 inch concrete. 
+Given the risk to operations and equipment, this building could withstand an F3 tornado. Garage-like doors descend and inside, it is business as usual. The walls around the network command center are fortified with 12 inch concrete. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -132,6 +132,8 @@ Me sitting in front of an engine fan. Gently pushing an $80,000 blade with your 
 ![](southwest-headquarters-tour-2026/group-photo-in-wheel-wells.jpg)
 Me and a few of my new friends, hanging out in wheel wells. A moment we'll never forget. Contrary to media reports, this area is not stowaway friendly. 
 
+Jim shared some of his encyclopedic knowledge of plane engineering and their millions of components. 
+
 ![](southwest-headquarters-tour-2026/a-light-teardown.jpg)
 A "light" teardown that left overhead compartments and some seats in place. The seats removed were placed in rows in the hangar in a surreal scene. 
 
@@ -139,9 +141,6 @@ A "light" teardown that left overhead compartments and some seats in place. The 
 Me in a 737 cockpit
 
 ![](southwest-headquarters-tour-2026/hangar-internal.jpg)
-
-![](southwest-headquarters-tour-2026/strong-pipe.jpg)
-Jim shared some of his encyclopedic knowledge of plane engineering and their millions of components. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -153,7 +152,7 @@ After the regular tour ended, we scored a bonus experience visiting Herb Kellehe
 Minature replicas of all of the Southwest liveried planes on our way
 
 ![](southwest-headquarters-tour-2026/herb-and-colleen-offices.jpg)
-Visiting Herb Kelleher and Colleen Barrett's offices as they were left upon retirement
+Herb Kelleher and Colleen Barrett's offices as they were left upon retirement
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -162,17 +161,18 @@ Visiting Herb Kelleher and Colleen Barrett's offices as they were left upon reti
 We finished our tour with a visit to The Listening Center, the social media command center that monitors online trends in real time. 
 
 ![](southwest-headquarters-tour-2026/the-listening-center.jpg)
+The Listening Center 
 
 ![](southwest-headquarters-tour-2026/swag.jpg)
 An unexpected surprise... a swag gift bag! Super cute Southwest socks, the new Mexican cookie, souvenir safety glasses, and a real, historic boarding pass! 
 
 ## Thank You
 
+![](southwest-headquarters-tour-2026/me-in-vintage-seat.jpg)
+Me sitting in a vintage airplane seat in The Listening Center at the end of the day
+
 In addition to the tour, it was fun to get to know other tour participants and experience their excitement, too. 
 
 Thank you to Southwest for an incredible day. We definitely felt the Luv! 
-
-![](southwest-headquarters-tour-2026/me-in-vintage-seat.jpg)
-Me sitting in a vintage airplane seat in The Listening Center
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
