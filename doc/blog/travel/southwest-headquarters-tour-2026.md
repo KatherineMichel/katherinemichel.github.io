@@ -27,11 +27,6 @@ Table of Contents
 
 ![](southwest-headquarters-tour-2026/group-pic.jpg)
 
-![](southwest-headquarters-tour-2026/airline-experience.jpg)
-![](southwest-headquarters-tour-2026/liveried-planes.jpg)
-![](southwest-headquarters-tour-2026/miniature-plane.jpg)
-![](southwest-headquarters-tour-2026/tornado-fortified.jpg)
-
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Morning
@@ -41,6 +36,9 @@ Table of Contents
 ![](southwest-headquarters-tour-2026/raft-room.jpg)
 ![](southwest-headquarters-tour-2026/vintage-uniforms.jpg)
 ![](southwest-headquarters-tour-2026/pilot-uniform-shop.jpg)
+
+![](southwest-headquarters-tour-2026/miniature-plane.jpg)
+
 ![](southwest-headquarters-tour-2026/plane-training.jpg)
 ![](southwest-headquarters-tour-2026/flight-attendance-fun.jpg)
 ![](southwest-headquarters-tour-2026/evacuation-slide.jpg)
@@ -58,6 +56,8 @@ Table of Contents
 
 ![](southwest-headquarters-tour-2026/me-in-front-of-a-simulator.jpg)
 ![](southwest-headquarters-tour-2026/me-in-front-of-simulators.jpg)
+
+![](southwest-headquarters-tour-2026/tornado-fortified.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -79,6 +79,8 @@ Table of Contents
 ![](southwest-headquarters-tour-2026/noc-livestream.jpg)
 ![](southwest-headquarters-tour-2026/noc-right-panel.jpg)
 
+![](southwest-headquarters-tour-2026/airline-experience.jpg)
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### TechOps Hangar
@@ -98,6 +100,7 @@ Table of Contents
 
 ### Herb and Colleen Offices
 
+![](southwest-headquarters-tour-2026/liveried-planes.jpg)
 ![](southwest-headquarters-tour-2026/herb-and-colleen-offices.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
