@@ -107,9 +107,7 @@ An adult onesie that was a crowd favorite in the Southwest Shop
 
 ### Social Media Serendipity
 
-
-
-Outside the Southwest Shop, I had the opportunity to meet Southwest social media staff and compliment them on my favorite warm and fuzzy Southwest stories. 
+Before our afternoon tour began, I began to say to Carlye, "You know what I love about Southwest social media...?" She pointed out that the social media experts were standing right next to us. I had the opportunity to compliment them on the warm and fuzzy Southwest stories that no other brand does better. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -117,19 +115,24 @@ Outside the Southwest Shop, I had the opportunity to meet Southwest social media
 
 ### Network Operation Center
 
+Our tour group particularly enjoyed the Network Operations Center segment and were bombarding Jake with questions. 
+
 <!--
+NOC
+
 Dispatch school
 Adrenaline
 Lavatory
+Situation room
 -->
 
 ![](southwest-headquarters-tour-2026/noc-left-panel.jpg)
 
 ![](southwest-headquarters-tour-2026/noc-livestream.jpg)
-A livestream of the Southwest Network Operations Center
+A livestream of the Southwest Network Operations Center. Although there are other small Southwest command centers around the U.S., this is only one Network Operations Center. 
 
 ![](southwest-headquarters-tour-2026/noc-right-panel.jpg)
-Southwest has 4,000 flights a day. At the time of this photo, 1408 had been completed. 1 had been cancelled. 
+Southwest has 4,000 flights a day, more than any other airline. At the time of this photo, 1408 had been completed. 1 had been cancelled. Below the stats were livestreams of the Southwest gates at Houston Airport, perhaps due to inclement weather. Southwest can view a livestream of any of its gates anywhere with the flick of a switch. 
 
 ![](southwest-headquarters-tour-2026/airline-experience.jpg)
 Around every corner, there are pieces of airplane and replicas. This area entitled "Airplane Experience" is a mockup of a Southwest counter and gate. 
