@@ -64,9 +64,10 @@ Plane evacuation slide
 Have you ever seen a Southwest pilot with a beard? Southwest pilots must be able to put an oxygen mask on with one hand in eight seconds while their other hand is on the controls. They can have a moustache, but not a full beard, in order to be able to create the necessary seal. This testing station accommodates different masks for different types of airplanes. 
 
 ![](southwest-headquarters-tour-2026/p28-simulator.jpg)
-This 1 million dollar was our first simulator experience. Although 23 are in use, they do not have the realism of the CAE simulators we would see later. 
+This 1 million dollar P28 simulator was our first simulator experience. Although 23 are in use, they do not have the realism of the CAE simulators we would see later. 
 
 ![](southwest-headquarters-tour-2026/simulator.jpg)
+While real "turbine house" can be logged in this simulator, it also causes real motion sickness. 
 
 ![](southwest-headquarters-tour-2026/simulator.jpg)
 
@@ -76,16 +77,13 @@ This 1 million dollar was our first simulator experience. Although 23 are in use
 
 Etops, Rio
 long, short haul
-
-Real turbine hours
-Motion sickness
 -->
 
 ![](southwest-headquarters-tour-2026/me-in-front-of-a-simulator.jpg)
-Me in front of a simulator in-use
+Me in front of a CAE simulator in-use
 
 ![](southwest-headquarters-tour-2026/me-in-front-of-simulators.jpg)
-Me at one end of the hall of simulators
+Me at one end of the hall of CAE simulators
 
 ![](southwest-headquarters-tour-2026/tornado-fortified.jpg)
 Given the risk to operations and equipment, this building could withstand an F3 tornado. Garage-like doors descend and inside, it is business as usual. The walls around the network command center are fortified with 12 inch concrete. 
