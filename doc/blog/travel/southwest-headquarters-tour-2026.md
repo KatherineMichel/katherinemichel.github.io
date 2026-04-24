@@ -29,6 +29,8 @@ Table of Contents
 
 I began attending tech conferences in 2017, and they have been incredibly beneficial to my career. In the early days, I had a shoestring budget, and would often apply for financial aid. The combination of Southwest's Wanna Get Away tickets and flexible travel credit policy enabled me to attend many conferences with less stress.
 
+A few weeks ago, I was offered the chance to tour Southwest Headquarters along with other fans. I couldn't pass it up! 
+
 ![](southwest-headquarters-tour-2026/group-pic.jpg)
 Our superfan tour group! Our sweet host Carlye Thornton is the second from the left. 
 
