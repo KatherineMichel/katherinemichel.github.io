@@ -27,7 +27,7 @@ Table of Contents
 ## Intro
 
 ![](southwest-headquarters-tour-2026/group-pic.jpg)
-Our sweet host 
+Our sweet host Carlye Thornton is the second from the left. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -147,11 +147,13 @@ Jim shared some of his encyclopedic knowledge of plane engineering and their mil
 
 ### Herb and Colleen Offices
 
+After the regular tour ended, we scored a bonus experience visiting Herb Kelleher and Colleen Barrett's offices
+
 ![](southwest-headquarters-tour-2026/liveried-planes.jpg)
-Minature replicas of all of the Southwest liveried planes
+Minature replicas of all of the Southwest liveried planes on our way
 
 ![](southwest-headquarters-tour-2026/herb-and-colleen-offices.jpg)
-Bonus experience: visiting Herb Kelleher and Colleen Barrett's offices as they were left upon retirement
+Visiting Herb Kelleher and Colleen Barrett's offices as they were left upon retirement
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -159,13 +161,9 @@ Bonus experience: visiting Herb Kelleher and Colleen Barrett's offices as they w
 
 We finished our tour with a visit to The Listening Center, the social media command center that monitors online trends in real time. 
 
-![](southwest-headquarters-tour-2026/me-in-vintage-seat.jpg)
-Me sitting in a vintage airplane seat
+![](southwest-headquarters-tour-2026/the-listening-center.jpg)
 
-<!--
-Swag
--->
-
+![](southwest-headquarters-tour-2026/swag.jpg)
 An unexpected surprise... a swag gift bag! Super cute Southwest socks, the new Mexican cookie, souvenir safety glasses, and a real, historic boarding pass! 
 
 ## Thank You
@@ -173,5 +171,8 @@ An unexpected surprise... a swag gift bag! Super cute Southwest socks, the new M
 In addition to the tour, it was fun to get to know other tour participants and experience their excitement, too. 
 
 Thank you to Southwest for an incredible day. We definitely felt the Luv! 
+
+![](southwest-headquarters-tour-2026/me-in-vintage-seat.jpg)
+Me sitting in a vintage airplane seat in The Listening Center
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
