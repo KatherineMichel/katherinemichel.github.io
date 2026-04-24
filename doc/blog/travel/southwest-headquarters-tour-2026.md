@@ -143,7 +143,7 @@ Me sitting in front of an engine fan. Gently pushing an $80,000 blade with your 
 Me and a few of my new friends, hanging out in wheel wells. A moment we'll never forget. Contrary to media reports, this area is not stowaway friendly. 
 
 ![](southwest-headquarters-tour-2026/strong-pipe.jpg)
-Our tour guide Jim shared some of his encyclopedic knowledge of plane engineering and their millions of components. He pointed out uniquely strong, but light materials that would enable more weight to be used for fuel or customers. In one assessment, a pound saved could provide $50,000 to $100,000 per year. 
+Our tour guide Jim shared some of his encyclopedic knowledge of plane engineering and their millions of components. He pointed out uniquely strong, but light materials that would enable more weight to be used for fuel or elsewhere.  
 
 ![](southwest-headquarters-tour-2026/a-light-teardown.jpg)
 A "light" teardown that left overhead compartments and some seats in place. The seats removed were placed in rows in the hangar in a surreal scene. 
