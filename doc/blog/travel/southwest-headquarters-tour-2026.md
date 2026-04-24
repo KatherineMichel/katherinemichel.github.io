@@ -27,8 +27,10 @@ Table of Contents
 
 ## Intro
 
+I began attending tech conferences in 2017, and they have been incredibly beneficial to my career. In the early days, I had a shoestring budget, and would often apply for financial aid. The combination of Southwest's Wanna Get Away tickets and flexible travel credit policy enabled me to attend many conferences with less stress.
+
 ![](southwest-headquarters-tour-2026/group-pic.jpg)
-Our sweet host Carlye Thornton is the second from the left. 
+Our superfan tour group! Our sweet host Carlye Thornton is the second from the left. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -97,6 +99,8 @@ An adult onesie that was a crowd favorite in the Southwest Shop
 
 ### Social Media Serendipity
 
+
+
 Outside the Southwest Shop, I had the opportunity to meet Southwest social media staff and compliment them on my favorite warm and fuzzy Southwest stories. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
@@ -143,7 +147,7 @@ Me sitting in front of an engine fan. Gently pushing an $80,000 blade with your 
 Me and a few of my new friends, hanging out in wheel wells. A moment we'll never forget. Contrary to news reports, this area is not stowaway friendly. 
 
 ![](southwest-headquarters-tour-2026/strong-pipe.jpg)
-Our tour guide Jim shared some of his encyclopedic knowledge of planes and their millions of components. He pointed out uniquely strong, but light materials such as in the pipe in the center of this photo that would enable more weight to be used for fuel or elsewhere.  
+Our tour guide Jim shared some of his encyclopedic knowledge of planes and their millions of components. He pointed out uniquely strong, yet lightweight materials, for example, seen in the pipe in the center of this photo, that would enable more weight to be allocated to fuel or elsewhere.  
 
 ![](southwest-headquarters-tour-2026/a-light-teardown.jpg)
 A "light" teardown that left overhead compartments and some seats in place. The seats removed were placed in rows in the hangar in a surreal scene. 
