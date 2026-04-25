@@ -43,7 +43,7 @@ Our superfan tour group! Our sweet host Carlye Thornton is the second from the l
 We started our tour in the LEAD Center (Leadership, Education, and Aircrew Development training facility). This is one of 13 centers around the US where flight attendants complete their initial training, then return for short, annual refresher land and sea training. The training is regularly updated to address real world trends. 
 
 ![](southwest-headquarters-tour-2026/raft-room.jpg)
-A 100 pound raft kit inflates to about 2x this height. 
+A 100 pound raft kit inflates to about 2x this height. The flight attendants are not required to be good swimmers. The life vest will do its job. 
 
 ![](southwest-headquarters-tour-2026/fire-training.jpg)
 Demo of oxygen hood and methods of exinguishing fire. Flight attendants are taught to find the base of the fire. 
@@ -78,28 +78,25 @@ Southwest pilots must be able to put an oxygen mask on with one hand in eight se
 This fixed-motion simulator was our first simulator experience. 23 are in use and cost $1 million each. 
 
 ![](southwest-headquarters-tour-2026/cae-simulator-outside.jpg)
-An instructor saw our group and invited us inside of one for a look. 
+As we watched, a simulator would raise up and rotate at angles that simulate real flight. An instructor saw our group and invited us inside of one for a look. 
 
 ![](southwest-headquarters-tour-2026/cae-simulator-inside.jpg)
 While real "turbine hours" can be logged in this simulator, it can also cause real motion sickness. Ask them about the chickens hanging from the bottom. 
 
 <!--
-The flight attendants are not required to be good swimmers. The life vest will do its job. 
-
 they do not have the realism of the CAE simulators we would see later. 
 
 Etops, Rio
 long, short haul
 
-Have you ever seen a Southwest pilot with a beard? 
 Sadly, we did learn that only 6% of Southwest pilots are women. Southwest supports the Women in Aviation organization and would love to change that. 
 -->
 
 ![](southwest-headquarters-tour-2026/me-in-front-of-a-cae-simulator.jpg)
-Me in front of a full-motion CAE simulator in-use
+Me in front of a full-motion CAE 700 series simulator with the bridge raised, a sign that it is in-use. 
 
 ![](southwest-headquarters-tour-2026/me-in-front-of-cae-simulators.jpg)
-Me at one end of the hall. There are 26 full-motion CAE series 700, 800, and MAX 8 simulators. Each one costs $14.2 million. 
+Me at one end of the hall. There are 26 full-motion CAE series 700, 800, and MAX 8 simulators here. Each one costs $14.2 million. 
 
 ![](southwest-headquarters-tour-2026/tornado-fortified.jpg)
 Given the risk to operations and equipment, this building could withstand an F3 tornado. Garage-like doors descend and inside, it is business as usual. The walls around the Network Command Center are fortified with 12 inch concrete. 
