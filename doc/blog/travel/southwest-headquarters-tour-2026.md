@@ -105,7 +105,7 @@ An adult onesie that was a crowd favorite in the Southwest Shop
 
 ### Social Media Serendipity
 
-Before our afternoon tour began, I began to say to Carlye, "You know what I love about Southwest social media...?" She pointed out that the social media experts were standing right next to us. I had the opportunity to compliment them on the warm and fuzzy Southwest stories that no other brand does better. 
+Before the afternoon tour began, I began to ask our host Carlye, "You know what I love about Southwest social media...?" She pointed out that the social media experts were standing right next to us. I had the opportunity to compliment them on the warm and fuzzy Southwest stories that no other brand does better. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
