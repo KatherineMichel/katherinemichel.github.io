@@ -81,12 +81,10 @@ This fixed-motion simulator was our first simulator experience. 23 are in use an
 As we watched, a simulator would raise up and rotate at angles that simulate real flight. An instructor saw our group and invited us inside of one for a look. 
 
 ![](southwest-headquarters-tour-2026/cae-simulator-inside.jpg)
-While real "turbine hours" can be logged in this simulator, it can also cause real motion sickness. Ask them about the chickens hanging from the bottom. 
+Inside a full-motion CAE 800 series simulator. These simulators can be programmed to fly any route and can replicate special scenarios such as ETOPs (extended range, over-water, such as Hawaii). While real "turbine hours" can be logged in this simulator, it can also cause real motion sickness. Ask them about the chickens hanging from the bottom. 
 
 <!--
-Etops, Rio
 long, short haul
-
 Sadly, we did learn that only 6% of Southwest pilots are women. Southwest supports the Women in Aviation organization and would love to change that. 
 -->
 
