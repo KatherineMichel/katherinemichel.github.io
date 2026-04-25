@@ -153,7 +153,7 @@ Getting up close and personal with a weather antenna at the front of a plane, be
 Master technicians gathered around this plane for a quick fix and the hangar door was soon opening
 
 ![](southwest-headquarters-tour-2026/me-sitting-in-front-of-an-engine-fan.jpg)
-Me sitting in front of an engine fan. Gently pushing an $80,000 blade with your finger sets tons of engine into motion. Within the space of a few feet, temperatures can reach four times that of an oven. Holes dampen the sound. The swirl shape indicates to onlookers whether the fan is in motion. 
+Me sitting in front of an engine fan. Gently pushing an $80,000 blade with your finger sets literal tons of engine into motion. Within the space of a few feet, temperatures can reach four times that of an oven. Holes dampen the sound. The swirl shape indicates to onlookers whether the fan is in motion. 
 
 ![](southwest-headquarters-tour-2026/group-photo-in-wheel-wells.jpg)
 Me and a few of my new friends, hanging out in wheel wells. A moment we'll never forget. Contrary to news reports, this area is not stowaway friendly. 
