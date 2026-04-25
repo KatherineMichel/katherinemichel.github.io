@@ -42,10 +42,10 @@ Our superfan tour group! Our sweet host Carlye Thornton is the second from the l
 
 ![](southwest-headquarters-tour-2026/raft-room.jpg)
 
+![](southwest-headquarters-tour-2026/fire-training.jpg)
+
 ![](southwest-headquarters-tour-2026/vintage-uniforms.jpg)
 Vintage uniforms... Southwest campus walls are covered in what must be thousands of pictures and momentos. 
-
-![](southwest-headquarters-tour-2026/fire-training.jpg)
 
 ![](southwest-headquarters-tour-2026/pilot-uniform-shop.jpg)
 The pilot uniform shop
