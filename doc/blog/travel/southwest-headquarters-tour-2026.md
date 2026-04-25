@@ -40,9 +40,13 @@ Our superfan tour group! Our sweet host Carlye Thornton is the second from the l
 
 ### Flight Attendant Training
 
+We started our tour in the LEAD Center (Leadership, Education, and Aircrew Development training facility). This is one of 13 centers around the US where flight attendants complete their initial training, then return for short, annual refresher land and sea training. The training is regularly updated to address real world trends. 
+
 ![](southwest-headquarters-tour-2026/raft-room.jpg)
+A 100 pound raft kit inflates to about 2x this height. The flight attendants are not required to be good swimmers. The life vest will do its job. 
 
 ![](southwest-headquarters-tour-2026/fire-training.jpg)
+Demo of oxygen hood and methods of exinguishing fire. Flight attendants are taught to find the base of the fire. 
 
 ![](southwest-headquarters-tour-2026/vintage-uniforms.jpg)
 Vintage uniforms... Southwest campus walls are covered in what must be thousands of pictures and momentos. 
@@ -51,10 +55,6 @@ Vintage uniforms... Southwest campus walls are covered in what must be thousands
 The pilot uniform shop
 
 ![](southwest-headquarters-tour-2026/plane-training.jpg)
-
-<!--
-Soft skills
--->
 
 ![](southwest-headquarters-tour-2026/flight-attendance-fun.jpg)
 Flight attendants make it look easy. Tour participants volunteered to give the safety demonstration a try! 
@@ -69,11 +69,13 @@ We saw an emergency door demo and evacuation slide
 
 ### Flight Simulators
 
+Many employees do not even visit this area. It was truly exclusive territory. 
+
 ![](southwest-headquarters-tour-2026/pilot-mask-training.jpg)
 Southwest pilots must be able to put an oxygen mask on with one hand in eight seconds while their other hand is on the controls. They can have a moustache, but not a full beard, in order to be able to create the necessary seal. This testing station accommodates different masks for different types of airplanes. 
 
 ![](southwest-headquarters-tour-2026/fixed-simulator.jpg)
-This fixed-motion simulator was our first simulator experience. Over 20 are in use and cost $1 million each. 
+This fixed-motion simulator was our first simulator experience. 23 are in use and cost $1 million each. 
 
 ![](southwest-headquarters-tour-2026/cae-simulator-outside.jpg)
 An instructor saw our group and invited us inside of one for a look. 
@@ -95,7 +97,7 @@ Sadly, we did learn that only 6% of Southwest pilots are women. Southwest suppor
 Me in front of a full-motion CAE simulator in-use
 
 ![](southwest-headquarters-tour-2026/me-in-front-of-cae-simulators.jpg)
-Me at one end of the hall of full-motion CAE simulators. Each one costs $14.2 million. 
+Me at one end of the hall. There are 26 full-motion CAE series 700, 800, and MAX 8 simulators. Each one costs $14.2 million. 
 
 ![](southwest-headquarters-tour-2026/tornado-fortified.jpg)
 Given the risk to operations and equipment, this building could withstand an F3 tornado. Garage-like doors descend and inside, it is business as usual. The walls around the Network Command Center are fortified with 12 inch concrete. 
