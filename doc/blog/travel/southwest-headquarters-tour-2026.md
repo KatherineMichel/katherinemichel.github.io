@@ -66,10 +66,10 @@ Have you ever seen a Southwest pilot with a beard? Southwest pilots must be able
 ![](southwest-headquarters-tour-2026/p28-simulator.jpg)
 This 1 million dollar P28 simulator was our first simulator experience. Although 23 are in use, they do not have the realism of the CAE simulators we would see later. 
 
-![](southwest-headquarters-tour-2026/simulator.jpg)
+![](southwest-headquarters-tour-2026/cae-simulator-inside.jpg)
 While real "turbine house" can be logged in this simulator. 
 
-![](southwest-headquarters-tour-2026/simulator.jpg)
+![](southwest-headquarters-tour-2026/cae-simulator-outside.jpg)
 
 <!--
 1 million
