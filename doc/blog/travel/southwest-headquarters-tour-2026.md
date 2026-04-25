@@ -52,7 +52,7 @@ Demo of oxygen hood and methods of exinguishing fire. Flight attendants are taug
 Vintage uniforms... Southwest campus walls are covered in what must be thousands of pictures and momentos. 
 
 ![](southwest-headquarters-tour-2026/pilot-uniform-shop.jpg)
-The pilot uniform shop... sadly, we did learn that only 6% of Southwest pilots are women. Southwest supports the Women in Aviation organization and would love to change that. 
+The pilot uniform shop. We later learned that sadly only 6% of Southwest pilots are women, which is in line with the industry as a whole. Southwest supports the Women in Aviation organization and would love to change that. 
 
 ![](southwest-headquarters-tour-2026/plane-training.jpg)
 
