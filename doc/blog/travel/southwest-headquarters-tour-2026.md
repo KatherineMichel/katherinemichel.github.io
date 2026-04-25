@@ -40,24 +40,25 @@ Our superfan tour group gathered in the lobby of the LEAD Center (Leadership, Ed
 
 ### Flight Attendant Training
 
-Dallas LEAD is one of 13 training facilities around the US where flight attendants complete their initial training, then return for short, annual refresher land and sea training. The training is regularly updated to address real world trends. 
+Dallas LEAD is one of 13 training facilities around the US where flight attendants complete training that goes beyond the typical service you see in a cabin to include land and sea evacuation, emergency tool use, fire fighting, and self defense. They will return annually for short, refresher training that is regularly updated to address real world trends.
 
 ![](southwest-headquarters-tour-2026/raft-room.jpg)
-A 100 pound raft kit inflates to about 2x this height. The flight attendants are not required to be good swimmers. The life vest will do its job. 
+Sea evacuation training area. A 100 pound raft kit inflates to about 2x this height. The flight attendants are not required to be good swimmers. The life vest will do its job. 
 
 ![](southwest-headquarters-tour-2026/fire-training.jpg)
-Demo of oxygen hood and methods of exinguishing fire. Flight attendants are taught to find the base of the fire. 
+Fire fighting training area. Demo of an oxygen hood and methods of exinguishing fire. Flight attendants are taught to find the base of the fire. 
 
 ![](southwest-headquarters-tour-2026/vintage-uniforms.jpg)
-Vintage uniforms... Southwest campus walls are covered in what must be thousands of pictures and momentos. 
+These Vintage uniforms are among what must be thousands of pictures and momentos covering Southwest campus walls. 
 
 ![](southwest-headquarters-tour-2026/pilot-uniform-shop.jpg)
 The pilot uniform shop. We later learned that sadly only 6% of Southwest pilots are women, which is in line with the industry as a whole. Southwest supports the Women in Aviation organization and would love to change that. 
 
 ![](southwest-headquarters-tour-2026/plane-training.jpg)
+Our tour guide Glenn introducing us to a mockup plane used for training
 
 ![](southwest-headquarters-tour-2026/flight-attendance-fun.jpg)
-Flight attendants make it look easy. Tour participants volunteered to give the safety demonstration a try! 
+It's not as easy as it looks. Tour participants volunteered to give the flight attendant safety demonstration a try! 
 
 ![](southwest-headquarters-tour-2026/emergency-equipment.jpg)
 Flight attendants are required to test at a 100% mastery of emergency procedures and equipment. 
@@ -105,6 +106,8 @@ An adult onesie that was a crowd favorite in the Southwest Shop
 ### Social Media Serendipity
 
 Before the afternoon tour began, I began to ask our host Carlye, "You know what I love about Southwest social media...?" She pointed out that the social media experts were standing right next to us. I had the opportunity to compliment them on the warm and fuzzy Southwest stories that no other brand does better. 
+
+During the flight attendant training tour, I asked our guide Glenn about employees being featured on the inflight menu. They are real employees and can nominate themselves! 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
