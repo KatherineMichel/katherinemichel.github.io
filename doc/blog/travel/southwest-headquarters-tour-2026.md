@@ -63,7 +63,7 @@ Flight attendants make it look easy. Tour participants volunteered to give the s
 Flight attendants are tested and required to have a 100% mastery of emergency procedures and equipment. 
 
 ![](southwest-headquarters-tour-2026/evacuation-slide.jpg)
-We saw an emergency door demo and plane evacuation slide
+We saw an emergency door demo and evacuation slide
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
