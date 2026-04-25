@@ -14,7 +14,7 @@ Table of Contents
 - [Intro](#intro)
 - [Morning](#morning)
     - [Flight Attendant Training](#flight-attendant-training)
-    - [Flight Simulators](#flight-simulators)
+    - [Pilot Training](#pilot-training)
 - [Lunch](#lunch)
     - [Southwest Store](#southwest-store)
     - [Social Media Serendipity](#social-media-serendipity)
@@ -67,9 +67,7 @@ Emergency door demo and evacuation slide
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Flight Simulators
-
-Many employees do not even visit this area. It was truly exclusive territory. 
+### Pilot Training
 
 ![](southwest-headquarters-tour-2026/pilot-mask-training.jpg)
 Southwest pilots must be able to put an oxygen mask on with one hand in eight seconds while their other hand is on the controls. They can have a moustache, but not a full beard, in order to be able to create the necessary seal. This testing station accommodates different masks for different types of airplanes. 
@@ -78,7 +76,7 @@ Southwest pilots must be able to put an oxygen mask on with one hand in eight se
 This fixed-motion simulator was our first simulator experience. 23 are in use and cost $1 million each. 
 
 ![](southwest-headquarters-tour-2026/cae-simulator-outside.jpg)
-Next, we saw full-motion CAE series 700, 800, and MAX 8 simulators. As we watched, a simulator would raise up and rotate at angles that simulate real flight. An instructor saw our group and invited us inside of one for a look. 
+Next, we saw full-motion CAE 737 series 700, 800, and MAX 8 simulators. As we watched, a simulator would raise up, tip back, and rotate at angles that simulate real flight. An instructor saw our group and invited us inside of one for a look. 
 
 ![](southwest-headquarters-tour-2026/cae-simulator-inside.jpg)
 Inside a full-motion CAE 800 series simulator. These simulators can be programmed to fly any route and can replicate special scenarios such as ETOPs (extended range, over-water, such as Hawaii) and emergencies. While real "turbine hours" can be logged in this simulator, it can also cause real motion sickness. Ask them about the chickens hanging from the bottom. 
@@ -87,7 +85,7 @@ Inside a full-motion CAE 800 series simulator. These simulators can be programme
 Me in front of a full-motion CAE 700 series simulator with the bridge raised, a sign that it is in-use. 
 
 ![](southwest-headquarters-tour-2026/me-in-front-of-cae-simulators.jpg)
-Me at one end of the hall. There are 26 simulators here. Each one costs $14.2 million. 
+Me at one end of the hall. There are 26 simulators here. Each one costs $14.2 million. Many employees do not even visit this area. It was truly exclusive territory. 
 
 ![](southwest-headquarters-tour-2026/tornado-fortified.jpg)
 Given the risk to operations and equipment, this building could withstand an F3 tornado. Garage-like doors descend and inside, it is business as usual. The walls around the Network Command Center are fortified with 12 inch concrete. 
