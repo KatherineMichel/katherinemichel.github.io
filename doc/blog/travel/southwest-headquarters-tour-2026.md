@@ -126,7 +126,7 @@ Situation room
 ![](southwest-headquarters-tour-2026/noc-left-panel.jpg)
 
 ![](southwest-headquarters-tour-2026/noc-livestream.jpg)
-A livestream of the Southwest Network Operations Center. Although there are other small Southwest command centers around the U.S., this is only one Network Operations Center. 
+A livestream of the Southwest Network Operations Center. Although there are other small Southwest command centers around the U.S., there is only one Network Operations Center. 
 
 ![](southwest-headquarters-tour-2026/noc-right-panel.jpg)
 Southwest has 4,000 flights a day, more than any other airline. At the time of this photo, 1408 had been completed. 1 had been cancelled. Below the stats were livestreams of the Southwest gates at Houston Airport, perhaps due to inclement weather. Southwest can view a livestream of any of its gates anywhere with the flick of a switch. 
