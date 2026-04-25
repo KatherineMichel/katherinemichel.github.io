@@ -86,7 +86,11 @@ Inside a full-motion CAE 800 series simulator. These simulators can be programme
 Me in front of a full-motion CAE 700 series simulator with the bridge raised, a sign that it is in-use. 
 
 ![](southwest-headquarters-tour-2026/me-in-front-of-cae-simulators.jpg)
-Me at one end of the hall. There are 26 simulators here. Each one costs $14.2 million. Many employees do not even visit this area. It was truly exclusive territory. 
+Me at one end of the hall. There are 26 simulators here. Each one costs $14.2 million. 
+
+<!--
+Many employees do not even visit this area. It was truly exclusive territory. 
+-->
 
 ![](southwest-headquarters-tour-2026/tornado-fortified.jpg)
 Given the risk to operations and equipment, this building could withstand an F3 tornado. Garage-like doors descend and inside, it is business as usual. The walls around the Network Command Center are fortified with 12 inch concrete. 
@@ -107,7 +111,9 @@ An adult onesie that was a crowd favorite in the Southwest Shop
 
 Before the afternoon tour began, I began to ask our host Carlye, "You know what I love about Southwest social media...?" She pointed out that the social media experts were standing right next to us. I had the opportunity to compliment them on the warm and fuzzy Southwest stories that no other brand does better. 
 
+<!--
 During the flight attendant training tour, I asked our guide Glenn about employees being featured on the inflight menu. They are real employees and can nominate themselves! 
+-->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
