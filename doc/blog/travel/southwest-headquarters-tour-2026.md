@@ -67,18 +67,14 @@ Have you ever seen a Southwest pilot with a beard? Southwest pilots must be able
 This $1 million P28 simulator was our first simulator experience. Although 23 are in use, they do not have the realism of the CAE simulators we would see later. 
 
 ![](southwest-headquarters-tour-2026/cae-simulator-inside.jpg)
-Real "turbine house" can be logged in this simulator. 
+While real "turbine house" can be logged in this simulator, apparently, it also causes real motion sickness. Ask them about the chickens hanging from the bottom. 
 
 ![](southwest-headquarters-tour-2026/cae-simulator-outside.jpg)
 
 <!--
-14.2 million
-
 Etops, Rio
 long, short haul
 
-Ask them about the chickens hanging from the bottom
-, it also causes real motion sickness
 Sadly, we did learn that only 6% of Southwest pilots are women. Southwest supports the Women in Aviation organization and would love to change that. 
 -->
 
