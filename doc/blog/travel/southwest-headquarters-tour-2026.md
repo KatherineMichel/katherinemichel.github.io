@@ -71,7 +71,7 @@ Have you ever seen a Southwest pilot with a beard? Southwest pilots must be able
 This $1 million simulator was our first simulator experience. Although 23 are in use, they do not have the realism of the CAE simulators we would see later. 
 
 ![](southwest-headquarters-tour-2026/cae-simulator-inside.jpg)
-While real "turbine house" can be logged in this simulator, apparently, it also causes real motion sickness. Ask them about the chickens hanging from the bottom. 
+While real "turbine hours" can be logged in this simulator, apparently, it also causes real motion sickness. Ask them about the chickens hanging from the bottom. 
 
 ![](southwest-headquarters-tour-2026/cae-simulator-outside.jpg)
 
@@ -83,10 +83,10 @@ Sadly, we did learn that only 6% of Southwest pilots are women. Southwest suppor
 -->
 
 ![](southwest-headquarters-tour-2026/me-in-front-of-a-cae-simulator.jpg)
-Me in front of a CAE simulator in-use
+Me in front of a full-motion CAE simulator in-use
 
 ![](southwest-headquarters-tour-2026/me-in-front-of-cae-simulators.jpg)
-Me at one end of the hall of CAE simulators. Each one costs $14.2 million. 
+Me at one end of the hall of full-motion CAE simulators. Each one costs $14.2 million. 
 
 ![](southwest-headquarters-tour-2026/tornado-fortified.jpg)
 Given the risk to operations and equipment, this building could withstand an F3 tornado. Garage-like doors descend and inside, it is business as usual. The walls around the Network Command Center are fortified with 12 inch concrete. 
