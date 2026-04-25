@@ -29,7 +29,7 @@ Table of Contents
 
 I flew Southwest to my first tech conference in August of 2017 and quickly learned how beneficial conferences would be to my career. In the early days, I had a shoestring budget, and would often apply for financial aid. The combination of Southwest's Wanna Get Away tickets and flexible travel credit policy enabled me to attend many conferences.
 
-A few weeks ago, I was offered the chance to tour Southwest Headquarters. I jumped at the chance. I knew it would be a once-in-a-lifetime experience! 
+A few weeks ago, I was offered the chance to tour Southwest Headquarters along with other fans. I jumped at the chance. I knew it would be a once-in-a-lifetime experience! 
 
 ![](southwest-headquarters-tour-2026/group-pic.jpg)
 Our superfan tour group! Our sweet host Carlye Thornton is the second from the left. 
