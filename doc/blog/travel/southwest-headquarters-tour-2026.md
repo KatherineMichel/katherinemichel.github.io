@@ -67,12 +67,11 @@ Have you ever seen a Southwest pilot with a beard? Southwest pilots must be able
 This 1 million dollar P28 simulator was our first simulator experience. Although 23 are in use, they do not have the realism of the CAE simulators we would see later. 
 
 ![](southwest-headquarters-tour-2026/cae-simulator-inside.jpg)
-While real "turbine house" can be logged in this simulator. 
+Real "turbine house" can be logged in this simulator. 
 
 ![](southwest-headquarters-tour-2026/cae-simulator-outside.jpg)
 
 <!--
-1 million
 14.2 million
 
 Etops, Rio
@@ -80,8 +79,7 @@ long, short haul
 
 Ask them about the chickens hanging from the bottom
 , it also causes real motion sickness
-
-Sadly, we did learn that only 6%
+Sadly, we did learn that only 6% of Southwest pilots are women. Southwest supports the Women in Aviation organization and would love to change that. 
 -->
 
 ![](southwest-headquarters-tour-2026/me-in-front-of-a-cae-simulator.jpg)
@@ -115,14 +113,13 @@ Before our afternoon tour began, I began to say to Carlye, "You know what I love
 
 ### Network Operation Center
 
-Our tour group particularly enjoyed the Network Operations Center segment and were bombarding Jake with questions. 
+Our tour group particularly enjoyed the Network Operations Center (NOC) segment and were bombarding Jake with questions. 
 
 <!--
-NOC
-
 Dispatch school
 Adrenaline
 Lavatory
+Dependencies
 Situation room
 -->
 
@@ -144,8 +141,8 @@ Around every corner, there are pieces of airplane and replicas. This area entitl
 Our final scheduled tour stop was TechOps. Southwest has 800+ Boeing 737s, the largest fleet of them in the world. Four are at the adjacent Dallas Love Field Airport. 
 
 ![](southwest-headquarters-tour-2026/techops-hangar.jpg)
-Michelle, Doug, and Jim welcoming us to TechOps in the empty "party hangar" where a lot of maintenance takes place at night. Master technicians have been here as long as 30+ years. Sheet metal experts are particularly skilled and respected here. It's a craft that takes around 10 years to master. Given how meticulously planned, recorded, and executed the airplane maintenance is, our tour guides have absolutely no qualms about flying. 
-
+Michelle, Doug, and Jim welcoming us to TechOps in the empty "party hangar" where maintenance takes place at night. Plane "doctors" have been here as long as 30+ years. Sheet metal experts are particularly skilled and respected here. It's a craft that takes around 10 years to master. Given how meticulously planned, recorded, and executed the airplane maintenance is, our tour guides have absolutely no qualms about flying. 
+ 
 ![](southwest-headquarters-tour-2026/weather-thingy.jpg)
 Getting up close and personal with a weather antenna at the front of a plane, before peering into the internals of the plane
 
@@ -177,7 +174,7 @@ An amazing view
 After the regular tour ended, we scored a bonus experience visiting Herb Kelleher and Colleen Barrett's offices
 
 ![](southwest-headquarters-tour-2026/liveried-planes.jpg)
-Minature replicas of all of the Southwest liveried planes on our way
+On our way, a sighting of minature replicas of all of the Southwest liveried planes
 
 ![](southwest-headquarters-tour-2026/herb-and-colleen-offices.jpg)
 Herb Kelleher and Colleen Barrett's offices as they were left upon retirement
@@ -192,7 +189,7 @@ We finished our tour with a visit to The Listening Center, the social media comm
 A wall of monitors displays top posts, keywords, emojis, and industry trends
 
 ![](southwest-headquarters-tour-2026/swag.jpg)
-An unexpected surprise... a swag gift bag! Super cute Southwest socks, the new Mexican cookie, sticker, souvenir safety glasses, and a real, historic boarding pass! We also left the Network Operations Center tour with an exclusive keychain.
+An unexpected surprise... a swag gift bag! Super cute Southwest socks, the new Mexican cookie, sticker, and a real, historic boarding pass! We also left the Network Operations Center tour with an exclusive keychain and TechOps with souvenir safety glasses.
 
 ## Thank You
 
