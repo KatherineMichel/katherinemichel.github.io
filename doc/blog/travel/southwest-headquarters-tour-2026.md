@@ -52,7 +52,7 @@ Fire fighting training area. Demo of an oxygen hood and methods of exinguishing 
 These Vintage uniforms are among what must be thousands of pictures and momentos covering Southwest campus walls. 
 
 ![](southwest-headquarters-tour-2026/pilot-uniform-shop.jpg)
-The pilot uniform shop. We later learned that sadly only 6% of Southwest pilots are women, which is in line with the industry as a whole. Southwest supports the Women in Aviation organization and would love to change that. 
+The pilot uniform shop. We later learned that sadly only 6% of Southwest pilots are women, which is in line with the industry as a whole. Southwest supports the Women in Aviation organization and would love to see that change. 
 
 ![](southwest-headquarters-tour-2026/plane-training.jpg)
 Our tour guide Glenn introducing us to a mockup plane used for training
