@@ -40,7 +40,9 @@ Our superfan tour group! Our sweet host Carlye Thornton is the second from the l
 
 ### Flight Attendant Training
 
-We started our tour in the LEAD Center (Leadership, Education, and Aircrew Development training facility). This is one of 13 centers around the US where flight attendants complete their initial training, then return for short, annual refresher land and sea training. The training is regularly updated to address real world trends. 
+We started our tour in the LEAD Center (Leadership, Education, and Aircrew Development training facility). 
+
+This is one of 13 centers around the US where flight attendants complete their initial training, then return for short, annual refresher land and sea training. The training is regularly updated to address real world trends. 
 
 ![](southwest-headquarters-tour-2026/raft-room.jpg)
 A 100 pound raft kit inflates to about 2x this height. The flight attendants are not required to be good swimmers. The life vest will do its job. 
@@ -112,12 +114,20 @@ Before the afternoon tour began, I began to ask our host Carlye, "You know what 
 
 ### Network Operation Center
 
-Our tour group was rivetted by the Network Operations Center (NOC) livestream (NOC is undergoing construction) and bombarded our tour guide Jake with questions. One group member was interested in a career in dispatch and received some personal advice about dispatch school. Our session took place in a Situation Room where representatives from each operational area convene three times a day to address flight issues. 
+Our tour group was riveted by the Network Operations Center (NOC) livestream (NOC is undergoing construction), and bombarded our tour guide Jake with questions. Our session took place in a Situation Room where chief officers from each operational area convene three times a day to address flight issues. 
 
 ![](southwest-headquarters-tour-2026/noc-livestream.jpg)
-A livestream of the Southwest Network Operations Center. Although there are other small Southwest command centers around the U.S., there is only one Network Operations Center. Interestingly, pilots are required to retire at 65 years of age and sometimes switch to dispatch as a second career. 
+A livestream of the Southwest Network Operations Center. Although there are other small Southwest command centers around the U.S., there is only one Network Operations Center, the operational brain of Southwest. All of the coordination needed to plan and fulfill flights across the network happens here. In addition to flight dispatchers who plan and monitor flights, experts across disciplines plan and monitor flight schedule, crew, air traffic control, maintenance, meteorology. The highest level decision makers such as Chief Pilot are also on-hand. A member of our group was interested in a career in dispatch and received some personal advice about dispatch school. 
 
 <!--
+There are even on-staff medical experts. 
+
+Baker System
+
+crisis management handled in the event of an emergency.
+
+Interestingly, pilots are required to retire at 65 years of age and sometimes switch to dispatch as a second career. 
+
 Adrenaline
 Dependencies
 long, short haul
