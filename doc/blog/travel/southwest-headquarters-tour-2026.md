@@ -45,6 +45,8 @@ Our superfan tour group! Our sweet host Carlye Thornton is the second from the l
 ![](southwest-headquarters-tour-2026/vintage-uniforms.jpg)
 Vintage uniforms... Southwest campus walls are covered in what must be thousands of pictures and momentos. 
 
+![](southwest-headquarters-tour-2026/fire-training.jpg)
+
 ![](southwest-headquarters-tour-2026/pilot-uniform-shop.jpg)
 The pilot uniform shop
 
@@ -52,6 +54,8 @@ The pilot uniform shop
 
 ![](southwest-headquarters-tour-2026/flight-attendance-fun.jpg)
 Flight attendants make it look easy. Tour participants volunteered to give the safety demonstration a try! 
+
+![](southwest-headquarters-tour-2026/emergency-equipment.jpg)
 
 ![](southwest-headquarters-tour-2026/evacuation-slide.jpg)
 Plane evacuation slide
@@ -63,8 +67,8 @@ Plane evacuation slide
 ![](southwest-headquarters-tour-2026/pilot-mask-training.jpg)
 Have you ever seen a Southwest pilot with a beard? Southwest pilots must be able to put an oxygen mask on with one hand in eight seconds while their other hand is on the controls. They can have a moustache, but not a full beard, in order to be able to create the necessary seal. This testing station accommodates different masks for different types of airplanes. 
 
-![](southwest-headquarters-tour-2026/p28-simulator.jpg)
-This $1 million P28 simulator was our first simulator experience. Although 23 are in use, they do not have the realism of the CAE simulators we would see later. 
+![](southwest-headquarters-tour-2026/fixed-simulator.jpg)
+This $1 million simulator was our first simulator experience. Although 23 are in use, they do not have the realism of the CAE simulators we would see later. 
 
 ![](southwest-headquarters-tour-2026/cae-simulator-inside.jpg)
 While real "turbine house" can be logged in this simulator, apparently, it also causes real motion sickness. Ask them about the chickens hanging from the bottom. 
@@ -82,7 +86,7 @@ Sadly, we did learn that only 6% of Southwest pilots are women. Southwest suppor
 Me in front of a CAE simulator in-use
 
 ![](southwest-headquarters-tour-2026/me-in-front-of-cae-simulators.jpg)
-Me at one end of the hall of CAE simulators. Each one costs $14.2 million. There is a lot of money in this room. 
+Me at one end of the hall of CAE simulators. Each one costs $14.2 million. 
 
 ![](southwest-headquarters-tour-2026/tornado-fortified.jpg)
 Given the risk to operations and equipment, this building could withstand an F3 tornado. Garage-like doors descend and inside, it is business as usual. The walls around the Network Command Center are fortified with 12 inch concrete. 
