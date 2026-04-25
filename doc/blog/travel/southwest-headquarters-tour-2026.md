@@ -56,29 +56,34 @@ The pilot uniform shop
 Flight attendants make it look easy. Tour participants volunteered to give the safety demonstration a try! 
 
 ![](southwest-headquarters-tour-2026/emergency-equipment.jpg)
+Flight attendants are tested and required to have a 100% mastery of emergency procedures and equipment. 
 
 ![](southwest-headquarters-tour-2026/evacuation-slide.jpg)
-Plane evacuation slide
+We saw an emergency door demo and plane evacuation slide
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Flight Simulators
 
 ![](southwest-headquarters-tour-2026/pilot-mask-training.jpg)
-Have you ever seen a Southwest pilot with a beard? Southwest pilots must be able to put an oxygen mask on with one hand in eight seconds while their other hand is on the controls. They can have a moustache, but not a full beard, in order to be able to create the necessary seal. This testing station accommodates different masks for different types of airplanes. 
+Southwest pilots must be able to put an oxygen mask on with one hand in eight seconds while their other hand is on the controls. They can have a moustache, but not a full beard, in order to be able to create the necessary seal. This testing station accommodates different masks for different types of airplanes. 
 
 ![](southwest-headquarters-tour-2026/fixed-simulator.jpg)
-This $1 million simulator was our first simulator experience. Although 23 are in use, they do not have the realism of the CAE simulators we would see later. 
-
-![](southwest-headquarters-tour-2026/cae-simulator-inside.jpg)
-While real "turbine hours" can be logged in this simulator, apparently, it also causes real motion sickness. Ask them about the chickens hanging from the bottom. 
+This fixed-motion simulator was our first simulator experience. Over 20 are in use and cost $1 million each. 
 
 ![](southwest-headquarters-tour-2026/cae-simulator-outside.jpg)
+An instructor saw us our group and invited us inside of one for a look. 
+
+![](southwest-headquarters-tour-2026/cae-simulator-inside.jpg)
+While real "turbine hours" can be logged in this simulator, it can also cause real motion sickness. Ask them about the chickens hanging from the bottom. 
 
 <!--
+they do not have the realism of the CAE simulators we would see later. 
+
 Etops, Rio
 long, short haul
 
+Have you ever seen a Southwest pilot with a beard? 
 Sadly, we did learn that only 6% of Southwest pilots are women. Southwest supports the Women in Aviation organization and would love to change that. 
 -->
 
@@ -117,7 +122,6 @@ Our tour group particularly enjoyed the Network Operations Center (NOC) segment 
 
 <!--
 Adrenaline
-Lavatory
 Dependencies
 Situation room
 -->
@@ -156,7 +160,7 @@ Me sitting in front of an engine fan. Gently pushing an $80,000 blade with your 
 Me and a few of my new friends, hanging out in wheel wells. A moment we'll never forget. Contrary to news reports, this area is not stowaway friendly. 
 
 ![](southwest-headquarters-tour-2026/strong-pipe.jpg)
-Our tour guide Jim shared some of his encyclopedic knowledge of planes and their millions of components. He pointed out uniquely strong, yet lightweight materials, for example, seen in the pipe in the center of this photo, that enable more weight to be allocated to fuel or elsewhere.  
+Our tour guide Jim shared some of his encyclopedic knowledge of planes and their millions of components. He pointed out uniquely strong, yet lightweight materials, for example, seen in the pipe in the center of this photo, that enable more weight to be allocated to fuel or elsewhere. A small quantity of precious material could easily cost $10k. 
 
 ![](southwest-headquarters-tour-2026/a-light-teardown.jpg)
 A "light" teardown that left overhead compartments and some seats in place. The seats removed were placed in rows in the hangar in a surreal scene. 
