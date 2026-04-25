@@ -190,6 +190,8 @@ A wall of monitors displays top posts, keywords, emojis, and industry trends
 ![](southwest-headquarters-tour-2026/swag.jpg)
 An unexpected surprise... a swag gift bag! Super cute Southwest socks, the new Mexican wedding cookie, sticker, and a real, historic boarding pass! We also left the Network Operations Center tour with an exclusive keychain and TechOps with souvenir safety glasses.
 
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
 ## Thank You
 
 ![](southwest-headquarters-tour-2026/me-in-vintage-seat.jpg)
