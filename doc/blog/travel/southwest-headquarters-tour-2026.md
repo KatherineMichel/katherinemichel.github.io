@@ -43,7 +43,7 @@ Our superfan tour group! Our sweet host Carlye Thornton is the second from the l
 We started our tour in the LEAD Center (Leadership, Education, and Aircrew Development training facility). This is one of 13 centers around the US where flight attendants complete their initial training, then return for short, annual refresher land and sea training. The training is regularly updated to address real world trends. 
 
 ![](southwest-headquarters-tour-2026/raft-room.jpg)
-A 100 pound raft kit inflates to about 2x this height. The flight attendants are not required to be good swimmers. The life vest will do its job. 
+A 100 pound raft kit inflates to about 2x this height. 
 
 ![](southwest-headquarters-tour-2026/fire-training.jpg)
 Demo of oxygen hood and methods of exinguishing fire. Flight attendants are taught to find the base of the fire. 
@@ -84,6 +84,8 @@ An instructor saw our group and invited us inside of one for a look.
 While real "turbine hours" can be logged in this simulator, it can also cause real motion sickness. Ask them about the chickens hanging from the bottom. 
 
 <!--
+The flight attendants are not required to be good swimmers. The life vest will do its job. 
+
 they do not have the realism of the CAE simulators we would see later. 
 
 Etops, Rio
@@ -124,20 +126,19 @@ Before the afternoon tour began, I began to ask our host Carlye, "You know what 
 
 ### Network Operation Center
 
-Our tour group particularly enjoyed the Network Operations Center (NOC) segment and were bombarding Jake with questions. One group member was interested in a career in dispatch and received some personal advice about dispatch school. 
+Our tour group particularly enjoyed the Network Operations Center (NOC) segment and were bombarding Jake with questions. One group member was interested in a career in dispatch and received some personal advice about dispatch school. Interestingly, pilots are required to retire at 65 years of age and sometimes switch to dispatch as a second career. 
 
 <!--
 Adrenaline
 Dependencies
 Situation room
-Pilots have to retire at 65 and sometimes switch to dispatch
 -->
 
 ![](southwest-headquarters-tour-2026/noc-livestream.jpg)
 A livestream of the Southwest Network Operations Center. Although there are other small Southwest command centers around the U.S., there is only one Network Operations Center. 
 
 ![](southwest-headquarters-tour-2026/noc-left-panel.jpg)
-While a broken coffee maker might not cause a flight to be cancelled, a tray table in an exit row that won't stay upright is a deal breaker. Network Operations Command made a final call that an airplane with a out-of-commission lavatory be grounded. 
+A visualization of Southwest flights and a breakdown of unscheduled aircraft downtime. While a broken coffee maker might not cause a flight to be cancelled, a tray table in an exit row that won't stay upright is a deal breaker. Network Operations Command made a final call that an airplane with a out-of-commission lavatory be grounded. 
 
 ![](southwest-headquarters-tour-2026/noc-right-panel.jpg)
 Southwest has 4,000 flights a day, more than any other airline. At the time of this photo, 1408 had been completed. 1 had been cancelled. Below the stats were livestreams of the Southwest gates at Houston Airport, perhaps due to inclement weather. Southwest can view a livestream of any of its gates anywhere with the flick of a switch. 
