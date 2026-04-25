@@ -60,10 +60,10 @@ The pilot uniform shop
 Flight attendants make it look easy. Tour participants volunteered to give the safety demonstration a try! 
 
 ![](southwest-headquarters-tour-2026/emergency-equipment.jpg)
-Flight attendants are tested and required to have a 100% mastery of emergency procedures and equipment. 
+Flight attendants are required to test at a 100% mastery of emergency procedures and equipment. 
 
 ![](southwest-headquarters-tour-2026/evacuation-slide.jpg)
-We saw an emergency door demo and evacuation slide
+Emergency door demo and evacuation slide
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
