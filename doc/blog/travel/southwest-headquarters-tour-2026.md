@@ -72,7 +72,7 @@ Southwest pilots must be able to put an oxygen mask on with one hand in eight se
 This fixed-motion simulator was our first simulator experience. Over 20 are in use and cost $1 million each. 
 
 ![](southwest-headquarters-tour-2026/cae-simulator-outside.jpg)
-An instructor saw us our group and invited us inside of one for a look. 
+An instructor saw our group and invited us inside of one for a look. 
 
 ![](southwest-headquarters-tour-2026/cae-simulator-inside.jpg)
 While real "turbine hours" can be logged in this simulator, it can also cause real motion sickness. Ask them about the chickens hanging from the bottom. 
