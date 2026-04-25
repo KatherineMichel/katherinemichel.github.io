@@ -32,7 +32,7 @@ I flew Southwest to my first tech conference in August of 2017 and quickly learn
 A few weeks ago, I was offered the chance to tour Southwest Headquarters along with other fans. I jumped at the chance. I knew it would be a once-in-a-lifetime experience! 
 
 ![](southwest-headquarters-tour-2026/group-pic.jpg)
-Our superfan tour group! Our sweet host Carlye Thornton is the second from the left. 
+Our superfan tour group gathered in the lobby of the LEAD Center (Leadership, Education, and Aircrew Development training facility)! Our sweet host Carlye Thornton is the second from the left. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -40,9 +40,7 @@ Our superfan tour group! Our sweet host Carlye Thornton is the second from the l
 
 ### Flight Attendant Training
 
-We started our tour in the LEAD Center (Leadership, Education, and Aircrew Development training facility). 
-
-This is one of 13 centers around the US where flight attendants complete their initial training, then return for short, annual refresher land and sea training. The training is regularly updated to address real world trends. 
+Dallas LEAD is one of 13 training facilities around the US where flight attendants complete their initial training, then return for short, annual refresher land and sea training. The training is regularly updated to address real world trends. 
 
 ![](southwest-headquarters-tour-2026/raft-room.jpg)
 A 100 pound raft kit inflates to about 2x this height. The flight attendants are not required to be good swimmers. The life vest will do its job. 
