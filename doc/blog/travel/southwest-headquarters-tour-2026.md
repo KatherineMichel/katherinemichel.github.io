@@ -52,6 +52,10 @@ The pilot uniform shop
 
 ![](southwest-headquarters-tour-2026/plane-training.jpg)
 
+<!--
+Soft skills
+-->
+
 ![](southwest-headquarters-tour-2026/flight-attendance-fun.jpg)
 Flight attendants make it look easy. Tour participants volunteered to give the safety demonstration a try! 
 
@@ -124,13 +128,14 @@ Our tour group particularly enjoyed the Network Operations Center (NOC) segment 
 Adrenaline
 Dependencies
 Situation room
+Pilots have to retire at 65 and sometimes switch to dispatch
 -->
-
-![](southwest-headquarters-tour-2026/noc-left-panel.jpg)
-While a broken coffee maker might not cause a flight to be cancelled, a tray table in an exit row that won't stay upright is a deal breaker. Network Operations Command made a final call that an airplane with a out-of-commission lavatory be grounded. 
 
 ![](southwest-headquarters-tour-2026/noc-livestream.jpg)
 A livestream of the Southwest Network Operations Center. Although there are other small Southwest command centers around the U.S., there is only one Network Operations Center. 
+
+![](southwest-headquarters-tour-2026/noc-left-panel.jpg)
+While a broken coffee maker might not cause a flight to be cancelled, a tray table in an exit row that won't stay upright is a deal breaker. Network Operations Command made a final call that an airplane with a out-of-commission lavatory be grounded. 
 
 ![](southwest-headquarters-tour-2026/noc-right-panel.jpg)
 Southwest has 4,000 flights a day, more than any other airline. At the time of this photo, 1408 had been completed. 1 had been cancelled. Below the stats were livestreams of the Southwest gates at Houston Airport, perhaps due to inclement weather. Southwest can view a livestream of any of its gates anywhere with the flick of a switch. 
