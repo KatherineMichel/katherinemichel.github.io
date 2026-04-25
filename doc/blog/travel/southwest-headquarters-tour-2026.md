@@ -114,23 +114,13 @@ Before the afternoon tour began, I began to ask our host Carlye, "You know what 
 
 ### Network Operation Center
 
-Our tour group was riveted by the Network Operations Center (NOC) livestream (NOC is undergoing construction), and bombarded our tour guide Jake with questions. Our session took place in a Situation Room where chief officers from each operational area convene three times a day to address flight issues. 
+Our tour group was riveted by the Network Operations Center (NOC) livestream (NOC is undergoing construction), and bombarded our tour guide Jake with questions. Our session took place in a Situation Room where chief officers from each operational area convene three times a day to address flight issues. Jake shared that he prefers troubleshooting over business-as-usual. All of a sudden a runway might have a pothole and 10 planes are backed up, and he is scrambling to alleviate. It is an adrenaline rush. A scheduling optimization tool called "The Baker" was also a topic of interest. 
 
 ![](southwest-headquarters-tour-2026/noc-livestream.jpg)
-A livestream of the Southwest Network Operations Center. Although there are other small Southwest command centers around the U.S., there is only one Network Operations Center, the operational brain of Southwest. All of the coordination needed to plan and fulfill flights across the network happens here. In addition to flight dispatchers who plan and monitor flights, experts across disciplines plan and monitor flight schedule, crew, air traffic control, maintenance, meteorology. The highest level decision makers such as Chief Pilot are also on-hand. A member of our group was interested in a career in dispatch and received some personal advice about dispatch school. 
+A livestream of the Southwest Network Operations Center. Although there are other small Southwest command centers around the U.S., there is only one Network Operations Center, the operational brain of Southwest. All of the coordination needed to plan and fulfill flights across the network happens here. In addition to flight dispatchers who plan and monitor flights, experts across disciplines plan and monitor flight schedule, crew, air traffic control, maintenance, meteorology, medical. The highest level decision makers such as Chief Pilot are also on-hand. A member of our group was interested in a career in dispatch and received some personal advice about dispatch school. 
 
 <!--
-There are even on-staff medical experts. 
-
-Baker System
-
-crisis management handled in the event of an emergency.
-
 Interestingly, pilots are required to retire at 65 years of age and sometimes switch to dispatch as a second career. 
-
-Adrenaline
-Dependencies
-long, short haul
 -->
 
 ![](southwest-headquarters-tour-2026/noc-left-panel.jpg)
