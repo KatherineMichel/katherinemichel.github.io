@@ -84,8 +84,6 @@ As we watched, a simulator would raise up and rotate at angles that simulate rea
 While real "turbine hours" can be logged in this simulator, it can also cause real motion sickness. Ask them about the chickens hanging from the bottom. 
 
 <!--
-they do not have the realism of the CAE simulators we would see later. 
-
 Etops, Rio
 long, short haul
 
@@ -123,7 +121,7 @@ Before the afternoon tour began, I began to ask our host Carlye, "You know what 
 
 ### Network Operation Center
 
-Our tour group particularly enjoyed the Network Operations Center (NOC) segment and were bombarding Jake with questions. One group member was interested in a career in dispatch and received some personal advice about dispatch school. Interestingly, pilots are required to retire at 65 years of age and sometimes switch to dispatch as a second career. 
+Our tour group particularly enjoyed the Network Operations Center (NOC) segment and were bombarding Jake with questions. One group member was interested in a career in dispatch and received some personal advice about dispatch school.
 
 <!--
 Adrenaline
@@ -132,7 +130,7 @@ Situation room
 -->
 
 ![](southwest-headquarters-tour-2026/noc-livestream.jpg)
-A livestream of the Southwest Network Operations Center. Although there are other small Southwest command centers around the U.S., there is only one Network Operations Center. 
+A livestream of the Southwest Network Operations Center. Although there are other small Southwest command centers around the U.S., there is only one Network Operations Center. Interestingly, pilots are required to retire at 65 years of age and sometimes switch to dispatch as a second career. 
 
 ![](southwest-headquarters-tour-2026/noc-left-panel.jpg)
 A visualization of Southwest flights and a breakdown of unscheduled aircraft downtime. While a broken coffee maker might not cause a flight to be cancelled, a tray table in an exit row that won't stay upright is a deal breaker. Network Operations Command made a final call that an airplane with a out-of-commission lavatory be grounded. 
