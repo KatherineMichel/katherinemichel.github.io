@@ -1,6 +1,6 @@
 ---
 blogpost: true
-date: April 26, 2026
+date: April 25, 2026
 location: Dallas Texas
 category: Personal
 tags: travel
