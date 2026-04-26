@@ -58,10 +58,10 @@ The pilot uniform shop. We later learned that sadly only 6% of Southwest pilots 
 Our tour guide Glenn introducing us to a mockup plane used for training
 
 ![](southwest-headquarters-tour-2026/flight-attendance-fun.jpg)
-It's not as easy as it looks. Tour participants volunteered to give the flight attendant safety demonstration a try! 
+It's not as easy as it looks. Tour participants volunteered to give the safety demonstration a try! 
 
 ![](southwest-headquarters-tour-2026/emergency-equipment.jpg)
-Flight attendants are required to test at a 100% mastery of emergency procedures and equipment. 
+Flight attendants are required to demonstrate a mastery of emergency procedures and equipment. 
 
 ![](southwest-headquarters-tour-2026/evacuation-slide.jpg)
 Emergency door demo and evacuation slide
