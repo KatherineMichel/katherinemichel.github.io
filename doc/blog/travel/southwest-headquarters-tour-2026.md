@@ -19,7 +19,7 @@ Table of Contents
     - [Southwest Store](#southwest-store)
     - [Social Media Serendipity](#social-media-serendipity)
 - [Afternoon](#afternoon)
-    - [Network Operation Center](#network-operation-center)
+    - [Network Operations Center](#network-operations-center)
     - [TechOps Hangar](#techops-hangar)
     - [Herb and Colleen Offices](#herb-and-colleen-offices)
     - [Listening Center](#listening-center)
@@ -119,7 +119,7 @@ During the flight attendant training tour, I asked our guide Glenn about employe
 
 ## Afternoon
 
-### Network Operation Center
+### Network Operations Center
 
 Our tour group was riveted by the Network Operations Center (NOC) livestream (NOC is undergoing construction), and bombarded our tour guide Jake with questions. Our session took place in a Situation Room where chief officers from each operational area convene three times a day to address flight issues. Jake shared that he prefers troubleshooting over business-as-usual. All of a sudden a runway might have a pothole and 10 planes are backed up, and he is scrambling to alleviate. It is an adrenaline rush. A scheduling optimization tool called "The Baker" was also a topic of interest. 
 
