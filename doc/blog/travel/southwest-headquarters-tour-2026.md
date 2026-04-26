@@ -40,7 +40,7 @@ Our superfan tour group gathered in the lobby of the LEAD Center (Leadership, Ed
 
 ### Flight Attendant Training
 
-Dallas LEAD is one of 13 facilities around the US where Southwest flight attendants complete training. In addition to learning the typical service you see in a cabin, they practice land and sea evacuation, emergency tool use, fire fighting, and self defense. They return annually for short, refresher training that is regularly updated to address real world trends.
+Dallas LEAD Center is one of 13 facilities around the US where Southwest flight attendants complete training. In addition to learning the typical service you see in a cabin, they practice land and sea evacuation, emergency tool use, fire fighting, and self defense. They return annually for short, refresher training that is regularly updated to address real world trends.
 
 ![](southwest-headquarters-tour-2026/raft-room.jpg)
 In this sea evacuation area, a replica of a 100 pound raft inflates to half its normal height. The flight attendants are not required to be good swimmers. The life vest will do its job. 
