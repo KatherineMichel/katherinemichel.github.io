@@ -77,7 +77,7 @@ Southwest pilots must be able to put an oxygen mask on with one hand in eight se
 This fixed-motion simulator was our first simulator experience. 23 are in use and cost $1 million each. 
 
 ![](southwest-headquarters-tour-2026/cae-simulator-outside.jpg)
-Next, we saw full-motion CAE 737 series 700, 800, and MAX 8 simulators. As we watched, a simulator would raise up, tip back, and rotate at angles that simulate real flight. An instructor saw our group and invited us inside of one for a look. 
+Next, we saw full-motion CAE 737 series 700, 800, and MAX 8 simulators. As we watched, a simulator would rise up, tip back, and rotate at angles that simulate real flight. An instructor saw our group and invited us inside of one for a look. 
 
 ![](southwest-headquarters-tour-2026/cae-simulator-inside.jpg)
 Inside a full-motion CAE 800 series simulator. These simulators can be programmed to fly any route and can replicate special scenarios such as ETOPs (extended range, over-water, such as Hawaii) and emergencies. While real "turbine hours" can be logged in this simulator, it can also cause real motion sickness. Ask them about the chickens hanging from the bottom. 
