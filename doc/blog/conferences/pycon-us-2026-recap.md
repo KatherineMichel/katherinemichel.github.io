@@ -1,4 +1,3 @@
-
 ---
 blogpost: true
 date: May 31, 2026
