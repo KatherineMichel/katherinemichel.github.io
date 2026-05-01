@@ -18,22 +18,25 @@ Table of Contents
     - [Expo Hall Booths Thursday and Friday](#expo-hall-booths-thursday-and-friday)
 - [Friday](#friday)
     - [Breakfast](#breakfast)
-    - [K. Jay Miller Keynote](#k-jay-miller-keynote)
+    - [Lin Qiao Keynote](#lin-qiao-keynote)
 - [Saturday](#saturday)
     - [Breakfast](#breakfast-1)
-    - [Simon Willison Keynote](#simon-willison-keynote)
+    - [Pablo Galindo Salgado Keynote](#pablo-galindo-salgado)
     - [PSF Members Luncheon](#psf-members-luncheon)
     - [PyLadies Auction](#pyladies-auction)
 - [Sunday](#sunday)
+    - [Amanda Casari Keynote](#amanda-casari-keynote)
+    - [Python Software Foundation Security Engineers Update](#python-software-foundation-security-engineers-update)
     - [Posters](#posters)
     - [PyLadies Lunch](#pyladies-lunch)
-    - [Sumana Harihareswara Keynote](#sumana-harihareswara-keynote)
+    - [Rachel Calhoun and Tim Schilling Keynote](#rachel-calhoun-and-tim-schilling-keynote)
     - [Steering Council Updates](#steering-council-updates)
         - [Barry Warsaw](#barry-warsaw)
         - [Donghee Na](#donghee-na)
         - [Pablo Galindo Salgado](#pablo-galindo-salgado)
         - [Savannah Ostrowski](#savannah-ostrowski)
         - [Thomas Wouters](#thomas-wouters)
+    - [Python Software Foundation Update](#python-software-foundation-update)
 - [Monday](#monday)
 - [Until Next Time](#until-next-time)
 
@@ -65,7 +68,7 @@ Disclaimer: the content of this post is a reflection of my career journey and no
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### K. Jay Miller Keynote
+### Lin Qiao Keynote
  
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
  
@@ -75,7 +78,7 @@ Disclaimer: the content of this post is a reflection of my career journey and no
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Simon Willison Keynote
+### Pablo Galindo Salgado Keynote
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -89,6 +92,14 @@ Disclaimer: the content of this post is a reflection of my career journey and no
 
 ## Sunday
 
+### Amanda Casari Keynote
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Python Software Foundation Security Engineers Update
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
 ### Posters
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
@@ -97,7 +108,7 @@ Disclaimer: the content of this post is a reflection of my career journey and no
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Sumana Harihareswara Keynote
+### Rachel Calhoun and Tim Schilling Keynote
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -124,7 +135,11 @@ Disclaimer: the content of this post is a reflection of my career journey and no
 #### Thomas Wouters
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
- 
+
+ ### Python Software Foundation Update
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
 ## Monday
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
