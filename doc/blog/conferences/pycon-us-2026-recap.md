@@ -118,6 +118,14 @@ https://us.pycon.org/2026/schedule/talks/
 
 ### Steering Council Updates
 
+<!--
+https://thenewstack.io/python-whats-coming-in-2026/
+https://docs.python.org/3.15/whatsnew/3.15.html
+https://peps.python.org/pep-0745/
+https://docs.python.org/3/whatsnew/3.14.html
+https://realpython.com/python314-new-features/
+-->
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 #### Barry Warsaw
