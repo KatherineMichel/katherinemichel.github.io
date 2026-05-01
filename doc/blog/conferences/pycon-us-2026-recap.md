@@ -44,6 +44,10 @@ Table of Contents
 
 Disclaimer: the content of this post is a reflection of my career journey and not specific to my work at JPMorgan Chase & Co.
 
+<!--
+https://us.pycon.org/2026/schedule/talks/
+-->
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Thursday
