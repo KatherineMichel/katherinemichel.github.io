@@ -12,9 +12,8 @@ Table of Contents
 -----------------
 
 - [Intro](#intro)
-- [Wednesday](#wednesday)
-    - [Sightseeing Downtown](#sightseeing-downtown)
 - [Thursday](#thursday)
+    - [Sightseeing](#sightseeing)
     - [Opening Reception at the Expo Hall](#opening-reception-at-the-expo-hall)
     - [Expo Hall Booths Thursday and Friday](#expo-hall-booths-thursday-and-friday)
 - [Friday](#friday)
@@ -30,6 +29,11 @@ Table of Contents
     - [PyLadies Lunch](#pyladies-lunch)
     - [Sumana Harihareswara Keynote](#sumana-harihareswara-keynote)
     - [Steering Council Updates](#steering-council-updates)
+        - [Barry Warsaw](#barry-warsaw)
+        - [Donghee Na](#donghee-na)
+        - [Pablo Galindo Salgado](#pablo-galindo-salgado)
+        - [Savannah Ostrowski](#savannah-ostrowski)
+        - [Thomas Wouters](#thomas-wouters)
 - [Monday](#monday)
 - [Until Next Time](#until-next-time)
 
@@ -39,13 +43,11 @@ Disclaimer: the content of this post is a reflection of my career journey and no
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-## Wednesday
-
-### Sightseeing Downtown
+## Thursday
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-## Thursday
+### Sightseeing
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -103,6 +105,26 @@ Disclaimer: the content of this post is a reflection of my career journey and no
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+#### Barry Warsaw
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+#### Donghee Na
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+#### Pablo Galindo Salgado
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+#### Savannah Ostrowski
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+#### Thomas Wouters
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+ 
 ## Monday
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
