@@ -109,10 +109,21 @@ Break (Expo Hall AB)
 Mind the gap! Why static typing requires more than just adding annotations
 Jia Chen, Steven Troxler
 Room 103ABC
+https://typing.python.org/en/latest/
 
 GPU Communications for Python
 Benjamin Glick, Michael Yh Wang
 Room 104AB
+https://en.wikipedia.org/wiki/Graphics_processing_unit
+https://en.wikipedia.org/wiki/High-performance_computing
+https://docs.nvidia.com/nvshmem/api/api/language_bindings/python/index.html
+https://github.com/NVIDIA/nccl/discussions/2006
+https://docs.nvidia.com/cuda/cuda-c-programming-guide/
+https://dbader.org/blog/writing-a-dsl-with-python
+https://numba.pydata.org/
+https://developer.nvidia.com/blog/achieve-cutlass-c-performance-with-python-apis-using-cute-dsl/
+https://github.com/NVIDIA/numbast
+LTO-IR (Link Time Optimization - Intermediate Representation) is a compiler technology, commonly used in LLVM/Clang and CUDA (NVIDIA)
 
 AI
 AI-Assisted Contributions and Maintainer Load
@@ -123,6 +134,9 @@ Grand Ballroom A
 PEP 750 - T-strings: safer and smarter string processing
 Vinícius Gubiani Ferreira
 Room 103ABC
+https://peps.python.org/pep-0498/
+https://peps.python.org/pep-0750/
+https://realpython.com/python-t-strings/
 
 AI
 AI-Powered Python Education : Towards Adaptive and Inclusive Learning
@@ -141,16 +155,20 @@ Room 104AB
 What's so hard about writing a type checker? A tour of ty
 Carl Meyer
 Room 103ABC
+https://github.com/astral-sh/ty
+incremental re-checking as you type, control-flow-sensitive type narrowing, gradual typing, and set-theoretic types (unions, intersections, and negations)
 
 Breaking the Speed Limit: Fast Statistical Models with Python 3.14, Numba, and JAX
 Wenxin Jiang, Jian Yin
 Room 104AB
+NumPy, Python 3.14 (with free-threaded or JIT configurations), Numba, and JAX
 
 AI
 Making African Languages Visible: A Python-Based Guide to Low-Resource Language ID
 Gift Ojeabulu
 Grand Ballroom A
-
+FastText, MasakhaNER dataset on Huggingface
+AfroXLMR, Masakhane Models, and spaCy’s limited-language pipelines
 
 Lunch
 
@@ -159,14 +177,17 @@ AI
 Running Large Language Models on Laptops: Practical Quantization Techniques in Python
 Aayush Kumar JVS
 Grand Ballroom A
+quantization techniques, QLoRA, bitsandbytes, GGUF, and GGML
 
 The Bakery: How PEP810 sped up my bread operations business
 Jacob Coffee
 Room 103ABC
+https://peps.python.org/pep-0810/
 
 Peeking under the hood of uv run
 Zanie Blue
 Room 104AB
+https://docs.astral.sh/uv/guides/scripts/
 
 Panel: Fostering better collaboration between the scientific Python community and core Python development
 Jonathan Dekhtiar, Dawn Wages, Michael Droettboom
@@ -177,33 +198,39 @@ AI
 Distributing AI with Python in the Browser: Edge Inference and Flexibility Without Infrastructure
 Fabio Pliger
 Grand Ballroom A
-
+JavaScript model runners, leveraging WebGPU/WebNN
+ 
 A Shiny for Python Cultural Survival Tool: Training Your Slang Translator
 Elizabeth Black
 Room 103ABC
+TF-IDF and cosine similarity, reactive UI
 
 How to port a Python kernel to Pyodide for a blazingly fast in-browser coding experience
 Myles Scolnick
 Room 104AB
+Pyodide, JupyterLite and marimo, WebAssembly
 
 pathlib: why and how to use it
 Trey Hunner
 Grand Ballroom B
+https://docs.python.org/3/library/pathlib.html
 
-
-Beyond the P-Value: A Data Scientist’s Guide to Tier-1 Feature Launches
-Jyoti Yadav
-Room 103ABC
 
 From Graveyard to Glory: Production Python in the Browser
 Mahmoud Hashemi
 Room 104AB
+Pyodide, WebAssembly, build pipeline, CDN, PyPI wheels, versioned, cache-busted bundles, SSR and Web Workers, responsive, SEO optimized, orchestrate Svelte and Vite using Comlink for seamless RPC between the JS main thread and the Python worker. Leveraging Pydantic + OpenAPI for TypeScript safety. Realities. 
+
+Beyond the P-Value: A Data Scientist’s Guide to Tier-1 Feature Launches
+Jyoti Yadav
+Room 103ABC
+"Launch Post-Mortem" using a Jupyter Notebook, CausalML and PyMatch
 
 AI
 Free-threaded Python: past, present and future
 Thomas Wouters
 Grand Ballroom B
-
+Thread safety, data races, and concurrent designs
 
 Break (Expo Hall AB)
 
@@ -212,14 +239,19 @@ AI
 What Python Developers Need to Know About Hardware: A Practical Guide to GPU Memory, Kernel Scheduling, and Execution Models
 Santosh Appachu Devanira Poovaiah, Vyas Ramasubramani
 Grand Ballroom A
+How GPU memory is structured, why kernel launches behave differently from Python function calls, how floating-point math on GPUs differs from CPUs, and why the same Python code behaves differently across GPU generations or SDK versions. Real examples in PyTorch and TensorFlow,
 
 Demystifying Python's Generational Garbage Collector
 Puneet Khushwani
 Room 104AB
+https://docs.python.org/3/library/gc.html
+from reference counting's limitations to the intricacies of cyclic garbage detection
 
 Lock-Free Multi-Core Performance with Behavior-Oriented Concurrency
 Matthew Johnson
 Grand Ballroom B
+https://microsoft.github.io/bocpy/
+https://github.com/microsoft/bocpy
 
 Why Software Engineering Best Practices Fail in Data Engineering
 Constance Martineau
@@ -230,20 +262,23 @@ AI
 How to Build Your First Real-Time Voice Agent in Python (Without Losing Your Mind)
 Camila Hinojosa Añez, Elizabeth Fuentes
 Grand Ballroom A
+Python, AWS services (for speech and LLM), and Pipecat,
 
 Debugging Python in Production: Practical Techniques Beyond Print Statements
 Anshul Jannumahanti
 Room 103ABC
+Structured logging, stack trace analysis, runtime inspection, and controlled reproduction of bugs.
 
 Demystifying the GIL
 Bruce Eckel
 Grand Ballroom B
+GIL protects you from basic shared-memory concurrency errors, Python 3.14 
 
 Python and the JVM - A Love Story
 Shir Havron
 Volunteer
 Room 104AB
-
+JVM, Py4J, PySpark
 
 Lightning Talks
 Lightning Talks (Pacific Ballroom - Arena)
