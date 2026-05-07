@@ -149,7 +149,7 @@ https://realpython.com/python314-new-features/
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
- ### Python Software Foundation Update
+### Python Software Foundation Update
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
