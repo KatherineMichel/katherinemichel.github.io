@@ -315,10 +315,12 @@ Security
 FastAPI Security Patterns: OAuth 2.0, JWTs, and API Keys Done Right
 Ian
 Room 103ABC
+https://fastapi.tiangolo.com/
 
 Python for Humans - Designing Python Code Like a User Interface
 Justin Lee
 Grand Ballroom A
+Black, ruff, and Pylance
 
 Conquer multithreaded Python with Blanket
 Larry Hastings
@@ -332,11 +334,16 @@ Room 104AB
 Beyond Optional in Real-World Projects: Missing, None, and Unset
 Koudai Aono
 Room 104AB
+a missing key (the field is absent),
+an explicit None (the value is present and intentionally null),
+an unset input (the caller didn't specify the field, so you must not touch it).
 
 Security
 Anatomy of a Phishing Campaign
 Mike Fiedler
 Room 103ABC
+In July 2025, PyPI users received emails
+September 2025 follow-up campaign targeting pypi-mirror.org
 
 Switching from Sphinx to Markdown
 Kattni
@@ -345,16 +352,22 @@ Grand Ballroom B
 Don’t Write Polars Code with a Pandas Accent
 Joram Mutenge
 Grand Ballroom A
+https://realpython.com/polars-vs-pandas/
 
 
 Security
 Zero Trust in 200ms: Implementing Identity-Per-Transaction with Python and Serverless
 Tristan McKinnon
 Room 103ABC
+The Identity-Per-Transaction Pattern: Why "rotating keys" is obsolete. We walk through a Python-based identity broker that instantiates a unique, cryptographically scoped IAM credential for every single file transaction—and destroys it milliseconds later.
+Streaming De-identification: How to implement a clean room scrubbing layer using Python generators and NLP (Microsoft Presidio) to tokenize PII in-memory before it ever touches your data lake.
+Audit-Ready Logging: Techniques for structuring Python's logging module to produce immutable, auditor-friendly JSON trails that prove compliance without leaking sensitive data.
 
 No More Spreadsheets! Building PyLadiesCon Infrastructure with Python and Django
 Mariatta
 Grand Ballroom A
+https://conference.pyladies.com/docs/volunteers/committee_infra/
+https://conference.pyladies.com/docs/
 
 The Exceptions We Don't Catch in Technical Conversations
 Emin Martinian
@@ -367,15 +380,23 @@ Lunch
 The Surprising Effectiveness of Immutable Data Structures
 Brett Slatkin
 Room 104AB
+frozen feature of the dataclasses built-in library, and how it compares to and complements other immutable language features and community packages.
+https://realpython.com/python-mutable-vs-immutable-types/
+https://docs.python.org/3/tutorial/datastructures.html
+https://en.wikipedia.org/wiki/Functional_programming
 
 Security
 Rust for CPython: Making Python Safer and More Robust for Everyone
 Emma Smith
 Room 103ABC
+C code suffers from memory and thread unsafety, leading to crashes and potentially exploitable security bugs. 
+Rust for CPython project
+Android and Chromium have leveraged Rust
 
 [Yes, You Can] Test SQL
 Paul Zuradzki
 Grand Ballroom B
+SQL workflows and SQL/data engineers
 
 Create a Python Package: From Zero to Hero
 Mario Munoz
