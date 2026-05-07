@@ -436,15 +436,20 @@ https://hugovk.dev/blog/2026/faster-pillow/
 The art of live process manipulation with Python 3.14's zero-overhead debugging interface
 Savannah Ostrowski
 Grand Ballroom B
+Python 3.14
+sys.remote_exec() can be combined with debugpy (an implementation of the Debug Adapter Protocol) to provide full IDE debugging experiences for live processes.
 
 The Terminal is the New Browser: Building Rich TUIs with Textual
 Andres Pineda
 Room 104AB
+'Terminal User Interfaces' (TUIs)
+https://textual.textualize.io/
 
 Security
 Post-Incident Runtime SBOM Generation from Python Memory
 Hala Ali, Andrew Case
 Room 103ABC
+Across 51 real-world Python applications (web frameworks, CLI tools, ML platforms, schedulers, and visualization tools), we found significant mismatches between what SBOM tools report and what the memory reveals.
 
 
 Break (Expo Hall AB)
@@ -453,37 +458,53 @@ Break (Expo Hall AB)
 Thinking of Topic Modeling as Search
 Kas Stohr
 Room 104AB
+How to store topic embeddings on popular databases to enable search
 
 Making Python Faster with Free Threading and Mypyc
 Jukka Lehtosalo
 Grand Ballroom A
+Ahead-of-time compilation to C extensions using mypyc.
+https://github.com/mypyc/mypyc
 
 Security
 GitHub Actions Security in Python Packages
 Andrew Nesbitt
 Room 103ABC
+Trusted publishing to PyPI via OIDC
+Why GitHub Actions is a supply chain risk
+What's missing compared to pip, npm, and other package managers
+Findings from scanning Python package workflows at scale
+What we can learn from pip's security model
+A checklist for hardening Python package release workflows
+How to integrate zizmor into CI pipelines
 
 Getting Started with Celery: Building Your First Background Task System in Python
 Italo Carvalho Vianelli Ribeiro
 Grand Ballroom B
+https://docs.celeryq.dev/en/main/getting-started/introduction.html
 
 
 High-Performance LLM Inference in Pure Python with PyTorch Custom Ops
 Yineng Zhang
 Grand Ballroom A
+large language model (LLM) inference engine written entirely in Python can reach performance comparable to C++-based systems such as TensorRT-LLM. Based on experience maintaining SGLang—an open-source pure-Python inference engine
 
 Security
 Breaking Bad (Packages): Why Traditional Vulnerability Tracking Fails Supply Chain Attacks
 Shelby Cunningham, Madison Ficorilli
 Room 103ABC
+what is the best way to track malicious supply chain compromises
 
 Upgrading Python CLIs: From Scripts to Interactive Tools
 Avik Basu
 Grand Ballroom B
+First, we'll use Typer to replace verbose argparse code with clean, type-safe configuration management. Next, we'll add Rich for progress bars, tables, and styled output. Lastly, we will introduce some interactive elements with Textual, e.g. dashboards, filtering, and real-time updates. 
+Typer, Rich, Textual
 
 When KPIs Go Weird: Anomaly Detection with Python
 Juliana Ferreira Alves
 Room 104AB
+pandas, scikit-learn, and PyOD
 
 
 Lightning Talks
