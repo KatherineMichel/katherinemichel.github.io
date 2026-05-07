@@ -406,19 +406,25 @@ Grand Ballroom A
 Beyond Rate Limiting: Adaptive Security for Python Web Applications
 Aayush Gauba
 Grand Ballroom A
+Many Python web applications rely on rate limiting, IP blocking, or simple pattern matching, 
+Lightweight AI techniques that run directly inside application middleware
+Django, Flask, and FastAPI
 
 Security
 Asleep at the Wheel: Getting your SBOMs to pay attention to Python Builds
 Sanchit Sahay, Abhishek Reddypalle
 Room 103ABC
+SBOMit, an OpenSSF project
 
 Using Python Biopharm to Help Cure Cancer
 Sushant Singh
 Room 104AB
+You’ll see how FastAPI and Pydantic enable strongly typed, auditable APIs suitable for regulated environments, and how Neo4j can model biological, manufacturing, and operational relationships as a living graph. On top of this foundation, we built chat-based interfaces that don’t just retrieve documents, but traverse relationships, surface patterns, and explain why something happened — enabling questions like “What changed?”, “Where have we seen this before?”, and “What decisions led us here?”
 
 Where the Sidewalk Ends: Data-Driven Urban Safety
 Fay Shaw
 Grand Ballroom B
+Using MassDOT data and the Walk Score API, I built MOSEY (Move On Safely EverYone) with Streamlit, geopandas, and folium.
 
 
 Tachyon: Python 3.15's sampling profiler is faster than your code
