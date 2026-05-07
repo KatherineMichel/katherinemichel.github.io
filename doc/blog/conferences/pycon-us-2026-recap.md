@@ -162,6 +162,9 @@ Breaking the Speed Limit: Fast Statistical Models with Python 3.14, Numba, and J
 Wenxin Jiang, Jian Yin
 Room 104AB
 NumPy, Python 3.14 (with free-threaded or JIT configurations), Numba, and JAX
+https://numpy.org/
+https://docs.jax.dev/en/latest/notebooks/thinking_in_jax.html
+https://numba.pydata.org/
 
 AI
 Making African Languages Visible: A Python-Based Guide to Low-Resource Language ID
@@ -169,6 +172,11 @@ Gift Ojeabulu
 Grand Ballroom A
 FastText, MasakhaNER dataset on Huggingface
 AfroXLMR, Masakhane Models, and spaCy’s limited-language pipelines
+https://fasttext.cc/
+https://huggingface.co/datasets/masakhane/masakhaner
+https://huggingface.co/Davlan/afro-xlmr-large
+https://huggingface.co/masakhane
+https://spacy.io/usage/processing-pipelines
 
 Lunch
 
@@ -178,6 +186,7 @@ Running Large Language Models on Laptops: Practical Quantization Techniques in P
 Aayush Kumar JVS
 Grand Ballroom A
 quantization techniques, QLoRA, bitsandbytes, GGUF, and GGML
+https://medium.com/data-science-at-microsoft/exploring-quantization-in-large-language-models-llms-concepts-and-techniques-4e513ebf50ee
 
 The Bakery: How PEP810 sped up my bread operations business
 Jacob Coffee
@@ -199,6 +208,8 @@ Distributing AI with Python in the Browser: Edge Inference and Flexibility Witho
 Fabio Pliger
 Grand Ballroom A
 JavaScript model runners, leveraging WebGPU/WebNN
+https://webgpu.org/
+https://webmachinelearning.github.io/webnn-intro/
  
 A Shiny for Python Cultural Survival Tool: Training Your Slang Translator
 Elizabeth Black
@@ -209,6 +220,10 @@ How to port a Python kernel to Pyodide for a blazingly fast in-browser coding ex
 Myles Scolnick
 Room 104AB
 Pyodide, JupyterLite and marimo, WebAssembly
+https://pyodide.org/en/stable/
+https://github.com/jupyterlite/jupyterlite
+https://marimo.io/
+https://webassembly.org/
 
 pathlib: why and how to use it
 Trey Hunner
@@ -220,11 +235,22 @@ From Graveyard to Glory: Production Python in the Browser
 Mahmoud Hashemi
 Room 104AB
 Pyodide, WebAssembly, build pipeline, CDN, PyPI wheels, versioned, cache-busted bundles, SSR and Web Workers, responsive, SEO optimized, orchestrate Svelte and Vite using Comlink for seamless RPC between the JS main thread and the Python worker. Leveraging Pydantic + OpenAPI for TypeScript safety. Realities. 
+https://pyodide.org/en/stable/
+https://webassembly.org/
+https://svelte.dev/
+https://vite.dev/
+https://github.com/googlechromelabs/comlink
+https://en.wikipedia.org/wiki/Remote_procedure_call
+https://github.com/pydantic/pydantic
+https://www.openapis.org/
+https://www.typescriptlang.org/
 
 Beyond the P-Value: A Data Scientist’s Guide to Tier-1 Feature Launches
 Jyoti Yadav
 Room 103ABC
 "Launch Post-Mortem" using a Jupyter Notebook, CausalML and PyMatch
+https://github.com/uber/causalml
+https://github.com/benmiroglio/pymatch
 
 AI
 Free-threaded Python: past, present and future
@@ -240,6 +266,10 @@ What Python Developers Need to Know About Hardware: A Practical Guide to GPU Mem
 Santosh Appachu Devanira Poovaiah, Vyas Ramasubramani
 Grand Ballroom A
 How GPU memory is structured, why kernel launches behave differently from Python function calls, how floating-point math on GPUs differs from CPUs, and why the same Python code behaves differently across GPU generations or SDK versions. Real examples in PyTorch and TensorFlow,
+https://en.wikipedia.org/wiki/Graphics_processing_unit
+https://en.wikipedia.org/wiki/Floating-point_arithmetic
+https://pytorch.org/
+https://www.tensorflow.org/
 
 Demystifying Python's Generational Garbage Collector
 Puneet Khushwani
@@ -262,7 +292,8 @@ AI
 How to Build Your First Real-Time Voice Agent in Python (Without Losing Your Mind)
 Camila Hinojosa Añez, Elizabeth Fuentes
 Grand Ballroom A
-Python, AWS services (for speech and LLM), and Pipecat,
+Python, AWS services (for speech and LLM), and Pipecat
+https://github.com/pipecat-ai/pipecat
 
 Debugging Python in Production: Practical Techniques Beyond Print Statements
 Anshul Jannumahanti
@@ -279,6 +310,9 @@ Shir Havron
 Volunteer
 Room 104AB
 JVM, Py4J, PySpark
+https://en.wikipedia.org/wiki/Java_virtual_machine
+https://www.py4j.org/
+https://spark.apache.org/docs/latest/api/python/index.html
 
 Lightning Talks
 Lightning Talks (Pacific Ballroom - Arena)
@@ -316,6 +350,9 @@ FastAPI Security Patterns: OAuth 2.0, JWTs, and API Keys Done Right
 Ian
 Room 103ABC
 https://fastapi.tiangolo.com/
+https://fastapi.tiangolo.com/tutorial/security/simple-oauth2/
+https://fastapi.tiangolo.com/tutorial/security/oauth2-jwt/
+https://fastapi.tiangolo.com/reference/security/
 
 Python for Humans - Designing Python Code Like a User Interface
 Justin Lee
@@ -343,7 +380,9 @@ Anatomy of a Phishing Campaign
 Mike Fiedler
 Room 103ABC
 In July 2025, PyPI users received emails
+https://blog.pypi.org/posts/2025-07-28-pypi-phishing-attack/
 September 2025 follow-up campaign targeting pypi-mirror.org
+https://blog.pypi.org/posts/2025-09-23-plenty-of-phish-in-the-sea/
 
 Switching from Sphinx to Markdown
 Kattni
@@ -392,6 +431,7 @@ Room 103ABC
 C code suffers from memory and thread unsafety, leading to crashes and potentially exploitable security bugs. 
 Rust for CPython project
 Android and Chromium have leveraged Rust
+https://www.cs.cornell.edu/courses/cs3410/2025sp/notes/memory_safe_langs.html
 
 [Yes, You Can] Test SQL
 Paul Zuradzki
@@ -409,22 +449,32 @@ Grand Ballroom A
 Many Python web applications rely on rate limiting, IP blocking, or simple pattern matching, 
 Lightweight AI techniques that run directly inside application middleware
 Django, Flask, and FastAPI
+https://en.wikipedia.org/wiki/Rate_limiting
+https://en.wikipedia.org/wiki/IP_address_blocking
 
 Security
 Asleep at the Wheel: Getting your SBOMs to pay attention to Python Builds
 Sanchit Sahay, Abhishek Reddypalle
 Room 103ABC
 SBOMit, an OpenSSF project
+https://github.com/SBOMit
+https://openssf.org/
 
 Using Python Biopharm to Help Cure Cancer
 Sushant Singh
 Room 104AB
 You’ll see how FastAPI and Pydantic enable strongly typed, auditable APIs suitable for regulated environments, and how Neo4j can model biological, manufacturing, and operational relationships as a living graph. On top of this foundation, we built chat-based interfaces that don’t just retrieve documents, but traverse relationships, surface patterns, and explain why something happened — enabling questions like “What changed?”, “Where have we seen this before?”, and “What decisions led us here?”
+https://fastapi.tiangolo.com/
+https://pydantic.dev/
+https://neo4j.com/docs/getting-started/
 
 Where the Sidewalk Ends: Data-Driven Urban Safety
 Fay Shaw
 Grand Ballroom B
 Using MassDOT data and the Walk Score API, I built MOSEY (Move On Safely EverYone) with Streamlit, geopandas, and folium.
+https://streamlit.io/
+https://geopandas.org/en/stable/
+https://python-visualization.github.io/folium/latest/
 
 
 Tachyon: Python 3.15's sampling profiler is faster than your code
@@ -438,6 +488,7 @@ Savannah Ostrowski
 Grand Ballroom B
 Python 3.14
 sys.remote_exec() can be combined with debugpy (an implementation of the Debug Adapter Protocol) to provide full IDE debugging experiences for live processes.
+https://peps.python.org/pep-0768/
 
 The Terminal is the New Browser: Building Rich TUIs with Textual
 Andres Pineda
@@ -477,6 +528,9 @@ Findings from scanning Python package workflows at scale
 What we can learn from pip's security model
 A checklist for hardening Python package release workflows
 How to integrate zizmor into CI pipelines
+https://docs.pypi.org/trusted-publishers/
+https://docs.pypi.org/trusted-publishers/security-model/
+https://github.com/zizmorcore/zizmor
 
 Getting Started with Celery: Building Your First Background Task System in Python
 Italo Carvalho Vianelli Ribeiro
@@ -488,6 +542,8 @@ High-Performance LLM Inference in Pure Python with PyTorch Custom Ops
 Yineng Zhang
 Grand Ballroom A
 large language model (LLM) inference engine written entirely in Python can reach performance comparable to C++-based systems such as TensorRT-LLM. Based on experience maintaining SGLang—an open-source pure-Python inference engine
+https://github.com/NVIDIA/TensorRT-LLM
+https://github.com/sgl-project/sglang
 
 Security
 Breaking Bad (Packages): Why Traditional Vulnerability Tracking Fails Supply Chain Attacks
@@ -500,11 +556,15 @@ Avik Basu
 Grand Ballroom B
 First, we'll use Typer to replace verbose argparse code with clean, type-safe configuration management. Next, we'll add Rich for progress bars, tables, and styled output. Lastly, we will introduce some interactive elements with Textual, e.g. dashboards, filtering, and real-time updates. 
 Typer, Rich, Textual
+https://typer.tiangolo.com/
+https://github.com/textualize/rich
+https://textual.textualize.io/
 
 When KPIs Go Weird: Anomaly Detection with Python
 Juliana Ferreira Alves
 Room 104AB
 pandas, scikit-learn, and PyOD
+https://github.com/yzhao062/pyod
 
 
 Lightning Talks
@@ -591,12 +651,15 @@ A bridge over (not) troubled waters: Collecting marine data from your couch
 Sarah Kaiser
 Grand Ballroom A
 Collecting telemetry on boats, a specialized marine data collection platform (Signal K), and an MQTT bridge to bring it all into our smart home dashboards on Home Assistant.
+https://signalk.org/
+https://www.home-assistant.io/
 
 Brains and Explosions: A Simple VDB Writer for Python
 Joachim Pfefferkorn
 Grand Ballroom B
 Neurovolume: a low-dependency, Python library for writing VDBs. This talk spans Zig/Python interoperability, satellite data, big spinning magnets, dead salmon, and Blender plugins.
 VDB is a volumetric data format.
+https://github.com/joachimbbp/neurovolume
 
 
 Memory management in CPython, fast or slow?
