@@ -119,6 +119,7 @@ AI-Assisted Contributions and Maintainer Load
 Paolo Melchiorre
 Grand Ballroom A
 
+
 PEP 750 - T-strings: safer and smarter string processing
 Vinícius Gubiani Ferreira
 Room 103ABC
@@ -136,6 +137,7 @@ How to give your Python code to someone else
 Russell Keith-Magee
 Grand Ballroom B
 
+
 What's so hard about writing a type checker? A tour of ty
 Carl Meyer
 Room 103ABC
@@ -149,7 +151,9 @@ Making African Languages Visible: A Python-Based Guide to Low-Resource Language 
 Gift Ojeabulu
 Grand Ballroom A
 
+
 Lunch
+
 
 Peeking under the hood of uv run
 Zanie Blue
@@ -168,6 +172,7 @@ Running Large Language Models on Laptops: Practical Quantization Techniques in P
 Aayush Kumar JVS
 Grand Ballroom A
 
+
 A Shiny for Python Cultural Survival Tool: Training Your Slang Translator
 Elizabeth Black
 Room 103ABC
@@ -185,6 +190,7 @@ pathlib: why and how to use it
 Trey Hunner
 Grand Ballroom B
 
+
 Beyond the P-Value: A Data Scientist’s Guide to Tier-1 Feature Launches
 Jyoti Yadav
 Room 103ABC
@@ -198,7 +204,9 @@ Free-threaded Python: past, present and future
 Thomas Wouters
 Grand Ballroom B
 
+
 Break (Expo Hall AB)
+
 
 Why Software Engineering Best Practices Fail in Data Engineering
 Constance Martineau
@@ -217,6 +225,7 @@ Lock-Free Multi-Core Performance with Behavior-Oriented Concurrency
 Matthew Johnson
 Grand Ballroom B
 
+
 Debugging Python in Production: Practical Techniques Beyond Print Statements
 Anshul Jannumahanti
 Room 103ABC
@@ -234,6 +243,7 @@ Grand Ballroom A
 Demystifying the GIL
 Bruce Eckel
 Grand Ballroom B
+
 
 Lightning Talks
 Lightning Talks (Pacific Ballroom - Arena)
@@ -265,6 +275,7 @@ Keynote — Pablo Galindo Salgado, En Español (Pacific Ballroom - Arena)
 
 Break (Expo Hall AB)
 
+
 Security
 FastAPI Security Patterns: OAuth 2.0, JWTs, and API Keys Done Right
 Ian
@@ -281,6 +292,7 @@ Grand Ballroom A
 Conquer multithreaded Python with Blanket
 Larry Hastings
 Grand Ballroom B
+
 
 Security
 Anatomy of a Phishing Campaign
@@ -299,6 +311,7 @@ Switching from Sphinx to Markdown
 Kattni
 Grand Ballroom B
 
+
 Security
 Zero Trust in 200ms: Implementing Identity-Per-Transaction with Python and Serverless
 Tristan McKinnon
@@ -312,7 +325,9 @@ The Exceptions We Don't Catch in Technical Conversations
 Emin Martinian
 Grand Ballroom B
 
+
 Lunch
+
 
 The Surprising Effectiveness of Immutable Data Structures
 Brett Slatkin
@@ -327,14 +342,10 @@ Rust for CPython: Making Python Safer and More Robust for Everyone
 Emma Smith
 Room 103ABC
 
-Charlas
-Interoperabilidad de hardware con Python para sistemas conectados
-Hugo Leyton
-Room 104C
-
 Create a Python Package: From Zero to Hero
 Mario Munoz
 Grand Ballroom A
+
 
 Security
 Asleep at the Wheel: Getting your SBOMs to pay attention to Python Builds
@@ -353,6 +364,7 @@ Where the Sidewalk Ends: Data-Driven Urban Safety
 Fay Shaw
 Grand Ballroom B
 
+
 Security
 Post-Incident Runtime SBOM Generation from Python Memory
 Hala Ali, Andrew Case
@@ -370,7 +382,9 @@ The art of live process manipulation with Python 3.14's zero-overhead debugging 
 Savannah Ostrowski
 Grand Ballroom B
 
+
 Break (Expo Hall AB)
+
 
 Security
 GitHub Actions Security in Python Packages
@@ -389,6 +403,7 @@ Getting Started with Celery: Building Your First Background Task System in Pytho
 Italo Carvalho Vianelli Ribeiro
 Grand Ballroom B
 
+
 Security
 Breaking Bad (Packages): Why Traditional Vulnerability Tracking Fails Supply Chain Attacks
 Shelby Cunningham, Madison Ficorilli
@@ -405,6 +420,7 @@ Grand Ballroom A
 Upgrading Python CLIs: From Scripts to Interactive Tools
 Avik Basu
 Grand Ballroom B
+
 
 Lightning Talks
 Lightning Talks (Pacific Ballroom - Arena)
@@ -476,6 +492,7 @@ PSF - Update from our Security Engineers (Pacific Ballroom - Arena)
 Job Fair & Community Showcase (Hall AB) Starts at 9:30
 Posters (Hall AB)
 
+
 Learning Computer Science with Python and Music(21)
 Michael Scott Asato Cuthbert
 Room 103ABC
@@ -491,6 +508,7 @@ Grand Ballroom A
 Brains and Explosions: A Simple VDB Writer for Python
 Joachim Pfefferkorn
 Grand Ballroom B
+
 
 Leading Without Permission: Building Digital Diaspora as an Afro-Latina Woman in Tech
 Veronica Rodriguez Viveros
@@ -508,6 +526,7 @@ Memory management in CPython, fast or slow?
 Mark Shannon
 Grand Ballroom B
 
+
 Fall In Love With CSS
 Piper Thunstrom
 Room 103ABC
@@ -523,6 +542,7 @@ Grand Ballroom A
 Taking Generators Too Far: Writing a PDF from Scratch in Python
 Arie Bovenberg
 Grand Ballroom B
+
 
 Keynote — Rachell Calhoun & Tim Schilling (Pacific Ballroom - Arena)
 Steering Council Panel (Pacific Ballroom - Arena)
