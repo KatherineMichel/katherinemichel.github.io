@@ -430,6 +430,8 @@ Using MassDOT data and the Walk Score API, I built MOSEY (Move On Safely EverYon
 Tachyon: Python 3.15's sampling profiler is faster than your code
 Pablo Galindo Salgado, Laszlo Kiss Kollar
 Grand Ballroom A
+https://python4data.science/en/latest/performance/tachyon.html
+https://hugovk.dev/blog/2026/faster-pillow/
 
 The art of live process manipulation with Python 3.14's zero-overhead debugging interface
 Savannah Ostrowski
