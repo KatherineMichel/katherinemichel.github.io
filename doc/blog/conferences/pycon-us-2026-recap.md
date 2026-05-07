@@ -581,6 +581,7 @@ Posters (Hall AB)
 Learning Computer Science with Python and Music(21)
 Michael Scott Asato Cuthbert
 Room 103ABC
+https://github.com/cuthbertlab/music21
 
 From notebooks to scripts: turning one-off analysis into reusable Python code
 Rafael Mendes de Jesus
@@ -589,10 +590,13 @@ Room 104AB
 A bridge over (not) troubled waters: Collecting marine data from your couch
 Sarah Kaiser
 Grand Ballroom A
+Collecting telemetry on boats, a specialized marine data collection platform (Signal K), and an MQTT bridge to bring it all into our smart home dashboards on Home Assistant.
 
 Brains and Explosions: A Simple VDB Writer for Python
 Joachim Pfefferkorn
 Grand Ballroom B
+Neurovolume: a low-dependency, Python library for writing VDBs. This talk spans Zig/Python interoperability, satellite data, big spinning magnets, dead salmon, and Blender plugins.
+VDB is a volumetric data format.
 
 
 Memory management in CPython, fast or slow?
@@ -602,6 +606,9 @@ Grand Ballroom B
 Why you, as a Python developer, should learn Rust
 Daniel Szoke
 Room 104AB
+Null safety, explicit mutability, and the ownership and borrowing system
+Compiler, linter, and formatter
+Discussing the main philosophical differences between Rust and Python
 
 Leading Without Permission: Building Digital Diaspora as an Afro-Latina Woman in Tech
 Veronica Rodriguez Viveros
@@ -610,7 +617,8 @@ Room 103ABC
 Running Every Street in Paris with Python and PostGIS
 Vinayak Mehta
 Grand Ballroom A
-
+OpenStreetMap, process GPS tracking data from running activities, and build a system to track progress
+Geospatial data using Python libraries like osmnx, shapely, geopandas, and storing it for efficient querying in Postgres and PostGIS.
 
 Understanding Python's logging: Combine components like Lego blocks!
 nikkie
@@ -619,10 +627,12 @@ Room 104AB
 From Messy Clinical Data to Interoperable FHIR: A Python-First Mapping and Validation Pipeline
 Lisa Smith
 Grand Ballroom A
+The focus is on architecture and design decisions rather than standards theory. 
 
 Taking Generators Too Far: Writing a PDF from Scratch in Python
 Arie Bovenberg
 Grand Ballroom B
+We'll use generators all the way down—streaming every byte without ever assembling the full document in memory. 
 
 Fall In Love With CSS
 Piper Thunstrom
