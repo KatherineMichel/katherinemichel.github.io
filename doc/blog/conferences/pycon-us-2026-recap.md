@@ -33,7 +33,7 @@ Table of Contents
     - [Posters](#posters)
     - [PyLadies Lunch](#pyladies-lunch)
     - [Rachel Calhoun and Tim Schilling Keynote](#rachel-calhoun-and-tim-schilling-keynote)
-    - [Steering Council Updates](#steering-council-updates)
+    - [Steering Council Panel](#steering-council-panel)
         - [Barry Warsaw](#barry-warsaw)
         - [Donghee Na](#donghee-na)
         - [Pablo Galindo Salgado](#pablo-galindo-salgado)
@@ -448,7 +448,7 @@ Lightning Talks (Pacific Ballroom - Arena)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Steering Council Updates
+### Steering Council Panel
 
 <!--
 https://thenewstack.io/python-whats-coming-in-2026/
