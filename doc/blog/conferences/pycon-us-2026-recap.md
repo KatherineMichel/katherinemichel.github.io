@@ -18,6 +18,9 @@ Table of Contents
     - [Expo Hall Booths Thursday and Friday](#expo-hall-booths-thursday-and-friday)
 - [Friday](#friday)
     - [Breakfast](#breakfast)
+    - [Coffee](#coffee)
+    - [Welcome](#welcome)
+    - [PSF Welcome](#psf-welcome)
     - [Lin Qiao Keynote](#lin-qiao-keynote)
 - [Saturday](#saturday)
     - [Breakfast](#breakfast-1)
@@ -72,16 +75,35 @@ https://us.pycon.org/2026/schedule/talks/
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Lin Qiao Keynote
- 
+### Coffee
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Welcome
 
 <!--
 Welcome (Pacific Ballroom - Arena)
+-->
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### PSF Welcome
+
+<!--
 PSF Welcome (Pacific Ballroom - Arena)
+-->
 
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Lin Qiao Keynote
+
+<!--
 Keynote — Lin Qiao (Pacific Ballroom - Arena)
+-->
 
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+<!--
 Break (Expo Hall AB)
 
 Mind the gap! Why static typing requires more than just adding annotations
@@ -126,6 +148,8 @@ AI
 Making African Languages Visible: A Python-Based Guide to Low-Resource Language ID
 Gift Ojeabulu
 Grand Ballroom A
+
+Lunch
 
 Peeking under the hood of uv run
 Zanie Blue
@@ -234,6 +258,8 @@ Lightning Talks (Pacific Ballroom - Arena)
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 <!--
+Lightning Talks (Pacific Ballroom - Arena)/Coffee
+
 D&I Panel: Python is for Everyone: Growing the Community Without Limits (Pacific Ballroom - Arena)
 Keynote — Pablo Galindo Salgado, En Español (Pacific Ballroom - Arena)
 
@@ -285,6 +311,8 @@ Grand Ballroom A
 The Exceptions We Don't Catch in Technical Conversations
 Emin Martinian
 Grand Ballroom B
+
+Lunch
 
 The Surprising Effectiveness of Immutable Data Structures
 Brett Slatkin
@@ -443,11 +471,9 @@ https://realpython.com/python314-new-features/
 
 <!--
 Keynote — amanda casari (Pacific Ballroom - Arena)
-
 PSF - Update from our Security Engineers (Pacific Ballroom - Arena)
 
 Job Fair & Community Showcase (Hall AB) Starts at 9:30
-
 Posters (Hall AB)
 
 Learning Computer Science with Python and Music(21)
