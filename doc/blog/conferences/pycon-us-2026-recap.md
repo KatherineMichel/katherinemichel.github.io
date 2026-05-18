@@ -28,6 +28,7 @@ Table of Contents
     - [PSF Members Luncheon](#psf-members-luncheon)
     - [PyLadies Auction](#pyladies-auction)
 - [Sunday](#sunday)
+    - [Marina and Beach](#marina-and-beach)
     - [Amanda Casari Keynote](#amanda-casari-keynote)
     - [Python Software Foundation Security Engineers Update](#python-software-foundation-security-engineers-update)
     - [Posters](#posters)
@@ -40,6 +41,9 @@ Table of Contents
         - [Savannah Ostrowski](#savannah-ostrowski)
         - [Thomas Wouters](#thomas-wouters)
     - [Python Software Foundation Update](#python-software-foundation-update)
+    - [Ice Cream Selfie](#ice-cream-selfie)
+    - [RevSys After Party](#revsys-after-party)
+    - [L'Opera](#lopera)
 - [Monday](#monday)
 - [Until Next Time](#until-next-time)
 
@@ -573,6 +577,10 @@ Lightning Talks (Pacific Ballroom - Arena)
 
 ## Sunday
 
+### Marina and Beach
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
 ### Amanda Casari Keynote
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
@@ -630,6 +638,18 @@ https://realpython.com/python314-new-features/
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+### Ice Cream Selfie
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### RevSys After Party
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### L'Opera
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+    
 <!--
 Keynote — amanda casari (Pacific Ballroom - Arena)
 PSF - Update from our Security Engineers (Pacific Ballroom - Arena)
