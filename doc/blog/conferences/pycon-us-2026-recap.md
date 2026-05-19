@@ -35,11 +35,6 @@ Table of Contents
     - [PyLadies Lunch](#pyladies-lunch)
     - [Rachel Calhoun and Tim Schilling Keynote](#rachel-calhoun-and-tim-schilling-keynote)
     - [Steering Council Panel](#steering-council-panel)
-        - [Barry Warsaw](#barry-warsaw)
-        - [Donghee Na](#donghee-na)
-        - [Pablo Galindo Salgado](#pablo-galindo-salgado)
-        - [Savannah Ostrowski](#savannah-ostrowski)
-        - [Thomas Wouters](#thomas-wouters)
     - [Python Software Foundation Update](#python-software-foundation-update)
     - [Ice Cream Selfie](#ice-cream-selfie)
     - [RevSys After Party](#revsys-after-party)
@@ -616,6 +611,7 @@ https://realpython.com/python314-new-features/
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+<!--
 #### Barry Warsaw
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
@@ -635,6 +631,7 @@ https://realpython.com/python314-new-features/
 #### Thomas Wouters
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
+-->
 
 ### Python Software Foundation Update
 
