@@ -15,7 +15,6 @@ Table of Contents
 - [Thursday](#thursday)
     - [Sightseeing](#sightseeing)
     - [Opening Reception at the Expo Hall](#opening-reception-at-the-expo-hall)
-    - [Expo Hall Booths Thursday and Friday](#expo-hall-booths-thursday-and-friday)
 - [Friday](#friday)
     - [Welcome](#welcome)
     - [PSF Welcome](#psf-welcome)
@@ -85,9 +84,25 @@ https://us.pycon.org/2026/schedule/talks/
 
 ### Opening Reception at the Expo Hall
 
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
+<!---
+RHEL Booth
 
-### Expo Hall Booths Thursday and Friday
+Sam Doran
+RHCS
+https://www.redhat.com/en/services/training-and-certification
+Alternative to idempotency: desired state (runs if needs to make changes, doesn't if it doesn't need to make changes)
+Advanced systems troubleshooting 
+RHEL Lightspeed
+Portal with knowledge-based articles. CLI, backend. 
+https://github.com/rhel-lightspeed
+Built on Goose
+https://goose-docs.ai/
+https://github.com/aaif-goose/goose
+Ansible for devops 
+https://www.ansiblefordevops.com/
+Linux for dummies
+https://www.amazon.com/Linux-Dummies-9th-Richard-Blum/dp/0470467010
+-->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -95,17 +110,9 @@ https://us.pycon.org/2026/schedule/talks/
 
 ### Welcome
 
-<!--
-Welcome (Pacific Ballroom - Arena)
--->
-
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### PSF Welcome
-
-<!--
-PSF Welcome (Pacific Ballroom - Arena)
--->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
