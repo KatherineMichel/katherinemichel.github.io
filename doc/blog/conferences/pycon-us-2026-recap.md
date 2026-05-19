@@ -17,15 +17,14 @@ Table of Contents
     - [Opening Reception at the Expo Hall](#opening-reception-at-the-expo-hall)
     - [Expo Hall Booths Thursday and Friday](#expo-hall-booths-thursday-and-friday)
 - [Friday](#friday)
-    - [Breakfast](#breakfast)
-    - [Coffee](#coffee)
     - [Welcome](#welcome)
     - [PSF Welcome](#psf-welcome)
     - [Lin Qiao Keynote](#lin-qiao-keynote)
+    - [Catch Up With Anthony](#catch-up-with-anthony)
 - [Saturday](#saturday)
-    - [Breakfast](#breakfast-1)
     - [Pablo Galindo Salgado Keynote](#pablo-galindo-salgado)
     - [PSF Members Luncheon](#psf-members-luncheon)
+    - [Ned Lightning Talk](#ned-lightning-talk)
     - [PyLadies Auction](#pyladies-auction)
 - [Sunday](#sunday)
     - [Marina and Beach](#marina-and-beach)
@@ -52,6 +51,12 @@ Disclaimer: the content of this post is a reflection of my career journey and no
 https://us.pycon.org/2026/schedule/talks/
 -->
 
+<!--
+![](pycon-us-2026-recap-images/long-beach-beach.jpg)
+![](pycon-us-2026-recap-images/nicks-on-second-skinny-margarita.jpg)
+![](pycon-us-2026-recap-images/me-and-guido-cutout.jpg)
+-->
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Thursday
@@ -60,19 +65,11 @@ https://us.pycon.org/2026/schedule/talks/
 
 ### Sightseeing
 
-<!--
-![](pycon-us-2026-recap-images/long-beach-beach.jpg)
--->
-
 ![](pycon-us-2026-recap-images/naples-island-alamitos-bay.jpg)
 ![](pycon-us-2026-recap-images/naples-island-alley.jpg)
 ![](pycon-us-2026-recap-images/naples-island-gangway.jpg)
 
 ![](pycon-us-2026-recap-images/nicks-on-second-chilean-sea-bass.jpg)
-
-<!--
-![](pycon-us-2026-recap-images/nicks-on-second-skinny-margarita.jpg)
--->
 
 ![](pycon-us-2026-recap-images/queen-mary-1930s-gps.jpg)
 ![](pycon-us-2026-recap-images/queen-mary-view-of-los-angeles-river-and-marina.jpg)
@@ -81,12 +78,7 @@ https://us.pycon.org/2026/schedule/talks/
 
 
 <!--
-![](pycon-us-2026-recap-images/lightning-talk-ned-space-and-time.jpg)
-
 ![](pycon-us-2026-recap-images/me-and-abigail.jpeg)
-![](pycon-us-2026-recap-images/me-and-anthony.jpg)
-![](pycon-us-2026-recap-images/me-and-guido-cutout.jpg)
-![](pycon-us-2026-recap-images/me-paolo-and-mark.jpg)
 -->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
@@ -100,14 +92,6 @@ https://us.pycon.org/2026/schedule/talks/
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Friday
-
-### Breakfast
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-### Coffee
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Welcome
 
@@ -130,6 +114,12 @@ PSF Welcome (Pacific Ballroom - Arena)
 <!--
 Keynote — Lin Qiao (Pacific Ballroom - Arena)
 -->
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Catch Up With Anthony
+
+![](pycon-us-2026-recap-images/me-and-anthony.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -350,10 +340,6 @@ Lightning Talks (Pacific Ballroom - Arena)
  
 ## Saturday
 
-### Breakfast
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
 ### Pablo Galindo Salgado Keynote
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
@@ -361,6 +347,14 @@ Lightning Talks (Pacific Ballroom - Arena)
 ### PSF Members Luncheon
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Ned Lightning Talk
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+<!--
+![](pycon-us-2026-recap-images/lightning-talk-ned-space-and-time.jpg)
+-->
 
 ### PyLadies Auction
 
@@ -631,6 +625,8 @@ Placeholder
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Rachel Calhoun and Tim Schilling Keynote
+
+![](pycon-us-2026-recap-images/me-paolo-and-mark.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
