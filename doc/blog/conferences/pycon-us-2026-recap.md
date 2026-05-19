@@ -60,7 +60,9 @@ https://us.pycon.org/2026/schedule/talks/
 
 ### Sightseeing
 
+<!--
 ![](pycon-us-2026-recap-images/long-beach-beach.jpg)
+-->
 
 ![](pycon-us-2026-recap-images/naples-island-alamitos-bay.jpg)
 ![](pycon-us-2026-recap-images/naples-island-alley.jpg)
