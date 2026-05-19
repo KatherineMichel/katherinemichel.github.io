@@ -64,9 +64,22 @@ https://us.pycon.org/2026/schedule/talks/
 
 ### Sightseeing
 
-![](pycon-us-2026-recap-images/naples-island-alamitos-bay.jpg)
+When I attended PyCon US 2024, I started a tradition. I googled "best restaurant in Pittsburgh" and ate there. It was a wonderful restaurant called Fig & Ash. Now, I do this at every host city. 
+
+Nick's on Second was at or near the top of every list I saw and had rave reviews. It was on the east side, but I was intrigued. 
+
+I took Thursday off for sightseeing. I decided to ride the 121 bus along the beach to Belmont Shore, explore the area, then eat at Nick's. 
+
+Thursday was an overcast day, but the beaches were quiet and meditative. I decided to walk over to Naples Island and see what it was about. Sometimes I like to just walk and see what I find. I discovered something I'd never seen before, luxury houses with small passages between them leading to boats docked along the Alamitos Bay. 
+
 ![](pycon-us-2026-recap-images/naples-island-alley.jpg)
+A homeowner assured me it was okay to walk down this charming passage. These homeowners are living the dream! 
+
 ![](pycon-us-2026-recap-images/naples-island-gangway.jpg)
+A gangway leading down to a semi-private dock
+
+![](pycon-us-2026-recap-images/naples-island-alamitos-bay.jpg)
+Boats in the Alamitos Bay
 
 ![](pycon-us-2026-recap-images/nicks-on-second-chilean-sea-bass.jpg)
 
@@ -74,9 +87,11 @@ https://us.pycon.org/2026/schedule/talks/
 ![](pycon-us-2026-recap-images/queen-mary-view-of-los-angeles-river-and-marina.jpg)
 ![](pycon-us-2026-recap-images/queen-mary-me-at-the-helm.jpg)
 
+A gondola ride through Naples Island and visit to Seal Island could be on the itinerary for next year. 
 
 
 <!--
+Books program
 ![](pycon-us-2026-recap-images/me-and-abigail.jpeg)
 -->
 
