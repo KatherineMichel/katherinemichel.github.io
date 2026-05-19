@@ -60,6 +60,31 @@ https://us.pycon.org/2026/schedule/talks/
 
 ### Sightseeing
 
+![](pycon-us-2026-recap-images/alamitos-beach.jpeg)
+Placeholder
+
+![](pycon-us-2026-recap-images/lightning-talk-ned-space-and-time.jpg)
+![](pycon-us-2026-recap-images/long-beach-beach.jpg)
+![](pycon-us-2026-recap-images/long-beach-creamery-waffle-bowl.jpg)
+![](pycon-us-2026-recap-images/lopera-lombrani.jpg)
+![](pycon-us-2026-recap-images/me-and-abigail.jpeg)
+![](pycon-us-2026-recap-images/me-and-anthony.jpg)
+![](pycon-us-2026-recap-images/me-and-guido-cutout.jpg)
+![](pycon-us-2026-recap-images/me-paolo-and-mark.jpg)
+![](pycon-us-2026-recap-images/me-paolo-jeff-velda-frank.jpeg)
+![](pycon-us-2026-recap-images/naples-island-alamitos-bay.jpg)
+![](pycon-us-2026-recap-images/naples-island-alley.jpg)
+![](pycon-us-2026-recap-images/naples-island-gangway.jpg)
+![](pycon-us-2026-recap-images/nicks-on-second-chilean-sea-bass.jpg)
+![](pycon-us-2026-recap-images/nicks-on-second-skinny-margarita.jpg)
+![](pycon-us-2026-recap-images/pyladies-auction-its-time.jpg)
+![](pycon-us-2026-recap-images/pyladies-auction-outstanding-pyladies.jpg)
+![](pycon-us-2026-recap-images/pyladies-auction-tim-tam-prize.jpg)
+![](pycon-us-2026-recap-images/queen-mary-1930s-gps.jpg)
+![](pycon-us-2026-recap-images/queen-mary-me-at-the-helm.jpg)
+![](pycon-us-2026-recap-images/queen-mary-view-of-los-angeles-river-and-marina.jpg)
+![](pycon-us-2026-recap-images/revsys-after-party.jpg)
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Opening Reception at the Expo Hall
