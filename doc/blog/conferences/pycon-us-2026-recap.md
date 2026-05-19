@@ -45,6 +45,8 @@ Table of Contents
     - [RevSys After Party](#revsys-after-party)
     - [L'Opera](#lopera)
 - [Monday](#monday)
+    - [Engine Failure](#engine-failure)
+    - [Connections Made](#connections-made)
 - [Until Next Time](#until-next-time)
 
 ## Intro
@@ -730,6 +732,14 @@ Closing (Pacific Ballroom - Arena)
 -->
 
 ## Monday
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Engine Failure
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Connections Made
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
