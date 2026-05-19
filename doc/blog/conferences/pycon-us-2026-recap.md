@@ -60,30 +60,32 @@ https://us.pycon.org/2026/schedule/talks/
 
 ### Sightseeing
 
-![](pycon-us-2026-recap-images/alamitos-beach.jpeg)
-Placeholder
-
-![](pycon-us-2026-recap-images/lightning-talk-ned-space-and-time.jpg)
 ![](pycon-us-2026-recap-images/long-beach-beach.jpg)
-![](pycon-us-2026-recap-images/long-beach-creamery-waffle-bowl.jpg)
-![](pycon-us-2026-recap-images/lopera-lombrani.jpg)
+
+![](pycon-us-2026-recap-images/naples-island-alamitos-bay.jpg)
+![](pycon-us-2026-recap-images/naples-island-alley.jpg)
+![](pycon-us-2026-recap-images/naples-island-gangway.jpg)
+
+![](pycon-us-2026-recap-images/nicks-on-second-chilean-sea-bass.jpg)
+
+<!--
+![](pycon-us-2026-recap-images/nicks-on-second-skinny-margarita.jpg)
+-->
+
+![](pycon-us-2026-recap-images/queen-mary-1930s-gps.jpg)
+![](pycon-us-2026-recap-images/queen-mary-view-of-los-angeles-river-and-marina.jpg)
+![](pycon-us-2026-recap-images/queen-mary-me-at-the-helm.jpg)
+
+
+
+<!--
+![](pycon-us-2026-recap-images/lightning-talk-ned-space-and-time.jpg)
+
 ![](pycon-us-2026-recap-images/me-and-abigail.jpeg)
 ![](pycon-us-2026-recap-images/me-and-anthony.jpg)
 ![](pycon-us-2026-recap-images/me-and-guido-cutout.jpg)
 ![](pycon-us-2026-recap-images/me-paolo-and-mark.jpg)
-![](pycon-us-2026-recap-images/me-paolo-jeff-velda-frank.jpeg)
-![](pycon-us-2026-recap-images/naples-island-alamitos-bay.jpg)
-![](pycon-us-2026-recap-images/naples-island-alley.jpg)
-![](pycon-us-2026-recap-images/naples-island-gangway.jpg)
-![](pycon-us-2026-recap-images/nicks-on-second-chilean-sea-bass.jpg)
-![](pycon-us-2026-recap-images/nicks-on-second-skinny-margarita.jpg)
-![](pycon-us-2026-recap-images/pyladies-auction-its-time.jpg)
-![](pycon-us-2026-recap-images/pyladies-auction-outstanding-pyladies.jpg)
-![](pycon-us-2026-recap-images/pyladies-auction-tim-tam-prize.jpg)
-![](pycon-us-2026-recap-images/queen-mary-1930s-gps.jpg)
-![](pycon-us-2026-recap-images/queen-mary-me-at-the-helm.jpg)
-![](pycon-us-2026-recap-images/queen-mary-view-of-los-angeles-river-and-marina.jpg)
-![](pycon-us-2026-recap-images/revsys-after-party.jpg)
+-->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -360,6 +362,10 @@ Lightning Talks (Pacific Ballroom - Arena)
 
 ### PyLadies Auction
 
+![](pycon-us-2026-recap-images/pyladies-auction-tim-tam-prize.jpg)
+![](pycon-us-2026-recap-images/pyladies-auction-outstanding-pyladies.jpg)
+![](pycon-us-2026-recap-images/pyladies-auction-its-time.jpg)
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 <!--
@@ -601,6 +607,9 @@ Lightning Talks (Pacific Ballroom - Arena)
 
 ### Marina and Beach
 
+![](pycon-us-2026-recap-images/alamitos-beach.jpeg)
+Placeholder
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Amanda Casari Keynote
@@ -626,6 +635,8 @@ Lightning Talks (Pacific Ballroom - Arena)
 ### Steering Council Panel
 
 <!--
+Barry Warsaw, Donghee Na,  Pablo Galindo Salgado, Savannah Ostrowski, Thomas Wouters
+
 https://thenewstack.io/python-whats-coming-in-2026/
 https://peps.python.org/pep-0790/
 https://docs.python.org/3.15/whatsnew/3.15.html
@@ -636,41 +647,26 @@ https://realpython.com/python314-new-features/
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-<!--
-#### Barry Warsaw
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-#### Donghee Na
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-#### Pablo Galindo Salgado
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-#### Savannah Ostrowski
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-#### Thomas Wouters
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
--->
-
 ### Python Software Foundation Update
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Ice Cream Selfie
 
+![](pycon-us-2026-recap-images/long-beach-creamery-waffle-bowl.jpg)
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### RevSys After Party
 
+![](pycon-us-2026-recap-images/revsys-after-party.jpg)
+![](pycon-us-2026-recap-images/me-paolo-jeff-velda-frank.jpeg)
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### L'Opera
+
+![](pycon-us-2026-recap-images/lopera-lombrani.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
     
