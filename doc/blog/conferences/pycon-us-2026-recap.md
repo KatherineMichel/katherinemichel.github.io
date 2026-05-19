@@ -85,7 +85,7 @@ On Naples Island, I discovered something I'd never seen before, luxury houses wi
 A gangway leading down to a semi-private dock
 
 ![](pycon-us-2026-recap-images/nicks-on-second-chilean-sea-bass.jpg)
-This Chilean Sea Bass was absolutely delicious! It was exactly what I was hoping for. When I found out the very friendly bartender Garrett was originally from the Dallas Fortworth area, I had to know more about his story. He visited Long Beach and came back to live, because it was paradise for him. 
+Nick's was a short walk from Naples Island. This Chilean Sea Bass was absolutely delicious! It was exactly what I was hoping for. When I found out the very friendly bartender Garrett was originally from the Dallas Fortworth area, I had to know more about his story. He visited Long Beach and came back to live, because it was paradise for him. 
 
 ![](pycon-us-2026-recap-images/queen-mary-1930s-gps.jpg)
 ![](pycon-us-2026-recap-images/queen-mary-view-of-los-angeles-river-and-marina.jpg)
