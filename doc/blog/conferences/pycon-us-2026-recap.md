@@ -70,6 +70,7 @@ Nick's on Second was at or near the top of every list I saw and had rave reviews
 
 I took Thursday off for sightseeing. I decided to ride the 121 bus along the beach to Belmont Shore, explore the area, then eat at Nick's. 
 
+![](pycon-us-2026-recap-images/belmont-pier-view.jpg)
 The view from the Belmont Pier... Thursday was an overcast day, but the beaches were quiet and meditative. 
 
 I decided to walk over to Naples Island and see what it was about. Sometimes I like to just walk and see what I find. 
