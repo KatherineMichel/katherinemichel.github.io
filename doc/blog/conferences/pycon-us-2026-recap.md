@@ -6,7 +6,7 @@ category: Conferences
 tags: python, django, pycon, community, networking, talks, travel
 ---
 
-# PyCon US 2024 Recap
+# PyCon US 2026 Recap
 
 Table of Contents
 -----------------
