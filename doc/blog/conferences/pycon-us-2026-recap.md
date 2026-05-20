@@ -719,7 +719,7 @@ https://realpython.com/python314-new-features/
 A massive crowd of attendees walked over to [Long Beach Creamery](https://www.longbeachcreamery.com/) for an ice cream selfie. 
 
 ![](pycon-us-2026-recap-images/long-beach-creamery-waffle-bowl.jpg)
-Waffle bowl with Whiskey Vanilla and Strawberry Mascarpone... so yummy!
+Waffle bowl with Strawberry Mascarpone and Whiskey Vanilla... so yummy!
 
 <!--
 Helped identify a talk and encourage 
