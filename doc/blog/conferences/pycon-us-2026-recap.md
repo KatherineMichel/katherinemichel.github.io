@@ -93,7 +93,7 @@ A gondola ride through Naples Island and visit to nearby [Seal Island](https://e
 ![](pycon-us-2026-recap-images/nicks-on-second-chilean-sea-bass.jpg)
 Nick's was a short walk from Naples Island. This Chilean Sea Bass was absolutely delicious! It was exactly what I was hoping for. When I found out the very friendly bartender Garrett was originally from the Dallas-Fortworth area, I had to know more about his story. He visited Long Beach and came back to live, because it was paradise for him, money be damned. 
 
-After Nick's I was able to make it to the [Queen Mary](https://www.queenmary.com/) in time for the 1:15 pm Glory Days Tour, recommended by a friend. 
+After Nick's, I was able to make it to the [Queen Mary](https://www.queenmary.com/) in time for the 1:15 pm Glory Days Tour, recommended by a friend. 
 
 ![](pycon-us-2026-recap-images/queen-mary-1930s-gps.jpg)
 
