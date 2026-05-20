@@ -56,7 +56,6 @@ https://us.pycon.org/2026/schedule/talks/
 
 <!--
 ![](pycon-us-2026-recap-images/long-beach-beach.jpg)
-![](pycon-us-2026-recap-images/nicks-on-second-skinny-margarita.jpg)
 ![](pycon-us-2026-recap-images/me-and-guido-cutout.jpg)
 -->
 
@@ -101,7 +100,7 @@ After Nick's I was able to make it to the Queen Mary in time for the 1:15 pm Glo
 A fantastic view of the Los Angeles River and Long Beach Shoreline Marina from a deck on the Queen Mary
 
 ![](pycon-us-2026-recap-images/queen-mary-me-at-the-helm.jpg)
-
+Me at a photo-op helm. The real one is much smaller and on display at the entrance to the engine room. 
 
 
 <!--
