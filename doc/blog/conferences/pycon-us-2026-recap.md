@@ -676,7 +676,7 @@ Alamitos Beach
 
 At the PyLadies Lunch, women take turns taking the mic and sharing accomplishments they are proud of from the past year. Although I've attended several times, I've never gotten up to speak. 
 
-My friend Mariatta came over to me and encouraged me to do it. Mariatta is inspiration to me. I reflected for a couple of minutes, then got up and did it. 
+My friend Mariatta came over to me and encouraged me to do it. Mariatta is an inspiration to me. I reflected for a couple of minutes, then got up and did it. 
 
 As difficult as it can be to talk about ourselves, Mariatta explained later that we need to do it so that others know the things we have experienced.
 
@@ -729,7 +729,7 @@ PyBeach, on my bucket list
 After ice cream, I walked down the block to the RevSys after-party at The Stave Bar. 
 
 ![](pycon-us-2026-recap-images/revsys-after-party.jpg)
-That party was rocking! I had a beautiful and tasty non-alcoholic Ginger Cooler (pictured on the bar): ginger syrup, pineapple juice, fresh lime juice, soda water
+The party was rocking! I had a beautiful and tasty non-alcoholic Ginger Cooler (pictured on the bar): ginger syrup, pineapple juice, fresh lime juice, soda water
 
 ![](pycon-us-2026-recap-images/me-paolo-jeff-velda-frank.jpeg)
 The best of times... me with friends Paolo, Jeff, Velda, and Frank
