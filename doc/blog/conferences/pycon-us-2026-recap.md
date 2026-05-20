@@ -406,7 +406,7 @@ Lightning Talks (Pacific Ballroom - Arena)
 As usual, the PyLadies Auction was a roaring good time! 
 
 ![](pycon-us-2026-recap-images/pyladies-auction-tim-tam-prize.jpg)
-This Tim Tam prize brought a smile to my face. Russell Keith-Magee has brought a package of Tim Tams to DjangoCon US many times and taught other attendees how to do the Tim Tam Slam. 
+This Tim Tam Collection prize brought a smile to my face. Russell Keith-Magee has brought a package of Tim Tams to DjangoCon US many times and taught other attendees how to do the Tim Tam Slam. 
 
 ![](pycon-us-2026-recap-images/pyladies-auction-outstanding-pyladies.jpg)
 Outstanding PyLadies Awardees! María José Molina-Contreras, Denny Perez, Fay Shaw, and Hwayoung Cha (not pictured)... these ladies are incredible. 
