@@ -760,7 +760,7 @@ A massive crowd of attendees walked over to [Long Beach Creamery](https://www.lo
 
 Fun fact... it was Mariatta's 41st ice cream selfie over 10 years of public speaking (40+ conferences!)
 
-Grateful to have celebrated it with her. 
+I am grateful to have celebrated it with her. 
 
 On the other end of the spectrum, I encouraged an attendee to give his first conference talk and connected with a group of PyBeach organizers in the process. PyBeach is on my bucket list. 
 
