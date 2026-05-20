@@ -691,6 +691,10 @@ https://realpython.com/python314-new-features/
 
 ### Ice Cream Selfie
 
+<!--
+Long Beach Creamery
+-->
+
 ![](pycon-us-2026-recap-images/long-beach-creamery-waffle-bowl.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
@@ -698,13 +702,24 @@ https://realpython.com/python314-new-features/
 ### RevSys After Party
 
 ![](pycon-us-2026-recap-images/revsys-after-party.jpg)
+
 ![](pycon-us-2026-recap-images/me-paolo-jeff-velda-frank.jpeg)
+The best of times... me with friends Paolo, Jeff, Velda, and Frank
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### L'Opera
 
+After the RevSys after-party, I had the chance to eat at a restaurant I had wanted to eat at all week. 
+
+I learned of [L'Opera](https://lopera.com/) through Mariatta's [PyCon US 2026 website](https://travel.mariatta.ca/pycon-us-2026/). I poked a bit of fun at it on social media when 
+
+But, I love Italian food and the restaurant had great reviews. It did not disappoint!  
+
 ![](pycon-us-2026-recap-images/lopera-lombrani.jpg)
+I had the Lombrani, which was mentioned in many customer reviews: homemade ravioli stuffed with red wine braised shortrib of beef and ricotta, gorgonzola, green pea and broccolini cream sauce. It was incredible. I want to go back! 
+
+As an added bonus, Paul Everitt saw me at the bar and invited me to join the JetBrains Team at their table for some fun conversation! 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
     
