@@ -694,23 +694,30 @@ https://realpython.com/python314-new-features/
 
 ### Ice Cream Selfie
 
-<!--
-Long Beach Creamery
--->
+A massive crowd of people walked over to [Long Beach Creamery](https://www.longbeachcreamery.com/) for an ice cream selfie. 
 
 ![](pycon-us-2026-recap-images/long-beach-creamery-waffle-bowl.jpg)
+Waffle bowl with Whiskey Vanilla and Strawberry Mascarpone
+
+<!--
+PyBeach, on my bucket list
+-->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### RevSys After Party
 
-I walked down the block to the RevSys after party at 
+I walked down the block to the RevSys after-party at The Stave Bar. 
 
 ![](pycon-us-2026-recap-images/revsys-after-party.jpg)
 This party is rocking! I had a beautiful and tasty non-alcoholic Ginger Cooler (pictured on the bar): ginger syrup, pineapple juice, fresh lime juice, soda water
 
 ![](pycon-us-2026-recap-images/me-paolo-jeff-velda-frank.jpeg)
 The best of times... me with friends Paolo, Jeff, Velda, and Frank
+
+<!--
+Keith comments
+-->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -726,7 +733,7 @@ I poked a bit of fun at it on social media...
 But, I love Italian food and the restaurant had great reviews. It did not disappoint!  
 
 ![](pycon-us-2026-recap-images/lopera-lombrani.jpg)
-I had the Lombrani, one of their most popular dishes: homemade ravioli stuffed with red wine braised shortrib of beef and ricotta, gorgonzola, green pea and broccolini cream sauce. It was incredible. I want to go back! 
+I had the Lombrani, one of their most popular dishes: homemade ravioli stuffed with red wine braised shortrib of beef and ricotta, gorgonzola, green pea and broccolini cream sauce. It was incredible. I want to go back next year! 
 
 As an added bonus, Paul Everitt saw me at the bar and invited me to join the JetBrains Team at their table for some fun conversation! 
 
