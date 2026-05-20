@@ -764,7 +764,7 @@ I learned of [L'Opera](https://lopera.com/) through Mariatta's [PyCon US 2026 we
 I poked a bit of fun at the restaurant on social media... 
 ![](pycon-us-2026-recap-images/lopera-website.png)
 
-But, I love Italian food and the restaurant had great reviews. It did not disappoint!  
+but, I love Italian food and the restaurant had great reviews. It did not disappoint!  
 
 ![](pycon-us-2026-recap-images/lopera-lombrani.jpg)
 I had the Lombrani, one of their most popular dishes: homemade ravioli stuffed with red wine braised shortrib of beef and ricotta, gorgonzola, green pea and broccolini cream sauce. It was incredible. I want to go back next year! 
