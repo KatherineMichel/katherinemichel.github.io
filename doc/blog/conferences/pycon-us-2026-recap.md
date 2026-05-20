@@ -409,7 +409,7 @@ As usual, the PyLadies Auction was a roaring good time!
 Tim Tam Prize
 
 ![](pycon-us-2026-recap-images/pyladies-auction-outstanding-pyladies.jpg)
-Outstanding PyLadies Awardees! These ladies are incredible. 
+Outstanding PyLadies Awardees! María José Molina-Contreras, Denny Perez, Fay Shaw, and Hwayoung Cha (not pictured)... these ladies are incredible. 
 
 ![](pycon-us-2026-recap-images/pyladies-auction-its-time.jpg)
 "It's time"... as Kojo's Python plushie was being auctioned, a pen was added to raise the bids. A sea of people walked up to the stage to add their stuff. 
