@@ -47,6 +47,10 @@ Table of Contents
 Disclaimer: the content of this post is a reflection of my career journey and not specific to my work at JPMorgan Chase & Co.
 
 <!--
+Conference description
+-->
+
+<!--
 https://us.pycon.org/2026/schedule/talks/
 -->
 
@@ -84,8 +88,12 @@ On Naples Island, I discovered something I'd never seen before, luxury houses wi
 ![](pycon-us-2026-recap-images/naples-island-gangway.jpg)
 A gangway leading down to a semi-private dock. These homeowners are living the dream! 
 
+A gondola ride through Naples Island and visit to nearby Seal Island could be on the itinerary for next year. 
+
 ![](pycon-us-2026-recap-images/nicks-on-second-chilean-sea-bass.jpg)
 Nick's was a short walk from Naples Island. This Chilean Sea Bass was absolutely delicious! It was exactly what I was hoping for. When I found out the very friendly bartender Garrett was originally from the Dallas-Fortworth area, I had to know more about his story. He visited Long Beach and came back to live, because it was paradise for him. 
+
+After Nick's I was able to make it to the Queen Mary in time for the 1:15 pm Glory Days Tour. 
 
 ![](pycon-us-2026-recap-images/queen-mary-1930s-gps.jpg)
 
@@ -94,7 +102,6 @@ A fantastic view of the Los Angeles River and Long Beach Shoreline Marina from a
 
 ![](pycon-us-2026-recap-images/queen-mary-me-at-the-helm.jpg)
 
-A gondola ride through Naples Island and visit to nearby Seal Island could be on the itinerary for next year. 
 
 
 <!--
