@@ -420,6 +420,10 @@ Ned Batchelder did a moving lightning talk adapting Eric Holscher's Conference [
 
 ![](pycon-us-2026-recap-images/lightning-talk-ned-space-and-time.jpg)
 
+<!--
+Explain talk
+-->
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### PyLadies Auction
