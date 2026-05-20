@@ -668,7 +668,7 @@ At the PyLadies Lunch, women take turns taking the mic and sharing accomplishmen
 
 My friend Mariatta came over to me and encouraged me to do it. Mariatta is inspiration to me. I reflected for a couple of minutes, then got up and did it. 
 
-As difficult as it can be to talk about ourselves, Mariatta explained later that we need to do it so that others know the things we have experience.
+As difficult as it can be to talk about ourselves, Mariatta explained later that we need to do it so that others know the things we have experienced.
 
 Thank you, Mariatta. 
 
