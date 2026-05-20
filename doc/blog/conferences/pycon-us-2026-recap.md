@@ -704,7 +704,10 @@ Long Beach Creamery
 
 ### RevSys After Party
 
+I walked down the block to the RevSys after party at 
+
 ![](pycon-us-2026-recap-images/revsys-after-party.jpg)
+This party is rocking! I had a beautiful and tasty non-alcoholic Ginger Cooler (pictured on the bar): ginger syrup, pineapple juice, fresh lime juice, soda water
 
 ![](pycon-us-2026-recap-images/me-paolo-jeff-velda-frank.jpeg)
 The best of times... me with friends Paolo, Jeff, Velda, and Frank
