@@ -655,7 +655,7 @@ Lightning Talks (Pacific Ballroom - Arena)
 
 ### Marina and Beach
 
-I wanted to see more of the coast, which is a short walk from the Long Beach Convention Center. I walked along the marina, getting a good view of the Queen Mary and historic Lion Lighthouse (said to be one of the ugliest lighthouses in the world), then down to Alamitos Beach where sunlight glittered across the ocean. Can't wait to explore more of this beach. 
+I wanted to see more of the coast, which is a short walk from the Long Beach Convention Center. I walked along Shoreline Village and the Long Beach Shoreline Marina, getting a good view of the Queen Mary and historic Lion Lighthouse (said to be one of the ugliest lighthouses in the world), then down to Alamitos Beach where sunlight glittered across the ocean. I can't wait to explore more of this beach. 
 
 ![](pycon-us-2026-recap-images/alamitos-beach.jpeg)
 Alamitos Beach
