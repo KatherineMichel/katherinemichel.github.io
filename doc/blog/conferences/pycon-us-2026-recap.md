@@ -726,16 +726,20 @@ PyBeach, on my bucket list
 
 ### RevSys After Party
 
-I walked down the block to the RevSys after-party at The Stave Bar. 
+After ice cream, I walked down the block to the RevSys after-party at The Stave Bar. 
 
 ![](pycon-us-2026-recap-images/revsys-after-party.jpg)
-This party is rocking! I had a beautiful and tasty non-alcoholic Ginger Cooler (pictured on the bar): ginger syrup, pineapple juice, fresh lime juice, soda water
+That party was rocking! I had a beautiful and tasty non-alcoholic Ginger Cooler (pictured on the bar): ginger syrup, pineapple juice, fresh lime juice, soda water
 
 ![](pycon-us-2026-recap-images/me-paolo-jeff-velda-frank.jpeg)
 The best of times... me with friends Paolo, Jeff, Velda, and Frank
 
 <!--
+Keith the ee Murray 
+Sarah entzminger 
 Keith comments
+Director of Python discord
+Python subreddit 
 -->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
