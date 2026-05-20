@@ -161,7 +161,9 @@ Keynote — Lin Qiao (Pacific Ballroom - Arena)
 
 When I attended GitHub Universe in 2019, I randomly sat at a table with two strangers who turned out to be Anthony Sottile and Sarah Drasner. I connected with them afterward and learned that they are both outstanding teachers. Anthony has a popular Twitch Stream called [Anthony Writes Code](https://www.twitch.tv/anthonywritescode). 
 
-I was getting coffee and heard someone say my name. It was Anthony! I was so happy to see him again in person after so many years. 
+I was getting coffee and heard someone say my name. It was Anthony! I was so happy to see him in person again after so many years. 
+
+Anthony told me I've come so far over the years, and he is so proud of me. It meant the world to me! 
 
 ![](pycon-us-2026-recap-images/me-and-anthony.jpg)
 Me and Anthony, reunited again :) 
