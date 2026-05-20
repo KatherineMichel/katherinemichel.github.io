@@ -662,7 +662,11 @@ Placeholder
 
 ### PyLadies Lunch
 
+At the PyLadies Lunch, women take turns taking the mic and sharing an accomplishment they are proud of from the past year. Although I've attended several times, I've never gotten up to speak. My friend Mariatta came over to me and encouraged me to do it. Mariatta is inspiration to me. I reflected for a couple of minutes, then got up and did it. 
 
+As difficult as it can be to talk about ourselves, Mariatta explained later that we need to do it so that others know the things we have experience.
+
+Thank you, Mariatta. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -738,6 +742,7 @@ I had the Lombrani, one of their most popular dishes: homemade ravioli stuffed w
 As an added bonus, Paul Everitt saw me at the bar and invited me to join the JetBrains Team at their table for some fun conversation! 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
     
 <!--
 Keynote — amanda casari (Pacific Ballroom - Arena)
