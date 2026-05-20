@@ -713,7 +713,7 @@ https://realpython.com/python314-new-features/
 
 ### Black Python Devs Leadership Summit
 
-After receiving a much-deserved Community Service Award for his "service to the global Python in improving the community's diversity, inclusion, and equity through founding and sustaining Black Python Devs," K. Jay Miller announced the [Black Python Devs Leadership Summit](https://www.pyohio.org/2026/program/black-python-devs-leadership-summit/) happening the day before PyOhio. 
+After receiving a much-deserved Community Service Award for his "service to the global Python in improving the community's diversity, inclusion, and equity through founding and sustaining Black Python Devs," K. Jay Miller announced the [Black Python Devs Leadership Summit](https://www.pyohio.org/2026/program/black-python-devs-leadership-summit/) happening the day before PyOhio at the same venue. 
 
 For those who cannot attend in person, the event will be livestreamed on the [Black Python Devs YouTube Channel](https://www.youtube.com/@blackpythondevs). 
 
