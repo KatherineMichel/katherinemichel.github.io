@@ -23,7 +23,7 @@ Table of Contents
 - [Saturday](#saturday)
     - [Pablo Galindo Salgado Keynote](#pablo-galindo-salgado)
     - [PSF Members Luncheon](#psf-members-luncheon)
-    - [Ned Lightning Talk](#ned-lightning-talk)
+    - [Ned Batchelder Lightning Talk](#ned-batchelder-lightning-talk)
     - [PyLadies Auction](#pyladies-auction)
 - [Sunday](#sunday)
     - [Marina and Beach](#marina-and-beach)
@@ -95,7 +95,9 @@ Nick's was a short walk from Naples Island. This Chilean Sea Bass was absolutely
 
 After Nick's, I was able to make it to the [Queen Mary](https://www.queenmary.com/) in time for the 1:15 pm Glory Days Tour, recommended by a friend. 
 
+<!--
 ![](pycon-us-2026-recap-images/queen-mary-1930s-gps.jpg)
+-->
 
 ![](pycon-us-2026-recap-images/queen-mary-view-of-los-angeles-river-and-marina.jpg)
 A fantastic view of the Los Angeles River and Long Beach Shoreline Marina from a deck on the Queen Mary
@@ -387,13 +389,13 @@ Lightning Talks (Pacific Ballroom - Arena)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Ned Lightning Talk
+### Ned Batchelder Lightning Talk
+
+Ned Batchelder did a moving lightning talk adapting Eric Holscher's Conference [Pacman Rule](https://www.ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/) from space to time.
+
+![](pycon-us-2026-recap-images/lightning-talk-ned-space-and-time.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-<!--
-![](pycon-us-2026-recap-images/lightning-talk-ned-space-and-time.jpg)
--->
 
 ### PyLadies Auction
 
