@@ -732,7 +732,7 @@ After the RevSys after-party, I had the chance to eat at a restaurant I had want
 I learned of [L'Opera](https://lopera.com/) through Mariatta's [PyCon US 2026 website](https://travel.mariatta.ca/pycon-us-2026/). 
 
 ![](pycon-us-2026-recap-images/lopera-website.png)
-I poked a bit of fun at it on social media... 
+I poked a bit of fun at the restaurant on social media... 
 
 But, I love Italian food and the restaurant had great reviews. It did not disappoint!  
 
