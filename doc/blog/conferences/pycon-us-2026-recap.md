@@ -68,16 +68,16 @@ https://us.pycon.org/2026/schedule/talks/
 
 ### Sightseeing
 
-I spent Thursday sightseeing. I decided to ride the 121 bus along the beach to Belmont Shore, explore the area, then eat at Nick's on Second. 
+I spent Thursday sightseeing. I decided to ride the 121 bus along the beach to [Belmont Shore](https://en.wikipedia.org/wiki/Belmont_Shore,_Long_Beach,_California), explore the area, then eat at [Nick's on Second](https://nicksrestaurants.com/nicks/on-2nd/). 
 
-When I attended PyCon US 2024, I started a tradition. I googled "best restaurant in Pittsburgh" and ate there. It was a wonderful restaurant called Fig & Ash. Now, I do this at every host city. 
+When I attended PyCon US 2024, I started a tradition. I googled "best restaurant in Pittsburgh" and ate there. It was a wonderful restaurant called [Fig & Ash](https://figandashpgh.com/). Now, I do this at every host city. 
 
 Nick's was at or near the top of every list I saw and had rave reviews. I was hoping to eat some excellent fresh seafood, and Nick's filets fish in-house daily. 
 
 ![](pycon-us-2026-recap-images/belmont-pier-view.jpg)
 The view from the Belmont Pier... Thursday was an overcast day, but the beaches were quiet and meditative. 
 
-I decided to walk over to Naples Island and see what it was about. 
+I decided to walk over to [Naples Island](https://en.wikipedia.org/wiki/Naples,_Long_Beach) and see what it was about. 
 
 ![](pycon-us-2026-recap-images/naples-island-alamitos-bay.jpg)
 A view of boats in the Alamitos Bay while walking across the 2nd Street Bridge
@@ -88,12 +88,12 @@ On Naples Island, I discovered something I'd never seen before, luxury houses wi
 ![](pycon-us-2026-recap-images/naples-island-gangway.jpg)
 A gangway leading down to a semi-private dock. These homeowners are living the dream! 
 
-A gondola ride through Naples Island and visit to nearby Seal Island could be on the itinerary for next year. 
+A gondola ride through Naples Island and visit to nearby [Seal Island](https://en.wikipedia.org/wiki/Seal_Beach,_California) could be on the itinerary for next year. 
 
 ![](pycon-us-2026-recap-images/nicks-on-second-chilean-sea-bass.jpg)
-Nick's was a short walk from Naples Island. This Chilean Sea Bass was absolutely delicious! It was exactly what I was hoping for. When I found out the very friendly bartender Garrett was originally from the Dallas-Fortworth area, I had to know more about his story. He visited Long Beach and came back to live, because it was paradise for him. 
+Nick's was a short walk from Naples Island. This Chilean Sea Bass was absolutely delicious! It was exactly what I was hoping for. When I found out the very friendly bartender Garrett was originally from the Dallas-Fortworth area, I had to know more about his story. He visited Long Beach and came back to live, because it was paradise for him, money be damned. 
 
-After Nick's I was able to make it to the Queen Mary in time for the 1:15 pm Glory Days Tour, recommended by a friend. 
+After Nick's I was able to make it to the [Queen Mary](https://www.queenmary.com/) in time for the 1:15 pm Glory Days Tour, recommended by a friend. 
 
 ![](pycon-us-2026-recap-images/queen-mary-1930s-gps.jpg)
 
@@ -105,13 +105,8 @@ Me at a photo-op helm. The real one is much smaller and on display at the entran
 
 
 <!--
-https://en.wikipedia.org/wiki/Naples,_Long_Beach
-https://nicksrestaurants.com/nicks/on-2nd/
-
 Books program
 ![](pycon-us-2026-recap-images/me-and-abigail.jpeg)
-
-Sometimes I like to just walk and see what I find. 
 -->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
@@ -411,7 +406,7 @@ Lightning Talks (Pacific Ballroom - Arena)
 As usual, the PyLadies Auction was a roaring good time! 
 
 ![](pycon-us-2026-recap-images/pyladies-auction-tim-tam-prize.jpg)
-Tim Tam Prize
+This Tim Tam prize brought a smile to my face. Russell Keith-Magee has brought a package of Tim Tams to DjangoCon US many times and taught other attendees how to do the Tim Tam Slam. 
 
 ![](pycon-us-2026-recap-images/pyladies-auction-outstanding-pyladies.jpg)
 Outstanding PyLadies Awardees! María José Molina-Contreras, Denny Perez, Fay Shaw, and Hwayoung Cha (not pictured)... these ladies are incredible. 
