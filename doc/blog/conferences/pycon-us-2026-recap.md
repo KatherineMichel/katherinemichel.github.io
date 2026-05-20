@@ -643,8 +643,10 @@ Lightning Talks (Pacific Ballroom - Arena)
 
 ### Marina and Beach
 
+I wanted to see more of the coast, which is a short walk from the Long Beach Convention Center. I walked along the marina, getting a good view of the Queen Mary and historic Lion Lighthouse (said to be the ugliest lighthouses in the world), then down to Alamitos Beach where sunlight glittered across the ocean.  
+
 ![](pycon-us-2026-recap-images/alamitos-beach.jpeg)
-Placeholder
+Alamitos Beach
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -662,7 +664,9 @@ Placeholder
 
 ### PyLadies Lunch
 
-At the PyLadies Lunch, women take turns taking the mic and sharing an accomplishment they are proud of from the past year. Although I've attended several times, I've never gotten up to speak. My friend Mariatta came over to me and encouraged me to do it. Mariatta is inspiration to me. I reflected for a couple of minutes, then got up and did it. 
+At the PyLadies Lunch, women take turns taking the mic and sharing accomplishments they are proud of from the past year. Although I've attended several times, I've never gotten up to speak. 
+
+My friend Mariatta came over to me and encouraged me to do it. Mariatta is inspiration to me. I reflected for a couple of minutes, then got up and did it. 
 
 As difficult as it can be to talk about ourselves, Mariatta explained later that we need to do it so that others know the things we have experience.
 
