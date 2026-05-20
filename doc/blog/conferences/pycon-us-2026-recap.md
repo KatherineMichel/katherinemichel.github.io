@@ -64,11 +64,11 @@ https://us.pycon.org/2026/schedule/talks/
 
 ### Sightseeing
 
-I took Thursday off for sightseeing. I decided to ride the 121 bus along the beach to Belmont Shore, explore the area, then eat at Nick's. 
+I took Thursday off for sightseeing. I decided to ride the 121 bus along the beach to Belmont Shore, explore the area, then eat at Nick's on Second. 
 
 When I attended PyCon US 2024, I started a tradition. I googled "best restaurant in Pittsburgh" and ate there. It was a wonderful restaurant called Fig & Ash. Now, I do this at every host city. 
 
-Nick's on Second was at or near the top of every list I saw and had rave reviews. I was hoping to eat some excellent fresh seafood, and Nick's filets fish in-house daily. 
+Nick's was at or near the top of every list I saw and had rave reviews. I was hoping to eat some excellent fresh seafood, and Nick's filets fish in-house daily. 
 
 ![](pycon-us-2026-recap-images/belmont-pier-view.jpg)
 The view from the Belmont Pier... Thursday was an overcast day, but the beaches were quiet and meditative. 
