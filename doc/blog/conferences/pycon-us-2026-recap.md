@@ -135,6 +135,16 @@ https://www.amazon.com/Linux-Dummies-9th-Richard-Blum/dp/0470467010
 
 ### Welcome
 
+Conference Chair Elaine Wong gave the conference welcome. 
+
+A few fun facts: 
+* New dedicated AI and Security tracks
+* First-time Spanish keynote
+* PyLadies turns 15
+* Python turns 35
+* Over 1000 proposals submitted to the CfP
+* Python 3.15.0 is in beta, and it's the most colorful Python yet
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### PSF Welcome
