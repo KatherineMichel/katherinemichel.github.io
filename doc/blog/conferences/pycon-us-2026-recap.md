@@ -702,7 +702,7 @@ https://realpython.com/python314-new-features/
 
 ### Ice Cream Selfie
 
-A massive crowd of people walked over to [Long Beach Creamery](https://www.longbeachcreamery.com/) for an ice cream selfie. 
+A massive crowd of attendees walked over to [Long Beach Creamery](https://www.longbeachcreamery.com/) for an ice cream selfie. 
 
 ![](pycon-us-2026-recap-images/long-beach-creamery-waffle-bowl.jpg)
 Waffle bowl with Whiskey Vanilla and Strawberry Mascarpone
