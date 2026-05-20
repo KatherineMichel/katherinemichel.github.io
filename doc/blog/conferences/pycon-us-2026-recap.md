@@ -662,11 +662,14 @@ Placeholder
 
 ### PyLadies Lunch
 
+
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Rachel Calhoun and Tim Schilling Keynote
 
 ![](pycon-us-2026-recap-images/me-paolo-and-mark.jpg)
+I sat at the front with Paolo who gave me some photography tips. Meanwhile, we met Mark Sapiro, GNU Mailman Release Manager and Maintainer. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
