@@ -34,6 +34,7 @@ Table of Contents
     - [Rachel Calhoun and Tim Schilling Keynote](#rachel-calhoun-and-tim-schilling-keynote)
     - [Steering Council Panel](#steering-council-panel)
     - [Python Software Foundation Update](#python-software-foundation-update)
+    - [Black Python Devs Leadership Summit](#black-python-devs-leadership-summit)
     - [Ice Cream Selfie](#ice-cream-selfie)
     - [RevSys After Party](#revsys-after-party)
     - [L'Opera](#lopera)
@@ -716,9 +717,19 @@ https://realpython.com/python314-new-features/
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+### Black Python Devs Leadership Summit
+
+After receiving a much-deserved Community Service Award for his "service to the global Python in improving the community's diversity, inclusion, and equity through founding and sustaining Black Python Devs," K. Jay Miller announced the [Black Python Devs Leadership Summit](https://www.pyohio.org/2026/program/black-python-devs-leadership-summit/) happening the day before PyOhio. 
+
+For those who cannot attend in person, the event will be livestreamed on the [Black Python Devs YouTube Channel](https://www.youtube.com/@blackpythondevs). 
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
 ### Ice Cream Selfie
 
 A massive crowd of attendees walked over to [Long Beach Creamery](https://www.longbeachcreamery.com/) for an ice cream selfie. 
+
+Check out Mariatta's [video of the event](https://www.linkedin.com/posts/mariatta_icecreamselfie-pyconus-activity-7462130532575911937-oper?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOxk18BcgN6WcUZfIqPuO1XxHylxwxaOJ4). 
 
 ![](pycon-us-2026-recap-images/long-beach-creamery-waffle-bowl.jpg)
 Waffle bowl with Strawberry Mascarpone and Whiskey Vanilla... so yummy!
