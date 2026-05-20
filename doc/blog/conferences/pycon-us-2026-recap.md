@@ -740,15 +740,16 @@ For those who cannot attend in person, the event will be livestreamed on the [Bl
 
 A massive crowd of attendees walked over to [Long Beach Creamery](https://www.longbeachcreamery.com/) for an ice cream selfie. 
 
+Fun fact... it was Mariatta's 41st ice cream selfie over 10 years of public speaking (40+ conferences!)
+
+Grateful to have celebrated it with her. 
+
+On the other end of the spectrum, I encouraged an attendee to give his first conference talk and connected with a group of PyBeach organizers in the process. PyBeach is on my bucket list. 
+
 Check out Mariatta's [video of the event](https://www.linkedin.com/posts/mariatta_icecreamselfie-pyconus-activity-7462130532575911937-oper?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOxk18BcgN6WcUZfIqPuO1XxHylxwxaOJ4). 
 
 ![](pycon-us-2026-recap-images/long-beach-creamery-waffle-bowl.jpg)
 Waffle bowl with Strawberry Mascarpone and Whiskey Vanilla... so yummy!
-
-<!--
-Helped identify a talk and encourage 
-PyBeach, on my bucket list
--->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
