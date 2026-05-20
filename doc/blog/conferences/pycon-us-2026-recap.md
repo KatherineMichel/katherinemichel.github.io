@@ -139,6 +139,21 @@ https://www.amazon.com/Linux-Dummies-9th-Richard-Blum/dp/0470467010
 
 ### PSF Welcome
 
+Deb Nicholson gave the PSF Welcome
+
+You are a part of the Python community if you:
+* Volunteer
+* Contribute patches, bug reports, libraries
+* Donate to the PSF
+* Get your company to donate
+* Help others learn Python
+* Make newcomers feel welcome
+
+<!--
+Note to Self
+* A good way to identify a lightning talk subject: tell me something that's interesting to you
+-->
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Lin Qiao Keynote
