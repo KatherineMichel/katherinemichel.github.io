@@ -18,6 +18,7 @@ Table of Contents
 - [Friday](#friday)
     - [Welcome](#welcome)
     - [PSF Welcome](#psf-welcome)
+    - [Sponsor Moments](#sponsor-moments)
     - [Lin Qiao Keynote](#lin-qiao-keynote)
     - [Catch Up With Anthony](#catch-up-with-anthony)
 - [Saturday](#saturday)
@@ -159,18 +160,15 @@ You are a part of the Python community if you:
 * Help others learn Python
 * Make newcomers feel welcome
 
-<!--
-Note to Self
-* A good way to identify a lightning talk subject: tell me something that's interesting to you
--->
+A good way to identify a lightning talk subject: tell me something that's interesting to you
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Sponsor Moments
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Lin Qiao Keynote
-
-<!--
-Keynote — Lin Qiao (Pacific Ballroom - Arena)
--->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -430,6 +428,11 @@ Explain talk
 
 As usual, the PyLadies Auction was a roaring good time! 
 
+Stats
+* 39 items sold
+* $60,000 raised
+* Max bid: $4,000
+
 ![](pycon-us-2026-recap-images/pyladies-auction-tim-tam-prize.jpg)
 This Tim Tam Collection prize brought a smile to my face. Russell Keith-Magee has brought a package of Tim Tams to DjangoCon US many times and taught other attendees how to do the Tim Tam Slam. 
 
@@ -440,6 +443,7 @@ Outstanding PyLadies Awardees! María José Molina-Contreras, Denny Perez, Fay S
 "It's time"... as Kojo's Python plushie was being auctioned, a pen was added to raise the bids. A sea of people walked up to the stage to add their stuff. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
 
 <!--
 Lightning Talks (Pacific Ballroom - Arena)/Coffee
