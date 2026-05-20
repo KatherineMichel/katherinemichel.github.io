@@ -103,12 +103,6 @@ A fantastic view of the Los Angeles River and Long Beach Shoreline Marina from a
 ![](pycon-us-2026-recap-images/queen-mary-me-at-the-helm.jpg)
 Me at a photo-op helm. The real one is much smaller and on display at the entrance to the engine room. 
 
-
-<!--
-Books program
-![](pycon-us-2026-recap-images/me-and-abigail.jpeg)
--->
-
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Opening Reception at the Expo Hall
@@ -683,6 +677,11 @@ My friend Mariatta came over to me and encouraged me to do it. Mariatta is an in
 As difficult as it can be to talk about ourselves, Mariatta explained later that we need to do it so that others know the things we have experienced.
 
 Thank you, Mariatta. 
+
+My friend Abigail started [Books for Techies program](https://www.linkedin.com/posts/abigail-mesrenyame-dogbe_booksfortechies-pyconus-share-7454935701198073856-9hfZ/). She shared that Amanda Casari helped her get the initiative off the ground. PyCon US attendees can drop off tech books and flashcards and Abigail will distribute them to kids learning how to code and junior developers in Africa. 
+
+![](pycon-us-2026-recap-images/me-and-abigail.jpeg)
+Me and Abigail
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
