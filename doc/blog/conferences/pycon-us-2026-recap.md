@@ -159,7 +159,10 @@ Keynote — Lin Qiao (Pacific Ballroom - Arena)
 
 ### Catch Up With Anthony
 
+When I attended GitHub Universe in 2019, I randomly sat at a table with two strangers who turned out to be Anthony Sottile and Sarah Drasner. 
+
 ![](pycon-us-2026-recap-images/me-and-anthony.jpg)
+Me and Anthony, reunited again :) 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -398,9 +401,16 @@ Lightning Talks (Pacific Ballroom - Arena)
 
 ### PyLadies Auction
 
+As usual, the PyLadies Auction was a roaring good time! 
+
 ![](pycon-us-2026-recap-images/pyladies-auction-tim-tam-prize.jpg)
+Tim Tam Prize
+
 ![](pycon-us-2026-recap-images/pyladies-auction-outstanding-pyladies.jpg)
+Outstanding PyLadies Awardees! These ladies are incredible. 
+
 ![](pycon-us-2026-recap-images/pyladies-auction-its-time.jpg)
+"It's time"... as Kojo's Python plushie was being auctioned, a pen was added to raise the bids. A sea of people walked up to the stage to add their stuff. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -643,7 +653,7 @@ Lightning Talks (Pacific Ballroom - Arena)
 
 ### Marina and Beach
 
-I wanted to see more of the coast, which is a short walk from the Long Beach Convention Center. I walked along the marina, getting a good view of the Queen Mary and historic Lion Lighthouse (said to be the ugliest lighthouses in the world), then down to Alamitos Beach where sunlight glittered across the ocean.  
+I wanted to see more of the coast, which is a short walk from the Long Beach Convention Center. I walked along the marina, getting a good view of the Queen Mary and historic Lion Lighthouse (said to be one of the ugliest lighthouses in the world), then down to Alamitos Beach where sunlight glittered across the ocean. Can't wait to explore more of this beach. 
 
 ![](pycon-us-2026-recap-images/alamitos-beach.jpeg)
 Alamitos Beach
@@ -705,9 +715,10 @@ https://realpython.com/python314-new-features/
 A massive crowd of attendees walked over to [Long Beach Creamery](https://www.longbeachcreamery.com/) for an ice cream selfie. 
 
 ![](pycon-us-2026-recap-images/long-beach-creamery-waffle-bowl.jpg)
-Waffle bowl with Whiskey Vanilla and Strawberry Mascarpone
+Waffle bowl with Whiskey Vanilla and Strawberry Mascarpone... so yummy!
 
 <!--
+Helped identify a talk and encourage 
 PyBeach, on my bucket list
 -->
 
@@ -743,7 +754,12 @@ But, I love Italian food and the restaurant had great reviews. It did not disapp
 ![](pycon-us-2026-recap-images/lopera-lombrani.jpg)
 I had the Lombrani, one of their most popular dishes: homemade ravioli stuffed with red wine braised shortrib of beef and ricotta, gorgonzola, green pea and broccolini cream sauce. It was incredible. I want to go back next year! 
 
-As an added bonus, Paul Everitt saw me at the bar and invited me to join the JetBrains Team at their table for some fun conversation! 
+As an added bonus, Paul Everitt saw me at the bar and invited me to join the JetBrains Team at their table for some fun conversation! I made some new friends, too. 
+
+<!--
+Cult Repo
+Paul's talk at Andrew Ng's conference
+-->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
