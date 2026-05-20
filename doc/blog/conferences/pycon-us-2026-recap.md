@@ -76,7 +76,7 @@ The view from the Belmont Pier... Thursday was an overcast day, but the beaches 
 I decided to walk over to Naples Island and see what it was about. 
 
 ![](pycon-us-2026-recap-images/naples-island-alamitos-bay.jpg)
-Boats in the Alamitos Bay
+A view of boats in the Alamitos Bay while walking across the 2nd Street Bridge
 
 ![](pycon-us-2026-recap-images/naples-island-alley.jpg)
 On Naples Island, I discovered something I'd never seen before, luxury houses with small passages between them leading to boats docked along the Alamitos Bay. A homeowner assured me it was okay to walk down this charming passage. 
@@ -88,7 +88,10 @@ A gangway leading down to a semi-private dock. These homeowners are living the d
 Nick's was a short walk from Naples Island. This Chilean Sea Bass was absolutely delicious! It was exactly what I was hoping for. When I found out the very friendly bartender Garrett was originally from the Dallas Fortworth area, I had to know more about his story. He visited Long Beach and came back to live, because it was paradise for him. 
 
 ![](pycon-us-2026-recap-images/queen-mary-1930s-gps.jpg)
+
 ![](pycon-us-2026-recap-images/queen-mary-view-of-los-angeles-river-and-marina.jpg)
+A fantastic view of the Los Angeles River and Long Beach Shoreline Marina from a deck on the Queen Mary
+
 ![](pycon-us-2026-recap-images/queen-mary-me-at-the-helm.jpg)
 
 A gondola ride through Naples Island and visit to Seal Island could be on the itinerary for next year. 
