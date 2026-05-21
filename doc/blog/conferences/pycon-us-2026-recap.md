@@ -121,13 +121,13 @@ Program Members
 Working in infrastructure, I was keen to visit the Red Hat Booth. In addition to doing Python, Django, and React development, I am a RHEL Admin and Ansible playbook coder. 
 
 I chatted with Sam Doran, principal software engineer, Ansible Core Team Member, and Ansible Docs co-author to get some recommended learning resources "straight from the horse's mouth": 
+* Red Hat Certified Specialist (RHCS)
 * Red Hat Adanced Systems Troubleshooting article (I am looking for this, please send it to me, if you know of it)
 * [Ansible for DevOps](https://www.ansiblefordevops.com/)
+* [Ansible Docs](https://docs.ansible.com/)
 * [Linux for Dummies](https://www.amazon.com/Linux-Dummies-9th-Richard-Blum/dp/0470467010)
 
 <!---
-Ansible doc
-RHCS
 https://www.redhat.com/en/services/training-and-certification
 RHEL Lightspeed
 Portal with knowledge-based articles. CLI, backend. 
