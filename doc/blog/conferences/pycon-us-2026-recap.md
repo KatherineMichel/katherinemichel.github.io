@@ -429,9 +429,7 @@ PyCon US will not be moved outside of the US. Perhaps VIPs could receive funding
 
 PSF plans to diversity revenue so PyCon US is not the only revenue service. Service-based revenue arond PyPI is a future goal
 
-Downloads, packages, and accounts keeps going up. More malware will happen. PSF is setting up the tech side of the house up for more growth. 
-
-PSF is fundraising for short-term security and project management roles. 
+Downloads, packages, and accounts keeps going up. More malware will happen. PSF is setting up the tech side of the house up for more growth and is fundraising for short-term security and project management roles. 
 
 PSF launched "Community Partners Program" and reopened meetup support. 
 
