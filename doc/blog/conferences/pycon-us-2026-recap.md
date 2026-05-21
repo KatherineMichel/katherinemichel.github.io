@@ -478,7 +478,7 @@ Stats:
 This Tim Tam Collection prize brought a smile to my face. Russell Keith-Magee has brought a package of Tim Tams to DjangoCon US many times and taught other attendees how to do the Tim Tam Slam. 
 
 ![](pycon-us-2026-recap-images/pyladies-auction-outstanding-pyladies.jpg)
-Outstanding PyLadies Awardees! María José Molina-Contreras, Denny Perez, Fay Shaw, and Hwayoung Cha (not pictured)... these ladies are incredible. 
+Outstanding PyLadies Awardees! Lynn Root recognizing María José Molina-Contreras, Denny Perez, Fay Shaw, and Hwayoung Cha (not pictured)... these ladies are incredible. 
 
 ![](pycon-us-2026-recap-images/pyladies-auction-its-time.jpg)
 "It's time"... as Kojo's Python plushie was being auctioned, a pen was added to raise the bids. A sea of people walked up to the stage to add their stuff. 
