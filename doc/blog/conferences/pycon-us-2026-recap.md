@@ -744,6 +744,15 @@ https://realpython.com/python314-new-features/
 
 ### Python Software Foundation Update
 
+Fun facts:
+* 2003 attendees
+* 57.2% first-time attendees
+* 151 onsite volunteers
+* 148 presenters (keynotes, speakers, tutorials, posters)
+* 135 open spaces
+* First check-in: May 13 at 7:32:27 PT
+* Last t-shirt sold: 31 minutes after the fire sale
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Black Python Devs Leadership Summit
