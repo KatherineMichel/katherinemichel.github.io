@@ -791,18 +791,21 @@ Core Team sprints:
 * 2025: [hosted in Cambridge by ARM](https://developer.arm.com/community/arm-community-blogs/b/tools-software-ides-blog/posts/cpython-core-dev-sprint-2025-at-arm-cambridge-the-biggest-one-yet)
 * 2026: will be hosted in San Francisco by OpenAI
   
-[What's New in Python 3.15](https://docs.python.org/3.15/whatsnew/3.15.html)
-
-Major features:
+Python 3.15 major features:
 * Lazy imports
 * frozendict
 * All the colors
 * Tachyon profiler
 
-Q&A:
-* Core Team use case does not necessarily extend to packaging. The Packaging Council will have the domain expertise needed to solve tough packaging problems.
+[What's New in Python 3.15](https://docs.python.org/3.15/whatsnew/3.15.html)
+
+Packaging Council: the Core Team use case does not necessarily extend to packaging. The Packaging Council will have the domain expertise needed to solve tough packaging problems.
+
+Making free-threading the default: [PEP 779](https://peps.python.org/pep-0779/) included conditions for next step. Performance, memory usage, documentation, API, library migration status matter. Although the process is going well, more real world experience with free-threading is needed. Maintainers of major packages, especially if building C extensions, should test on standard and free-threading builds and give feedback. This will help the Steering Council and Core Team decide when to safely switch to free-threading by default. In his talk about free-threading, Thomas Wouters predicts it will be after 3.16 and before 3.20.
 
 <!--
+Thomas had a talk on free-threading
+
 https://lwn.net/Articles/1039612/
 https://pyfound.blogspot.com/2025/10/cpython-core-dev-sprint-2025-at-arm.html
 
