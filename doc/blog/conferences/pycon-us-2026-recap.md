@@ -449,7 +449,7 @@ An annual impact report and PSF budget are on the way by end of June.
 
 ### Simon Willison Lightning Talk
 
-During the PSF Members Luncheon, Simon was sitting at my table working on a North Virginia Opossum on an E-scooter for his lightning talk "[The last six months in LLMs in five minutes](https://simonwillison.net/2026/May/19/5-minute-llms/)."
+During the PSF Members Luncheon, Simon was sitting at my table using GLM-5.1 AI model to generate a North Virginia Opossum on an E-scooter for his lightning talk "[The last six months in LLMs in five minutes](https://simonwillison.net/2026/May/19/5-minute-llms/)."
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -821,7 +821,7 @@ PyCon US 2026 fun facts:
 * First check-in: May 13 at 7:32:27 PT
 * Last t-shirt sold: 31 minutes after the fire sale
 
-Elaine passed the Conference Chair baton to Jon Banafato. 
+Elaine passed the Conference Chair baton to 2027 Chair Jon Banafato. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -841,7 +841,7 @@ A massive crowd of attendees walked over to [Long Beach Creamery](https://www.lo
 
 It was Mariatta's 41st ice cream selfie over 10 years of public speaking (40+ conferences!). It was an honor to celebrate it with her. 
 
-On the other end of the spectrum, I encouraged an attendee to give his first conference talk and connected with a group of PyBeach organizers in the process. PyBeach is on my bucket list. 
+On the other end of the spectrum, I encouraged an attendee to give his first conference talk and connected with a group of [PyBeach](https://2026.pybeach.org/) organizers in the process. PyBeach is on my bucket list. 
 
 Check out Mariatta's [video of the event](https://www.linkedin.com/posts/mariatta_icecreamselfie-pyconus-activity-7462130532575911937-oper?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOxk18BcgN6WcUZfIqPuO1XxHylxwxaOJ4). 
 
