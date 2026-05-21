@@ -799,7 +799,7 @@ PSF mission: "To promote, protect and advance the Python programming language, a
 
 Last year, the PSF was on the cusp of receiving a non-trivial $1.5 million NSF grant for CPython and PyPI security work. The PSF Board voted unanimously against taking the money due to an ambiguous "no DEI" requirement and [the proposal was withdrawn](https://discuss.python.org/t/the-psf-has-withdrawn-a-1-5-million-proposal-to-us-government-grant-program/104620).  
 
-The community came through with a huge outpouring of support that resulted in a year-end fundraising record $590,591 raised from 5561 donors. 
+The community came through with a huge outpouring of support that resulted in a year-end fundraising record of $590,591 raised from 5561 donors. 
 
 Places to find community after PyCon US: 
 * Python Discord
