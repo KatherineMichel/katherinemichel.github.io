@@ -787,9 +787,10 @@ I sat at the front with Paolo who gave me some photography tips. Meanwhile, we m
 
 The Steering Council members are Barry Warsaw, Donghee Na, Pablo Galindo Salgado, Savannah Ostrowski, and Thomas Wouters. 
 
-Important points:
-* Core Team use case does not necessarily extend to packaging. The Packaging Council will have the domain expertise needed to solve tough packaging problems.
-
+Core Team sprints:
+* 2025: [hosted in Cambridge by ARM](https://developer.arm.com/community/arm-community-blogs/b/tools-software-ides-blog/posts/cpython-core-dev-sprint-2025-at-arm-cambridge-the-biggest-one-yet)
+* 2026: will be hosted in San Francisco by OpenAI
+  
 [What's New in Python 3.15](https://docs.python.org/3.15/whatsnew/3.15.html)
 
 Major features:
@@ -798,7 +799,13 @@ Major features:
 * All the colors
 * Tachyon profiler
 
+Q&A:
+* Core Team use case does not necessarily extend to packaging. The Packaging Council will have the domain expertise needed to solve tough packaging problems.
+
 <!--
+https://lwn.net/Articles/1039612/
+https://pyfound.blogspot.com/2025/10/cpython-core-dev-sprint-2025-at-arm.html
+
 https://thenewstack.io/python-whats-coming-in-2026/
 https://peps.python.org/pep-0790/
 https://peps.python.org/pep-0745/
