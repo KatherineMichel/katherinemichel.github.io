@@ -153,7 +153,7 @@ PyCon US 2026 fun facts:
 
 ### PSF Welcome
 
-PSF Executive Director Deb Nicholson gave the PSF Welcome
+PSF Executive Director Deb Nicholson gave the PSF Welcome.
 
 You are a part of the Python community if you:
 * Volunteer
