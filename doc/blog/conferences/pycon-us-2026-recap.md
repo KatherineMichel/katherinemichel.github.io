@@ -454,7 +454,7 @@ Simon's talk
 
 ### Ned Batchelder Lightning Talk
 
-Ned Batchelder did a moving lightning talk adapting Eric Holscher's Conference [Pacman Rule](https://www.ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/) from space to time.
+Ned Batchelder gave a moving lightning talk adapting Eric Holscher's Conference [Pacman Rule](https://www.ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/) from space to time.
 
 ![](pycon-us-2026-recap-images/lightning-talk-ned-space-and-time.jpg)
 
