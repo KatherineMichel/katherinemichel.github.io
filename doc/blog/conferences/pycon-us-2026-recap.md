@@ -5,7 +5,7 @@ location: Long Beach California
 category: Conferences
 tags: python, django, pycon, community, networking, talks, travel
 ---
-
+ 
 # PyCon US 2026 Recap
 
 Table of Contents
@@ -418,7 +418,7 @@ PyCon US is a huge part of the PSF's revenue. PyCon US is expensive and struggli
 
 Food and beveraged increased from $400k in Salt Lake City to $500k in Pittsburgh to $600k in Long Beach. As the cost of events goes up, either expenses can be cut or ticket price can be increased. 
 
-It has become less appealing to visit the US. PyCon US would normally expect 500-700 more attendees. International attendees tend to plan earlier. Nationals tend to plan last minute. Hotel bookings were a struggle. PSF was able to get a $250,000 penalty down to $150,000. 
+It has become less appealing to visit the US. PyCon US would normally expect 500-700 more attendees. International attendees tend to plan earlier. Nationals tend to plan last minute. PSF was able to get a hotel bookings penalty from $250,000 down to $150,000. 
 
 PyCon US will not be moved outside of the US. Perhaps VIPs could receive funding to make other events feel first class.  
 
