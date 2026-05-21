@@ -999,6 +999,6 @@ He also told me Phoenix is a major "supply" hub, meaning they could find an extr
 
 The conference returns to Long Beach May 12-18, 2027. Thank you to everyone who made it special.
 
-I can't wait for next year!
+See you next year!
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
