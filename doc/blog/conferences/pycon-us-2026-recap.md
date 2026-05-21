@@ -794,7 +794,7 @@ Python 3.15 major features:
 
 [What's New in Python 3.15](https://docs.python.org/3.15/whatsnew/3.15.html)
 
-Steering Council thoughts during Q&A
+Steering Council thoughts during Q&A:
 
 Packaging Council: the Core Team use case does not necessarily extend to packaging. The Packaging Council will have the domain expertise needed to solve tough packaging problems.
 
