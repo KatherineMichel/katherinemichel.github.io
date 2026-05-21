@@ -864,7 +864,7 @@ It was Mariatta's 41st ice cream selfie over 10 years of public speaking (40+ co
 
 On the other end of the spectrum, I encouraged an attendee to give his first conference talk and connected with a group of [PyBeach](https://2026.pybeach.org/) organizers in the process. PyBeach is on my bucket list. 
 
-Check out Mariatta's [ice cream selfie](https://www.linkedin.com/posts/mariatta_icecreamselfie-pyconus-activity-7462130532575911937-oper?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOxk18BcgN6WcUZfIqPuO1XxHylxwxaOJ4). 
+Check out Mariatta's [ice cream selfie video](https://www.linkedin.com/posts/mariatta_icecreamselfie-pyconus-activity-7462130532575911937-oper?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOxk18BcgN6WcUZfIqPuO1XxHylxwxaOJ4). 
 
 ![](pycon-us-2026-recap-images/long-beach-creamery-waffle-bowl.jpg)
 Waffle bowl with Strawberry Mascarpone and Whiskey Vanilla... so yummy!
