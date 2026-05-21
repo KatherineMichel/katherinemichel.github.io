@@ -411,6 +411,55 @@ Lightning Talks (Pacific Ballroom - Arena)
 
 ### PSF Members Luncheon
 
+PSF is fundraising for short-term security and project management roles. 
+
+Downloads, packages, and accounts keeps going up. More malware will happen. 
+
+PSF is setting up the tech side of the house up for more growth. 
+
+PSF launched "Community Partners Program" and reopened meetup support. 
+
+Grant application decision times have been reduced. The process was made less confusing, because applicants with non-profit experience got faster responses, creating inequality. 
+
+Year-end fundraising went well with a record number of donors and donation amount: $590,591 from 5561 donors. 
+
+Packaging Council was approved by all parties. It is an open field, with no incumbents running The election will be at the same time as the PSF Board Election. 
+
+It has become less appealing to visit the US. PyCon US would normally expect 500-700 more attendees. International attendees tend to plan earlier. National tend to plan last minute.
+
+Hotel bookings were a struggle. PSF was able to get a $250,000 penalty down to $150,000. 
+
+DjangoCon US Opportunity Grants budget was cut in half. 
+
+PSF increased its grants budget from $300k to $450k to $600k, then paused it in 2025. It could re-open in Q4, providing a percentage of requested money. 
+
+PyCon US will not be moved outside of the US. Perhaps VIPs could receive funding to make other events feel first class.  
+
+The [Python Language Summit](https://ep2026.europython.eu/language-summit/) will take place at EuroPython this year. 
+
+PSF high-level health is good, but reconfiguring is going on. 
+
+Food and beveraged increased from $400k in Salt Lake City to $500k in Pittsburgh to $600k in Long Beach. 
+
+As the cost of events goes up, either expenses can be cut or ticket price can be increased. 
+
+PyCon US is a huge part of the PSF's revenue.
+* PyCon US is expensive and struggling
+* PSF plans to diversity revenue so PyCon US is not the only revenue service
+* Service-based revenue arond PyPI is a future goal
+
+Deb would like to coordinate better with the DSF. 
+
+An annual impact report and PSF budget are on the way by end of June. 
+
+PSF Office Hours will happen Tuesday, June 9 from 5-6 pm ET. 
+
+<!--
+https://pyfound.blogspot.com/2026/05/strategic-planning-at-psf.html?m=1
+
+Simon's talk
+-->
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Ned Batchelder Lightning Talk
@@ -745,6 +794,8 @@ https://realpython.com/python314-new-features/
 
 ### Python Software Foundation Update
 
+PSF mission: "To promote, protect and advance the Python programming language, and to support and facilitate the growth of a diverse and international community of Python programmers."
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Closing
@@ -758,7 +809,11 @@ Fun facts:
 * First check-in: May 13 at 7:32:27 PT
 * Last t-shirt sold: 31 minutes after the fire sale
 
-Elaine passed the Conference Chair baton to Jon Banafato. 
+Elaine passed the Conference Chair baton to Jon Banafato. The conference returns to Long Beach next year. 
+
+<!--
+Dates
+-->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
