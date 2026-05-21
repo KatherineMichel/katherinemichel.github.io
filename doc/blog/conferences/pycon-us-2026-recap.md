@@ -441,17 +441,15 @@ Packaging Council was approved by all parties. It is an open field, with no incu
 
 Deb would like to coordinate better with the DSF. 
 
+The PSF recently published a [draft strategic plan](https://pyfound.blogspot.com/2026/05/strategic-planning-at-psf.html) to guide the foundation in allocating budget, staff time, and fundraising efforts over the next five years. The community is asked to participate. 
+
 An annual impact report and PSF budget are on the way by end of June. 
-
-PSF Office Hours will happen Tuesday, June 9 from 5-6 pm ET. 
-
-<!--
-https://pyfound.blogspot.com/2026/05/strategic-planning-at-psf.html?m=1
--->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Simon Willison Lightning Talk
+
+During the PSF Members Luncheon, Simon was sitting at my table working on a North Virginia Opossum on an E-scooter for his lightning talk "[The last six months in LLMs in five minutes](https://simonwillison.net/2026/May/19/5-minute-llms/)."
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
