@@ -107,7 +107,7 @@ After Nick's, I was able to make it to the [Queen Mary](https://www.queenmary.co
 A fantastic view of the Los Angeles River and Long Beach Shoreline Marina from a deck on the Queen Mary
 
 ![](pycon-us-2026-recap-images/queen-mary-me-at-the-helm.jpg)
-Me at a photo-op helm. The real one is much smaller and on display at the entrance to the engine room. 
+Me at a photo-op helm. The real ones are much smaller and on display at the bridge. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
