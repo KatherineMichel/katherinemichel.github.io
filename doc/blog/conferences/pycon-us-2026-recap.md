@@ -422,8 +422,6 @@ PSF launched "Community Partners Program" and reopened meetup support.
 
 Grant application decision times have been reduced. The process was made less confusing, because applicants with non-profit experience got faster responses, creating inequality. 
 
-Year-end fundraising went well with a record number of donors and donation amount: $590,591 from 5561 donors. 
-
 Packaging Council was approved by all parties. It is an open field, with no incumbents running The election will be at the same time as the PSF Board Election. 
 
 It has become less appealing to visit the US. PyCon US would normally expect 500-700 more attendees. International attendees tend to plan earlier. National tend to plan last minute.
@@ -808,6 +806,10 @@ https://realpython.com/python314-new-features/
 
 PSF mission: "To promote, protect and advance the Python programming language, and to support and facilitate the growth of a diverse and international community of Python programmers."
 
+Last year, the PSF was on the cusp of receiving a non-trivial $1.5 million NSF grant for CPython and PyPI security work. The PSF Board voted unanimously against taking the money due to an ambiguous "no DEI" requirement.  
+
+The community came through with a huge outpouring of support that resulted in a record $590,591 raised from 5561 donors. 
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Closing
@@ -827,7 +829,9 @@ Elaine passed the Conference Chair baton to Jon Banafato. The conference returns
 
 ### Black Python Devs Leadership Summit
 
-After receiving a much-deserved Community Service Award for his "service to the global Python in improving the community's diversity, inclusion, and equity through founding and sustaining Black Python Devs," K. Jay Miller announced the [Black Python Devs Leadership Summit](https://www.pyohio.org/2026/program/black-python-devs-leadership-summit/) happening the day before PyOhio at the same venue. 
+K. Jay Miller receiving a much-deserved Community Service Award for his "service to the global Python in improving the community's diversity, inclusion, and equity through founding and sustaining Black Python Devs." 
+
+He announced the [Black Python Devs Leadership Summit](https://www.pyohio.org/2026/program/black-python-devs-leadership-summit/) happening the day before PyOhio at the same venue. 
 
 For those who cannot attend in person, the event will be livestreamed on the [Black Python Devs YouTube Channel](https://www.youtube.com/@blackpythondevs). 
 
