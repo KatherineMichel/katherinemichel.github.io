@@ -801,9 +801,15 @@ Python 3.15 major features:
 
 Packaging Council: the Core Team use case does not necessarily extend to packaging. The Packaging Council will have the domain expertise needed to solve tough packaging problems.
 
-Making free-threading the default: [PEP 779](https://peps.python.org/pep-0779/) included conditions for next step. Performance, memory usage, documentation, API, library migration status matter. Although the process is going well, more real world experience with free-threading is needed. Maintainers of major packages, especially if building C extensions, should test on standard and free-threading builds and give feedback. This will help the Steering Council and Core Team decide when to safely switch to free-threading by default. In his talk about free-threading, Thomas Wouters predicts it will be after 3.16 and before 3.20.
+Making free-threading the default: [PEP 779](https://peps.python.org/pep-0779/) includes the conditions. Performance, memory usage, documentation, API, library migration status matter. Although the process is going well, more real world experience with free-threading is needed. Maintainers of major packages, especially if building C extensions, should test on standard and free-threading builds and give feedback. This will help the Steering Council and Core Team decide when to safely switch to free-threading by default. In his talk about free-threading, Thomas Wouters predicts it will be after 3.16 and before 3.20.
+
+Versioning: after Python 3, a switch to year-based calendar versioning could happen
 
 <!--
+(sidenote: former Django Fellow Carlton Gibson [has proposed this for Django](https://buttondown.com/carlton/archive/an-annual-release-cycle-for-django/) as well)
+https://peps.python.org/pep-0602/
+https://devguide.python.org/versions/
+
 Thomas had a talk on free-threading
 
 https://lwn.net/Articles/1039612/
