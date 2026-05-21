@@ -106,9 +106,6 @@ After Nick's, I was able to make it to the [Queen Mary](https://www.queenmary.co
 ![](pycon-us-2026-recap-images/queen-mary-view-of-los-angeles-river-and-marina.jpg)
 A fantastic view of the Los Angeles River and Long Beach Shoreline Marina from a deck on the Queen Mary
 
-![](pycon-us-2026-recap-images/queen-mary-me-at-the-helm.jpg)
-Me at a photo-op helm. The real ones are much smaller and on display at the bridge. 
-
 <!--
 Philip 
 Program Members
@@ -1020,5 +1017,8 @@ He also told me Phoenix is a major "supply" hub, meaning they could find an extr
 The conference returns to Long Beach May 12-18, 2027. Thank you to everyone who made it special.
 
 See you next year!
+
+![](pycon-us-2026-recap-images/queen-mary-me-at-the-helm.jpg)
+Me at a photo-op helm on the Queen Mary 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
