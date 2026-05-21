@@ -35,6 +35,7 @@ Table of Contents
     - [Rachel Calhoun and Tim Schilling Keynote](#rachel-calhoun-and-tim-schilling-keynote)
     - [Steering Council Panel](#steering-council-panel)
     - [Python Software Foundation Update](#python-software-foundation-update)
+    - [Closing](#closing)
     - [Black Python Devs Leadership Summit](#black-python-devs-leadership-summit)
     - [Ice Cream Selfie](#ice-cream-selfie)
     - [RevSys After Party](#revsys-after-party)
@@ -744,6 +745,10 @@ https://realpython.com/python314-new-features/
 
 ### Python Software Foundation Update
 
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Closing
+
 Fun facts:
 * 2003 attendees
 * 57.2% first-time attendees
@@ -752,6 +757,8 @@ Fun facts:
 * 135 open spaces
 * First check-in: May 13 at 7:32:27 PT
 * Last t-shirt sold: 31 minutes after the fire sale
+
+Elaine passed the Conference Chair baton to Jon Banafato. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
