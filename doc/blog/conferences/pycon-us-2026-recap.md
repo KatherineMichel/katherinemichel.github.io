@@ -413,7 +413,7 @@ Lightning Talks (Pacific Ballroom - Arena)
 
 ### PSF Members Luncheon
 
-PSF high-level health is good, but reconfiguring is going on. 
+At a high-level, PSF health is good, but reconfiguring is going on. 
 
 PyCon US is a huge part of the PSF's revenue. PyCon US is expensive and struggling. 
 
