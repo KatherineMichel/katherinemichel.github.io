@@ -412,48 +412,39 @@ Lightning Talks (Pacific Ballroom - Arena)
 
 ### PSF Members Luncheon
 
-PSF is fundraising for short-term security and project management roles. 
+PSF high-level health is good, but reconfiguring is going on. 
 
-Downloads, packages, and accounts keeps going up. More malware will happen. 
+PyCon US is a huge part of the PSF's revenue. PyCon US is expensive and struggling. 
 
-PSF is setting up the tech side of the house up for more growth. 
+Food and beveraged increased from $400k in Salt Lake City to $500k in Pittsburgh to $600k in Long Beach. As the cost of events goes up, either expenses can be cut or ticket price can be increased. 
 
-PSF launched "Community Partners Program" and reopened meetup support. 
-
-Grant application decision times have been reduced. The process was made less confusing, because applicants with non-profit experience got faster responses, creating inequality. 
-
-Packaging Council was approved by all parties. It is an open field, with no incumbents running The election will be at the same time as the PSF Board Election. 
-
-It has become less appealing to visit the US. PyCon US would normally expect 500-700 more attendees. International attendees tend to plan earlier. National tend to plan last minute.
-
-Hotel bookings were a struggle. PSF was able to get a $250,000 penalty down to $150,000. 
-
-DjangoCon US Opportunity Grants budget was cut in half. 
-
-PSF increased its grants budget from $300k to $450k to $600k, then paused it in 2025. It could re-open in Q4, providing a percentage of requested money. 
+It has become less appealing to visit the US. PyCon US would normally expect 500-700 more attendees. International attendees tend to plan earlier. Nationals tend to plan last minute. Hotel bookings were a struggle. PSF was able to get a $250,000 penalty down to $150,000. 
 
 PyCon US will not be moved outside of the US. Perhaps VIPs could receive funding to make other events feel first class.  
 
 The [Python Language Summit](https://ep2026.europython.eu/language-summit/) will take place at EuroPython this year. 
 
-PSF high-level health is good, but reconfiguring is going on. 
+PSF plans to diversity revenue so PyCon US is not the only revenue service. Service-based revenue arond PyPI is a future goal
 
-Food and beveraged increased from $400k in Salt Lake City to $500k in Pittsburgh to $600k in Long Beach. 
+Downloads, packages, and accounts keeps going up. More malware will happen. PSF is setting up the tech side of the house up for more growth. 
 
-As the cost of events goes up, either expenses can be cut or ticket price can be increased. 
+PSF is fundraising for short-term security and project management roles. 
 
-PyCon US is a huge part of the PSF's revenue.
-* PyCon US is expensive and struggling
-* PSF plans to diversity revenue so PyCon US is not the only revenue service
-* Service-based revenue arond PyPI is a future goal
+PSF launched "Community Partners Program" and reopened meetup support. 
+
+DjangoCon US Opportunity Grants budget was cut in half. PSF increased its grants budget from $300k to $450k to $600k, then paused it in 2025. It could re-open in Q4, providing a percentage of requested money. 
+
+Grant application decision times have been reduced. The process was made less confusing, because applicants with non-profit experience got faster responses, creating inequality. 
+
+Packaging Council was approved by all parties. It is an open field, with no incumbents running The election will be at the same time as the PSF Board Election. 
 
 Deb would like to coordinate better with the DSF. 
 
 An annual impact report and PSF budget are on the way by end of June. 
 
+<!--
 PSF Office Hours will happen Tuesday, June 9 from 5-6 pm ET. 
 
-<!--
 https://pyfound.blogspot.com/2026/05/strategic-planning-at-psf.html?m=1
 
 Simon's talk
@@ -806,9 +797,15 @@ https://realpython.com/python314-new-features/
 
 PSF mission: "To promote, protect and advance the Python programming language, and to support and facilitate the growth of a diverse and international community of Python programmers."
 
-Last year, the PSF was on the cusp of receiving a non-trivial $1.5 million NSF grant for CPython and PyPI security work. The PSF Board voted unanimously against taking the money due to an ambiguous "no DEI" requirement.  
+Last year, the PSF was on the cusp of receiving a non-trivial $1.5 million NSF grant for CPython and PyPI security work. The PSF Board voted unanimously against taking the money due to an ambiguous "no DEI" requirement and [the proposal as withdrawn](https://discuss.python.org/t/the-psf-has-withdrawn-a-1-5-million-proposal-to-us-government-grant-program/104620).  
 
-The community came through with a huge outpouring of support that resulted in a record $590,591 raised from 5561 donors. 
+The community came through with a huge outpouring of support that resulted in a year-end fundraising record $590,591 raised from 5561 donors. 
+
+Places to find community after PyCon US: 
+* Python Discord
+* Python Discord en Español
+* Your local Python meetup, PyLadies meetup, or PyData meetup
+* [PSF Events Page](https://www.python.org/events/)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -892,7 +889,9 @@ As an added bonus, Paul Everitt saw me at the bar and invited me to join the Jet
 
 <!--
 Cult Repo
+https://www.youtube.com/watch?v=GfH4QL4VqJ0
 Paul's talk at Andrew Ng's conference
+https://www.youtube.com/@Deeplearningai/videos
 -->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
