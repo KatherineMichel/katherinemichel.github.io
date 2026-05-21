@@ -90,7 +90,7 @@ A view of boats in the Alamitos Bay while walking across the 2nd Street Bridge
 On Naples Island, I discovered something I'd never seen before, luxury houses with small passages between them leading to boats docked along the Alamitos Bay. A homeowner assured me it was okay to walk down this charming passage. 
 
 ![](pycon-us-2026-recap-images/naples-island-gangway.jpg)
-A gangway leading down to a semi-private dock. These homeowners are living the dream! 
+A gangway leading down to a semi-private dock. 
 
 A gondola ride through Naples Island and visit to nearby [Seal Island](https://en.wikipedia.org/wiki/Seal_Beach,_California) could be on the itinerary for next year. 
 
@@ -100,6 +100,7 @@ Nick's was a short walk from Naples Island. This Chilean Sea Bass was absolutely
 After Nick's, I was able to make it to the [Queen Mary](https://www.queenmary.com/) in time for the 1:15 pm Glory Days Tour, recommended by a friend. 
 
 <!--
+These homeowners are living the dream! 
 ![](pycon-us-2026-recap-images/queen-mary-1930s-gps.jpg)
 -->
 
