@@ -741,14 +741,13 @@ Alamitos Beach
 
 ### Chatting with Emma
 
-I joined the very long swag fire sale line. Fortunately, Emma happened to be behind me. I used the opportunity to learn more about her experience contributing to CPython and becoming a CPython Core Dev. 
+I joined the very long swag fire sale line. Fortunately, Emma happened to be behind me. I used the opportunity to learn more about her experience contributing to CPython and becoming a CPython Core Dev. I was reminded of Savannah Ostrowski's EuroPython 2025 keynote "[You don’t have to be a compiler engineer to work on Python.](https://www.youtube.com/watch?v=WGXXxGLBVF4)" 
 
 Emma generously offered to mentor me to contribute to CPython. 
 
 <!--
-Python is main language, Rust and C, too
-Savannah
 https://lwn.net/Articles/1030821/
+Python is main language, Rust and C, too
 Dragon book
 Internals book
 -->
@@ -911,9 +910,9 @@ I had the Lombrani, one of their most popular dishes: homemade ravioli stuffed w
 
 As an added bonus, Paul Everitt saw me at the bar and invited me to join the JetBrains Team at their table for some fun conversation! I made some new friends, too. 
 
+Paul was an early Python user featured in the Cult Repo [Python documentary](https://www.youtube.com/watch?v=GfH4QL4VqJ0). 
+
 <!--
-Cult Repo
-https://www.youtube.com/watch?v=GfH4QL4VqJ0
 Paul's talk at Andrew Ng's conference
 https://www.youtube.com/@Deeplearningai/videos
 -->
