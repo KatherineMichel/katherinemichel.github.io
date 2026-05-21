@@ -821,11 +821,7 @@ Fun facts:
 * First check-in: May 13 at 7:32:27 PT
 * Last t-shirt sold: 31 minutes after the fire sale
 
-Elaine passed the Conference Chair baton to Jon Banafato. The conference returns to Long Beach next year. 
-
-<!--
-Dates
--->
+Elaine passed the Conference Chair baton to Jon Banafato. The conference returns to Long Beach next year, May 12-18, 2027. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
