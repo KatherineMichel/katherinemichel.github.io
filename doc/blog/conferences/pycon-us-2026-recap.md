@@ -141,7 +141,7 @@ https://www.amazon.com/Linux-Dummies-9th-Richard-Blum/dp/0470467010
 
 Conference Chair Elaine Wong gave the conference welcome. 
 
-A few fun facts: 
+PyCon US 2026 fun facts: 
 * New dedicated AI and Security tracks
 * First-time Spanish keynote
 * PyLadies turns 15
@@ -469,7 +469,7 @@ Explain talk
 
 As usual, the PyLadies Auction was a roaring good time! 
 
-Stats
+Stats:
 * 39 items sold
 * $60,000 raised
 * Max bid: $4,000
@@ -746,8 +746,12 @@ Alamitos Beach
 
 ### Chatting with Emma
 
+I joined the very long swag fire sale line. Fortunately, Emma happened to be behind me. I used the opportunity to learn more about her experience contributing to CPython and becoming a CPython Core Dev. 
+
 <!--
-Swag firesale
+Python is main language, Rust and C, too
+Savannah
+https://lwn.net/Articles/1030821/
 Dragon book
 Internals book
 Offer to be mentored
