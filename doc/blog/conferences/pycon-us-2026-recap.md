@@ -785,12 +785,22 @@ I sat at the front with Paolo who gave me some photography tips. Meanwhile, we m
 
 ### Steering Council Panel
 
-<!--
-Barry Warsaw, Donghee Na,  Pablo Galindo Salgado, Savannah Ostrowski, Thomas Wouters
+The Steering Council members are Barry Warsaw, Donghee Na, Pablo Galindo Salgado, Savannah Ostrowski, and Thomas Wouters. 
 
+Important points:
+* Core Team use case does not necessarily extend to packaging. The Packaging Council will have the domain expertise needed to solve tough packaging problems.
+
+[What's New in Python 3.15](https://docs.python.org/3.15/whatsnew/3.15.html)
+
+Major features:
+* Lazy imports
+* frozendict
+* All the colors
+* Tachyon profiler
+
+<!--
 https://thenewstack.io/python-whats-coming-in-2026/
 https://peps.python.org/pep-0790/
-https://docs.python.org/3.15/whatsnew/3.15.html
 https://peps.python.org/pep-0745/
 https://docs.python.org/3/whatsnew/3.14.html
 https://realpython.com/python314-new-features/
