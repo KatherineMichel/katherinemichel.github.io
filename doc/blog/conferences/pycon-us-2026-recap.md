@@ -31,6 +31,7 @@ Table of Contents
     - [Amanda Casari Keynote](#amanda-casari-keynote)
     - [Python Software Foundation Security Engineers Update](#python-software-foundation-security-engineers-update)
     - [Posters](#posters)
+    - [Chatting With Emma](#chatting-with-emma)
     - [PyLadies Lunch](#pyladies-lunch)
     - [Rachel Calhoun and Tim Schilling Keynote](#rachel-calhoun-and-tim-schilling-keynote)
     - [Steering Council Panel](#steering-council-panel)
@@ -750,6 +751,17 @@ Alamitos Beach
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Posters
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Chatting with Emma
+
+<!--
+Swag firesale
+Dragon book
+Internals book
+Offer to be mentored
+-->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
