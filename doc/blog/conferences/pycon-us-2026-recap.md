@@ -838,9 +838,7 @@ For those who cannot attend in person, the event will be livestreamed on the [Bl
 
 A massive crowd of attendees walked over to [Long Beach Creamery](https://www.longbeachcreamery.com/) for an ice cream selfie. 
 
-Fun fact... it was Mariatta's 41st ice cream selfie over 10 years of public speaking (40+ conferences!)
-
-It's an honor to have celebrated it with her. 
+It was Mariatta's 41st ice cream selfie over 10 years of public speaking (40+ conferences!). It was an honor to celebrate it with her. 
 
 On the other end of the spectrum, I encouraged an attendee to give his first conference talk and connected with a group of PyBeach organizers in the process. PyBeach is on my bucket list. 
 
@@ -998,6 +996,8 @@ He also told me Phoenix is a major "supply" hub, meaning they could find an extr
 
 ## Until Next Time
 
-The conference returns to Long Beach May 12-18, 2027. I can't wait for next year!
+The conference returns to Long Beach May 12-18, 2027. Thank you to everyone who made it special.
+
+I can't wait for next year!
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
