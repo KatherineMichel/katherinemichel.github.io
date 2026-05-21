@@ -811,7 +811,7 @@ Places to find community after PyCon US:
 
 ### Closing
 
-Fun facts:
+PyCon US 2026 fun facts:
 * 2003 attendees
 * 57.2% first-time attendees
 * 151 onsite volunteers
@@ -820,7 +820,7 @@ Fun facts:
 * First check-in: May 13 at 7:32:27 PT
 * Last t-shirt sold: 31 minutes after the fire sale
 
-Elaine passed the Conference Chair baton to Jon Banafato. The conference returns to Long Beach next year, May 12-18, 2027. 
+Elaine passed the Conference Chair baton to Jon Banafato. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -997,5 +997,7 @@ He also told me Phoenix is a major "supply" hub, meaning they could find an extr
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Until Next Time
+
+The conference returns to Long Beach May 12-18, 2027. I can't wait for next year!
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
