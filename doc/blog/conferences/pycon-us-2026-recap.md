@@ -900,9 +900,17 @@ Closing (Pacific Ballroom - Arena)
 
 ### Engine Failure
 
+My flight from Long Beach to Dallas seemed relatively normal until the pilot accidentally said "Mayday Southwest" over the PA. No one seemed to notice, including the flight attendants who were taking orders, but I was pretty sure something bad had to have happened. Eventually, the pilot announced that the #1 engine had failed, and we were diverting to Phoenix. Everyone clapped when we landed and laughed when the flight attendant said "welcome to Phoenix." We were met on the runway by firetrucks who were there to make sure there was no fire in the engine. 
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Connections Made
+
+Moments like this seems to break the ice and bring people closer. As my row chatted, I mentioned that I'd just taken a tour of Southwest Headquarters a few weeks earlier. It turned out the guy sitting next to me works in the Southwest Network Operations Center. His team had made one of the dashboards I'd seen on the tour, and he'd also been at PyCon US. Can you believe it? 
+
+I showed him my [Southwest Headquarters Tour blog post](https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html), and he gave me additional insight into the tech they use. 
+
+He also told me Phoenix is a major "supply" hub, meaning they could find an extra plane and get us up in the air again quickly, which they did. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
