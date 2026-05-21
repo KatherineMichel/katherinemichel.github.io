@@ -24,6 +24,7 @@ Table of Contents
 - [Saturday](#saturday)
     - [Pablo Galindo Salgado Keynote](#pablo-galindo-salgado)
     - [PSF Members Luncheon](#psf-members-luncheon)
+    - [Simon Willison Lightning Talk](#simon-willison-lightning-talk)
     - [Ned Batchelder Lightning Talk](#ned-batchelder-lightning-talk)
     - [PyLadies Auction](#pyladies-auction)
 - [Sunday](#sunday)
@@ -436,19 +437,21 @@ DjangoCon US Opportunity Grants budget was cut in half. PSF increased its grants
 
 Grant application decision times have been reduced. The process was made less confusing, because applicants with non-profit experience got faster responses, creating inequality. 
 
-Packaging Council was approved by all parties. It is an open field, with no incumbents running The election will be at the same time as the PSF Board Election. 
+Packaging Council was approved by all parties. It is an open field, with no incumbents running. The election will be at the same time as the PSF Board Election. 
 
 Deb would like to coordinate better with the DSF. 
 
 An annual impact report and PSF budget are on the way by end of June. 
 
-<!--
 PSF Office Hours will happen Tuesday, June 9 from 5-6 pm ET. 
 
+<!--
 https://pyfound.blogspot.com/2026/05/strategic-planning-at-psf.html?m=1
-
-Simon's talk
 -->
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Simon Willison Lightning Talk
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
