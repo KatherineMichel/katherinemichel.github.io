@@ -100,7 +100,6 @@ Nick's was a short walk from Naples Island. This Chilean Sea Bass was absolutely
 After Nick's, I was able to make it to the [Queen Mary](https://www.queenmary.com/) in time for the 1:15 pm Glory Days Tour, recommended by a friend. 
 
 <!--
-These homeowners are living the dream! 
 ![](pycon-us-2026-recap-images/queen-mary-1930s-gps.jpg)
 -->
 
@@ -110,29 +109,35 @@ A fantastic view of the Los Angeles River and Long Beach Shoreline Marina from a
 ![](pycon-us-2026-recap-images/queen-mary-me-at-the-helm.jpg)
 Me at a photo-op helm. The real ones are much smaller and on display at the bridge. 
 
+<!--
+Philip 
+Program Members
+-->
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Opening Reception at the Expo Hall
 
-<!---
-RHEL Booth
+Working in infrastructure, I was keen to visit the Red Hat Booth. In addition to doing Python, Django, and React development, I am a RHEL Admin and Ansible playbook coder. 
 
-Sam Doran
+I chatted with Sam Doran, principal software engineer, Ansible Core Team Member, and Ansible Docs co-author to get some recommended learning resources "straight from the horse's mouth": 
+* Red Hat Adanced Systems Troubleshooting article (I am looking for this, please send it to me, if you know of it)
+* [Ansible for DevOps](https://www.ansiblefordevops.com/)
+* [Linux for Dummies](https://www.amazon.com/Linux-Dummies-9th-Richard-Blum/dp/0470467010)
+
+<!---
+Ansible doc
 RHCS
 https://www.redhat.com/en/services/training-and-certification
-Alternative to idempotency: desired state (runs if needs to make changes, doesn't if it doesn't need to make changes)
-Advanced systems troubleshooting 
 RHEL Lightspeed
 Portal with knowledge-based articles. CLI, backend. 
 https://github.com/rhel-lightspeed
 Built on Goose
 https://goose-docs.ai/
 https://github.com/aaif-goose/goose
-Ansible for devops 
-https://www.ansiblefordevops.com/
-Linux for dummies
-https://www.amazon.com/Linux-Dummies-9th-Richard-Blum/dp/0470467010
 -->
+
+Sam also shared with me his preferred, alternative explanation of idempotency: desired state (it runs if it needs to make changes, but doesn't if it doesn't need to make changes)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -192,8 +197,6 @@ Me and Anthony, reunited again :)
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 <!--
-Break (Expo Hall AB)
-
 Mind the gap! Why static typing requires more than just adding annotations
 Jia Chen, Steven Troxler
 Room 103ABC
@@ -346,8 +349,6 @@ Thomas Wouters
 Grand Ballroom B
 Thread safety, data races, and concurrent designs
 
-Break (Expo Hall AB)
-
 
 AI
 What Python Developers Need to Know About Hardware: A Practical Guide to GPU Memory, Kernel Scheduling, and Execution Models
@@ -410,21 +411,21 @@ Lightning Talks (Pacific Ballroom - Arena)
 
 ### Pablo Galindo Salgado Keynote
 
+<!--
+Gave a talk in both Spanish and English
+-->
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### PSF Members Luncheon
 
+Executive Director Deb Nicholson gave a PSF Update. 
+
 At a high-level, PSF health is good, but reconfiguring is going on. 
 
-PyCon US is a huge part of the PSF's revenue. PyCon US is expensive and struggling. 
+PyCon US is a huge part of the the PSF's revenue. PyCon US is expensive and struggling. Food and beveraged increased from $400k in Salt Lake City to $500k in Pittsburgh to $600k in Long Beach. As the cost of events goes up, either expenses can be cut or ticket price can be increased. It has also become less appealing to visit the US. PyCon US would normally expect 500-700 more attendees. International attendees tend to plan earlier. Nationals tend to plan last minute. PSF was able to get a hotel bookings penalty from $250,000 down to $150,000. 
 
-Food and beveraged increased from $400k in Salt Lake City to $500k in Pittsburgh to $600k in Long Beach. As the cost of events goes up, either expenses can be cut or ticket price can be increased. 
-
-It has become less appealing to visit the US. PyCon US would normally expect 500-700 more attendees. International attendees tend to plan earlier. Nationals tend to plan last minute. PSF was able to get a hotel bookings penalty from $250,000 down to $150,000. 
-
-PyCon US will not be moved outside of the US. Perhaps VIPs could receive funding to make other events feel first class.  
-
-The [Python Language Summit](https://ep2026.europython.eu/language-summit/) will take place at EuroPython this year. 
+PyCon US will not be moved outside of the US. Perhaps VIPs could receive funding to make other events feel first class. The [Python Language Summit](https://ep2026.europython.eu/language-summit/) will take place at EuroPython this year. 
 
 PSF plans to diversity revenue so PyCon US is not the only revenue service. Service-based revenue arond PyPI is a future goal
 
@@ -434,9 +435,7 @@ PSF is fundraising for short-term security and project management roles.
 
 PSF launched "Community Partners Program" and reopened meetup support. 
 
-DjangoCon US Opportunity Grants budget was cut in half. PSF increased its grants budget from $300k to $450k to $600k, then paused it in 2025. It could re-open in Q4, providing a percentage of requested money. 
-
-Grant application decision times have been reduced. The process was made less confusing, because applicants with non-profit experience got faster responses, creating inequality. 
+DjangoCon US Opportunity Grants budget was cut in half. PSF increased its grants budget from $300k to $450k to $600k, then paused it in 2025. It could re-open in Q4, providing a percentage of requested money. Grant application decision times have been reduced. The process was made less confusing, because applicants with non-profit experience got faster responses, creating inequality. 
 
 Packaging Council was approved by all parties. It is an open field, with no incumbents running. The election will be at the same time as the PSF Board Election. 
 
@@ -492,8 +491,6 @@ Lightning Talks (Pacific Ballroom - Arena)/Coffee
 
 D&I Panel: Python is for Everyone: Growing the Community Without Limits (Pacific Ballroom - Arena)
 Keynote — Pablo Galindo Salgado, En Español (Pacific Ballroom - Arena)
-
-Break (Expo Hall AB)
 
 
 Security
@@ -654,9 +651,6 @@ Room 103ABC
 Across 51 real-world Python applications (web frameworks, CLI tools, ML platforms, schedulers, and visualization tools), we found significant mismatches between what SBOM tools report and what the memory reveals.
 
 
-Break (Expo Hall AB)
-
-
 Thinking of Topic Modeling as Search
 Kas Stohr
 Room 104AB
@@ -749,13 +743,14 @@ Alamitos Beach
 
 I joined the very long swag fire sale line. Fortunately, Emma happened to be behind me. I used the opportunity to learn more about her experience contributing to CPython and becoming a CPython Core Dev. 
 
+Emma generously offered to mentor me to contribute to CPython. 
+
 <!--
 Python is main language, Rust and C, too
 Savannah
 https://lwn.net/Articles/1030821/
 Dragon book
 Internals book
-Offer to be mentored
 -->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
@@ -804,10 +799,9 @@ Packaging Council: the Core Team use case does not necessarily extend to packagi
 
 Making free-threading the default: [PEP 779](https://peps.python.org/pep-0779/) includes the conditions. Performance, memory usage, documentation, API, library migration status matter. Although the process is going well, more real world experience with free-threading is needed. Maintainers of major packages, especially if building C extensions, should test on standard and free-threading builds and give feedback. This will help the Steering Council and Core Team decide when to safely switch to free-threading by default. In his talk about free-threading, Thomas Wouters predicts it will be after 3.16 and before 3.20.
 
-Versioning: after Python 3, a switch to year-based calendar versioning could happen
+Versioning: after Python 3, a switch to year-based calendar versioning could happen (sidenote: former Django Fellow Carlton Gibson [has proposed an annual release cycle and calendar versioning for Django](https://buttondown.com/carlton/archive/an-annual-release-cycle-for-django/) as well)
 
 <!--
-(sidenote: former Django Fellow Carlton Gibson [has proposed this for Django](https://buttondown.com/carlton/archive/an-annual-release-cycle-for-django/) as well)
 https://peps.python.org/pep-0602/
 https://devguide.python.org/versions/
 
@@ -1000,10 +994,6 @@ Room 103ABC
 
 
 Keynote — Rachell Calhoun & Tim Schilling (Pacific Ballroom - Arena)
-Steering Council Panel (Pacific Ballroom - Arena)
-Python Software Foundation Update (Pacific Ballroom - Arena)
-
-Closing (Pacific Ballroom - Arena)
 -->
 
 ## Monday
