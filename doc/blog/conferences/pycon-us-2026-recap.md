@@ -99,12 +99,17 @@ Nick's was a short walk from Naples Island. This Chilean Sea Bass was absolutely
 
 After Nick's, I was able to make it to the [Queen Mary](https://www.queenmary.com/) in time for the 1:15 pm Glory Days Tour, recommended by a friend. 
 
-![](pycon-us-2026-recap-images/queen-mary-grand-salon.jpg)
-![](pycon-us-2026-recap-images/queen-mary-1930s-gps.jpg)
 ![](pycon-us-2026-recap-images/queen-mary-deck.jpg)
+Launched in 1934 to carry mail between England and the US, the Queen Mary was an engineering masterpiece. It represented a golden era of ocean travel defined by Art Deco luxury, celebrity passengers, and record-breaking speed. Although the Queen Mary was larger, faster, and more sophisticated, members of my tour marveled that this was likely the closest we'd ever be to walking the deck of the Titanic. It was an eerie feeling at times. 
 
 ![](pycon-us-2026-recap-images/queen-mary-view-of-los-angeles-river-and-marina.jpg)
 A fantastic view of the Los Angeles River and Long Beach Shoreline Marina from a deck on the Queen Mary
+
+![](pycon-us-2026-recap-images/queen-mary-grand-salon.jpg)
+Formerly the First Class Dining Salon, now the Grand Salon. Many of the floors, stairs, walls, ceilings, artworks are original. It is one of the largest and most pristine Art Deco collections in the world. 
+
+![](pycon-us-2026-recap-images/queen-mary-1930s-gps.jpg)
+One of many beautiful artworks on the ship and a 1930s version of GPS. A boat in the center of the artwork could be moved to inform the passengers of the ship's progress. 
 
 <!--
 Philip 
@@ -123,15 +128,11 @@ I chatted with Sam Doran, principal software engineer, Ansible Core Team Member,
 * [Ansible for DevOps](https://www.ansiblefordevops.com/)
 * [Ansible Docs](https://docs.ansible.com/)
 * [Linux for Dummies](https://www.amazon.com/Linux-Dummies-9th-Richard-Blum/dp/0470467010)
+* [RHEL Lightspeed](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/10/html/interacting_with_the_command-line_assistant_powered_by_rhel_lightspeed/introducing-rhel-lightspeed-for-rhel-systems): a CLI connected to an AI chat-bot built on [Block's Goose](https://github.com/aaif-goose/goose) to provide answers from Red Hat's knowledge base
 
 <!---
-https://www.redhat.com/en/services/training-and-certification
-RHEL Lightspeed
-Portal with knowledge-based articles. CLI, backend. 
 https://github.com/rhel-lightspeed
-Built on Goose
 https://goose-docs.ai/
-https://github.com/aaif-goose/goose
 -->
 
 Sam also shared with me his preferred, alternative explanation of idempotency: desired state (it runs if it needs to make changes, but doesn't if it doesn't need to make changes)
