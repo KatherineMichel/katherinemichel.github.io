@@ -465,11 +465,6 @@ Explain talk
 
 As usual, the PyLadies Auction was a roaring good time! 
 
-Stats:
-* 39 items sold
-* $60,000 raised
-* Max bid: $4,000
-
 ![](pycon-us-2026-recap-images/pyladies-auction-tim-tam-prize.jpg)
 This Tim Tam Collection prize brought a smile to my face. Russell Keith-Magee has brought a package of Tim Tams to DjangoCon US many times and taught other attendees how to do the Tim Tam Slam. 
 
@@ -479,6 +474,11 @@ Outstanding PyLadies Awardees! Lynn Root recognizing María José Molina-Contrer
 ![](pycon-us-2026-recap-images/pyladies-auction-its-time.jpg)
 "It's time"... as Kojo's Python plushie was being auctioned, a pen was added to raise the bids. A sea of people walked up to the stage to add their stuff. 
 
+Stats:
+* 39 items sold
+* $60,000 raised
+* Max bid: $4,000
+  
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 
