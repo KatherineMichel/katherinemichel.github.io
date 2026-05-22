@@ -61,7 +61,6 @@ https://us.pycon.org/2026/schedule/talks/
 -->
 
 <!--
-![](pycon-us-2026-recap-images/long-beach-beach.jpg)
 ![](pycon-us-2026-recap-images/me-and-guido-cutout.jpg)
 -->
 
@@ -465,7 +464,7 @@ During the PSF Members Luncheon, Simon Willison was sitting at my table using GL
 
 ### Ned Batchelder Lightning Talk
 
-Ned Batchelder gave a moving lightning talk adapting Eric Holscher's Conference [Pacman Rule](https://www.ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/) from space to time.
+Ned Batchelder gave a moving lightning talk adapting Eric Holscher's Conference [Pacman Rule](https://www.ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/) from space to time. 
 
 ![](pycon-us-2026-recap-images/lightning-talk-ned-space-and-time.jpg)
 
