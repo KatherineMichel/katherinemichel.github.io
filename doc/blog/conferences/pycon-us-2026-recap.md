@@ -112,6 +112,8 @@ Formerly the First Class Dining Salon, now the Grand Salon. Many of the floors, 
 ![](pycon-us-2026-recap-images/queen-mary-1930s-gps.jpg)
 One of many beautiful artworks on the ship and a 1930s version of GPS. A boat in the center of the artwork could be moved to inform the passengers of the ship's progress. 
 
+Our tour guide loves his job on the Queen Mary and thanked us for supporting the ship. It was a reminder of the importance of arts and culture. 
+
 <!--
 Philip 
 Program Members
@@ -584,6 +586,7 @@ https://en.wikipedia.org/wiki/Functional_programming
 Security
 Rust for CPython: Making Python Safer and More Robust for Everyone
 Emma Smith
+https://emmatyping.dev/talks/pyconus-2026/
 Room 103ABC
 C code suffers from memory and thread unsafety, leading to crashes and potentially exploitable security bugs. 
 Rust for CPython project
@@ -812,6 +815,8 @@ Making free-threading the default: [PEP 779](https://peps.python.org/pep-0779/) 
 Versioning: after Python 3, a switch to year-based calendar versioning could happen (sidenote: former Django Fellow Carlton Gibson [has proposed](https://buttondown.com/carlton/archive/an-annual-release-cycle-for-django/) an annual release cycle and calendar versioning for Django as well)
 
 Evolving Python's governance: the governance structure should be re-evaluted on an ongoing basis. The team has grown and changed a lot since the initial governance model was put in place, but that doesn't mean it needs to be dramatically changed. Two year terms or term limits are being considered. 
+
+Opinions on using Rust for Standard Library modules: Rust is popular. Rust broadens the funnel of people wanting to contribute, but some people won't want to learn Rust. CPython needs to continue to attract contributors. There are many things to consider. This is an extremely complex, hard problem. Emmma is thinking deeply about it. This will be a multi-year project, even if it doesn't happen. The speed the proposal is moving at is impressive, and there is a lot of optimism. 
 
 <!--
 https://peps.python.org/pep-0602/
