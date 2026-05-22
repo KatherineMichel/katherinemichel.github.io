@@ -784,6 +784,8 @@ Thank you, Mariatta.
 
 My friend Abigail started [Books for Techies program](https://www.linkedin.com/posts/abigail-mesrenyame-dogbe_booksfortechies-pyconus-share-7454935701198073856-9hfZ/). She shared that Amanda Casari helped her get the initiative off the ground. PyCon US attendees can drop off tech books and flashcards and Abigail will distribute them to kids learning how to code and junior developers in Africa. 
 
+Abigail gave me a Ghanaian milk chocolate bar. I noted that the chocolate open space I'd attended in the past did not happen this year. Abigail made a note to look into it for next year. :) 
+
 ![](pycon-us-2026-recap-images/me-and-abigail.jpeg)
 Me and Abigail
 
