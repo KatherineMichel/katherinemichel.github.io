@@ -14,12 +14,13 @@ Table of Contents
 - [Intro](#intro)
 - [Thursday](#thursday)
     - [Sightseeing](#sightseeing)
-    - [Opening Reception at the Expo Hall](#opening-reception-at-the-expo-hall)
+    - [Opening Reception](#opening-reception)
 - [Friday](#friday)
     - [Welcome](#welcome)
     - [PSF Welcome](#psf-welcome)
     - [Sponsor Moments](#sponsor-moments)
     - [Lin Qiao Keynote](#lin-qiao-keynote)
+    - [Catch Up With Guido](#catch-up-with-guido)
     - [Catch Up With Anthony](#catch-up-with-anthony)
 - [Saturday](#saturday)
     - [Pablo Galindo Salgado Keynote](#pablo-galindo-salgado)
@@ -77,7 +78,7 @@ I spent Thursday sightseeing. I decided to ride the 121 bus along the beach to [
 ![](pycon-us-2026-recap-images/belmont-pier-view.jpg)
 The view from the Belmont Pier... Thursday was an overcast day, but the beaches were quiet and meditative. 
 
-I decided to walk over to [Naples Island](https://en.wikipedia.org/wiki/Naples,_Long_Beach) and see what it was about. 
+I walked over to [Naples Island](https://en.wikipedia.org/wiki/Naples,_Long_Beach) and see what it was about. 
 
 ![](pycon-us-2026-recap-images/naples-island-alamitos-bay.jpg)
 A view of boats in the Alamitos Bay while walking across the 2nd Street Bridge
@@ -118,7 +119,9 @@ Program Members
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Opening Reception at the Expo Hall
+### Opening Reception
+
+The Opening Reception took place in the Expo Hall. 
 
 Working in infrastructure, I was keen to visit the Red Hat Booth. In addition to doing Python, Django, and React development, I am a RHEL Admin and Ansible playbook coder. 
 
@@ -175,7 +178,13 @@ A good way to identify a lightning talk subject: tell me something that's intere
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+<!--
 ### Lin Qiao Keynote
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+-->
+
+### Catch Up With Guido
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -199,6 +208,9 @@ Mind the gap! Why static typing requires more than just adding annotations
 Jia Chen, Steven Troxler
 Room 103ABC
 https://typing.python.org/en/latest/
+https://us.pycon.org/2026/speaker/profile/15/
+Steven is part of the Python language tooling team at Meta, currently working on the Pyrefly type checker (https://github.com/facebook/pyrefly)
+In addition to his work on first Pyre and then Pyrefly at Meta, Steven helps coordinate activities for the Python typing community and was a co-author of PEP 698 adding an @overload decorator to Python. He has co-hosted the PyCon typing summit the past two years in 2024 and 2025.
 
 GPU Communications for Python
 Benjamin Glick, Michael Yh Wang
@@ -217,6 +229,7 @@ LTO-IR (Link Time Optimization - Intermediate Representation) is a compiler tech
 AI
 AI-Assisted Contributions and Maintainer Load
 Paolo Melchiorre
+https://www.paulox.net/2026/05/15/pycon-us-2026/
 Grand Ballroom A
 
 
