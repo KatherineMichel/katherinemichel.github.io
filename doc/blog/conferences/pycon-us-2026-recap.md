@@ -104,7 +104,7 @@ Although the Queen Mary was larger, faster, and more sophisticated, members of m
 A fantastic view of the Los Angeles River and Long Beach Shoreline Marina from a deck on the Queen Mary
 
 ![](pycon-us-2026-recap-images/queen-mary-grand-salon.jpg)
-Formerly the First Class Dining Salon, now the Grand Salon. Many of the floors, stairs, walls, ceilings, artworks are original. It is one of the largest and most pristine Art Deco collections in the world. 
+Formerly the First Class Dining Salon, now the Grand Salon. Many of the Queen Mary's floors, stairs, walls, ceilings, artworks are original. It is one of the largest and most pristine Art Deco collections in the world. 
 
 ![](pycon-us-2026-recap-images/queen-mary-1930s-gps.jpg)
 One of many beautiful artworks on the ship and a 1930s version of GPS. A boat in the center of the artwork could be moved to inform the passengers of the ship's progress. 
