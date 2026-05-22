@@ -95,8 +95,6 @@ On Naples Island, I discovered something I'd never seen before, luxury houses wi
 ![](pycon-us-2026-recap-images/naples-island-gangway.jpg)
 A gangway leading down to a semi-private dock. 
 
-A gondola ride through Naples Island and visit to nearby [Seal Island](https://en.wikipedia.org/wiki/Seal_Beach,_California) could be on the itinerary for next year. 
-
 ![](pycon-us-2026-recap-images/nicks-on-second-chilean-sea-bass.jpg)
 Nick's was a short walk from Naples Island. This Chilean Sea Bass was absolutely delicious! It was exactly what I was hoping for. When I found out the very friendly bartender Garrett was originally from the Dallas-Fortworth area, I had to know more about his story. He visited Long Beach and came back to live, because it was paradise for him. 
 
