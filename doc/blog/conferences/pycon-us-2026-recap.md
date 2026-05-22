@@ -75,6 +75,10 @@ https://us.pycon.org/2026/schedule/talks/
 
 I spent Thursday sightseeing. I decided to ride the 121 bus along the beach to [Belmont Shore](https://en.wikipedia.org/wiki/Belmont_Shore,_Long_Beach,_California), explore the area, then eat at [Nick's on Second](https://nicksrestaurants.com/nicks/on-2nd/). 
 
+When I attended PyCon US 2024, I started a tradition. I googled "best restaurant in Pittsburgh" and ate there. It was a wonderful restaurant called [Fig & Ash](https://figandashpgh.com/). Now, I do this at every host city. 
+
+Nick's was at or near the top of every list I saw and had rave reviews. I was hoping to eat some excellent fresh seafood, and Nick's filets fish in-house daily. 
+
 ![](pycon-us-2026-recap-images/belmont-pier-view.jpg)
 The view from the Belmont Pier... Thursday was an overcast day, but the beaches were quiet and meditative. 
 
@@ -90,10 +94,6 @@ On Naples Island, I discovered something I'd never seen before, luxury houses wi
 A gangway leading down to a semi-private dock. 
 
 A gondola ride through Naples Island and visit to nearby [Seal Island](https://en.wikipedia.org/wiki/Seal_Beach,_California) could be on the itinerary for next year. 
-
-When I attended PyCon US 2024, I started a tradition. I googled "best restaurant in Pittsburgh" and ate there. It was a wonderful restaurant called [Fig & Ash](https://figandashpgh.com/). Now, I do this at every host city. 
-
-Nick's was at or near the top of every list I saw and had rave reviews. I was hoping to eat some excellent fresh seafood, and Nick's filets fish in-house daily. 
 
 ![](pycon-us-2026-recap-images/nicks-on-second-chilean-sea-bass.jpg)
 Nick's was a short walk from Naples Island. This Chilean Sea Bass was absolutely delicious! It was exactly what I was hoping for. When I found out the very friendly bartender Garrett was originally from the Dallas-Fortworth area, I had to know more about his story. He visited Long Beach and came back to live, because it was paradise for him. 
