@@ -19,7 +19,6 @@ Table of Contents
 - [Friday](#friday)
     - [Welcome](#welcome)
     - [PSF Welcome](#psf-welcome)
-    - [Sponsor Moments](#sponsor-moments)
     - [Lin Qiao Keynote](#lin-qiao-keynote)
     - [Catch Up With Guido](#catch-up-with-guido)
     - [Catch Up With Anthony](#catch-up-with-anthony)
@@ -171,10 +170,6 @@ You are a part of the Python community if you:
 * Make newcomers feel welcome
 
 A good way to identify a lightning talk subject: tell me something that's interesting to you
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-### Sponsor Moments
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
