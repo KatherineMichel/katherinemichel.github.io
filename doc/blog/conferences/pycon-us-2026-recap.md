@@ -46,7 +46,8 @@ Table of Contents
     - [L'Opera](#lopera)
 - [Monday](#monday)
     - [Engine Failure](#engine-failure)
-    - [Connections Made](#connections-made)
+    - [PyCon Lives On](#pycon-lives-on)
+    - [More Connections Made](#more-connections-made)
 - [Until Next Time](#until-next-time)
 
 ## Intro
@@ -127,13 +128,13 @@ The Opening Reception took place in the Expo Hall.
 Working in infrastructure, I was keen to visit the Red Hat Booth. In addition to being a Python, Django, and React developer, I am a RHEL Admin and Ansible playbook developer. 
 
 I chatted with Sam Doran, principal software engineer, Ansible Core Team Member, and Ansible Docs co-author to get some recommended learning resources "straight from the horse's mouth": 
-* Red Hat Certified Specialist (RHCS)
-* Red Hat Adanced Systems Troubleshooting article (I am looking for this, please send it to me, if you know of it)
 * [Ansible for DevOps](https://www.ansiblefordevops.com/)
 * [Ansible Docs](https://docs.ansible.com/)
 * [Linux for Dummies](https://www.amazon.com/Linux-Dummies-9th-Richard-Blum/dp/0470467010)
 * [RHEL Lightspeed](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/10/html/interacting_with_the_command-line_assistant_powered_by_rhel_lightspeed/introducing-rhel-lightspeed-for-rhel-systems): a CLI connected to an AI chat-bot built on [Block's Goose](https://github.com/aaif-goose/goose) to provide answers from Red Hat's knowledge base
-
+* Red Hat Certified Specialist (RHCS)
+* Red Hat Adanced Systems Troubleshooting article (I am looking for this. Please send it to me, if you know of it.)
+  
 <!---
 https://github.com/rhel-lightspeed
 https://goose-docs.ai/
@@ -1025,13 +1026,17 @@ My flight from Long Beach to Dallas seemed relatively normal until the pilot acc
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Connections Made
+### PyCon Lives On
 
 Moments like this seem to break the ice and bring people closer. As my row chatted, I mentioned that I'd just taken a tour of Southwest Headquarters a few weeks earlier. It turned out the guy sitting next to me works in the Southwest Network Operations Center. His team had made one of the dashboards I'd seen on the tour, and he'd also been at PyCon US. It's a small world. 
 
 I showed him my [Southwest Headquarters Tour blog post](https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html), and he gave me additional insight into the tech they use. 
 
 He also told me Phoenix is a major "supply" hub, meaning they could find an extra plane and get us up in the air again quickly, which they did. 
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### More Connections Made
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
