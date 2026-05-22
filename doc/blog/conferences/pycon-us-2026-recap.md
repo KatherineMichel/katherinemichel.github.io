@@ -14,6 +14,7 @@ Table of Contents
 - [Intro](#intro)
 - [Thursday](#thursday)
     - [Sightseeing](#sightseeing)
+    - [Packaging and Typing Summits](#packaging-and-typing-summits)
     - [Opening Reception](#opening-reception)
 - [Friday](#friday)
     - [Welcome](#welcome)
@@ -30,6 +31,7 @@ Table of Contents
     - [PyLadies Auction](#pyladies-auction)
 - [Sunday](#sunday)
     - [Marina and Beach](#marina-and-beach)
+    - [Google Sponsor Talk](#google-sponsor-talk)
     - [Amanda Casari Keynote](#amanda-casari-keynote)
     - [Python Software Foundation Security Engineers Update](#python-software-foundation-security-engineers-update)
     - [Posters](#posters)
@@ -118,6 +120,14 @@ Our tour guide loves his job on the Queen Mary and thanked us for supporting the
 Philip 
 Program Members
 -->
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Packaging and Typing Summits
+
+Thank you to Bernát Gábor for writing up recaps of the Packaging and Typing Summits that happened before the main conference. I am excited to learn more:
+* [Packaging Summit Recap](https://bernat.tech/posts/pycon-us-2026-packaging-summit-recap/)
+* [Typing Summit Recap](https://bernat.tech/posts/pycon-us-2026-typing-summit-recap/)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -736,6 +746,15 @@ I wanted to see more of the coast, which is a short walk from the Long Beach Con
 
 ![](pycon-us-2026-recap-images/alamitos-beach.jpeg)
 Alamitos Beach
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Google Sponsor Talk
+
+Three essential fronts Google is investing in that are linked to AI
+* Core performance
+* Code quality and correctness
+* Developer efficiency at scale
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
