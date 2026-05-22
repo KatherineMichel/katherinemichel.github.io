@@ -56,9 +56,7 @@ Disclaimer: the content of this post is a reflection of my career journey and no
 
 <!--
 Conference description
--->
 
-<!--
 https://us.pycon.org/2026/schedule/talks/
 -->
 
@@ -96,7 +94,7 @@ On Naples Island, I discovered something I'd never seen before, luxury houses wi
 A gangway leading down to a semi-private dock. 
 
 ![](pycon-us-2026-recap-images/nicks-on-second-chilean-sea-bass.jpg)
-Nick's was a short walk from Naples Island. This Chilean Sea Bass was absolutely delicious! It was exactly what I was hoping for. When I found out the very friendly bartender Garrett was originally from the Dallas-Fortworth area, I had to know more about his story. He visited Long Beach and came back to live, because it was paradise for him. 
+Nick's was a short walk from Naples Island. This Chilean Sea Bass was absolutely delicious! It was exactly what I was hoping for. 
 
 After Nick's, I was able to make it to the [Queen Mary](https://www.queenmary.com/) in time for the 1:15 pm Glory Days Tour. Launched in 1934 to carry mail between England and the US, the Queen Mary was an engineering masterpiece. It represented a golden era of ocean travel defined by Art Deco luxury, celebrity passengers, and record-breaking speed. 
 
@@ -111,13 +109,6 @@ Formerly the First Class Dining Salon, now the Grand Salon. Many of the floors, 
 
 ![](pycon-us-2026-recap-images/queen-mary-1930s-gps.jpg)
 One of many beautiful artworks on the ship and a 1930s version of GPS. A boat in the center of the artwork could be moved to inform the passengers of the ship's progress. 
-
-Our tour guide loves his job on the Queen Mary and thanked us for supporting the ship. It was a reminder of the importance of arts and culture. 
-
-<!--
-Philip 
-Program Members
--->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -776,7 +767,6 @@ Emma generously offered to mentor me to contribute to CPython.
 
 <!--
 https://lwn.net/Articles/1030821/
-Python is main language, Rust and C, too
 Dragon book
 Internals book
 -->
@@ -836,13 +826,10 @@ Evolving Python's governance: the governance structure should be re-evaluted on 
 Opinions on using Rust for Standard Library modules: Rust is popular. Rust broadens the funnel of people wanting to contribute, but some people won't want to learn Rust. CPython needs to continue to attract contributors. There are many things to consider. This is an extremely complex, hard problem. Emmma is thinking deeply about it. This will be a multi-year project, even if it doesn't happen. The speed the proposal is moving at is impressive, and there is a lot of optimism. 
 
 <!--
+https://lwn.net/Articles/1039612/
+
 https://peps.python.org/pep-0602/
 https://devguide.python.org/versions/
-
-Thomas had a talk on free-threading
-
-https://lwn.net/Articles/1039612/
-https://pyfound.blogspot.com/2025/10/cpython-core-dev-sprint-2025-at-arm.html
 
 https://thenewstack.io/python-whats-coming-in-2026/
 https://peps.python.org/pep-0790/
