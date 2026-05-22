@@ -80,7 +80,7 @@ Nick's was at or near the top of every list I saw and had rave reviews. I was ho
 ![](pycon-us-2026-recap-images/belmont-pier-view.jpg)
 The view from the Belmont Pier... Thursday was an overcast day, but the beaches were quiet and meditative. 
 
-I walked over to [Naples Island](https://en.wikipedia.org/wiki/Naples,_Long_Beach) and see what it was about. 
+I walked over to [Naples Island](https://en.wikipedia.org/wiki/Naples,_Long_Beach) to see what it was about. 
 
 ![](pycon-us-2026-recap-images/naples-island-alamitos-bay.jpg)
 A view of boats in the Alamitos Bay while walking across the 2nd Street Bridge
