@@ -123,7 +123,7 @@ Thank you to Bernát Gábor for writing up recaps of the Packaging and Typing Su
 
 The Opening Reception took place in the Expo Hall. 
 
-Working in infrastructure, I was keen to visit the Red Hat Booth. In addition to doing Python, Django, and React development, I am a RHEL Admin and Ansible playbook coder. 
+Working in infrastructure, I was keen to visit the Red Hat Booth. In addition to being a Python, Django, and React developer, I am a RHEL Admin and Ansible playbook developer. 
 
 I chatted with Sam Doran, principal software engineer, Ansible Core Team Member, and Ansible Docs co-author to get some recommended learning resources "straight from the horse's mouth": 
 * Red Hat Certified Specialist (RHCS)
