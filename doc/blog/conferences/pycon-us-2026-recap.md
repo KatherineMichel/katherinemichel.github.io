@@ -745,7 +745,7 @@ Alamitos Beach
 
 ### Google Sponsor Talk
 
-Three essential fronts Google is investing in that are linked to AI
+Three essential fronts Google is investing in that are linked to AI:
 * Core performance- commitment to free-threaded Python for high throughput, multi-core agent systems and model serving pipelines. Running these workloads is a major concurrency win. 
 * Code quality and correctness- adoption of [Pyrefly](https://pyrefly.org/) and appreciation of open source advancements
 * Developer efficiency at scale- more iterations, more experiments, delighted with recent advancements such as lazy imports
