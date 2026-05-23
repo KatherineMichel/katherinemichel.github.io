@@ -788,13 +788,13 @@ Internals book
 
 At the PyLadies Lunch, women take turns taking the mic and sharing accomplishments they are proud of from the past year. Although I've attended several times, I've never gotten up to speak. 
 
-My friend Mariatta came over to me and encouraged me to do it. Mariatta is an inspiration to me. I reflected for a couple of minutes, then got up and did it. 
+Mariatta came over to me and encouraged me to do it. Mariatta is an inspiration to me. I reflected for a couple of minutes, then got up and did it. 
 
 As difficult as it can be to talk about ourselves, Mariatta explained later that we need to do it so that others know the things we have experienced.
 
 Thank you, Mariatta. 
 
-My friend Abigail started [Books for Techies program](https://www.linkedin.com/posts/abigail-mesrenyame-dogbe_booksfortechies-pyconus-share-7454935701198073856-9hfZ/). She shared that Amanda Casari helped her get the initiative off the ground. PyCon US attendees can drop off tech books and flashcards and Abigail will distribute them to kids learning how to code and junior developers in Africa. 
+Abigail started [Books for Techies program](https://www.linkedin.com/posts/abigail-mesrenyame-dogbe_booksfortechies-pyconus-share-7454935701198073856-9hfZ/). She shared that Amanda Casari helped her get the initiative off the ground. PyCon US attendees can drop off tech books and flashcards and Abigail will distribute them to kids learning how to code and junior developers in Africa. 
 
 Abigail gave me a Ghanaian milk chocolate bar. I noted that the chocolate open space I'd attended in the past did not happen this year. Abigail made a note to look into it for next year. :) 
 
@@ -817,6 +817,11 @@ The Steering Council members are Barry Warsaw, Donghee Na, Pablo Galindo Salgado
 Core Team sprints:
 * 2025: [hosted in Cambridge by ARM](https://developer.arm.com/community/arm-community-blogs/b/tools-software-ides-blog/posts/cpython-core-dev-sprint-2025-at-arm-cambridge-the-biggest-one-yet)
 * 2026: will be hosted in San Francisco by OpenAI
+
+Developers in Residence and targeted sponsorships:
+* Petr Viktorin, Bloomberg
+* Serhiy Storchaka, Vercel
+* TBD (formerly Łukasz Langa, Meta)
   
 Python 3.15 major features:
 * Lazy imports
@@ -839,6 +844,8 @@ Evolving Python's governance: the governance structure should be re-evaluted on 
 Opinions on using Rust for Standard Library modules: Rust is popular. Rust broadens the funnel of people wanting to contribute, but some people won't want to learn Rust. CPython needs to continue to attract contributors. Adding Rust in CPython is different than starting a new project. There are many things to consider: compiler versions, stable API, pinning rust compiler, build process, platforms that can be supported. Conceptually, Rust makes sense for extension modules isolated from core interpreter. Experimentation needs to take place. How do we support platforms that have bad or no rust support? This is an extremely complex, hard problem. Emmma is thinking deeply about it. This will be a multi-year project, even if it doesn't happen. The speed the proposal is moving at is impressive, and there is a lot of optimism. 
 
 Should standard library (aka batteries) shrink, stay stable, or continue expanding: some very old batteries have been removed, but not much has been done. It is a mixed bag. How do you reconcile the slow release of modules versus higher velocity when left out versus the ease of downloading Python and having an amazing suite of functionality? One opinion is that the standard library should not grow much more. Python should only have the batteries that are essential for bootstrapping and interoperability between packages. The overhead of maintaining packages in the standard library into perpetuity is painful and costly. PyPI is an amazing package registry and packages should be hosted there anytime remotely possible.  
+
+[CPython Release Schedule](https://devguide.python.org/versions/)
 
 <!--
 https://lwn.net/Articles/1039612/
@@ -1101,7 +1108,7 @@ Sarah entzminger
 Chatting with Paul about Andrew Ng
 -->
 
-* Chatted with Seth about the outstanding Security Track
+* Chatted with Python Security Developer-in-Residence Seth Larson about the outstanding Security Track
 * Met Greg Smith to get a Claude Code Voucher
 * Got a bear hug from Carol Willing and a request to catch up soon
 * Chatted with Will Vincent about building in public
