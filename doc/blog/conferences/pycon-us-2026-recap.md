@@ -793,9 +793,9 @@ Marc Gibbons- got a shoutout in keynote
 
 ### Fastly Sponsor Talk
 
-Fastly sponsors PSF through the Fast Forward Program
+Fastly sponsors PSF by providing a content delivery network through the Fast Forward Program:
 * PSF has over a million users
-* Fastly has supported over 805,000 projects, delivered close to 19 million files, and over 2.5 trillion edge requests
+* Fastly has supported over 805,000 projects, delivered close to 19 million files and over 2.5 trillion edge requests
 * Security and observability tools
 * PyPI is serving 80,000 requests per second and transferred 1.92 exabytes of data in 2025
 
