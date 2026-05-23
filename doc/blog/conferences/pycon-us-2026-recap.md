@@ -142,6 +142,8 @@ https://goose-docs.ai/
 
 Sam also shared with me his preferred, alternative explanation of idempotency: desired state (it runs if it needs to make changes, but doesn't if it doesn't need to make changes)
 
+Working in a database and caching space, Valkey is near-and-dear to my heart. I had the chance to connect with Jen Madriaga of AWS who works closely with Valkey Team. 
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Friday
@@ -772,7 +774,7 @@ Marc Gibbons- got a shoutout in keynote
 
 ### Chatting with Emma
 
-I joined the very long swag fire sale line. Fortunately, Emma happened to be behind me. I used the opportunity to learn more about her experience contributing to CPython and becoming a CPython Core Dev. I was reminded of Savannah Ostrowski's EuroPython 2025 keynote "[You don’t have to be a compiler engineer to work on Python.](https://www.youtube.com/watch?v=WGXXxGLBVF4)" 
+I joined the very long swag fire sale line. Fortunately, Emma Smith happened to be behind me. I used the opportunity to learn more about her experience contributing to CPython and becoming a CPython Core Dev. I was reminded of Savannah Ostrowski's EuroPython 2025 keynote "[You don’t have to be a compiler engineer to work on Python.](https://www.youtube.com/watch?v=WGXXxGLBVF4)" 
 
 Emma generously offered to mentor me to contribute to CPython. 
 
@@ -951,6 +953,7 @@ As an added bonus, Paul Everitt saw me at the bar and invited me to join the Jet
 Paul was an early Python user featured in the Cult Repo [Python documentary](https://www.youtube.com/watch?v=GfH4QL4VqJ0). 
 
 <!--
+https://www.deeplearning.ai/courses/spec-driven-development-with-coding-agents
 Paul's talk at Andrew Ng's conference
 https://www.youtube.com/@Deeplearningai/videos
 -->
