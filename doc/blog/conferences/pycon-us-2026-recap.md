@@ -254,7 +254,7 @@ Recent major initiatives
 
 ### Hudson River Trading Sponsor Talk
 
-Hudson River Trading is PSF newest Visionary Sponsor. 
+Hudson River Trading is PSF's newest Visionary Sponsor. 
 
 At a time of uncertainty, Hudson River Trading is ramping up. 
 
