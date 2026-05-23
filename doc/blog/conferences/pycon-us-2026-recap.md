@@ -793,6 +793,14 @@ Marc Gibbons- got a shoutout in keynote
 
 ### Fastly Sponsor Talk
 
+Fastly sponsors PSF through the Fast Forward Program
+* PSF has over a million users
+* Fastly has supported over 805,000 projects, delivered close to 19 million files, and over 2.5 trillion edge requests
+* Security and observability tools
+* PyPI is serving 80,000 requests per second and transferred 1.92 exabytes of data in 2025
+
+Fastly has a new serverless edge development platform called Fastly Compute build on Webassembly. A [Python SDK](https://github.com/fastly/compute-sdk-python) has been published in collaboration with the PSF. A free tier is available at [https://www.fastly.com/signup](https://www.fastly.com/signup). 
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Python Software Foundation Security Engineers Update
