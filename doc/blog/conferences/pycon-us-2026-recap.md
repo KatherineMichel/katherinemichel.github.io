@@ -27,6 +27,7 @@ Table of Contents
     - [Catch Up With Guido](#catch-up-with-guido)
     - [Catch Up With Anthony](#catch-up-with-anthony)
 - [Saturday](#saturday)
+    - [D&I Panel](#d-&-i-panel)
     - [Pablo Galindo Salgado Keynote](#pablo-galindo-salgado)
     - [PSF Members Luncheon](#psf-members-luncheon)
     - [Simon Willison Lightning Talk](#simon-willison-lightning-talk)
@@ -445,11 +446,20 @@ Lightning Talks (Pacific Ballroom - Arena)
  
 ## Saturday
 
+### D&I Panel
+
+"As you can see, the D&I Workgroup is comprised of a lot of people from around the world, including Iran and Reuben from Tel Aviv. For us, there's no war. We communicate every month, and Reuben talks to Ali to check if everyone is okay. And that's something... that's very important for us." 
+
+D&I Workgroup's 3 initiatives: 
+* Concentrate on outreach to communities (D&I/community)
+* How to setup a local Python community (community)
+* Collecting survey feedback from the Python Community
+
 ### Pablo Galindo Salgado Keynote
 
-<!--
-Gave a talk in both Spanish and English
--->
+Pablo gave a keynote in both Spanish and English, a first. 
+
+
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
