@@ -172,7 +172,7 @@ Recent major initiatives
 * Cuda Python 1.0
 * Pythonic APIs for Cuda
 * Packaging: creating a packaging console, working on wheel variance, teaching packaging how to know about modern hardware
-* Contributions to CPython, free-threading Python
+* Contributions to CPython, free-threaded Python
 * Rust into CPython
 
 ### Meta Sponsor Talk
@@ -182,7 +182,7 @@ This is Meta's 10th year of sponsoring the PSF.
 Recent major initiatives
 * Helped land lazy imports in CPython
 * Developed Life Guard, an open source project to help teams adopt lazy imports more safely
-* Tested free-threading Python internally and demonstrated approximately 30% savings in real product use case
+* Tested free-threaded Python internally and demonstrated approximately 30% savings in real product use case
 * Contributing to work on unified PyTorch native stack for AI development
 * Developed TritorX, writing GPU Kernels directly in Python
 
