@@ -1126,10 +1126,11 @@ Chatting with Paul about Andrew Ng
 -->
 
 * Chatted with Python Security Developer-in-Residence Seth Larson about the outstanding Security Track
-* Met Greg Smith to get a Claude Code Voucher
+* Chatted with Paul McGuire about what it was like to work on [Python in a Nutshell](https://learning.oreilly.com/library/view/python-in-a/9781098113544/) with Alex Martelli
+* Met Greg Smith and obtained a Claude Code Voucher
 * Got a bear hug from Carol Willing and a request to catch up soon
 * Chatted with Will Vincent about building in public
-* Chatted with Paul McGuire about what it was like to work on Python in a Nutshell with Alex Martelli
+* Learned of Paul Everitt's [The Shift to Agentic Engineering talk](https://www.youtube.com/watch?v=n366hY4JZ9U&t=1s) at Andrew Ng's AI Dev 2026 Conference after their [Spec Driven Development with Coding Agents](https://www.deeplearning.ai/courses/spec-driven-development-with-coding-agents) collaboration
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
