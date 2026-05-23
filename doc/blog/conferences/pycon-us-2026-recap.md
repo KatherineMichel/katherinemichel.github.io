@@ -493,7 +493,11 @@ Stats:
 * 39 items sold
 * $60,000 raised
 * Max bid: $4,000
-  
+
+<!--
+Shawn brown
+-->
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 
@@ -1039,6 +1043,12 @@ He also told me Phoenix is a major "supply" hub, meaning they could find an extr
 ### More Connections Made
 
 <!---
+https://www.paulox.net/2026/05/15/pycon-us-2026/
+
+At the risk of oversharing or being judged
+Agency and belonging
+Want to go deeper into the technical aspects of our language
+
 Paul- being not a normie
 Eric Matthes
 Keith the ee Murray 
@@ -1046,10 +1056,9 @@ Keith told me my post
 Director of Python discord
 Python subreddit 
 Anu rag
+Guy from Nvidia
+I belong
 
-At the risk of oversharing or being judged
-Agency and belonging
-Want to go deeper into the technical aspects of our language
 
 Phoebe Polk
 Moshe z
@@ -1068,31 +1077,12 @@ Paul Hildegard Disney character
 Josh gaac 
 Bernie Madison 
 
-https://www.paulox.net/2026/05/15/pycon-us-2026/
-
-Guy from Nvidia
-I belong
-
-Seth
-
-Greg Smith
-Claude code voucher 
-
 Steven liu
 Selfish reasons to have more kids
 
-Shawn brown ncec 
-
-Might 
-Chocolate open space 
-Abigail made a note to bring it back!
-
 Stop deminshing our own accomplishments 
-Carol willing. Have call.
 
-Paul m Alex Martello 
 Andy 
-Posters 
 
 Jorge 
 Paid 
@@ -1102,9 +1092,14 @@ Fdaa
 Mock dependencies 
 Don’t want to hit prod db 
 
-Will Vincent 
 Sarah entzminger 
 -->
+
+* Chatted with Seth about the outstanding Security Track
+* Met Greg Smith to get a Claude Code Voucher
+* Got a bear hug from Carol Willing and a request to catch up soon
+* Chatted with Will Vincent about building in public
+* Chatte with Paul McGuire about what it was like to work on Python in a Nutshell with Alex Martelli
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
