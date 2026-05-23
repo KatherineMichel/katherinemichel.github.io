@@ -59,19 +59,19 @@ Table of Contents
 
 Disclaimer: the content of this post is a reflection of my career journey and not specific to my work at JPMorgan Chase & Co.
 
+PyCon US took place in Long Beach, California from May 13-19. 
+
+Python Security and AI were at the forefront with new dedicated tracks, in addition to the latest Python 3.15 features and community building.
+
+My goal is to compound my knowledge from year-to-year by going deeper into the technical aspects of the language and making more connections. 
+
 <!--
-My goal is to go deeper into the technical aspects of the language every year and compound my knowledge. 
-
-Conference description
-
 https://us.pycon.org/2026/schedule/talks/
 -->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Thursday
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Sightseeing
 
