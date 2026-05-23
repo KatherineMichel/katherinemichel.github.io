@@ -56,6 +56,8 @@ Table of Contents
 Disclaimer: the content of this post is a reflection of my career journey and not specific to my work at JPMorgan Chase & Co.
 
 <!--
+My goal is to go deeper into the technical aspects of the language every year and compound my knowledge. 
+
 Conference description
 
 https://us.pycon.org/2026/schedule/talks/
@@ -463,11 +465,7 @@ An annual impact report and PSF budget are on the way by end of June.
 
 ### Simon Willison Lightning Talk
 
-During the PSF Members Luncheon, Simon Willison was sitting at my table using GLM-5.1 AI model to generate a North Virginia Opossum on an E-scooter for his lightning talk "[The last six months in LLMs in five minutes](https://simonwillison.net/2026/May/19/5-minute-llms/)."
-
-<!--
-A little treat for the Friday night after PyCon US. Simon Willison's lightning talk "The Last Six Months in LLMs in five minutes." https://youtu.be/maTCM0_EM08 
--->
+During the PSF Members Luncheon, Simon Willison was sitting at my table using GLM-5.1 AI model to generate a North Virginia Opossum on an E-scooter for his lightning talk "[The last six months in LLMs in five minutes](https://simonwillison.net/2026/May/19/5-minute-llms/)." My [video](https://youtu.be/maTCM0_EM08 ) of his talk. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -799,7 +797,7 @@ Internals book
 
 ### PyLadies Lunch
 
-At the PyLadies Lunch, women take turns taking the mic and sharing accomplishments they are proud of from the past year. Although I've attended several times, I've never gotten up to speak. 
+At the PyLadies Lunch, in an effort to stop diminishing our accomplishments, women take turns taking the mic and sharing accomplishments they are proud of from the past year. Although I've attended several times, I've never gotten up to speak. 
 
 Mariatta came over to me and encouraged me to do it. Mariatta is an inspiration to me. I reflected for a couple of minutes, then got up and did it. 
 
@@ -1078,11 +1076,8 @@ He also told me Phoenix is a major "supply" hub, meaning they could find an extr
 ### More Connections Made
 
 <!---
-https://www.paulox.net/2026/05/15/pycon-us-2026/
-
 At the risk of oversharing or being judged
 Agency and belonging
-Want to go deeper into the technical aspects of our language
 
 Paul- being not a normie
 Eric Matthes
@@ -1115,15 +1110,13 @@ Bernie Madison
 Steven liu
 Selfish reasons to have more kids
 
-Stop deminshing our own accomplishments 
-
 Andy 
 
 Jorge 
-Paid 
+Isqtb 
+
 Unit testing purest 
 Black box functional 
-Fdaa 
 Mock dependencies 
 Don’t want to hit prod db 
 
