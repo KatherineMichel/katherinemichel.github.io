@@ -881,7 +881,7 @@ Last year, the PSF was on the cusp of receiving a non-trivial $1.5 million NSF g
 
 The community came through with a huge outpouring of support that resulted in a year-end fundraising record of $590,591 raised from 5561 donors. 
 
-Sponsorship:
+Major sponsorships:
 * Anthropic- $1.5 million in 2025
 * CPython developer-in-residence sponsors: Bloomberg, Meta, Vercel
 * Alpha-Omega- funds two security-in-residence roles
