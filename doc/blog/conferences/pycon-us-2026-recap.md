@@ -142,7 +142,7 @@ https://goose-docs.ai/
 
 Sam also shared with me his preferred, alternative explanation of idempotency: desired state (it runs if it needs to make changes, but doesn't if it doesn't need to make changes)
 
-Working in a database and caching space, Valkey is near-and-dear to my heart. I had the chance to connect with Jen Madriaga of AWS who works closely with Valkey Team. 
+Working in a database and caching space, Valkey is near-and-dear to my heart. At the AWS Booth, I had the chance to connect with Jen Madriaga who works closely with Valkey Team. AWS has played a major role in the creation of Valkey and its donation to the Linux Foundation. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -827,15 +827,7 @@ Developers-in-residence and targeted sponsorships:
 
 Developers-in-residence are core devs paid to work on CPython. Sponsors do not influence the work being done. With more sponsorship, more developers-in-residence can be added. Shared sponsorship is also possible. 
 
-Python 3.15 major features:
-* Lazy imports
-* frozendict
-* All the colors
-* Tachyon profiler
-
-[What's New in Python 3.15](https://docs.python.org/3.15/whatsnew/3.15.html)
-
-Steering Council thoughts during Q&A:
+Summary of Steering Council thoughts during Q&A:
 
 Packaging Council: the Core Team use case does not necessarily extend to packaging. The Packaging Council will have the domain expertise needed to solve tough packaging problems.
 
@@ -849,6 +841,14 @@ Opinions on using Rust for Standard Library modules: Rust is popular. Rust broad
 Should standard library (aka batteries) shrink, stay stable, or continue expanding: some very old batteries have been removed, but not much has been done. It is a mixed bag. How do you reconcile the slow release of modules versus higher velocity when left out versus the ease of downloading Python and having an amazing suite of functionality? One opinion is that the standard library should not grow much more. Python should only have the batteries that are essential for bootstrapping and interoperability between packages. The overhead of maintaining packages in the standard library into perpetuity is painful and costly. PyPI is an amazing package registry and packages should be hosted there anytime remotely possible.  
 
 Evolving Python's governance: the governance structure should be re-evaluted on an ongoing basis. The team has grown and changed a lot since the initial governance model was put in place, but that doesn't mean it needs to be dramatically changed. Two year terms or term limits are being considered. 
+
+Python 3.15 major features:
+* Lazy imports
+* frozendict
+* All the colors
+* Tachyon profiler
+
+[What's New in Python 3.15](https://docs.python.org/3.15/whatsnew/3.15.html)
 
 [CPython Release Schedule](https://devguide.python.org/versions/)
 
