@@ -20,6 +20,8 @@ Table of Contents
         - [AWS and Valkey](#aws-and-valkey)
 - [Friday](#friday)
     - [Welcome](#welcome)
+    - [Nvidia Sponsor Talk](#nvidia-sponsor-talk)
+    - [Meta Sponsor Talk](#meta-sponsor-talk)
     - [PSF Welcome](#psf-welcome)
     - [Lin Qiao Keynote](#lin-qiao-keynote)
     - [Catch Up With Guido](#catch-up-with-guido)
@@ -164,6 +166,26 @@ PyCon US 2026 fun facts:
 * Python 3.15.0 is in beta, and it's the most colorful Python yet
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Nvidia Sponsor Talk
+
+Recent major initiatives
+* Cuda Python 1.0
+* Pythonic APIs for Cuda
+* Packaging: creating a packaging console, working on wheel variance, teaching packaging how to know about modern hardware
+* Contributions to CPython, free-threading Python
+* Rust into CPython
+
+### Meta Sponsor Talk
+
+This is Meta's 10th year of sponsoring the PSF. 
+
+Recent major initiatives
+* Helped land lazy imports in CPython
+* Worked on Life Guard- open source project to help teams adopt lazy imports more safely
+* Free-threaded Python- testing internally and demonstrated approximately 30% savings in real product use case
+* Contributing to work on unified PyTorch native stack for AI development
+* TritorX, writing GPU Kernels directly in Python
 
 ### PSF Welcome
 
@@ -1114,18 +1136,15 @@ Andy
 
 Jorge 
 Isqtb 
-
 Unit testing purest 
 Black box functional 
 Mock dependencies 
 Don’t want to hit prod db 
 
 Sarah entzminger 
-
-Chatting with Paul about Andrew Ng
 -->
 
-* Chatted with Python Security Developer-in-Residence Seth Larson about the outstanding Security Track
+* Chatted with Python Security Developer-in-Residence Seth Larson about the outstanding Security Track and learned of the sprinting he would do to on a Python Security Policy and Threat Model ([issue](https://github.com/python/devguide/issues/1803) and [draft PR](https://github.com/python/devguide/pull/1804))
 * Chatted with Paul McGuire about what it was like to work on [Python in a Nutshell](https://learning.oreilly.com/library/view/python-in-a/9781098113544/) with Alex Martelli
 * Met Greg Smith and obtained a Claude Code Voucher
 * Got a bear hug from Carol Willing and a request to catch up soon
