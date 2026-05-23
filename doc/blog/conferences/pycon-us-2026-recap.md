@@ -28,6 +28,8 @@ Table of Contents
     - [Catch Up With Anthony](#catch-up-with-anthony)
 - [Saturday](#saturday)
     - [D&I Panel](#d-&-i-panel)
+    - [Anthropic Sponsor Talk](#anthropic-sponsor-talk)
+    - [Hudson River Trading Sponsor Talk](#hudson-river-trading-sponsor-talk)
     - [Pablo Galindo Salgado Keynote](#pablo-galindo-salgado)
     - [PSF Members Luncheon](#psf-members-luncheon)
     - [Simon Willison Lightning Talk](#simon-willison-lightning-talk)
@@ -247,6 +249,14 @@ Recent major initiatives
 * Let's do what it takes to support PSF
 * Anthropic provides a Claude for Open Source Program- you don't have to fit the criteria on the form
 * Anthropic handed out free Claude Max for a month vouchers
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Hudson River Trading Sponsor Talk
+
+Hudson River Trading is PSF newest Visionary Sponsor. 
+
+At a time of uncertainty, Hudson River Trading is ramping up. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
