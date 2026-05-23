@@ -818,11 +818,13 @@ Core Team sprints:
 * 2025: [hosted in Cambridge by ARM](https://developer.arm.com/community/arm-community-blogs/b/tools-software-ides-blog/posts/cpython-core-dev-sprint-2025-at-arm-cambridge-the-biggest-one-yet)
 * 2026: will be hosted in San Francisco by OpenAI
 
-Developers in Residence and targeted sponsorships:
+Developers-in-residence and targeted sponsorships:
 * Petr Viktorin, Bloomberg
 * Serhiy Storchaka, Vercel
-* TBD (formerly Łukasz Langa, Meta)
-  
+* TBD (formerly Łukasz Langa, Meta- this sponsorship is ongoing)
+
+Developers-in-residence are core devs paid to work on CPython. Sponsors do not influence the work being done. With more sponsorship, more developers-in-residence can be added. Shared sponsorship is also possible. 
+
 Python 3.15 major features:
 * Lazy imports
 * frozendict
