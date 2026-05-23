@@ -228,221 +228,6 @@ https://www.amazon.com/gp/product/B086W1YQG9/ref=kinw_myk_ro_title
 -->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-<!--
-Mind the gap! Why static typing requires more than just adding annotations
-Jia Chen, Steven Troxler
-Room 103ABC
-https://typing.python.org/en/latest/
-https://us.pycon.org/2026/speaker/profile/15/
-Steven is part of the Python language tooling team at Meta, currently working on the Pyrefly type checker (https://github.com/facebook/pyrefly)
-In addition to his work on first Pyre and then Pyrefly at Meta, Steven helps coordinate activities for the Python typing community and was a co-author of PEP 698 adding an @overload decorator to Python. He has co-hosted the PyCon typing summit the past two years in 2024 and 2025.
-
-GPU Communications for Python
-Benjamin Glick, Michael Yh Wang
-Room 104AB
-https://en.wikipedia.org/wiki/Graphics_processing_unit
-https://en.wikipedia.org/wiki/High-performance_computing
-https://docs.nvidia.com/nvshmem/api/api/language_bindings/python/index.html
-https://github.com/NVIDIA/nccl/discussions/2006
-https://docs.nvidia.com/cuda/cuda-c-programming-guide/
-https://dbader.org/blog/writing-a-dsl-with-python
-https://numba.pydata.org/
-https://developer.nvidia.com/blog/achieve-cutlass-c-performance-with-python-apis-using-cute-dsl/
-https://github.com/NVIDIA/numbast
-LTO-IR (Link Time Optimization - Intermediate Representation) is a compiler technology, commonly used in LLVM/Clang and CUDA (NVIDIA)
-
-AI
-AI-Assisted Contributions and Maintainer Load
-Paolo Melchiorre
-https://www.paulox.net/2026/05/15/pycon-us-2026/
-Grand Ballroom A
-
-
-PEP 750 - T-strings: safer and smarter string processing
-Vinícius Gubiani Ferreira
-Room 103ABC
-https://peps.python.org/pep-0498/
-https://peps.python.org/pep-0750/
-https://realpython.com/python-t-strings/
-
-AI
-AI-Powered Python Education : Towards Adaptive and Inclusive Learning
-Sonny Mupfuni
-Grand Ballroom A
-
-How to give your Python code to someone else
-Russell Keith-Magee
-Grand Ballroom B
-
-How many spoons does your environment cost: Feat. demos breaking and the human element of your broken env
-Dawn Wages
-Room 104AB
-
-
-What's so hard about writing a type checker? A tour of ty
-Carl Meyer
-Room 103ABC
-https://github.com/astral-sh/ty
-incremental re-checking as you type, control-flow-sensitive type narrowing, gradual typing, and set-theoretic types (unions, intersections, and negations)
-
-Breaking the Speed Limit: Fast Statistical Models with Python 3.14, Numba, and JAX
-Wenxin Jiang, Jian Yin
-Room 104AB
-NumPy, Python 3.14 (with free-threaded or JIT configurations), Numba, and JAX
-https://numpy.org/
-https://docs.jax.dev/en/latest/notebooks/thinking_in_jax.html
-https://numba.pydata.org/
-
-AI
-Making African Languages Visible: A Python-Based Guide to Low-Resource Language ID
-Gift Ojeabulu
-Grand Ballroom A
-FastText, MasakhaNER dataset on Huggingface
-AfroXLMR, Masakhane Models, and spaCy’s limited-language pipelines
-https://fasttext.cc/
-https://huggingface.co/datasets/masakhane/masakhaner
-https://huggingface.co/Davlan/afro-xlmr-large
-https://huggingface.co/masakhane
-https://spacy.io/usage/processing-pipelines
-
-Lunch
-
-
-AI
-Running Large Language Models on Laptops: Practical Quantization Techniques in Python
-Aayush Kumar JVS
-Grand Ballroom A
-quantization techniques, QLoRA, bitsandbytes, GGUF, and GGML
-https://medium.com/data-science-at-microsoft/exploring-quantization-in-large-language-models-llms-concepts-and-techniques-4e513ebf50ee
-
-The Bakery: How PEP810 sped up my bread operations business
-Jacob Coffee
-Room 103ABC
-https://peps.python.org/pep-0810/
-
-Peeking under the hood of uv run
-Zanie Blue
-Room 104AB
-https://docs.astral.sh/uv/guides/scripts/
-
-Panel: Fostering better collaboration between the scientific Python community and core Python development
-Jonathan Dekhtiar, Dawn Wages, Michael Droettboom
-Grand Ballroom B
-
-
-AI
-Distributing AI with Python in the Browser: Edge Inference and Flexibility Without Infrastructure
-Fabio Pliger
-Grand Ballroom A
-JavaScript model runners, leveraging WebGPU/WebNN
-https://webgpu.org/
-https://webmachinelearning.github.io/webnn-intro/
- 
-A Shiny for Python Cultural Survival Tool: Training Your Slang Translator
-Elizabeth Black
-Room 103ABC
-TF-IDF and cosine similarity, reactive UI
-
-How to port a Python kernel to Pyodide for a blazingly fast in-browser coding experience
-Myles Scolnick
-Room 104AB
-Pyodide, JupyterLite and marimo, WebAssembly
-https://pyodide.org/en/stable/
-https://github.com/jupyterlite/jupyterlite
-https://marimo.io/
-https://webassembly.org/
-
-pathlib: why and how to use it
-Trey Hunner
-Grand Ballroom B
-https://docs.python.org/3/library/pathlib.html
-
-
-From Graveyard to Glory: Production Python in the Browser
-Mahmoud Hashemi
-Room 104AB
-Pyodide, WebAssembly, build pipeline, CDN, PyPI wheels, versioned, cache-busted bundles, SSR and Web Workers, responsive, SEO optimized, orchestrate Svelte and Vite using Comlink for seamless RPC between the JS main thread and the Python worker. Leveraging Pydantic + OpenAPI for TypeScript safety. Realities. 
-https://pyodide.org/en/stable/
-https://webassembly.org/
-https://svelte.dev/
-https://vite.dev/
-https://github.com/googlechromelabs/comlink
-https://en.wikipedia.org/wiki/Remote_procedure_call
-https://github.com/pydantic/pydantic
-https://www.openapis.org/
-https://www.typescriptlang.org/
-
-Beyond the P-Value: A Data Scientist’s Guide to Tier-1 Feature Launches
-Jyoti Yadav
-Room 103ABC
-"Launch Post-Mortem" using a Jupyter Notebook, CausalML and PyMatch
-https://github.com/uber/causalml
-https://github.com/benmiroglio/pymatch
-
-AI
-Free-threaded Python: past, present and future
-Thomas Wouters
-Grand Ballroom B
-Thread safety, data races, and concurrent designs
-
-
-AI
-What Python Developers Need to Know About Hardware: A Practical Guide to GPU Memory, Kernel Scheduling, and Execution Models
-Santosh Appachu Devanira Poovaiah, Vyas Ramasubramani
-Grand Ballroom A
-How GPU memory is structured, why kernel launches behave differently from Python function calls, how floating-point math on GPUs differs from CPUs, and why the same Python code behaves differently across GPU generations or SDK versions. Real examples in PyTorch and TensorFlow,
-https://en.wikipedia.org/wiki/Graphics_processing_unit
-https://en.wikipedia.org/wiki/Floating-point_arithmetic
-https://pytorch.org/
-https://www.tensorflow.org/
-
-Demystifying Python's Generational Garbage Collector
-Puneet Khushwani
-Room 104AB
-https://docs.python.org/3/library/gc.html
-from reference counting's limitations to the intricacies of cyclic garbage detection
-
-Lock-Free Multi-Core Performance with Behavior-Oriented Concurrency
-Matthew Johnson
-Grand Ballroom B
-https://microsoft.github.io/bocpy/
-https://github.com/microsoft/bocpy
-
-Why Software Engineering Best Practices Fail in Data Engineering
-Constance Martineau
-Room 103ABC
-
-
-AI
-How to Build Your First Real-Time Voice Agent in Python (Without Losing Your Mind)
-Camila Hinojosa Añez, Elizabeth Fuentes
-Grand Ballroom A
-Python, AWS services (for speech and LLM), and Pipecat
-https://github.com/pipecat-ai/pipecat
-
-Debugging Python in Production: Practical Techniques Beyond Print Statements
-Anshul Jannumahanti
-Room 103ABC
-Structured logging, stack trace analysis, runtime inspection, and controlled reproduction of bugs.
-
-Demystifying the GIL
-Bruce Eckel
-Grand Ballroom B
-GIL protects you from basic shared-memory concurrency errors, Python 3.14 
-
-Python and the JVM - A Love Story
-Shir Havron
-Volunteer
-Room 104AB
-JVM, Py4J, PySpark
-https://en.wikipedia.org/wiki/Java_virtual_machine
-https://www.py4j.org/
-https://spark.apache.org/docs/latest/api/python/index.html
-
-Lightning Talks
-Lightning Talks (Pacific Ballroom - Arena)
--->
  
 ## Saturday
 
@@ -503,10 +288,6 @@ Ned Batchelder gave a moving lightning talk adapting Eric Holscher's Conference 
 
 ![](pycon-us-2026-recap-images/lightning-talk-ned-space-and-time.jpg)
 
-<!--
-Explain talk
--->
-
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### PyLadies Auction
@@ -527,245 +308,7 @@ Stats:
 * $60,000 raised
 * Max bid: $4,000
 
-<!--
-Shawn Brown
-Paper tic-tac-toe
-Thank you to Al for covering California tax
--->
-
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-
-<!--
-Lightning Talks (Pacific Ballroom - Arena)/Coffee
-
-D&I Panel: Python is for Everyone: Growing the Community Without Limits (Pacific Ballroom - Arena)
-Keynote — Pablo Galindo Salgado, En Español (Pacific Ballroom - Arena)
-
-
-Security
-FastAPI Security Patterns: OAuth 2.0, JWTs, and API Keys Done Right
-Ian
-Room 103ABC
-https://fastapi.tiangolo.com/
-https://fastapi.tiangolo.com/tutorial/security/simple-oauth2/
-https://fastapi.tiangolo.com/tutorial/security/oauth2-jwt/
-https://fastapi.tiangolo.com/reference/security/
-
-Python for Humans - Designing Python Code Like a User Interface
-Justin Lee
-Grand Ballroom A
-Black, ruff, and Pylance
-
-Conquer multithreaded Python with Blanket
-Larry Hastings
-Grand Ballroom B
-
-Hash me if you can: let's talk about Python dictionaries!
-Mia Bajić
-Room 104AB
-
-
-Beyond Optional in Real-World Projects: Missing, None, and Unset
-Koudai Aono
-Room 104AB
-a missing key (the field is absent),
-an explicit None (the value is present and intentionally null),
-an unset input (the caller didn't specify the field, so you must not touch it).
-
-Security
-Anatomy of a Phishing Campaign
-Mike Fiedler
-Room 103ABC
-In July 2025, PyPI users received emails
-https://blog.pypi.org/posts/2025-07-28-pypi-phishing-attack/
-September 2025 follow-up campaign targeting pypi-mirror.org
-https://blog.pypi.org/posts/2025-09-23-plenty-of-phish-in-the-sea/
-
-Switching from Sphinx to Markdown
-Kattni
-Grand Ballroom B
-
-Don’t Write Polars Code with a Pandas Accent
-Joram Mutenge
-Grand Ballroom A
-https://realpython.com/polars-vs-pandas/
-
-
-Security
-Zero Trust in 200ms: Implementing Identity-Per-Transaction with Python and Serverless
-Tristan McKinnon
-Room 103ABC
-The Identity-Per-Transaction Pattern: Why "rotating keys" is obsolete. We walk through a Python-based identity broker that instantiates a unique, cryptographically scoped IAM credential for every single file transaction—and destroys it milliseconds later.
-Streaming De-identification: How to implement a clean room scrubbing layer using Python generators and NLP (Microsoft Presidio) to tokenize PII in-memory before it ever touches your data lake.
-Audit-Ready Logging: Techniques for structuring Python's logging module to produce immutable, auditor-friendly JSON trails that prove compliance without leaking sensitive data.
-
-No More Spreadsheets! Building PyLadiesCon Infrastructure with Python and Django
-Mariatta
-Grand Ballroom A
-https://conference.pyladies.com/docs/volunteers/committee_infra/
-https://conference.pyladies.com/docs/
-
-The Exceptions We Don't Catch in Technical Conversations
-Emin Martinian
-Grand Ballroom B
-
-
-Lunch
-
-
-The Surprising Effectiveness of Immutable Data Structures
-Brett Slatkin
-Room 104AB
-frozen feature of the dataclasses built-in library, and how it compares to and complements other immutable language features and community packages.
-https://realpython.com/python-mutable-vs-immutable-types/
-https://docs.python.org/3/tutorial/datastructures.html
-https://en.wikipedia.org/wiki/Functional_programming
-
-Security
-Rust for CPython: Making Python Safer and More Robust for Everyone
-Emma Smith
-https://emmatyping.dev/talks/pyconus-2026/
-Room 103ABC
-C code suffers from memory and thread unsafety, leading to crashes and potentially exploitable security bugs. 
-Rust for CPython project
-Android and Chromium have leveraged Rust
-https://www.cs.cornell.edu/courses/cs3410/2025sp/notes/memory_safe_langs.html
-
-[Yes, You Can] Test SQL
-Paul Zuradzki
-Grand Ballroom B
-SQL workflows and SQL/data engineers
-
-Create a Python Package: From Zero to Hero
-Mario Munoz
-Grand Ballroom A
-
-
-Beyond Rate Limiting: Adaptive Security for Python Web Applications
-Aayush Gauba
-Grand Ballroom A
-Many Python web applications rely on rate limiting, IP blocking, or simple pattern matching, 
-Lightweight AI techniques that run directly inside application middleware
-Django, Flask, and FastAPI
-https://en.wikipedia.org/wiki/Rate_limiting
-https://en.wikipedia.org/wiki/IP_address_blocking
-
-Security
-Asleep at the Wheel: Getting your SBOMs to pay attention to Python Builds
-Sanchit Sahay, Abhishek Reddypalle
-Room 103ABC
-SBOMit, an OpenSSF project
-https://github.com/SBOMit
-https://openssf.org/
-
-Using Python Biopharm to Help Cure Cancer
-Sushant Singh
-Room 104AB
-You’ll see how FastAPI and Pydantic enable strongly typed, auditable APIs suitable for regulated environments, and how Neo4j can model biological, manufacturing, and operational relationships as a living graph. On top of this foundation, we built chat-based interfaces that don’t just retrieve documents, but traverse relationships, surface patterns, and explain why something happened — enabling questions like “What changed?”, “Where have we seen this before?”, and “What decisions led us here?”
-https://fastapi.tiangolo.com/
-https://pydantic.dev/
-https://neo4j.com/docs/getting-started/
-
-Where the Sidewalk Ends: Data-Driven Urban Safety
-Fay Shaw
-Grand Ballroom B
-Using MassDOT data and the Walk Score API, I built MOSEY (Move On Safely EverYone) with Streamlit, geopandas, and folium.
-https://streamlit.io/
-https://geopandas.org/en/stable/
-https://python-visualization.github.io/folium/latest/
-
-
-Tachyon: Python 3.15's sampling profiler is faster than your code
-Pablo Galindo Salgado, Laszlo Kiss Kollar
-Grand Ballroom A
-https://python4data.science/en/latest/performance/tachyon.html
-https://hugovk.dev/blog/2026/faster-pillow/
-
-The art of live process manipulation with Python 3.14's zero-overhead debugging interface
-Savannah Ostrowski
-Grand Ballroom B
-Python 3.14
-sys.remote_exec() can be combined with debugpy (an implementation of the Debug Adapter Protocol) to provide full IDE debugging experiences for live processes.
-https://peps.python.org/pep-0768/
-
-The Terminal is the New Browser: Building Rich TUIs with Textual
-Andres Pineda
-Room 104AB
-'Terminal User Interfaces' (TUIs)
-https://textual.textualize.io/
-
-Security
-Post-Incident Runtime SBOM Generation from Python Memory
-Hala Ali, Andrew Case
-Room 103ABC
-Across 51 real-world Python applications (web frameworks, CLI tools, ML platforms, schedulers, and visualization tools), we found significant mismatches between what SBOM tools report and what the memory reveals.
-
-
-Thinking of Topic Modeling as Search
-Kas Stohr
-Room 104AB
-How to store topic embeddings on popular databases to enable search
-
-Making Python Faster with Free Threading and Mypyc
-Jukka Lehtosalo
-Grand Ballroom A
-Ahead-of-time compilation to C extensions using mypyc.
-https://github.com/mypyc/mypyc
-
-Security
-GitHub Actions Security in Python Packages
-Andrew Nesbitt
-Room 103ABC
-Trusted publishing to PyPI via OIDC
-Why GitHub Actions is a supply chain risk
-What's missing compared to pip, npm, and other package managers
-Findings from scanning Python package workflows at scale
-What we can learn from pip's security model
-A checklist for hardening Python package release workflows
-How to integrate zizmor into CI pipelines
-https://docs.pypi.org/trusted-publishers/
-https://docs.pypi.org/trusted-publishers/security-model/
-https://github.com/zizmorcore/zizmor
-
-Getting Started with Celery: Building Your First Background Task System in Python
-Italo Carvalho Vianelli Ribeiro
-Grand Ballroom B
-https://docs.celeryq.dev/en/main/getting-started/introduction.html
-
-
-High-Performance LLM Inference in Pure Python with PyTorch Custom Ops
-Yineng Zhang
-Grand Ballroom A
-large language model (LLM) inference engine written entirely in Python can reach performance comparable to C++-based systems such as TensorRT-LLM. Based on experience maintaining SGLang—an open-source pure-Python inference engine
-https://github.com/NVIDIA/TensorRT-LLM
-https://github.com/sgl-project/sglang
-
-Security
-Breaking Bad (Packages): Why Traditional Vulnerability Tracking Fails Supply Chain Attacks
-Shelby Cunningham, Madison Ficorilli
-Room 103ABC
-what is the best way to track malicious supply chain compromises
-
-Upgrading Python CLIs: From Scripts to Interactive Tools
-Avik Basu
-Grand Ballroom B
-First, we'll use Typer to replace verbose argparse code with clean, type-safe configuration management. Next, we'll add Rich for progress bars, tables, and styled output. Lastly, we will introduce some interactive elements with Textual, e.g. dashboards, filtering, and real-time updates. 
-Typer, Rich, Textual
-https://typer.tiangolo.com/
-https://github.com/textualize/rich
-https://textual.textualize.io/
-
-When KPIs Go Weird: Anomaly Detection with Python
-Juliana Ferreira Alves
-Room 104AB
-pandas, scikit-learn, and PyOD
-https://github.com/yzhao062/pyod
-
-
-Lightning Talks
-Lightning Talks (Pacific Ballroom - Arena)
--->
 
 ## Sunday
 
@@ -1007,8 +550,544 @@ Paul was an early Python user featured in the Cult Repo [Python documentary](htt
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-    
+## Monday
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Engine Failure
+
+My flight from Long Beach to Dallas seemed relatively normal until the pilot accidentally said "Mayday Southwest" over the PA. No one seemed to notice, including the flight attendants who were taking orders, but I was pretty sure something bad had to have happened. Eventually, the pilot announced that the #1 engine had failed, and we were diverting to Phoenix. Everyone clapped when we landed and laughed when the flight attendant said "welcome to Phoenix." We were met on the runway by firetrucks who were there to make sure there was no fire in the engine. 
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### PyCon Lives On
+
+Moments like this seem to break the ice and bring people closer. As my row chatted, I mentioned that I'd just taken a tour of Southwest Headquarters a few weeks earlier. It turned out the guy sitting next to me works in the Southwest Network Operations Center. His team had made one of the dashboards I'd seen on the tour, and he'd also been at PyCon US. It's a small world. 
+
+I showed him my [Southwest Headquarters Tour blog post](https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html), and he gave me additional insight into the tech they use. 
+
+He also told me Phoenix is a major "supply" hub, meaning they could find an extra plane and get us up in the air again quickly, which they did. 
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### More Connections Made
+
+<!---
+At the risk of oversharing or being judged
+Agency and belonging
+
+Paul- being not a normie
+Eric Matthes
+Keith the ee Murray 
+Keith told me my post 
+Director of Python discord
+Python subreddit 
+Anu rag
+Guy from Nvidia
+I belong
+
+
+Phoebe Polk
+Moshe z
+
+Phillip
+
+Paul pach ekk 
+Jon Gould
+Jim Anderson
+
+Rob ludeick
+Mario
+
+Rob, Catherine, Paul, jon
+Paul Hildegard Disney character 
+Josh gaac 
+Bernie Madison 
+
+Steven liu
+Selfish reasons to have more kids
+
+Andy 
+
+Jorge 
+Isqtb 
+
+Sarah entzminger 
+-->
+
+* Chatted with Python Security Developer-in-Residence Seth Larson about the outstanding Security Track and learned of the sprinting he would do on a Python Security Policy and Threat Model ([issue](https://github.com/python/devguide/issues/1803) and [draft PR](https://github.com/python/devguide/pull/1804))
+* Chatted with Paul McGuire about what it was like to work on [Python in a Nutshell](https://learning.oreilly.com/library/view/python-in-a/9781098113544/) with Alex Martelli
+* Met Greg Smith and obtained a Claude Code Voucher
+* Got a bear hug from Carol Willing and a request to catch up soon
+* Chatted with Will Vincent about building in public
+* Learned of Paul Everitt's [The Shift to Agentic Engineering talk](https://www.youtube.com/watch?v=n366hY4JZ9U&t=1s) at Andrew Ng's AI Dev 2026 Conference after their [Spec Driven Development with Coding Agents](https://www.deeplearning.ai/courses/spec-driven-development-with-coding-agents) collaboration
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+## Until Next Time
+
+Thank you to everyone who made PyCon US 2026 special. The conference returns to Long Beach May 12-18, 2027. 
+
+See you next year!
+
+![](pycon-us-2026-recap-images/queen-mary-me-at-the-helm.jpg)
+Me at a photo-op helm on the Queen Mary 
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
 <!--
+Friday
+
+Mind the gap! Why static typing requires more than just adding annotations
+Jia Chen, Steven Troxler
+Room 103ABC
+https://typing.python.org/en/latest/
+https://us.pycon.org/2026/speaker/profile/15/
+Steven is part of the Python language tooling team at Meta, currently working on the Pyrefly type checker (https://github.com/facebook/pyrefly)
+In addition to his work on first Pyre and then Pyrefly at Meta, Steven helps coordinate activities for the Python typing community and was a co-author of PEP 698 adding an @overload decorator to Python. He has co-hosted the PyCon typing summit the past two years in 2024 and 2025.
+
+GPU Communications for Python
+Benjamin Glick, Michael Yh Wang
+Room 104AB
+https://en.wikipedia.org/wiki/Graphics_processing_unit
+https://en.wikipedia.org/wiki/High-performance_computing
+https://docs.nvidia.com/nvshmem/api/api/language_bindings/python/index.html
+https://github.com/NVIDIA/nccl/discussions/2006
+https://docs.nvidia.com/cuda/cuda-c-programming-guide/
+https://dbader.org/blog/writing-a-dsl-with-python
+https://numba.pydata.org/
+https://developer.nvidia.com/blog/achieve-cutlass-c-performance-with-python-apis-using-cute-dsl/
+https://github.com/NVIDIA/numbast
+LTO-IR (Link Time Optimization - Intermediate Representation) is a compiler technology, commonly used in LLVM/Clang and CUDA (NVIDIA)
+
+AI
+AI-Assisted Contributions and Maintainer Load
+Paolo Melchiorre
+https://www.paulox.net/2026/05/15/pycon-us-2026/
+Grand Ballroom A
+
+
+PEP 750 - T-strings: safer and smarter string processing
+Vinícius Gubiani Ferreira
+Room 103ABC
+https://peps.python.org/pep-0498/
+https://peps.python.org/pep-0750/
+https://realpython.com/python-t-strings/
+
+AI
+AI-Powered Python Education : Towards Adaptive and Inclusive Learning
+Sonny Mupfuni
+Grand Ballroom A
+
+How to give your Python code to someone else
+Russell Keith-Magee
+Grand Ballroom B
+
+How many spoons does your environment cost: Feat. demos breaking and the human element of your broken env
+Dawn Wages
+Room 104AB
+
+
+What's so hard about writing a type checker? A tour of ty
+Carl Meyer
+Room 103ABC
+https://github.com/astral-sh/ty
+incremental re-checking as you type, control-flow-sensitive type narrowing, gradual typing, and set-theoretic types (unions, intersections, and negations)
+
+Breaking the Speed Limit: Fast Statistical Models with Python 3.14, Numba, and JAX
+Wenxin Jiang, Jian Yin
+Room 104AB
+NumPy, Python 3.14 (with free-threaded or JIT configurations), Numba, and JAX
+https://numpy.org/
+https://docs.jax.dev/en/latest/notebooks/thinking_in_jax.html
+https://numba.pydata.org/
+
+AI
+Making African Languages Visible: A Python-Based Guide to Low-Resource Language ID
+Gift Ojeabulu
+Grand Ballroom A
+FastText, MasakhaNER dataset on Huggingface
+AfroXLMR, Masakhane Models, and spaCy’s limited-language pipelines
+https://fasttext.cc/
+https://huggingface.co/datasets/masakhane/masakhaner
+https://huggingface.co/Davlan/afro-xlmr-large
+https://huggingface.co/masakhane
+https://spacy.io/usage/processing-pipelines
+
+Lunch
+
+
+AI
+Running Large Language Models on Laptops: Practical Quantization Techniques in Python
+Aayush Kumar JVS
+Grand Ballroom A
+quantization techniques, QLoRA, bitsandbytes, GGUF, and GGML
+https://medium.com/data-science-at-microsoft/exploring-quantization-in-large-language-models-llms-concepts-and-techniques-4e513ebf50ee
+
+The Bakery: How PEP810 sped up my bread operations business
+Jacob Coffee
+Room 103ABC
+https://peps.python.org/pep-0810/
+
+Peeking under the hood of uv run
+Zanie Blue
+Room 104AB
+https://docs.astral.sh/uv/guides/scripts/
+
+Panel: Fostering better collaboration between the scientific Python community and core Python development
+Jonathan Dekhtiar, Dawn Wages, Michael Droettboom
+Grand Ballroom B
+
+
+AI
+Distributing AI with Python in the Browser: Edge Inference and Flexibility Without Infrastructure
+Fabio Pliger
+Grand Ballroom A
+JavaScript model runners, leveraging WebGPU/WebNN
+https://webgpu.org/
+https://webmachinelearning.github.io/webnn-intro/
+ 
+A Shiny for Python Cultural Survival Tool: Training Your Slang Translator
+Elizabeth Black
+Room 103ABC
+TF-IDF and cosine similarity, reactive UI
+
+How to port a Python kernel to Pyodide for a blazingly fast in-browser coding experience
+Myles Scolnick
+Room 104AB
+Pyodide, JupyterLite and marimo, WebAssembly
+https://pyodide.org/en/stable/
+https://github.com/jupyterlite/jupyterlite
+https://marimo.io/
+https://webassembly.org/
+
+pathlib: why and how to use it
+Trey Hunner
+Grand Ballroom B
+https://docs.python.org/3/library/pathlib.html
+
+
+From Graveyard to Glory: Production Python in the Browser
+Mahmoud Hashemi
+Room 104AB
+Pyodide, WebAssembly, build pipeline, CDN, PyPI wheels, versioned, cache-busted bundles, SSR and Web Workers, responsive, SEO optimized, orchestrate Svelte and Vite using Comlink for seamless RPC between the JS main thread and the Python worker. Leveraging Pydantic + OpenAPI for TypeScript safety. Realities. 
+https://pyodide.org/en/stable/
+https://webassembly.org/
+https://svelte.dev/
+https://vite.dev/
+https://github.com/googlechromelabs/comlink
+https://en.wikipedia.org/wiki/Remote_procedure_call
+https://github.com/pydantic/pydantic
+https://www.openapis.org/
+https://www.typescriptlang.org/
+
+Beyond the P-Value: A Data Scientist’s Guide to Tier-1 Feature Launches
+Jyoti Yadav
+Room 103ABC
+"Launch Post-Mortem" using a Jupyter Notebook, CausalML and PyMatch
+https://github.com/uber/causalml
+https://github.com/benmiroglio/pymatch
+
+AI
+Free-threaded Python: past, present and future
+Thomas Wouters
+Grand Ballroom B
+Thread safety, data races, and concurrent designs
+
+
+AI
+What Python Developers Need to Know About Hardware: A Practical Guide to GPU Memory, Kernel Scheduling, and Execution Models
+Santosh Appachu Devanira Poovaiah, Vyas Ramasubramani
+Grand Ballroom A
+How GPU memory is structured, why kernel launches behave differently from Python function calls, how floating-point math on GPUs differs from CPUs, and why the same Python code behaves differently across GPU generations or SDK versions. Real examples in PyTorch and TensorFlow,
+https://en.wikipedia.org/wiki/Graphics_processing_unit
+https://en.wikipedia.org/wiki/Floating-point_arithmetic
+https://pytorch.org/
+https://www.tensorflow.org/
+
+Demystifying Python's Generational Garbage Collector
+Puneet Khushwani
+Room 104AB
+https://docs.python.org/3/library/gc.html
+from reference counting's limitations to the intricacies of cyclic garbage detection
+
+Lock-Free Multi-Core Performance with Behavior-Oriented Concurrency
+Matthew Johnson
+Grand Ballroom B
+https://microsoft.github.io/bocpy/
+https://github.com/microsoft/bocpy
+
+Why Software Engineering Best Practices Fail in Data Engineering
+Constance Martineau
+Room 103ABC
+
+
+AI
+How to Build Your First Real-Time Voice Agent in Python (Without Losing Your Mind)
+Camila Hinojosa Añez, Elizabeth Fuentes
+Grand Ballroom A
+Python, AWS services (for speech and LLM), and Pipecat
+https://github.com/pipecat-ai/pipecat
+
+Debugging Python in Production: Practical Techniques Beyond Print Statements
+Anshul Jannumahanti
+Room 103ABC
+Structured logging, stack trace analysis, runtime inspection, and controlled reproduction of bugs.
+
+Demystifying the GIL
+Bruce Eckel
+Grand Ballroom B
+GIL protects you from basic shared-memory concurrency errors, Python 3.14 
+
+Python and the JVM - A Love Story
+Shir Havron
+Volunteer
+Room 104AB
+JVM, Py4J, PySpark
+https://en.wikipedia.org/wiki/Java_virtual_machine
+https://www.py4j.org/
+https://spark.apache.org/docs/latest/api/python/index.html
+
+Lightning Talks
+Lightning Talks (Pacific Ballroom - Arena)
+-->
+
+<!--
+Saturday
+
+Lightning Talks (Pacific Ballroom - Arena)/Coffee
+
+D&I Panel: Python is for Everyone: Growing the Community Without Limits (Pacific Ballroom - Arena)
+Keynote — Pablo Galindo Salgado, En Español (Pacific Ballroom - Arena)
+
+
+Security
+FastAPI Security Patterns: OAuth 2.0, JWTs, and API Keys Done Right
+Ian
+Room 103ABC
+https://fastapi.tiangolo.com/
+https://fastapi.tiangolo.com/tutorial/security/simple-oauth2/
+https://fastapi.tiangolo.com/tutorial/security/oauth2-jwt/
+https://fastapi.tiangolo.com/reference/security/
+
+Python for Humans - Designing Python Code Like a User Interface
+Justin Lee
+Grand Ballroom A
+Black, ruff, and Pylance
+
+Conquer multithreaded Python with Blanket
+Larry Hastings
+Grand Ballroom B
+
+Hash me if you can: let's talk about Python dictionaries!
+Mia Bajić
+Room 104AB
+
+
+Beyond Optional in Real-World Projects: Missing, None, and Unset
+Koudai Aono
+Room 104AB
+a missing key (the field is absent),
+an explicit None (the value is present and intentionally null),
+an unset input (the caller didn't specify the field, so you must not touch it).
+
+Security
+Anatomy of a Phishing Campaign
+Mike Fiedler
+Room 103ABC
+In July 2025, PyPI users received emails
+https://blog.pypi.org/posts/2025-07-28-pypi-phishing-attack/
+September 2025 follow-up campaign targeting pypi-mirror.org
+https://blog.pypi.org/posts/2025-09-23-plenty-of-phish-in-the-sea/
+
+Switching from Sphinx to Markdown
+Kattni
+Grand Ballroom B
+
+Don’t Write Polars Code with a Pandas Accent
+Joram Mutenge
+Grand Ballroom A
+https://realpython.com/polars-vs-pandas/
+
+
+Security
+Zero Trust in 200ms: Implementing Identity-Per-Transaction with Python and Serverless
+Tristan McKinnon
+Room 103ABC
+The Identity-Per-Transaction Pattern: Why "rotating keys" is obsolete. We walk through a Python-based identity broker that instantiates a unique, cryptographically scoped IAM credential for every single file transaction—and destroys it milliseconds later.
+Streaming De-identification: How to implement a clean room scrubbing layer using Python generators and NLP (Microsoft Presidio) to tokenize PII in-memory before it ever touches your data lake.
+Audit-Ready Logging: Techniques for structuring Python's logging module to produce immutable, auditor-friendly JSON trails that prove compliance without leaking sensitive data.
+
+No More Spreadsheets! Building PyLadiesCon Infrastructure with Python and Django
+Mariatta
+Grand Ballroom A
+https://conference.pyladies.com/docs/volunteers/committee_infra/
+https://conference.pyladies.com/docs/
+
+The Exceptions We Don't Catch in Technical Conversations
+Emin Martinian
+Grand Ballroom B
+
+
+Lunch
+
+
+The Surprising Effectiveness of Immutable Data Structures
+Brett Slatkin
+Room 104AB
+frozen feature of the dataclasses built-in library, and how it compares to and complements other immutable language features and community packages.
+https://realpython.com/python-mutable-vs-immutable-types/
+https://docs.python.org/3/tutorial/datastructures.html
+https://en.wikipedia.org/wiki/Functional_programming
+
+Security
+Rust for CPython: Making Python Safer and More Robust for Everyone
+Emma Smith
+https://emmatyping.dev/talks/pyconus-2026/
+Room 103ABC
+C code suffers from memory and thread unsafety, leading to crashes and potentially exploitable security bugs. 
+Rust for CPython project
+Android and Chromium have leveraged Rust
+https://www.cs.cornell.edu/courses/cs3410/2025sp/notes/memory_safe_langs.html
+
+[Yes, You Can] Test SQL
+Paul Zuradzki
+Grand Ballroom B
+SQL workflows and SQL/data engineers
+
+Create a Python Package: From Zero to Hero
+Mario Munoz
+Grand Ballroom A
+
+
+Beyond Rate Limiting: Adaptive Security for Python Web Applications
+Aayush Gauba
+Grand Ballroom A
+Many Python web applications rely on rate limiting, IP blocking, or simple pattern matching, 
+Lightweight AI techniques that run directly inside application middleware
+Django, Flask, and FastAPI
+https://en.wikipedia.org/wiki/Rate_limiting
+https://en.wikipedia.org/wiki/IP_address_blocking
+
+Security
+Asleep at the Wheel: Getting your SBOMs to pay attention to Python Builds
+Sanchit Sahay, Abhishek Reddypalle
+Room 103ABC
+SBOMit, an OpenSSF project
+https://github.com/SBOMit
+https://openssf.org/
+
+Using Python Biopharm to Help Cure Cancer
+Sushant Singh
+Room 104AB
+You’ll see how FastAPI and Pydantic enable strongly typed, auditable APIs suitable for regulated environments, and how Neo4j can model biological, manufacturing, and operational relationships as a living graph. On top of this foundation, we built chat-based interfaces that don’t just retrieve documents, but traverse relationships, surface patterns, and explain why something happened — enabling questions like “What changed?”, “Where have we seen this before?”, and “What decisions led us here?”
+https://fastapi.tiangolo.com/
+https://pydantic.dev/
+https://neo4j.com/docs/getting-started/
+
+Where the Sidewalk Ends: Data-Driven Urban Safety
+Fay Shaw
+Grand Ballroom B
+Using MassDOT data and the Walk Score API, I built MOSEY (Move On Safely EverYone) with Streamlit, geopandas, and folium.
+https://streamlit.io/
+https://geopandas.org/en/stable/
+https://python-visualization.github.io/folium/latest/
+
+
+Tachyon: Python 3.15's sampling profiler is faster than your code
+Pablo Galindo Salgado, Laszlo Kiss Kollar
+Grand Ballroom A
+https://python4data.science/en/latest/performance/tachyon.html
+https://hugovk.dev/blog/2026/faster-pillow/
+
+The art of live process manipulation with Python 3.14's zero-overhead debugging interface
+Savannah Ostrowski
+Grand Ballroom B
+Python 3.14
+sys.remote_exec() can be combined with debugpy (an implementation of the Debug Adapter Protocol) to provide full IDE debugging experiences for live processes.
+https://peps.python.org/pep-0768/
+
+The Terminal is the New Browser: Building Rich TUIs with Textual
+Andres Pineda
+Room 104AB
+'Terminal User Interfaces' (TUIs)
+https://textual.textualize.io/
+
+Security
+Post-Incident Runtime SBOM Generation from Python Memory
+Hala Ali, Andrew Case
+Room 103ABC
+Across 51 real-world Python applications (web frameworks, CLI tools, ML platforms, schedulers, and visualization tools), we found significant mismatches between what SBOM tools report and what the memory reveals.
+
+
+Thinking of Topic Modeling as Search
+Kas Stohr
+Room 104AB
+How to store topic embeddings on popular databases to enable search
+
+Making Python Faster with Free Threading and Mypyc
+Jukka Lehtosalo
+Grand Ballroom A
+Ahead-of-time compilation to C extensions using mypyc.
+https://github.com/mypyc/mypyc
+
+Security
+GitHub Actions Security in Python Packages
+Andrew Nesbitt
+Room 103ABC
+Trusted publishing to PyPI via OIDC
+Why GitHub Actions is a supply chain risk
+What's missing compared to pip, npm, and other package managers
+Findings from scanning Python package workflows at scale
+What we can learn from pip's security model
+A checklist for hardening Python package release workflows
+How to integrate zizmor into CI pipelines
+https://docs.pypi.org/trusted-publishers/
+https://docs.pypi.org/trusted-publishers/security-model/
+https://github.com/zizmorcore/zizmor
+
+Getting Started with Celery: Building Your First Background Task System in Python
+Italo Carvalho Vianelli Ribeiro
+Grand Ballroom B
+https://docs.celeryq.dev/en/main/getting-started/introduction.html
+
+
+High-Performance LLM Inference in Pure Python with PyTorch Custom Ops
+Yineng Zhang
+Grand Ballroom A
+large language model (LLM) inference engine written entirely in Python can reach performance comparable to C++-based systems such as TensorRT-LLM. Based on experience maintaining SGLang—an open-source pure-Python inference engine
+https://github.com/NVIDIA/TensorRT-LLM
+https://github.com/sgl-project/sglang
+
+Security
+Breaking Bad (Packages): Why Traditional Vulnerability Tracking Fails Supply Chain Attacks
+Shelby Cunningham, Madison Ficorilli
+Room 103ABC
+what is the best way to track malicious supply chain compromises
+
+Upgrading Python CLIs: From Scripts to Interactive Tools
+Avik Basu
+Grand Ballroom B
+First, we'll use Typer to replace verbose argparse code with clean, type-safe configuration management. Next, we'll add Rich for progress bars, tables, and styled output. Lastly, we will introduce some interactive elements with Textual, e.g. dashboards, filtering, and real-time updates. 
+Typer, Rich, Textual
+https://typer.tiangolo.com/
+https://github.com/textualize/rich
+https://textual.textualize.io/
+
+When KPIs Go Weird: Anomaly Detection with Python
+Juliana Ferreira Alves
+Room 104AB
+pandas, scikit-learn, and PyOD
+https://github.com/yzhao062/pyod
+
+
+Lightning Talks
+Lightning Talks (Pacific Ballroom - Arena)
+-->
+
+<!--
+Sunday
+
 Keynote — amanda casari (Pacific Ballroom - Arena)
 PSF - Update from our Security Engineers (Pacific Ballroom - Arena)
 
@@ -1082,92 +1161,3 @@ Room 103ABC
 
 Keynote — Rachell Calhoun & Tim Schilling (Pacific Ballroom - Arena)
 -->
-
-## Monday
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-### Engine Failure
-
-My flight from Long Beach to Dallas seemed relatively normal until the pilot accidentally said "Mayday Southwest" over the PA. No one seemed to notice, including the flight attendants who were taking orders, but I was pretty sure something bad had to have happened. Eventually, the pilot announced that the #1 engine had failed, and we were diverting to Phoenix. Everyone clapped when we landed and laughed when the flight attendant said "welcome to Phoenix." We were met on the runway by firetrucks who were there to make sure there was no fire in the engine. 
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-### PyCon Lives On
-
-Moments like this seem to break the ice and bring people closer. As my row chatted, I mentioned that I'd just taken a tour of Southwest Headquarters a few weeks earlier. It turned out the guy sitting next to me works in the Southwest Network Operations Center. His team had made one of the dashboards I'd seen on the tour, and he'd also been at PyCon US. It's a small world. 
-
-I showed him my [Southwest Headquarters Tour blog post](https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html), and he gave me additional insight into the tech they use. 
-
-He also told me Phoenix is a major "supply" hub, meaning they could find an extra plane and get us up in the air again quickly, which they did. 
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-### More Connections Made
-
-<!---
-At the risk of oversharing or being judged
-Agency and belonging
-
-Paul- being not a normie
-Eric Matthes
-Keith the ee Murray 
-Keith told me my post 
-Director of Python discord
-Python subreddit 
-Anu rag
-Guy from Nvidia
-I belong
-
-
-Phoebe Polk
-Moshe z
-
-Phillips 
-
-Paul pach ekk 
-Jon Gould
-Jim Anderson
-
-Rob ludeick
-Mario
-
-Rob, Catherine, Paul, jon
-Paul Hildegard Disney character 
-Josh gaac 
-Bernie Madison 
-
-Steven liu
-Selfish reasons to have more kids
-
-Andy 
-
-Jorge 
-Isqtb 
-Unit testing purest 
-Black box functional 
-Mock dependencies 
-Don’t want to hit prod db 
-
-Sarah entzminger 
--->
-
-* Chatted with Python Security Developer-in-Residence Seth Larson about the outstanding Security Track and learned of the sprinting he would do on a Python Security Policy and Threat Model ([issue](https://github.com/python/devguide/issues/1803) and [draft PR](https://github.com/python/devguide/pull/1804))
-* Chatted with Paul McGuire about what it was like to work on [Python in a Nutshell](https://learning.oreilly.com/library/view/python-in-a/9781098113544/) with Alex Martelli
-* Met Greg Smith and obtained a Claude Code Voucher
-* Got a bear hug from Carol Willing and a request to catch up soon
-* Chatted with Will Vincent about building in public
-* Learned of Paul Everitt's [The Shift to Agentic Engineering talk](https://www.youtube.com/watch?v=n366hY4JZ9U&t=1s) at Andrew Ng's AI Dev 2026 Conference after their [Spec Driven Development with Coding Agents](https://www.deeplearning.ai/courses/spec-driven-development-with-coding-agents) collaboration
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-## Until Next Time
-
-Thank you to everyone who made PyCon US 2026 special. The conference returns to Long Beach May 12-18, 2027. 
-
-See you next year!
-
-![](pycon-us-2026-recap-images/queen-mary-me-at-the-helm.jpg)
-Me at a photo-op helm on the Queen Mary 
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
