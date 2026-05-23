@@ -501,7 +501,9 @@ Stats:
 * Max bid: $4,000
 
 <!--
-Shawn brown
+Shawn Brown
+Paper tic-tac-toe
+Thank you to Al for covering California tax
 -->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
