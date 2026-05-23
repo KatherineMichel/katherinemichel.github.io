@@ -746,9 +746,11 @@ Alamitos Beach
 ### Google Sponsor Talk
 
 Three essential fronts Google is investing in that are linked to AI
-* Core performance
-* Code quality and correctness
-* Developer efficiency at scale
+* Core performance- commitment to free-threaded Python for high throughput, multi-core agent systems and model serving pipelines. Running these workloads is a major concurrency win. 
+* Code quality and correctness- adoption of [Pyrefly](https://pyrefly.org/) and appreciation of open source advancements
+* Developer efficiency at scale- more iterations, more experiments, delighted with recent advancements such as lazy imports
+
+Google is major user of language and close to evolution. If working on performance, scaling, typing challenges, connect. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -1099,7 +1101,7 @@ Sarah entzminger
 * Met Greg Smith to get a Claude Code Voucher
 * Got a bear hug from Carol Willing and a request to catch up soon
 * Chatted with Will Vincent about building in public
-* Chatte with Paul McGuire about what it was like to work on Python in a Nutshell with Alex Martelli
+* Chatted with Paul McGuire about what it was like to work on Python in a Nutshell with Alex Martelli
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
