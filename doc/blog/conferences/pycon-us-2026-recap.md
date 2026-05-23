@@ -182,10 +182,10 @@ This is Meta's 10th year of sponsoring the PSF.
 
 Recent major initiatives
 * Helped land lazy imports in CPython
-* Worked on Life Guard- open source project to help teams adopt lazy imports more safely
-* Free-threaded Python- testing internally and demonstrated approximately 30% savings in real product use case
+* Developed Life Guard, an open source project to help teams adopt lazy imports more safely
+* Tested free-threading Python internally and demonstrated approximately 30% savings in real product use case
 * Contributing to work on unified PyTorch native stack for AI development
-* TritorX, writing GPU Kernels directly in Python
+* Developed TritorX, writing GPU Kernels directly in Python
 
 ### PSF Welcome
 
