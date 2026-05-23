@@ -240,6 +240,16 @@ D&I Workgroup's 3 initiatives:
 * How to setup a local Python community (community)
 * Collecting survey feedback from the Python Community
 
+### Anthropic Sponsor Talk
+
+Recent major initiatives
+* Entered a two-year, $1.5 million PSF sponsorship (not just security or infrastructure- community outreach, developer-in-residence, everything PSF does)
+* Let's do what it takes to support PSF
+* Anthropic provides a Claude for Open Source Program- you don't have to fit the criteria on the form
+* Anthropic handed out free Claude Max for a month vouchers
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
 ### Pablo Galindo Salgado Keynote
 
 Pablo gave a keynote in both Spanish and English, a first. 
