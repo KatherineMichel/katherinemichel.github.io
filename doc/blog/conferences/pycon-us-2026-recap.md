@@ -63,10 +63,6 @@ Conference description
 https://us.pycon.org/2026/schedule/talks/
 -->
 
-<!--
-![](pycon-us-2026-recap-images/me-and-guido-cutout.jpg)
--->
-
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Thursday
