@@ -877,6 +877,7 @@ The community came through with a huge outpouring of support that resulted in a 
 
 Sponsorship:
 * Anthropic- $1.5 million in 2025
+* CPython developer-in-residence sponsors: Bloomberg, Meta, Vercel
 * Alpha-Omega- funds two security-in-residence roles
 * Visionary Sponsors: Google, Fastly, Nvidia
 * New Visionary Sponsor: Hudson River Trading
