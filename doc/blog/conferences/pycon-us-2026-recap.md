@@ -32,6 +32,7 @@ Table of Contents
     - [Marina and Beach](#marina-and-beach)
     - [Google Sponsor Talk](#google-sponsor-talk)
     - [Amanda Casari Keynote](#amanda-casari-keynote)
+    - [Fastly Sponsor Talk](#fastly-sponsor-talk)
     - [Python Software Foundation Security Engineers Update](#python-software-foundation-security-engineers-update)
     - [Posters](#posters)
     - [Chatting With Emma](#chatting-with-emma)
@@ -767,6 +768,10 @@ Google is a major user of Python and close to evolution. If working on performan
 <!--
 Marc Gibbons- got a shoutout in keynote
 -->
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Fastly Sponsor Talk
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
