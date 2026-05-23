@@ -59,15 +59,11 @@ Table of Contents
 
 Disclaimer: the content of this post is a reflection of my career journey and not specific to my work at JPMorgan Chase & Co.
 
-PyCon US took place in Long Beach, California from May 13-19. 
+[PyCon US 2026](https://us.pycon.org/2026/) took place in Long Beach, California from May 13-19. 
 
 Python Security and AI were at the forefront with new dedicated tracks, in addition to the latest Python 3.15 features and community building.
 
-My goal is to compound my knowledge from year-to-year by going deeper into the technical aspects of the language and making more connections. 
-
-<!--
-https://us.pycon.org/2026/schedule/talks/
--->
+Writing this recap is an opportunity for me to record and reflect. My goal is to compound my knowledge from year-to-year by going deeper into the technical aspects of the language and making more connections within the community.
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -998,12 +994,6 @@ I had the Lombrani, one of their most popular dishes: homemade ravioli stuffed w
 As an added bonus, Paul Everitt saw me at the bar and invited me to join the JetBrains Team at their table for some fun conversation! I made some new friends, too. 
 
 Paul was an early Python user featured in the Cult Repo [Python documentary](https://www.youtube.com/watch?v=GfH4QL4VqJ0). 
-
-<!--
-https://www.deeplearning.ai/courses/spec-driven-development-with-coding-agents
-Paul's talk at Andrew Ng's conference
-https://www.youtube.com/@Deeplearningai/videos
--->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
