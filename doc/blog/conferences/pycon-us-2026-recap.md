@@ -841,7 +841,7 @@ As difficult as it can be to talk about ourselves, Mariatta explained later that
 
 Thank you, Mariatta. 
 
-Abigail started [Books for Techies program](https://www.linkedin.com/posts/abigail-mesrenyame-dogbe_booksfortechies-pyconus-share-7454935701198073856-9hfZ/). She shared that Amanda Casari helped her get the initiative off the ground. PyCon US attendees can drop off tech books and flashcards and Abigail will distribute them to kids learning how to code and junior developers in Africa. 
+Abigail Mesrenyame Dogbe started [Books for Techies program](https://www.linkedin.com/posts/abigail-mesrenyame-dogbe_booksfortechies-pyconus-share-7454935701198073856-9hfZ/). She shared that Amanda Casari helped her get the initiative off the ground. PyCon US attendees can drop off tech books and flashcards and Abigail will distribute them to kids learning how to code and junior developers in Africa. 
 
 Abigail gave me a Ghanaian milk chocolate bar. I noted that the chocolate open space I'd attended in the past did not happen this year. Abigail made a note to look into it for next year. :) 
 
@@ -977,7 +977,7 @@ Waffle bowl with Strawberry Mascarpone and Whiskey Vanilla... so yummy!
 
 ### RevSys After Party
 
-After ice cream, I walked down the block to the RevSys after-party at The Stave Bar. 
+After ice cream, I walked down the block to the [RevSys](https://www.revsys.com/) after-party at [The Stave Bar](https://thestavebar.com/). 
 
 ![](pycon-us-2026-recap-images/revsys-after-party.jpg)
 The party was rocking! I had a beautiful and tasty non-alcoholic Ginger Cooler (pictured on the bar): ginger syrup, pineapple juice, fresh lime juice, soda water
@@ -1001,7 +1001,7 @@ but, I love Italian food and the restaurant had great reviews. It did not disapp
 ![](pycon-us-2026-recap-images/lopera-lombrani.jpg)
 I had the Lombrani, one of their most popular dishes: homemade ravioli stuffed with red wine braised shortrib of beef and ricotta, gorgonzola, green pea and broccolini cream sauce. It was incredible. I want to go back next year! 
 
-As an added bonus, Paul Everitt saw me at the bar and invited me to join the JetBrains Team at their table for some fun conversation! I made some new friends, too. 
+As an added bonus, Paul Everitt saw me at the bar and invited me to join the [JetBrains](https://www.jetbrains.com/) Team at their table for some fun conversation! I made some new friends, too. 
 
 Paul was an early Python user featured in the Cult Repo [Python documentary](https://www.youtube.com/watch?v=GfH4QL4VqJ0). 
 
@@ -1152,7 +1152,7 @@ Don’t want to hit prod db
 Sarah entzminger 
 -->
 
-* Chatted with Python Security Developer-in-Residence Seth Larson about the outstanding Security Track and learned of the sprinting he would do to on a Python Security Policy and Threat Model ([issue](https://github.com/python/devguide/issues/1803) and [draft PR](https://github.com/python/devguide/pull/1804))
+* Chatted with Python Security Developer-in-Residence Seth Larson about the outstanding Security Track and learned of the sprinting he would do on a Python Security Policy and Threat Model ([issue](https://github.com/python/devguide/issues/1803) and [draft PR](https://github.com/python/devguide/pull/1804))
 * Chatted with Paul McGuire about what it was like to work on [Python in a Nutshell](https://learning.oreilly.com/library/view/python-in-a/9781098113544/) with Alex Martelli
 * Met Greg Smith and obtained a Claude Code Voucher
 * Got a bear hug from Carol Willing and a request to catch up soon
