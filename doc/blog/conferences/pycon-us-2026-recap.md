@@ -1095,6 +1095,8 @@ Mock dependencies
 Don’t want to hit prod db 
 
 Sarah entzminger 
+
+Chatting with Paul about Andrew Ng
 -->
 
 * Chatted with Seth about the outstanding Security Track
