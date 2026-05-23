@@ -841,13 +841,14 @@ Packaging Council: the Core Team use case does not necessarily extend to packagi
 
 Making free-threading the default: [PEP 779](https://peps.python.org/pep-0779/) includes the conditions. Performance, memory usage, documentation, API, library migration status matter. Although the process is going well, more real world experience with free-threading is needed. Maintainers of major packages, especially if building C extensions, should test on standard and free-threading builds and give feedback. This will help the Steering Council and Core Team decide when to safely switch to free-threading by default. In his talk about free-threading, Thomas Wouters predicts it will be after 3.16 and before 3.20.
 
-Versioning: after Python 3, a switch to year-based calendar versioning could happen (sidenote: former Django Fellow Carlton Gibson [has proposed](https://buttondown.com/carlton/archive/an-annual-release-cycle-for-django/) an annual release cycle and calendar versioning for Django as well)
 
-Evolving Python's governance: the governance structure should be re-evaluted on an ongoing basis. The team has grown and changed a lot since the initial governance model was put in place, but that doesn't mean it needs to be dramatically changed. Two year terms or term limits are being considered. 
+Versioning: after Python 3, a switch to year-based calendar versioning could happen (sidenote: former Django Fellow Carlton Gibson [has proposed](https://buttondown.com/carlton/archive/an-annual-release-cycle-for-django/) an annual release cycle and calendar versioning for Django as well)
 
 Opinions on using Rust for Standard Library modules: Rust is popular. Rust broadens the funnel of people wanting to contribute, but some people won't want to learn Rust. CPython needs to continue to attract contributors. Adding Rust in CPython is different than starting a new project. There are many things to consider: compiler versions, stable API, pinning rust compiler, build process, platforms that can be supported. Conceptually, Rust makes sense for extension modules isolated from core interpreter. Experimentation needs to take place. How do we support platforms that have bad or no rust support? This is an extremely complex, hard problem. Emmma is thinking deeply about it. This will be a multi-year project, even if it doesn't happen. The speed the proposal is moving at is impressive, and there is a lot of optimism. 
 
 Should standard library (aka batteries) shrink, stay stable, or continue expanding: some very old batteries have been removed, but not much has been done. It is a mixed bag. How do you reconcile the slow release of modules versus higher velocity when left out versus the ease of downloading Python and having an amazing suite of functionality? One opinion is that the standard library should not grow much more. Python should only have the batteries that are essential for bootstrapping and interoperability between packages. The overhead of maintaining packages in the standard library into perpetuity is painful and costly. PyPI is an amazing package registry and packages should be hosted there anytime remotely possible.  
+
+Evolving Python's governance: the governance structure should be re-evaluted on an ongoing basis. The team has grown and changed a lot since the initial governance model was put in place, but that doesn't mean it needs to be dramatically changed. Two year terms or term limits are being considered. 
 
 [CPython Release Schedule](https://devguide.python.org/versions/)
 
@@ -873,6 +874,12 @@ PSF mission: "To promote, protect and advance the Python programming language, a
 Last year, the PSF was on the cusp of receiving a non-trivial $1.5 million NSF grant for CPython and PyPI security work. The PSF Board voted unanimously against taking the money due to an ambiguous "no DEI" requirement and [the proposal was withdrawn](https://discuss.python.org/t/the-psf-has-withdrawn-a-1-5-million-proposal-to-us-government-grant-program/104620).  
 
 The community came through with a huge outpouring of support that resulted in a year-end fundraising record of $590,591 raised from 5561 donors. 
+
+Sponsorship:
+* Anthropic- $1.5 million in 2025
+* Alpha-Omega- funds two security-in-residence roles
+* Visionary Sponsors: Google, Fastly, Nvidia
+* New Visionary Sponsor: Hudson River Trading
 
 Places to find community after PyCon US: 
 * Python Discord
