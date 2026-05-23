@@ -199,6 +199,10 @@ Anthony told me I've come so far over the years, and he is so proud of me. It me
 ![](pycon-us-2026-recap-images/me-and-anthony.jpg)
 Me and Anthony, reunited again :) 
 
+<!--
+https://www.amazon.com/gp/product/B086W1YQG9/ref=kinw_myk_ro_title
+-->
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 <!--
@@ -746,6 +750,10 @@ Three essential fronts Google is investing in that are linked to AI
 
 ### Amanda Casari Keynote
 
+<!--
+Marc Gibbons- got a shoutout in keynote
+-->
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Python Software Foundation Security Engineers Update
@@ -905,14 +913,6 @@ The party was rocking! I had a beautiful and tasty non-alcoholic Ginger Cooler (
 ![](pycon-us-2026-recap-images/me-paolo-jeff-velda-frank.jpeg)
 The best of times... me with friends Paolo, Jeff, Velda, and Frank
 
-<!--
-Keith the ee Murray 
-Sarah entzminger 
-Keith comments
-Director of Python discord
-Python subreddit 
--->
-
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### L'Opera
@@ -1037,6 +1037,74 @@ He also told me Phoenix is a major "supply" hub, meaning they could find an extr
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### More Connections Made
+
+<!---
+Paul- being not a normie
+Eric Matthes
+Keith the ee Murray 
+Keith told me my post 
+Director of Python discord
+Python subreddit 
+Anu rag
+
+At the risk of oversharing or being judged
+Agency and belonging
+Want to go deeper into the technical aspects of our language
+
+Phoebe Polk
+Moshe z
+
+Phillips 
+
+Paul pach ekk 
+Jon Gould
+Jim Anderson
+
+Rob ludeick
+Mario
+
+Rob, Catherine, Paul, jon
+Paul Hildegard Disney character 
+Josh gaac 
+Bernie Madison 
+
+https://www.paulox.net/2026/05/15/pycon-us-2026/
+
+Guy from Nvidia
+I belong
+
+Seth
+
+Greg Smith
+Claude code voucher 
+
+Steven liu
+Selfish reasons to have more kids
+
+Shawn brown ncec 
+
+Might 
+Chocolate open space 
+Abigail made a note to bring it back!
+
+Stop deminshing our own accomplishments 
+Carol willing. Have call.
+
+Paul m Alex Martello 
+Andy 
+Posters 
+
+Jorge 
+Paid 
+Unit testing purest 
+Black box functional 
+Fdaa 
+Mock dependencies 
+Don’t want to hit prod db 
+
+Will Vincent 
+Sarah entzminger 
+-->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
