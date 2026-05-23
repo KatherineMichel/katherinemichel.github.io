@@ -836,7 +836,7 @@ Versioning: after Python 3, a switch to year-based calendar versioning could hap
 
 Evolving Python's governance: the governance structure should be re-evaluted on an ongoing basis. The team has grown and changed a lot since the initial governance model was put in place, but that doesn't mean it needs to be dramatically changed. Two year terms or term limits are being considered. 
 
-Opinions on using Rust for Standard Library modules: Rust is popular. Rust broadens the funnel of people wanting to contribute, but some people won't want to learn Rust. CPython needs to continue to attract contributors. There are many things to consider. This is an extremely complex, hard problem. Emmma is thinking deeply about it. This will be a multi-year project, even if it doesn't happen. The speed the proposal is moving at is impressive, and there is a lot of optimism. 
+Opinions on using Rust for Standard Library modules: Rust is popular. Rust broadens the funnel of people wanting to contribute, but some people won't want to learn Rust. CPython needs to continue to attract contributors. Adding Rust in CPython is different than starting a new project. There are many things to consider: compiler versions, stable API, pinning rust compiler, build process, platforms that can be supported. Conceptually, Rust makes sense for extension modules isolated from core interpreter. Experimentation needs to take place. How do we support platforms that have bad or no rust support? This is an extremely complex, hard problem. Emmma is thinking deeply about it. This will be a multi-year project, even if it doesn't happen. The speed the proposal is moving at is impressive, and there is a lot of optimism. 
 
 <!--
 https://lwn.net/Articles/1039612/
