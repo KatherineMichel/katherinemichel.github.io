@@ -750,7 +750,7 @@ Three essential fronts Google is investing in that are linked to AI:
 * Code quality and correctness- adoption of [Pyrefly](https://pyrefly.org/) and appreciation of open source advancements
 * Developer efficiency at scale- more iterations, more experiments, delighted with recent advancements such as lazy imports
 
-Google is major user of language and close to evolution. If working on performance, scaling, typing challenges, connect. 
+Google is a major user of Python and close to evolution. If working on performance, scaling, typing challenges, connect. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
