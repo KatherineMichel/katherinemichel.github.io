@@ -464,6 +464,10 @@ An annual impact report and PSF budget are on the way by end of June.
 
 During the PSF Members Luncheon, Simon Willison was sitting at my table using GLM-5.1 AI model to generate a North Virginia Opossum on an E-scooter for his lightning talk "[The last six months in LLMs in five minutes](https://simonwillison.net/2026/May/19/5-minute-llms/)."
 
+<!--
+A little treat for the Friday night after PyCon US. Simon Willison's lightning talk "The Last Six Months in LLMs in five minutes." https://youtu.be/maTCM0_EM08 
+-->
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Ned Batchelder Lightning Talk
