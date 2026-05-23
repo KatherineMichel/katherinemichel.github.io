@@ -31,6 +31,7 @@ Table of Contents
     - [Anthropic Sponsor Talk](#anthropic-sponsor-talk)
     - [Hudson River Trading Sponsor Talk](#hudson-river-trading-sponsor-talk)
     - [Pablo Galindo Salgado Keynote](#pablo-galindo-salgado)
+    - [Rust for CPython](#rust-for-cpython)
     - [PSF Members Luncheon](#psf-members-luncheon)
     - [Simon Willison Lightning Talk](#simon-willison-lightning-talk)
     - [Ned Batchelder Lightning Talk](#ned-batchelder-lightning-talk)
@@ -269,6 +270,10 @@ At a time of uncertainty, Hudson River Trading is ramping up.
 Pablo gave a keynote in both Spanish and English, a first. 
 
 
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Rust for CPython
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
