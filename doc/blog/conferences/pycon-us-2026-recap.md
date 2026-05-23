@@ -235,6 +235,8 @@ https://www.amazon.com/gp/product/B086W1YQG9/ref=kinw_myk_ro_title
 
 ### D&I Panel
 
+Panel Members; Débora Azevedo, Alla Barbalat, Georgi Ker, Theresa Seyram Agbenyegah (Stancy), Abhijeet Mote
+
 "As you can see, the D&I Workgroup is comprised of a lot of people from around the world, including Iran and Reuben from Tel Aviv. For us, there's no war. We communicate every month, and Reuben talks to Ali to check if everyone is okay. And that's something... that's very important for us." 
 
 D&I Workgroup's 3 initiatives: 
@@ -441,6 +443,7 @@ Packaging Council: the Core Team use case does not necessarily extend to packagi
 
 Making free-threading the default: [PEP 779](https://peps.python.org/pep-0779/) includes the conditions. Performance, memory usage, documentation, API, library migration status matter. Although the process is going well, more real world experience with free-threading is needed. Maintainers of major packages, especially if building C extensions, should test on standard and free-threading builds and give feedback. This will help the Steering Council and Core Team decide when to safely switch to free-threading by default. In his talk about free-threading, Thomas Wouters predicts it will be after 3.16 and before 3.20.
 
+What does the Steering Council consider when deciding on PEPs: Deep expertise and deep caring about the user experience make the process better. A lack of user impact and evidence of it in the PEP can be a red flag. PEPs can be classified as must have/good to have (look at impact on codebase/community). PEPs proposing new features or significant changes can be classified as enabling new, exciting feature or removing a jagged edge, an easy mistake for people to make. PEP authors typically attend Steering Council Office Hours and talk about the details of their PEP. The Steering Council has tried to incorporate more feedback from impacted community members to avoid blind spots. Steering Council Members consider what they like, don't like, what changes make the PEP palatable, to reach consensus. Discussions can go on for years. Every PEP has a trade off. Is the change worth the cost? Steering Council members sometimes find themselves researching "cool areas" they have not historically worked on. Working Groups such as C-API Working Group can help make sense of Python's moving parts. 
 
 Versioning: after Python 3, a switch to year-based calendar versioning could happen (sidenote: former Django Fellow Carlton Gibson [has proposed](https://buttondown.com/carlton/archive/an-annual-release-cycle-for-django/) an annual release cycle and calendar versioning for Django as well)
 
