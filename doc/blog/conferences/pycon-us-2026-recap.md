@@ -392,6 +392,46 @@ Fastly has a new serverless edge development platform called Fastly Compute buil
 
 ### Python Software Foundation Security Engineers Update
 
+PyPI Perspective:
+* Attacks: from typosquats to packages everyone installs
+* Secrets: credentials have become prime targets
+* Audits: transparency is essential for trust
+
+Audit and pin your dependencies.
+
+[PEP 770](https://peps.python.org/pep-0770/) was authored to create a new standard for using Software Bill-of-Materials (SBOMs) to provide metadata about dependencies. 
+
+[Slippery Zips and Sticky Tar Pits: Security and Archives](https://alpha-omega.dev/blog/slippery-zips-and-sticky-tar-pits-security-and-archives-white-paper-by-seth-larson-python-software-foundation/)
+
+[Unmasking Phantom Dependencies with Software Bill-of-Materials as Ecosystem-Neutral Metadata](https://alpha-omega.dev/blog/unmasking-phantom-dependencies-with-software-bill-of-materials-as-ecosystem-neutral-metadata-white-paper-by-seth-larson-python-software-foundation/) white paper by Seth in conjunction with Alpha-Omega to 
+
+This is bigger than Python and PyPI. 
+
+[PEP 811- Defining Python Security Response Team membership and responsibilities](https://peps.python.org/pep-0811/) gives transparency. 
+
+Nine members were added to Python Security Response Team. 
+
+[PEP 770 Software Bill‑of‑Materials (SBOM) data from PyPI, Fedora, and Red Hat](https://sethmlarson.dev/pep-770-sbom-data-from-pypi-fedora-and-redhat)
+
+Security is a journey and everyone has a role to play. Share knowledge and help each other. 
+
+Additional security milestones
+* EU Cyber Resilience Act
+* Fuzzing Python Standard Library
+* Malware and Incident Response
+* GitLab Self-hosted Trusted Publisher
+* pylock.toml Dependency Cooldowns
+
+Special thanks to security sponsors
+* Alpha-Omega
+* Anthropic
+* Google
+* Sovereign Tech Agency
+
+Sources of Python security news;
+* [PyPI Blog](https://blog.pypi.org/)
+* [PSF Blog](https://pyfound.blogspot.com/)
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Posters
