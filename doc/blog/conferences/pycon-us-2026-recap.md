@@ -403,15 +403,22 @@ Audit and pin your dependencies.
 
 [Slippery Zips and Sticky Tar Pits: Security and Archives](https://alpha-omega.dev/blog/slippery-zips-and-sticky-tar-pits-security-and-archives-white-paper-by-seth-larson-python-software-foundation/)
 
-[Unmasking Phantom Dependencies with Software Bill-of-Materials as Ecosystem-Neutral Metadata](https://alpha-omega.dev/blog/unmasking-phantom-dependencies-with-software-bill-of-materials-as-ecosystem-neutral-metadata-white-paper-by-seth-larson-python-software-foundation/) white paper by Seth in conjunction with Alpha-Omega to 
 
-This is bigger than Python and PyPI. 
 
 [PEP 811- Defining Python Security Response Team membership and responsibilities](https://peps.python.org/pep-0811/) gives transparency. 
 
+
 Nine members were added to Python Security Response Team. 
 
-[PEP 770 Software Bill‑of‑Materials (SBOM) data from PyPI, Fedora, and Red Hat](https://sethmlarson.dev/pep-770-sbom-data-from-pypi-fedora-and-redhat)
+What good are advisories and fixes if you don't know what software you are running? 
+
+[Unmasking Phantom Dependencies with Software Bill-of-Materials as Ecosystem-Neutral Metadata](https://alpha-omega.dev/blog/unmasking-phantom-dependencies-with-software-bill-of-materials-as-ecosystem-neutral-metadata-white-paper-by-seth-larson-python-software-foundation/) white paper by Seth in conjunction with Alpha-Omega to 
+
+The Python ecosystem integrates with other ecosystems. Software Bill-of-Materials makes it easy to find vulnerabilities in C, Rust, JavaScript libraries. 
+
+Seth wrote a blog post giving an update of what that implementation looks like: [PEP 770 Software Bill‑of‑Materials (SBOM) data from PyPI, Fedora, and Red Hat](https://sethmlarson.dev/pep-770-sbom-data-from-pypi-fedora-and-redhat). 
+
+Hundreds of projects have adopted it. Security scanning tools will work better and you will know when to take action to upgrade your packages. 
 
 Security is a journey and everyone has a role to play. Share knowledge and help each other. 
 
