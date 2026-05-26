@@ -604,20 +604,16 @@ He also told me Phoenix is a major "supply" hub, meaning they could find an extr
 
 My writing has begun to attract a community of fans. I had a noticeable uptick in compliments about my blog posts: 
 * Eric Matthew saw my recent Southwest Headquarters Tour blog post and thought it sounded like something I would write before he knew it was mine :)
+* Keith Murray told me that as a Director of Python discord and Python sub-Reddit moderator, he had directly witnessed the positive impact of my work on underrepresented individuals
 * Paul Everitt expressed his appreciate that I am not a "normie"
 
-<!---
-Keith the ee Murray 
-Keith told me my post 
-Director of Python discord
-Python subreddit 
+<!--- 
 Guy from Nvidia
 I belong
 
-
-Anu rag
-
-Phoebe Polk
+Steven liu
+impact of AI on education
+Selfish reasons to have more kids
 Moshe z
 
 Phillip
@@ -631,9 +627,6 @@ Rob, Catherine, Paul, jon
 Paul Hildegard Disney character 
 Josh gaac 
 Bernie Madison 
-
-Steven liu
-Selfish reasons to have more kids
 -->
 
 I chatted with 
