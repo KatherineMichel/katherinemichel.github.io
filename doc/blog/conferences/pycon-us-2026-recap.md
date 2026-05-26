@@ -614,7 +614,7 @@ He also told me Phoenix is a major "supply" hub, meaning they could find an extr
 ### More Connections Made
 
 My writing has begun to attract a community of fans. During the conference, I had a noticeable uptick in compliments about my blog posts: 
-* Eric Matthew saw my recent Southwest Headquarters Tour blog post and thought it sounded like something I would write before he knew it was mine. :)
+* Eric Matthes saw my recent Southwest Headquarters Tour blog post and thought it sounded like something I would write before he knew it was mine. :)
 * Keith Murray revealed that as a Director of Python discord and Python subreddit moderator, he had directly witnessed the positive impact of my writing on underrepresented individuals
 * Jeremy Tanner sought me out to thank me for my writing and told me it is a resource shared among community members
 * Paul Everitt expressed his appreciation that I am not a "normie"
