@@ -420,6 +420,8 @@ Abigail gave me a Ghanaian milk chocolate bar. I noted that the chocolate open s
 ![](pycon-us-2026-recap-images/me-and-abigail.jpeg)
 Me and Abigail
 
+I also got a bear hug from Carol Willing and a request to catch up soon. :)
+  
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Rachel Calhoun and Tim Schilling Keynote
@@ -600,20 +602,20 @@ He also told me Phoenix is a major "supply" hub, meaning they could find an extr
 
 ### More Connections Made
 
-<!---
-At the risk of oversharing or being judged
-Agency and belonging
+My writing has begun to attract a community of fans. I had a noticeable uptick in compliments about my blog posts: 
+* Eric Matthew saw my recent Southwest Headquarters Tour blog post and thought it sounded like something I would write before he knew it was mine :)
+* Paul Everitt expressed his appreciate that I am not a "normie"
 
-Paul- being not a normie
-Eric Matthes
+<!---
 Keith the ee Murray 
 Keith told me my post 
 Director of Python discord
 Python subreddit 
-Anu rag
 Guy from Nvidia
 I belong
 
+
+Anu rag
 
 Phoebe Polk
 Moshe z
@@ -621,11 +623,9 @@ Moshe z
 Phillip
 
 Paul pach ekk 
-Jon Gould
 Jim Anderson
 
 Rob ludeick
-Mario
 
 Rob, Catherine, Paul, jon
 Paul Hildegard Disney character 
@@ -634,21 +634,18 @@ Bernie Madison
 
 Steven liu
 Selfish reasons to have more kids
-
-Andy 
-
-Jorge 
-Isqtb 
-
-Sarah entzminger 
 -->
 
-* Chatted with Python Security Developer-in-Residence Seth Larson about the outstanding Security Track and learned of the sprinting he would do on a Python Security Policy and Threat Model ([issue](https://github.com/python/devguide/issues/1803) and [draft PR](https://github.com/python/devguide/pull/1804))
-* Chatted with Paul McGuire about what it was like to work on [Python in a Nutshell](https://learning.oreilly.com/library/view/python-in-a/9781098113544/) with Alex Martelli
-* Met Greg Smith and obtained a Claude Code Voucher
-* Got a bear hug from Carol Willing and a request to catch up soon
-* Chatted with Will Vincent about building in public
-* Learned of Paul Everitt's [The Shift to Agentic Engineering talk](https://www.youtube.com/watch?v=n366hY4JZ9U&t=1s) at Andrew Ng's AI Dev 2026 Conference after their [Spec Driven Development with Coding Agents](https://www.deeplearning.ai/courses/spec-driven-development-with-coding-agents) collaboration
+I chatted with 
+* Python Security Developer-in-Residence Seth Larson about the outstanding Security Track and learned of the sprinting he would do on a Python Security Policy and Threat Model ([issue](https://github.com/python/devguide/issues/1803) and [draft PR](https://github.com/python/devguide/pull/1804))
+* Jon Gould about the impact of AI on recruitment (see his lightning talk)
+* Paul McGuire about what it was like to work on [Python in a Nutshell](https://learning.oreilly.com/library/view/python-in-a/9781098113544/) with [Alex Martelli](https://en.wikipedia.org/wiki/Alex_Martelli)
+* Will Vincent about building in public
+* Andy Fundinger about the potential impact of AI on Financial Services
+* Jorge Gimeno about his testing experience, including a recommendation to check out [ISTQB](https://istqb.org/) standards
+* Mario Munoz about the structure of his talk [Create a Python Package: From Zero to Hero](https://us.pycon.org/2026/schedule/presentation/99/)
+* Sarah Entzminger about her career path into electrical engineering
+* Paul Everitt about his [The Shift to Agentic Engineering](https://www.youtube.com/watch?v=n366hY4JZ9U&t=1s) talk at Andrew Ng's AI Dev 2026 Conference and their [Spec Driven Development with Coding Agents](https://www.deeplearning.ai/courses/spec-driven-development-with-coding-agents) collaboration
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
