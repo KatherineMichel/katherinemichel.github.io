@@ -65,7 +65,7 @@ Disclaimer: the content of this post is a reflection of my career journey and no
 
 [PyCon US 2026](https://us.pycon.org/2026/) took place in Long Beach, California from May 13-19. 
 
-Python Security and AI were at the forefront with new dedicated tracks, in addition to the latest Python 3.15 features and community building.
+Security and AI were at the forefront with new dedicated tracks, in addition to the latest Python 3.15 features and community building.
 
 Writing this recap is an opportunity for me to record and reflect. My goal is to compound my knowledge from year-to-year by going deeper into the technical aspects of the language and making more connections within the community.
 
