@@ -567,7 +567,7 @@ After ice cream, I walked down the block to the [RevSys](https://www.revsys.com/
 The party was rocking! I had a beautiful and tasty non-alcoholic Ginger Cooler (pictured on the bar): ginger syrup, pineapple juice, fresh lime juice, soda water
 
 ![](pycon-us-2026-recap-images/me-paolo-jeff-velda-frank.jpeg)
-The best of times... me with friends Paolo, Jeff, Velda, and Frank
+The best of times... me with friends Paolo Melchiorre, Jeff Triplett, Velda Kiara, and Frank Wiles
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
