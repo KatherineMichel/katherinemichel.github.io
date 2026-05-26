@@ -133,7 +133,7 @@ The Opening Reception took place in the Expo Hall.
 
 Working in infrastructure, I was keen to visit the Red Hat Booth. In addition to being a Python, Django, and React developer, I am a RHEL Admin and Ansible playbook developer. 
 
-I chatted with Sam Doran, principal software engineer, Ansible Core Team Member, and Ansible Docs co-author to get some recommended learning resources "straight from the horse's mouth": 
+I chatted with Sam Doran, principal software engineer, Ansible Core Team Member, and Ansible Docs Co-author to get some recommended learning resources "straight from the horse's mouth": 
 * [Ansible for DevOps](https://www.ansiblefordevops.com/)
 * [Ansible Docs](https://docs.ansible.com/)
 * [Linux for Dummies](https://www.amazon.com/Linux-Dummies-9th-Richard-Blum/dp/0470467010)
