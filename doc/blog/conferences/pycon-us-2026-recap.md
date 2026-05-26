@@ -635,12 +635,12 @@ Josh gaac
 Bernie Madison 
 -->
 
-I chatted with 
+I also had the opportunity chat with 
 * Python Security Developer-in-Residence Seth Larson about the outstanding Security Track and learned of the sprinting he would do on a Python Security Policy and Threat Model ([issue](https://github.com/python/devguide/issues/1803) and [draft PR](https://github.com/python/devguide/pull/1804))
 * Jon Gould about the impact of AI on recruitment (see his lightning talk)
 * Paul McGuire about what it was like to work on [Python in a Nutshell](https://learning.oreilly.com/library/view/python-in-a/9781098113544/) with [Alex Martelli](https://en.wikipedia.org/wiki/Alex_Martelli)
 * Will Vincent about building in public
-* Andy Fundinger about the potential impact of AI in Financial Services development
+* Andy Fundinger about the potential impact of AI on Financial Services development
 * Jorge Gimeno about his testing experience, including a recommendation to check out [ISTQB](https://istqb.org/) standards
 * Mario Munoz about the structure of his talk [Create a Python Package: From Zero to Hero](https://us.pycon.org/2026/schedule/presentation/99/)
 * Sarah Entzminger about her career path into electrical engineering
