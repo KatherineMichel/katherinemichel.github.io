@@ -20,16 +20,18 @@ Table of Contents
         - [AWS and Valkey](#aws-and-valkey)
 - [Friday](#friday)
     - [Welcome](#welcome)
-    - [Nvidia Sponsor Talk](#nvidia-sponsor-talk)
-    - [Meta Sponsor Talk](#meta-sponsor-talk)
+    - [Friay Sponsor Talks](#friday-sponsor-talks)
+        - [Nvidia](#nvidia)
+        - [Meta](#meta)
     - [PSF Welcome](#psf-welcome)
     - [Lin Qiao Keynote](#lin-qiao-keynote)
     - [Catch Up With Guido](#catch-up-with-guido)
     - [Catch Up With Anthony](#catch-up-with-anthony)
 - [Saturday](#saturday)
     - [D&I Panel](#d-&-i-panel)
-    - [Anthropic Sponsor Talk](#anthropic-sponsor-talk)
-    - [Hudson River Trading Sponsor Talk](#hudson-river-trading-sponsor-talk)
+    - [Saturday Sponsor Talks](#saturday-sponsor-talks)
+        - [Anthropic](#anthropic)
+        - [Hudson River Trading](#hudson-river-trading)          
     - [Pablo Galindo Salgado Keynote](#pablo-galindo-salgado)
     - [Rust for CPython](#rust-for-cpython)
     - [PSF Members Luncheon](#psf-members-luncheon)
@@ -38,9 +40,10 @@ Table of Contents
     - [PyLadies Auction](#pyladies-auction)
 - [Sunday](#sunday)
     - [Marina and Beach](#marina-and-beach)
-    - [Google Sponsor Talk](#google-sponsor-talk)
     - [Amanda Casari Keynote](#amanda-casari-keynote)
-    - [Fastly Sponsor Talk](#fastly-sponsor-talk)
+    - [Sunday Sponsor Talks](#sunday-sponsor-talks)
+        - [Google](#google)
+        - [Fastly](#fastly)  
     - [Python Software Foundation Security Engineers Update](#python-software-foundation-security-engineers-update)
     - [Posters](#posters)
     - [Chatting With Emma](#chatting-with-emma)
@@ -167,7 +170,9 @@ PyCon US 2026 fun facts:
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Nvidia Sponsor Talk
+### Friday Sponsor Talks
+
+#### Nvidia
 
 Recent major initiatives
 * Cuda Python 1.0
@@ -176,7 +181,7 @@ Recent major initiatives
 * Contributions to CPython, free-threaded Python
 * Rust into CPython
 
-### Meta Sponsor Talk
+#### Meta
 
 This is Meta's 10th year of sponsoring the PSF. 
 
@@ -247,7 +252,9 @@ D&I Workgroup's 3 initiatives:
 * How to setup a local Python community (community)
 * Collecting survey feedback from the Python Community
 
-### Anthropic Sponsor Talk
+### Saturday Sponsor Talks
+
+#### Anthropic
 
 Recent major initiatives
 * Entered a two-year, $1.5 million PSF sponsorship (not just security or infrastructure- community outreach, developer-in-residence, everything PSF does)
@@ -257,7 +264,7 @@ Recent major initiatives
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Hudson River Trading Sponsor Talk
+#### Hudson River Trading
 
 Hudson River Trading is PSF's newest Visionary Sponsor. 
 
@@ -350,7 +357,17 @@ Alamitos Beach
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Google Sponsor Talk
+### Amanda Casari Keynote
+
+<!--
+Marc Gibbons- got a shoutout in keynote
+-->
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Sunday Sponsor Talks
+
+#### Google
 
 Three essential fronts Google is investing in that are linked to AI:
 * Core performance- commitment to free-threaded Python for high throughput, multi-core agent systems and model serving pipelines. Running these workloads is a major concurrency win. 
@@ -361,15 +378,7 @@ Google is a major user of Python and close to evolution. If working on performan
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Amanda Casari Keynote
-
-<!--
-Marc Gibbons- got a shoutout in keynote
--->
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-### Fastly Sponsor Talk
+#### Fastly
 
 Fastly sponsors PSF by providing a content delivery network through the Fast Forward Program:
 * PSF has over a million users
@@ -586,6 +595,8 @@ Paul was an early Python user featured in the Cult Repo [Python documentary](htt
 
 ### Engine Failure
 
+I flew out Monday morning. 
+
 Flight #2946 from Long Beach to Dallas seemed relatively normal until the pilot accidentally said "Mayday Southwest" over the PA. No one seemed to notice, including the flight attendants who were taking orders, but I was pretty sure something bad had to have happened. Eventually, the pilot announced that the #1 engine had failed, and we were diverting to Phoenix. Everyone clapped when we landed and laughed when the flight attendant said "welcome to Phoenix." We were met on the runway by firetrucks who were there to make sure there was no fire in the engine. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
@@ -605,14 +616,10 @@ He also told me Phoenix is a major "supply" hub, meaning they could find an extr
 My writing has begun to attract a community of fans. During the conference, I had a noticeable uptick in compliments about my blog posts: 
 * Eric Matthew saw my recent Southwest Headquarters Tour blog post and thought it sounded like something I would write before he knew it was mine. :)
 * Keith Murray revealed that as a Director of Python discord and Python subreddit moderator, he had directly witnessed the positive impact of my writing on underrepresented individuals
+* Jeremy Tanner sought me out to thank me for my writing and told me it is a resource shared among community members
 * Paul Everitt expressed his appreciation that I am not a "normie"
 
 <!--- 
-* Jeremy Tanner sought me out to thank me for my 
-
-Guy from Nvidia
-I belong
-
 Steven liu
 impact of AI on education
 Selfish reasons to have more kids
