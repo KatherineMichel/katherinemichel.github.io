@@ -618,10 +618,7 @@ Moshe z
 
 Phillip
 
-Paul pach ekk 
-Jim Anderson
-
-Rob ludeick
+Rob Ludwick
 
 Rob, Catherine, Paul, jon
 Paul Hildegard Disney character 
