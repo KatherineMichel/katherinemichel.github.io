@@ -204,7 +204,7 @@ You are a part of the Python community if you:
 * Help others learn Python
 * Make newcomers feel welcome
 
-A good way to identify a lightning talk subject: tell me something that's interesting to you
+A good way to identify a lightning talk subject: "tell me something that's interesting to you"
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
