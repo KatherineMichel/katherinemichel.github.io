@@ -403,9 +403,9 @@ Attacks are moving upstream. Exploits are transitive, projects inherit malware. 
 
 The Security Team constantly monitors and quarantines with the help of a widening group of researchers in the community. The Security Team, Alpha-Omega, and OpenSSF are in communication to identify emerging threats and collaborate to stop them. This goes beyond fixing to mitigating and coordinating with security teams of other projects to release advisories simultaneously. 
 
-Another target: secrets between ecosystems. SDK monorepos can contain dependencies of multiple languages and secrets to multiple publishing platforms in CI system. 
+Secrets between ecosystems are a target. SDK monorepos can contain dependencies of multiple languages and secrets to multiple publishing platforms in the CI system. 
 
-Python has been an industry leader in implementing [Trusted Publisher](https://docs.pypi.org/trusted-publishers/) protocol and other ecosystems are adopting it. Any token that survives single use and can be stolen and re-used. Trusted Publisher makes the token short-lived and reduces the attack surface. 2 million files have been published with Trusted Publisher. 
+Python has been an industry leader in implementing [Trusted Publisher](https://docs.pypi.org/trusted-publishers/) protocol and other ecosystems are adopting it. Any token that survives single use can be stolen and re-used. Trusted Publisher makes the token short-lived and reduces the attack surface. 2 million files have been published with Trusted Publisher. 
 
 Trusted Publisher: 
 * Mints a fresh token
@@ -417,7 +417,7 @@ Trusted Publisher:
 CVEs per year
 LLMs and traditional security tool are being used to find vulnerabilities. 21 CVEs in 2025, 22 so far in 2026 with 65 expected
 
-7 vulnerabilities were about zip and tar archives (CPython, pip, uv). The Security Team published a white paper digging into these: [Slippery Zips and Sticky Tar Pits: Security and Archives](https://alpha-omega.dev/blog/slippery-zips-and-sticky-tar-pits-security-and-archives-white-paper-by-seth-larson-python-software-foundation/)
+7 vulnerabilities were about zip and tar archives (CPython, pip, uv). The Security Team published a white paper digging into these: "[Slippery Zips and Sticky Tar Pits: Security and Archives](https://alpha-omega.dev/blog/slippery-zips-and-sticky-tar-pits-security-and-archives-white-paper-by-seth-larson-python-software-foundation/)"
 
 [PEP 811- Defining Python Security Response Team membership and responsibilities](https://peps.python.org/pep-0811/) gives transparency into Security Response Team governance. 
 
@@ -430,7 +430,7 @@ Software Bill-of-Materials makes it easy to find vulnerabilities in C, Rust, Jav
 "What good are... advisories and fixes if you don't know what software you are running?"
 
 <!--
-[Unmasking Phantom Dependencies with Software Bill-of-Materials as Ecosystem-Neutral Metadata](https://alpha-omega.dev/blog/unmasking-phantom-dependencies-with-software-bill-of-materials-as-ecosystem-neutral-metadata-white-paper-by-seth-larson-python-software-foundation/) white paper by Seth in conjunction with Alpha-Omega to 
+"[Unmasking Phantom Dependencies with Software Bill-of-Materials as Ecosystem-Neutral Metadata](https://alpha-omega.dev/blog/unmasking-phantom-dependencies-with-software-bill-of-materials-as-ecosystem-neutral-metadata-white-paper-by-seth-larson-python-software-foundation/)" white paper by Seth in conjunction with Alpha-Omega to 
 -->
 
 Additional security milestones
