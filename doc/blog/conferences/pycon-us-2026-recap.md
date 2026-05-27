@@ -413,11 +413,16 @@ Trusted Publisher:
 * It's cryptographically bound to that repo
 * 
 
+<!--
+"[The Python Package Index has Completed its Second Audit](https://blog.pypi.org/posts/2026-04-16-pypi-completes-second-audit/)" 
+"[The Python Package Index has Completed its Second Audit](https://alpha-omega.dev/blog/the-python-package-index-has-completed-its-second-audit/)" 
+https://github.com/trailofbits/publications/blob/master/reviews/2026-04-pypi-warehouse-securityreview.pdf
 
 CVEs per year
 LLMs and traditional security tool are being used to find vulnerabilities. 21 CVEs in 2025, 22 so far in 2026 with 65 expected
+-->
 
-7 vulnerabilities were about zip and tar archives (CPython, pip, uv). The Security Team published a white paper digging into these: "[Slippery Zips and Sticky Tar Pits: Security and Archives](https://alpha-omega.dev/blog/slippery-zips-and-sticky-tar-pits-security-and-archives-white-paper-by-seth-larson-python-software-foundation/)"
+7 vulnerabilities were about zip and tar archives (CPython, pip, uv, PyPI). Seth wrote a white paper digging into these: "[Slippery Zips and Sticky Tar Pits: Security and Archives](https://alpha-omega.dev/blog/slippery-zips-and-sticky-tar-pits-security-and-archives-white-paper-by-seth-larson-python-software-foundation/)"
 
 [PEP 811- Defining Python Security Response Team membership and responsibilities](https://peps.python.org/pep-0811/) gives transparency into Security Response Team governance. 
 
@@ -425,13 +430,11 @@ Nine members were added to Python Security Response Team.
 
 [PEP 770](https://peps.python.org/pep-0770/) was authored to create a new standard for using Software Bill-of-Materials (SBOMs) to provide metadata about dependencies. 
 
-Software Bill-of-Materials makes it easy to find vulnerabilities in C, Rust, JavaScript libraries. Hundreds of projects have adopted it (Red Hat, Fedora, pip, pandas, pillow, many others). Security scanning tools will work better and you will know when to upgrade your packages. Seth wrote a blog post giving an update of what the implementation looks like: [PEP 770 Software Bill‑of‑Materials (SBOM) data from PyPI, Fedora, and Red Hat](https://sethmlarson.dev/pep-770-sbom-data-from-pypi-fedora-and-redhat). 
+Software Bill-of-Materials makes it easy to find vulnerabilities in C, Rust, JavaScript libraries. Hundreds of projects have adopted it (Red Hat, Fedora, pip, pandas, pillow, many others). Seth wrote a blog post giving an update of what the implementation looks like: [PEP 770 Software Bill‑of‑Materials (SBOM) data from PyPI, Fedora, and Red Hat](https://sethmlarson.dev/pep-770-sbom-data-from-pypi-fedora-and-redhat). 
 
 "What good are... advisories and fixes if you don't know what software you are running?"
 
-<!--
-"[Unmasking Phantom Dependencies with Software Bill-of-Materials as Ecosystem-Neutral Metadata](https://alpha-omega.dev/blog/unmasking-phantom-dependencies-with-software-bill-of-materials-as-ecosystem-neutral-metadata-white-paper-by-seth-larson-python-software-foundation/)" white paper by Seth in conjunction with Alpha-Omega to 
--->
+Seth wrote a white paper about identifying software components not identified in metadata: "[Unmasking Phantom Dependencies with Software Bill-of-Materials as Ecosystem-Neutral Metadata](https://alpha-omega.dev/blog/unmasking-phantom-dependencies-with-software-bill-of-materials-as-ecosystem-neutral-metadata-white-paper-by-seth-larson-python-software-foundation/)"
 
 Additional security milestones
 * EU Cyber Resilience Act
@@ -451,6 +454,10 @@ Sources of Python security news;
 * [PSF Blog](https://pyfound.blogspot.com/)
 
 Security is a journey and everyone has a role to play. Share knowledge and help each other. 
+
+<!--
+Security scanning tools will work better and you will know when to upgrade your packages. 
+-->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
