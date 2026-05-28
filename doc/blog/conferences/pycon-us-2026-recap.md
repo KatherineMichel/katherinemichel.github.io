@@ -218,6 +218,9 @@ A good way to identify a lightning talk subject: "tell me something that's inter
 
 After the first keynote, I saw Guido van Rossum standing outside the arena and chatted with him about life and work for a few minutes. I’ve had the chance to spend time with him at four conferences now. It's always a pleasure and kind of mindblowing. He attends some sessions, and I enjoy hearing him give his opinion. You always know where things stand. I am grateful for Python and the support Guido has provided for underrepresented groups. 
 
+![](pycon-us-2026-recap-images/emma-and-guido.jpg)
+Guido putting Emma Smith on the spot about the speed of Rust
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Catch Up With Anthony
