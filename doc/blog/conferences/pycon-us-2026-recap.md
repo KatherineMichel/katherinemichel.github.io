@@ -490,6 +490,9 @@ Internals book
 
 ### PyLadies Lunch
 
+![](pycon-us-2026-recap-images/pyladies-luncheon.jpg)
+PyLadies Luncheon... a full house. Love to see it. :)
+
 At the PyLadies Lunch, in an effort to stop diminishing our accomplishments, women take turns taking the mic and sharing accomplishments they are proud of from the past year. Although I've attended several times, I've never gotten up to speak. 
 
 Mariatta came over to me and encouraged me to do it. Mariatta is an inspiration to me. I reflected for a couple of minutes, then got up and did it. 
@@ -613,6 +616,8 @@ Elaine passed the Conference Chair baton to 2027 Chair Jon Banafato.
 ### Black Python Devs Leadership Summit
 
 K. Jay Miller receiving a much-deserved Community Service Award for his "service to the global Python in improving the community's diversity, inclusion, and equity through founding and sustaining Black Python Devs." 
+
+![](pycon-us-2026-recap-images/jay-community-service-award.jpg)
 
 He announced the [Black Python Devs Leadership Summit](https://www.pyohio.org/2026/program/black-python-devs-leadership-summit/) happening the day before PyOhio at the same venue. 
 
