@@ -416,27 +416,15 @@ Trusted Publisher:
 * It's cryptographically bound to that repo
 * Using with a GitHub Action enables you to secure the path
 
-Platforms using Trusted Publisher
-* GitHub Actions
-* Google Cloud
-* Active State
-* GitLab CI/CD
-* CircleCI (in review)
-* GLSM/GHES (in beta)
-
-Ecosystems that have implemented Trusted Publisher
-* PyPI
-* crates.io
-* RubyGems
-* npmjs.com
-* NuGet
-* Packagist
+![](pycon-us-2026-recap-images/security-update-trusted-publisher.jpg)
+Platforms using Trusted Publisher and ecosystems that have implemented it
 
 We live in a world today where we need to rely on other ecosystems. If you use another ecosystem, talk to them about implementing Trusted Publisher. 
 
 Homework: go home and delete one token from a project. 
 
 ![](pycon-us-2026-recap-images/security-update-audit.jpg)
+Audit results
 
 <!--
 "[The Python Package Index has Completed its Second Audit](https://blog.pypi.org/posts/2026-04-16-pypi-completes-second-audit/)" 
@@ -465,12 +453,8 @@ Security scanning tools will work better and you will know when to upgrade your 
 
 Seth wrote a white paper about identifying software components not identified in metadata: "[Unmasking Phantom Dependencies with Software Bill-of-Materials as Ecosystem-Neutral Metadata](https://alpha-omega.dev/blog/unmasking-phantom-dependencies-with-software-bill-of-materials-as-ecosystem-neutral-metadata-white-paper-by-seth-larson-python-software-foundation/)"
 
+![](pycon-us-2026-recap-images/security-update-more-milestones.jpg)
 Additional security milestones
-* EU Cyber Resilience Act
-* Fuzzing Python Standard Library
-* Malware and Incident Response
-* GitLab Self-hosted Trusted Publisher
-* pylock.toml Dependency Cooldowns
 
 Special thanks to security sponsors
 * Alpha-Omega
