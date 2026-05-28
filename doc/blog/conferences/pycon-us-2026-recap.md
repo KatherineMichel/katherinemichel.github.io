@@ -437,11 +437,11 @@ LLMs and traditional security tool are being used to find vulnerabilities. 21 CV
 
 7 vulnerabilities were about zip and tar archives (CPython, pip, uv, PyPI). Seth wrote a white paper digging into these: "[Slippery Zips and Sticky Tar Pits: Security and Archives](https://alpha-omega.dev/blog/slippery-zips-and-sticky-tar-pits-security-and-archives-white-paper-by-seth-larson-python-software-foundation/)"
 
-[PEP 811- Defining Python Security Response Team membership and responsibilities](https://peps.python.org/pep-0811/) gives transparency into Security Response Team governance. 
+[PEP 811 - Defining Python Security Response Team membership and responsibilities](https://peps.python.org/pep-0811/) gives transparency into Security Response Team governance. 
 
 Nine members were added to Python Security Response Team. 
 
-[PEP 770](https://peps.python.org/pep-0770/) was authored to create a new standard for using Software Bill-of-Materials (SBOMs) to provide metadata about dependencies. 
+[PEP 770 – Improving measurability of Python packages with Software Bill-of-Materials](https://peps.python.org/pep-0770/) was authored to create a new standard for using Software Bill-of-Materials (SBOMs) to provide metadata about dependencies. 
 
 Software Bill-of-Materials makes it easy to find vulnerabilities in C, Rust, JavaScript libraries. Hundreds of projects have adopted it (Red Hat, Fedora, pip, pandas, pillow, many others). Seth wrote a blog post giving an update of what the implementation looks like: [PEP 770 Software Bill‑of‑Materials (SBOM) data from PyPI, Fedora, and Red Hat](https://sethmlarson.dev/pep-770-sbom-data-from-pypi-fedora-and-redhat). 
 
