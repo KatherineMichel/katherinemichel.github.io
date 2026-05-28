@@ -423,13 +423,13 @@ We live in a world today where we need to rely on other ecosystems. If you use a
 
 Homework: go home and delete one token from a project. 
 
+"[The Python Package Index has Completed its Second Audit](https://blog.pypi.org/posts/2026-04-16-pypi-completes-second-audit/)." Trail of Bits conducted the audit ([audit report](https://github.com/trailofbits/publications/blob/master/reviews/2026-04-pypi-warehouse-securityreview.pdf)) and wrote code queries to add to the CI/CD to mitigate in the future. The two high severity issues have been fixed. 
+
 ![](pycon-us-2026-recap-images/security-update-audit.jpg)
 Audit results
 
 <!--
-"[The Python Package Index has Completed its Second Audit](https://blog.pypi.org/posts/2026-04-16-pypi-completes-second-audit/)" 
 "[The Python Package Index has Completed its Second Audit](https://alpha-omega.dev/blog/the-python-package-index-has-completed-its-second-audit/)" 
-https://github.com/trailofbits/publications/blob/master/reviews/2026-04-pypi-warehouse-securityreview.pdf
 -->
 
 ![](pycon-us-2026-recap-images/security-update-cves-per-year.jpg)
