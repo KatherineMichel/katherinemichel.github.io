@@ -411,7 +411,27 @@ Trusted Publisher:
 * Mints a fresh token
 * It expires in minutes
 * It's cryptographically bound to that repo
-* 
+* Using with a GitHub Action enables you to secure the path
+
+Platforms using Trusted Publisher
+* GitHub Actions
+* Google Cloud
+* Active State
+* GitLab CI/CD
+* CircleCI (in review)
+* GLSM/GHES (in beta)
+
+Ecosystems that have implemented Trusted Publisher
+* PyPI
+* crates.io
+* RubyGems
+* npmjs.com
+* NuGet
+* Packagist
+
+We live in a world today where we need to rely on other ecosystems. If you use another ecosystem, talk to them about implementing Trusted Publisher. 
+
+Homework: go home and delete one token from a project. 
 
 <!--
 "[The Python Package Index has Completed its Second Audit](https://blog.pypi.org/posts/2026-04-16-pypi-completes-second-audit/)" 
@@ -431,6 +451,10 @@ Nine members were added to Python Security Response Team.
 [PEP 770](https://peps.python.org/pep-0770/) was authored to create a new standard for using Software Bill-of-Materials (SBOMs) to provide metadata about dependencies. 
 
 Software Bill-of-Materials makes it easy to find vulnerabilities in C, Rust, JavaScript libraries. Hundreds of projects have adopted it (Red Hat, Fedora, pip, pandas, pillow, many others). Seth wrote a blog post giving an update of what the implementation looks like: [PEP 770 Software Bill‑of‑Materials (SBOM) data from PyPI, Fedora, and Red Hat](https://sethmlarson.dev/pep-770-sbom-data-from-pypi-fedora-and-redhat). 
+
+<!--
+Security scanning tools will work better and you will know when to upgrade your packages. 
+-->
 
 "What good are... advisories and fixes if you don't know what software you are running?"
 
@@ -454,10 +478,6 @@ Sources of Python security news;
 * [PSF Blog](https://pyfound.blogspot.com/)
 
 Security is a journey and everyone has a role to play. Share knowledge and help each other. 
-
-<!--
-Security scanning tools will work better and you will know when to upgrade your packages. 
--->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
