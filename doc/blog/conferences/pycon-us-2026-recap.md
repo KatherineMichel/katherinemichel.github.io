@@ -618,6 +618,7 @@ Elaine passed the Conference Chair baton to 2027 Chair Jon Banafato.
 K. Jay Miller receiving a much-deserved Community Service Award for his "service to the global Python in improving the community's diversity, inclusion, and equity through founding and sustaining Black Python Devs." 
 
 ![](pycon-us-2026-recap-images/jay-community-service-award.jpg)
+PSF Executive Director Deb Nicholson and K. Jay Miller
 
 He announced the [Black Python Devs Leadership Summit](https://www.pyohio.org/2026/program/black-python-devs-leadership-summit/) happening the day before PyOhio at the same venue. 
 
