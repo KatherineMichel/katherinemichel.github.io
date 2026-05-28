@@ -399,7 +399,10 @@ PyPI Perspective:
 * Secrets: credentials have become prime targets
 * Audits: transparency is essential for trust
 
-Attacks are moving upstream. Exploits are transitive, projects inherit malware. The numbers are becoming staggering. Audit and pin your dependencies.
+![](pycon-us-2026-recap-images/security-update-attacks-moving-upstream.jpg)
+Attacks are moving upstream. Exploits are transitive, projects inherit malware. The numbers are becoming staggering. 
+
+Audit and pin your dependencies.
 
 The Security Team constantly monitors and quarantines with the help of a widening group of researchers in the community. The Security Team, Alpha-Omega, and OpenSSF are in communication to identify emerging threats and collaborate to stop them. This goes beyond fixing to mitigating and coordinating with security teams of other projects to release advisories simultaneously. 
 
@@ -433,14 +436,16 @@ We live in a world today where we need to rely on other ecosystems. If you use a
 
 Homework: go home and delete one token from a project. 
 
+![](pycon-us-2026-recap-images/security-update-audit.jpg)
+
 <!--
 "[The Python Package Index has Completed its Second Audit](https://blog.pypi.org/posts/2026-04-16-pypi-completes-second-audit/)" 
 "[The Python Package Index has Completed its Second Audit](https://alpha-omega.dev/blog/the-python-package-index-has-completed-its-second-audit/)" 
 https://github.com/trailofbits/publications/blob/master/reviews/2026-04-pypi-warehouse-securityreview.pdf
-
-CVEs per year
-LLMs and traditional security tool are being used to find vulnerabilities. 21 CVEs in 2025, 22 so far in 2026 with 65 expected
 -->
+
+![](pycon-us-2026-recap-images/security-update-cves-per-year.jpg)
+LLMs and traditional security tool are being used to find vulnerabilities. 21 CVEs in 2025, 22 so far in 2026 with 65 expected
 
 7 vulnerabilities were about zip and tar archives (CPython, pip, uv, PyPI). Seth wrote a white paper digging into these: "[Slippery Zips and Sticky Tar Pits: Security and Archives](https://alpha-omega.dev/blog/slippery-zips-and-sticky-tar-pits-security-and-archives-white-paper-by-seth-larson-python-software-foundation/)"
 
