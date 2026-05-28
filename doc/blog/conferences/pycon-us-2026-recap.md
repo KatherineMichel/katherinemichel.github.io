@@ -680,10 +680,10 @@ Paul was an early Python user featured in the Cult Repo [Python documentary](htt
 
 ### Engine Failure
 
+I flew out Monday morning. 
+
 ![](pycon-us-2026-recap-images/long-beach-airport-tarmac.jpg)
 Long Beach Airport was like nothing I've ever experienced. I felt like a VIP walking on the tarmac and using a ramp. I loved that there were palm trees all around. "Toto, we aren't in Kansas anymore."
-
-I flew out Monday morning. 
 
 Flight #2946 from Long Beach to Dallas seemed relatively normal until the pilot accidentally said "Mayday Southwest" over the PA. No one seemed to notice, including the flight attendants who were taking orders, but I was pretty sure something bad had to have happened. Eventually, the pilot announced that the #1 engine had failed, and we were diverting to Phoenix. Everyone clapped when we landed and laughed when the flight attendant said "welcome to Phoenix." We were met on the runway by firetrucks who were there to make sure there was no fire in the engine. 
 
