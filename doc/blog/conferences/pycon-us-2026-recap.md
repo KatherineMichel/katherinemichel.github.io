@@ -489,9 +489,9 @@ Security is a journey and everyone has a role to play. Share knowledge and help 
 
 I joined the very long swag fire sale line. Fortunately, Emma Smith happened to be behind me. I used the opportunity to learn more about her experience contributing to CPython and becoming a CPython Core Dev. I was reminded of Savannah Ostrowski's EuroPython 2025 keynote "[You don’t have to be a compiler engineer to work on Python.](https://www.youtube.com/watch?v=WGXXxGLBVF4)" 
 
+<!--
 Emma generously offered to mentor me to contribute to CPython. 
 
-<!--
 https://lwn.net/Articles/1030821/
 Dragon book
 Internals book
