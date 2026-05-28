@@ -243,7 +243,7 @@ https://www.amazon.com/gp/product/B086W1YQG9/ref=kinw_myk_ro_title
 
 ### D&I Panel
 
-Panel Members; Débora Azevedo, Alla Barbalat, Georgi Ker, Theresa Seyram Agbenyegah (Stancy), Abhijeet Mote
+Panel Members: Débora Azevedo, Alla Barbalat, Georgi Ker, Theresa Seyram Agbenyegah (Stancy), Abhijeet Mote
 
 "As you can see, the D&I Workgroup is comprised of a lot of people from around the world, including Iran and Reuben from Tel Aviv. For us, there's no war. We communicate every month, and Reuben talks to Ali to check if everyone is okay. And that's something... that's very important for us." 
 
