@@ -182,7 +182,7 @@ PyCon US 2026 fun facts:
 
 #### Nvidia
 
-Recent major initiatives
+Recent major initiatives:
 * Cuda Python 1.0
 * Pythonic APIs for Cuda
 * Packaging: creating a packaging console, working on wheel variance, teaching packaging how to know about modern hardware
@@ -193,7 +193,7 @@ Recent major initiatives
 
 This is Meta's 10th year of sponsoring the PSF. 
 
-Recent major initiatives
+Recent major initiatives:
 * Helped land lazy imports in CPython
 * Developed Life Guard, an open source project to help teams adopt lazy imports more safely
 * Tested free-threaded Python internally and demonstrated approximately 30% savings in real product use case
