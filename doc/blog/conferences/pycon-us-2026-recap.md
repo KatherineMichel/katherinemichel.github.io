@@ -28,7 +28,7 @@ Table of Contents
     - [Catch Up With Guido](#catch-up-with-guido)
     - [The Art of Extending Python with Other Languages](#the-art-of-extending-python-with-other-languages)
     - [Container-enabled Asyncio is All You Need](#container--enabled-asyncio-is-all-you-need)
-    - [Running Large Language Models on Laptops: Practical Quantization Techniques in Python](#running-large-language-models-on-laptops-practical-quantization-techniques-for-python)
+    - [Running Large Language Models on Laptops: Practical Quantization Techniques in Python](#running-large-language-models-on-laptops-practical-quantization-techniques-in-python)
     - [Catch Up With Anthony](#catch-up-with-anthony)
 - [Saturday](#saturday)
     - [D&I Panel](#d-&-i-panel)
