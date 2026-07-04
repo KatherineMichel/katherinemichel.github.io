@@ -38,7 +38,7 @@ Table of Contents
     - [Pablo Galindo Salgado Keynote](#pablo-galindo-salgado)
     - [Rust for CPython](#rust-for-cpython)
     - [Anatomy of a Phishing Campaign](#anatomy-of-a-phishing-campaign)
-    - [Post-Incident Runtime SBOM Generation from Python Memory](#)
+    - [Post-Incident Runtime SBOM Generation from Python Memory](#post-incident-runtime-sbom-generation-from-python-memory)
     - [PSF Members Luncheon](#psf-members-luncheon)
     - [Simon Willison Lightning Talk](#simon-willison-lightning-talk)
     - [Ned Batchelder Lightning Talk](#ned-batchelder-lightning-talk)
