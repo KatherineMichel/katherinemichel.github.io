@@ -37,6 +37,8 @@ Table of Contents
         - [Hudson River Trading](#hudson-river-trading)          
     - [Pablo Galindo Salgado Keynote](#pablo-galindo-salgado)
     - [Rust for CPython](#rust-for-cpython)
+    - [Anatomy of a Phishing Campaign](#anatomy-of-a-phishing-campaign)
+    - [Post-Incident Runtime SBOM Generation from Python Memory](#)
     - [PSF Members Luncheon](#psf-members-luncheon)
     - [Simon Willison Lightning Talk](#simon-willison-lightning-talk)
     - [Ned Batchelder Lightning Talk](#ned-batchelder-lightning-talk)
@@ -294,11 +296,19 @@ At a time of uncertainty, Hudson River Trading is ramping up.
 
 Pablo gave a keynote in both Spanish and English, a first. 
 
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+### Anatomy of a Phishing Campaign
+
+Pablo gave a keynote in both Spanish and English, a first. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Rust for CPython
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Post-Incident Runtime SBOM Generation from Python Memory
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
