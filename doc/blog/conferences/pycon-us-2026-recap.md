@@ -51,7 +51,6 @@ Table of Contents
         - [Google](#google)
         - [Fastly](#fastly)  
     - [Python Software Foundation Security Engineers Update](#python-software-foundation-security-engineers-update)
-    - [Posters](#posters)
     - [Chatting With Emma](#chatting-with-emma)
     - [PyLadies Lunch](#pyladies-lunch)
     - [Why you, as a Python developer, should learn Rust](#why-you-as-a-python-developer-should-learn-rust)
@@ -509,9 +508,12 @@ Security is a journey and everyone has a role to play. Share knowledge and help 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+<!--
+    - [Posters](#posters)
 ### Posters
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
+-->
 
 ### Chatting with Emma
 
