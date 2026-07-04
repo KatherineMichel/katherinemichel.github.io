@@ -303,8 +303,6 @@ Pablo gave a keynote in both Spanish and English, a first.
 
 ### Anatomy of a Phishing Campaign
 
-Pablo gave a keynote in both Spanish and English, a first. 
-
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Rust for CPython
