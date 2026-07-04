@@ -26,6 +26,9 @@ Table of Contents
     - [PSF Welcome](#psf-welcome)
     - [Lin Qiao Keynote](#lin-qiao-keynote)
     - [Catch Up With Guido](#catch-up-with-guido)
+    - [The Art of Extending Python with Other Languages](#the-art-of-extending-python-with-other-languages)
+    - [Container-enabled Asyncio is All You Need](#container--enabled-asyncio-is-all-you-need)
+    - [Running Large Language Models on Laptops: Practical Quantization Techniques in Python](#running-large-language-models-on-laptops-practical-quantization-techniques-for-python)
     - [Catch Up With Anthony](#catch-up-with-anthony)
 - [Saturday](#saturday)
     - [D&I Panel](#d-&-i-panel)
@@ -220,6 +223,18 @@ After the first keynote, I saw Guido van Rossum standing outside the arena and c
 
 ![](pycon-us-2026-recap-images/emma-and-guido.jpg)
 Guido putting Emma Smith on the spot about the speed of Rust at her talk "[Rust for CPython](https://us.pycon.org/2026/schedule/presentation/1/)" on Saturday
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### The Art of Extending Python with Other Languages
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Container-enabled Asyncio is All You Need
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Running Large Language Models on Laptops: Practical Quantization Techniques in Python
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
