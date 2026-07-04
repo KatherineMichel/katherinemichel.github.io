@@ -39,6 +39,7 @@ Table of Contents
     - [Rust for CPython](#rust-for-cpython)
     - [Anatomy of a Phishing Campaign](#anatomy-of-a-phishing-campaign)
     - [Post-Incident Runtime SBOM Generation from Python Memory](#post-incident-runtime-sbom-generation-from-python-memory)
+    - [GitHub Actions Security in Python Packages](#post-incident-runtime-sbom-generation-from-python-memory)      
     - [PSF Members Luncheon](#psf-members-luncheon)
     - [Simon Willison Lightning Talk](#simon-willison-lightning-talk)
     - [Ned Batchelder Lightning Talk](#ned-batchelder-lightning-talk)
@@ -309,6 +310,10 @@ Pablo gave a keynote in both Spanish and English, a first.
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Post-Incident Runtime SBOM Generation from Python Memory
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### GitHub Actions Security in Python Packages
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
