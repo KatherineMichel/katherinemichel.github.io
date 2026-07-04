@@ -139,7 +139,7 @@ The Opening Reception took place in the Expo Hall.
 
 #### Red Hat
 
-Working in infrastructure, I was keen to visit the Red Hat Booth. In addition to being a Python, Django, and React developer, I am a RHEL Admin and Ansible playbook developer. 
+Working in infrastructure, I was keen to visit the Red Hat Booth.  
 
 I chatted with Sam Doran, principal software engineer, Ansible Core Team Member, and Ansible Docs Co-author to get some recommended learning resources "straight from the horse's mouth": 
 * [Ansible for DevOps](https://www.ansiblefordevops.com/)
@@ -147,9 +147,15 @@ I chatted with Sam Doran, principal software engineer, Ansible Core Team Member,
 * [Linux for Dummies](https://www.amazon.com/Linux-Dummies-9th-Richard-Blum/dp/0470467010)
 * [RHEL Lightspeed](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/10/html/interacting_with_the_command-line_assistant_powered_by_rhel_lightspeed/introducing-rhel-lightspeed-for-rhel-systems): a CLI connected to an AI chat-bot built on [Block's Goose](https://github.com/aaif-goose/goose) to provide answers from Red Hat's knowledge base
 * Red Hat Certified Specialist (RHCS)
-* Red Hat Adanced Systems Troubleshooting article (I am looking for this. Please send it to me, if you know of it.)
+* Red Hat Adanced Systems Troubleshooting article
   
 <!---
+In addition to being a Python, Django, and React developer, I am a RHEL Admin and Ansible playbook developer.
+
+https://www.redhat.com/en/services/certification/rhcs-red-hat-enterprise-linux-diagnostics-and-troubleshooting#candidate-guidance
+
+Red Hat Adanced Systems Troubleshooting article
+
 https://github.com/rhel-lightspeed
 https://goose-docs.ai/
 -->
