@@ -54,6 +54,9 @@ Table of Contents
     - [Posters](#posters)
     - [Chatting With Emma](#chatting-with-emma)
     - [PyLadies Lunch](#pyladies-lunch)
+    - [Why you, as a Python developer, should learn Rust](#)
+    - [Lazy imports and the art of interpreter procrastination](#)
+    - [Steering Council Panel](#steering-council-panel)
     - [Rachel Calhoun and Tim Schilling Keynote](#rachel-calhoun-and-tim-schilling-keynote)
     - [Steering Council Panel](#steering-council-panel)
     - [Python Software Foundation Update](#python-software-foundation-update)
@@ -545,6 +548,14 @@ I also got a bear hug from Carol Willing and a request to catch up soon. :)
   
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+### Why you, as a Python developer, should learn Rust
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Lazy imports and the art of interpreter procrastination
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+    
 ### Rachel Calhoun and Tim Schilling Keynote
 
 ![](pycon-us-2026-recap-images/me-paolo-and-mark.jpg)
