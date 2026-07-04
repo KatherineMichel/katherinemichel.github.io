@@ -56,7 +56,6 @@ Table of Contents
     - [PyLadies Lunch](#pyladies-lunch)
     - [Why you, as a Python developer, should learn Rust](#why-you-as-a-python-developer-should-learn-rust)
     - [Lazy imports and the art of interpreter procrastination](#lazy-imports-and-the-art-of-interpreter-procrastination)
-    - [Steering Council Panel](#steering-council-panel)
     - [Rachel Calhoun and Tim Schilling Keynote](#rachel-calhoun-and-tim-schilling-keynote)
     - [Steering Council Panel](#steering-council-panel)
     - [Python Software Foundation Update](#python-software-foundation-update)
