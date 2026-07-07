@@ -27,7 +27,7 @@ Table of Contents
     - [Lin Qiao Keynote](#lin-qiao-keynote)
     - [Catch Up With Guido](#catch-up-with-guido)
     - [The Art of Extending Python with Other Languages](#the-art-of-extending-python-with-other-languages)
-    - [PEP 750 - T-strings: safer and smarter string processing](#)      
+    - [PEP 750 - T-strings: safer and smarter string processing](#pep-750---t-strings-safer-and-smarter-string-processing)      
     - [Catch Up With Anthony](#catch-up-with-anthony)
 - [Saturday](#saturday)
     - [D&I Panel](#d-&-i-panel)
