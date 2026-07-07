@@ -62,11 +62,12 @@ Table of Contents
 - [More Favorite Talk Moments](#more-favorite-talk-moments)
     - [Container-enabled Asyncio is All You Need](#container-enabled-asyncio-is-all-you-need)
     - [Running Large Language Models on Laptops: Practical Quantization Techniques in Python](#running-large-language-models-on-laptops-practical-quantization-techniques-in-python)
+    - [Why Software Engineering Practices Fail in Data Engineering](#)
     - [Anatomy of a Phishing Campaign](#anatomy-of-a-phishing-campaign)
     - [GitHub Actions Security in Python Packages](#post-incident-runtime-sbom-generation-from-python-memory)      
     - [Rachel Calhoun and Tim Schilling Keynote](#rachel-calhoun-and-tim-schilling-keynote)
 - [More Connections Made](#more-connections-made)
-- [Swag!](#)
+- [Swag](#swag)
 - [Monday](#monday)
     - [Engine Failure](#engine-failure)
     - [PyCon Lives On](#pycon-lives-on)
@@ -722,6 +723,10 @@ Paul was an early Python user featured in the Cult Repo [Python documentary](htt
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+### Why Software Engineering Practices Fail in Data Engineering
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
 ### Anatomy of a Phishing Campaign
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
@@ -739,7 +744,6 @@ I sat at the front with Paolo Melchiorre who gave me some photography tips. Mean
 
 <!--
 What Python Developers Need to Know About Hardware
-Why Software Engineering Practices Fail in Data Engineering
 How to Build Your First Realtime Voice Agent in Python
 -->
 
