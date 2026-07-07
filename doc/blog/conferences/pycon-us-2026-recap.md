@@ -52,6 +52,7 @@ Table of Contents
     - [Learning Computer Science with Python and Music(21)](#learning-computer-science-with-python-and-music21)      
     - [Why you, as a Python developer, should learn Rust](#why-you-as-a-python-developer-should-learn-rust)
     - [Lazy imports and the art of interpreter procrastination](#lazy-imports-and-the-art-of-interpreter-procrastination)
+    - [Paolo and Mark](#paolo-and-mark)
     - [Steering Council Panel](#steering-council-panel)
     - [Python Software Foundation Update](#python-software-foundation-update)
     - [Closing](#closing)
@@ -63,7 +64,7 @@ Table of Contents
     - [Container-enabled Asyncio is All You Need](#container-enabled-asyncio-is-all-you-need)
     - [Running Large Language Models on Laptops: Practical Quantization Techniques in Python](#running-large-language-models-on-laptops-practical-quantization-techniques-in-python)
     - [Why Software Engineering Practices Fail in Data Engineering](#why-software-engineering-practices-fail-in-data-engineering)
-    - [Anatomy of a Phishing Campaign](#anatomy-of-a-phishing-campaign)
+    - [How to Build Your First Realtime Voice Agent in Python](#how-to-build-your-first-realtime-voice-agent-in-python)
     - [GitHub Actions Security in Python Packages](#post-incident-runtime-sbom-generation-from-python-memory)      
     - [Rachel Calhoun and Tim Schilling Keynote](#rachel-calhoun-and-tim-schilling-keynote)
 - [More Connections Made](#more-connections-made)
@@ -551,6 +552,13 @@ I also got a bear hug from Carol Willing and a request to catch up soon. :)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+### Paolo and Mark
+
+![](pycon-us-2026-recap-images/me-paolo-and-mark.jpg)
+During the closing plenary, I sat at the front with Paolo Melchiorre who gave me some photography tips. Meanwhile, we met Mark Sapiro, GNU Mailman Release Manager and Maintainer. 
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
 ### Steering Council Panel
 
 The Steering Council members are Barry Warsaw, Donghee Na, Pablo Galindo Salgado, Savannah Ostrowski, and Thomas Wouters. 
@@ -727,9 +735,17 @@ Paul was an early Python user featured in the Cult Repo [Python documentary](htt
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+### How to Build Your First Realtime Voice Agent in Python
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+<!--
+    - [Anatomy of a Phishing Campaign](#anatomy-of-a-phishing-campaign)
+
 ### Anatomy of a Phishing Campaign
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
+-->
 
 ### GitHub Actions Security in Python Packages
 
@@ -737,14 +753,10 @@ Paul was an early Python user featured in the Cult Repo [Python documentary](htt
 
 ### Rachel Calhoun and Tim Schilling Keynote
 
-![](pycon-us-2026-recap-images/me-paolo-and-mark.jpg)
-I sat at the front with Paolo Melchiorre who gave me some photography tips. Meanwhile, we met Mark Sapiro, GNU Mailman Release Manager and Maintainer. 
-
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 <!--
 What Python Developers Need to Know About Hardware
-How to Build Your First Realtime Voice Agent in Python
 -->
 
 ## More Connections Made
