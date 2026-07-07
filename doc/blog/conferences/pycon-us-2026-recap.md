@@ -27,8 +27,7 @@ Table of Contents
     - [Lin Qiao Keynote](#lin-qiao-keynote)
     - [Catch Up With Guido](#catch-up-with-guido)
     - [The Art of Extending Python with Other Languages](#the-art-of-extending-python-with-other-languages)
-    - [Container-enabled Asyncio is All You Need](#container-enabled-asyncio-is-all-you-need)
-    - [Running Large Language Models on Laptops: Practical Quantization Techniques in Python](#running-large-language-models-on-laptops-practical-quantization-techniques-in-python)
+    - [PEP 750 - T-strings: safer and smarter string processing](#)      
     - [Catch Up With Anthony](#catch-up-with-anthony)
 - [Saturday](#saturday)
     - [D&I Panel](#d-&-i-panel)
@@ -239,11 +238,7 @@ Guido putting Emma Smith on the spot about the speed of Rust at her talk "[Rust 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Container-enabled Asyncio is All You Need
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-### Running Large Language Models on Laptops: Practical Quantization Techniques in Python
+### PEP 750 - T-strings: safer and smarter string processing
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -713,6 +708,17 @@ Paul was an early Python user featured in the Cult Repo [Python documentary](htt
 ## More Favorite Talk Moments
 
 <!--
+    - [Container-enabled Asyncio is All You Need](#container-enabled-asyncio-is-all-you-need)
+    - [Running Large Language Models on Laptops: Practical Quantization Techniques in Python](#running-large-language-models-on-laptops-practical-quantization-techniques-in-python)
+
+### Container-enabled Asyncio is All You Need
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Running Large Language Models on Laptops: Practical Quantization Techniques in Python
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
 - [Anatomy of a Phishing Campaign](#anatomy-of-a-phishing-campaign)
 
 ### Anatomy of a Phishing Campaign
@@ -737,6 +743,12 @@ Paul was an early Python user featured in the Cult Repo [Python documentary](htt
 I sat at the front with Paolo Melchiorre who gave me some photography tips. Meanwhile, we met Mark Sapiro, GNU Mailman Release Manager and Maintainer. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
+-->
+
+<!--
+What Python Developers Need to Know About Hardware
+Why Software Engineering Practices Fail in Data Engineering
+How to Build Your First Realtime Voice Agent in Python
 -->
 
 ## More Connections Made
