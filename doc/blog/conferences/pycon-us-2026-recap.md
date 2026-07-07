@@ -62,6 +62,7 @@ Table of Contents
     - [L'Opera](#lopera)
 - [More Favorite Talk Moments](#more-favorite-talk-moments)
 - [More Connections Made](#more-connections-made)
+- [Swag!](#)
 - [Monday](#monday)
     - [Engine Failure](#engine-failure)
     - [PyCon Lives On](#pycon-lives-on)
@@ -785,6 +786,10 @@ I also had the opportunity chat with
 * Mario Munoz about the structure of his talk [Create a Python Package: From Zero to Hero](https://us.pycon.org/2026/schedule/presentation/99/)
 * Sarah Entzminger about her career path into electrical engineering
 * Paul Everitt about his [The Shift to Agentic Engineering](https://www.youtube.com/watch?v=n366hY4JZ9U&t=1s) talk at Andrew Ng's AI Dev 2026 Conference and their [Spec Driven Development with Coding Agents](https://www.deeplearning.ai/courses/spec-driven-development-with-coding-agents) collaboration
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+## Swag
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
