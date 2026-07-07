@@ -24,10 +24,9 @@ Table of Contents
         - [Nvidia](#nvidia)
         - [Meta](#meta)
     - [PSF Welcome](#psf-welcome)
-    - [Lin Qiao Keynote](#lin-qiao-keynote)
-    - [Catch Up With Guido](#catch-up-with-guido)
     - [The Art of Extending Python with Other Languages](#the-art-of-extending-python-with-other-languages)
     - [PEP 750 - T-strings: safer and smarter string processing](#pep-750---t-strings-safer-and-smarter-string-processing)      
+    - [Catch Up With Guido](#catch-up-with-guido)
     - [Catch Up With Anthony](#catch-up-with-anthony)
 - [Saturday](#saturday)
     - [D&I Panel](#d-&-i-panel)
@@ -224,12 +223,6 @@ You are a part of the Python community if you:
 A good way to identify a lightning talk subject: "tell me something that's interesting to you"
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-<!--
-### Lin Qiao Keynote
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
--->
 
 ### Catch Up With Guido
 
@@ -712,6 +705,14 @@ Paul was an early Python user featured in the Cult Repo [Python documentary](htt
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## More Favorite Talk Moments
+
+<!--
+    - [Lin Qiao Keynote](#lin-qiao-keynote)
+
+### Lin Qiao Keynote
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+-->
 
 ### Container-enabled Asyncio is All You Need
 
