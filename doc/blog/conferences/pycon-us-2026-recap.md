@@ -66,7 +66,6 @@ Table of Contents
 - [Monday](#monday)
     - [Engine Failure](#engine-failure)
     - [PyCon Lives On](#pycon-lives-on)
-    - [More Connections Made](#more-connections-made)
 - [Until Next Time](#until-next-time)
 
 ## Intro
