@@ -51,6 +51,7 @@ Table of Contents
     - [Python Software Foundation Security Engineers Update](#python-software-foundation-security-engineers-update)
     - [Chatting With Emma](#chatting-with-emma)
     - [PyLadies Lunch](#pyladies-lunch)
+    - [Learning Computer Science with Python and Music(21)](#)      
     - [Why you, as a Python developer, should learn Rust](#why-you-as-a-python-developer-should-learn-rust)
     - [Lazy imports and the art of interpreter procrastination](#lazy-imports-and-the-art-of-interpreter-procrastination)
     - [Steering Council Panel](#steering-council-panel)
@@ -305,14 +306,6 @@ Pablo gave a keynote in both Spanish and English, a first.
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-<!--
-    - [Anatomy of a Phishing Campaign](#anatomy-of-a-phishing-campaign)
-
-### Anatomy of a Phishing Campaign
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
--->
-
 ### Rust for CPython
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
@@ -320,14 +313,6 @@ Pablo gave a keynote in both Spanish and English, a first.
 ### Post-Incident Runtime SBOM Generation from Python Memory
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-<!--
-    - [GitHub Actions Security in Python Packages](#post-incident-runtime-sbom-generation-from-python-memory)      
-
-### GitHub Actions Security in Python Packages
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
--->
 
 ### PSF Members Luncheon
 
@@ -560,6 +545,10 @@ I also got a bear hug from Carol Willing and a request to catch up soon. :)
   
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+### Learning Computer Science with Python and Music(21)
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
 ### Why you, as a Python developer, should learn Rust
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
@@ -567,17 +556,6 @@ I also got a bear hug from Carol Willing and a request to catch up soon. :)
 ### Lazy imports and the art of interpreter procrastination
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-<!--
-        - [Rachel Calhoun and Tim Schilling Keynote](#rachel-calhoun-and-tim-schilling-keynote)
-
-### Rachel Calhoun and Tim Schilling Keynote
-
-![](pycon-us-2026-recap-images/me-paolo-and-mark.jpg)
-I sat at the front with Paolo Melchiorre who gave me some photography tips. Meanwhile, we met Mark Sapiro, GNU Mailman Release Manager and Maintainer. 
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
--->
 
 ### Steering Council Panel
 
@@ -734,6 +712,33 @@ Paul was an early Python user featured in the Cult Repo [Python documentary](htt
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## More Favorite Talk Moments
+
+<!--
+- [Anatomy of a Phishing Campaign](#anatomy-of-a-phishing-campaign)
+
+### Anatomy of a Phishing Campaign
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+-->
+
+<!--
+- [GitHub Actions Security in Python Packages](#post-incident-runtime-sbom-generation-from-python-memory)      
+
+### GitHub Actions Security in Python Packages
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+-->
+
+<!--
+- [Rachel Calhoun and Tim Schilling Keynote](#rachel-calhoun-and-tim-schilling-keynote)
+
+### Rachel Calhoun and Tim Schilling Keynote
+
+![](pycon-us-2026-recap-images/me-paolo-and-mark.jpg)
+I sat at the front with Paolo Melchiorre who gave me some photography tips. Meanwhile, we met Mark Sapiro, GNU Mailman Release Manager and Maintainer. 
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+-->
 
 ## More Connections Made
 
