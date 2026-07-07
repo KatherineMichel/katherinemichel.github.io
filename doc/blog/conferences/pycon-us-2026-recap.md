@@ -51,7 +51,7 @@ Table of Contents
     - [Python Software Foundation Security Engineers Update](#python-software-foundation-security-engineers-update)
     - [Chatting With Emma](#chatting-with-emma)
     - [PyLadies Lunch](#pyladies-lunch)
-    - [Learning Computer Science with Python and Music(21)](#)      
+    - [Learning Computer Science with Python and Music(21)](#learning-computer-science-with-python-and-music21)      
     - [Why you, as a Python developer, should learn Rust](#why-you-as-a-python-developer-should-learn-rust)
     - [Lazy imports and the art of interpreter procrastination](#lazy-imports-and-the-art-of-interpreter-procrastination)
     - [Steering Council Panel](#steering-council-panel)
