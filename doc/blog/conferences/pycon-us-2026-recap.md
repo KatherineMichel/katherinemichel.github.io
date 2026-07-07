@@ -37,9 +37,7 @@ Table of Contents
         - [Hudson River Trading](#hudson-river-trading)          
     - [Pablo Galindo Salgado Keynote](#pablo-galindo-salgado)
     - [Rust for CPython](#rust-for-cpython)
-    - [Anatomy of a Phishing Campaign](#anatomy-of-a-phishing-campaign)
     - [Post-Incident Runtime SBOM Generation from Python Memory](#post-incident-runtime-sbom-generation-from-python-memory)
-    - [GitHub Actions Security in Python Packages](#post-incident-runtime-sbom-generation-from-python-memory)      
     - [PSF Members Luncheon](#psf-members-luncheon)
     - [Simon Willison Lightning Talk](#simon-willison-lightning-talk)
     - [Ned Batchelder Lightning Talk](#ned-batchelder-lightning-talk)
@@ -55,7 +53,6 @@ Table of Contents
     - [PyLadies Lunch](#pyladies-lunch)
     - [Why you, as a Python developer, should learn Rust](#why-you-as-a-python-developer-should-learn-rust)
     - [Lazy imports and the art of interpreter procrastination](#lazy-imports-and-the-art-of-interpreter-procrastination)
-    - [Rachel Calhoun and Tim Schilling Keynote](#rachel-calhoun-and-tim-schilling-keynote)
     - [Steering Council Panel](#steering-council-panel)
     - [Python Software Foundation Update](#python-software-foundation-update)
     - [Closing](#closing)
@@ -63,6 +60,8 @@ Table of Contents
     - [Ice Cream Selfie](#ice-cream-selfie)
     - [RevSys After Party](#revsys-after-party)
     - [L'Opera](#lopera)
+- [More Favorite Talk Moments](#more-favorite-talk-moments)
+- [More Connections Made](#more-connections-made)
 - [Monday](#monday)
     - [Engine Failure](#engine-failure)
     - [PyCon Lives On](#pycon-lives-on)
@@ -306,9 +305,13 @@ Pablo gave a keynote in both Spanish and English, a first.
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+<!--
+    - [Anatomy of a Phishing Campaign](#anatomy-of-a-phishing-campaign)
+
 ### Anatomy of a Phishing Campaign
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
+-->
 
 ### Rust for CPython
 
@@ -318,9 +321,13 @@ Pablo gave a keynote in both Spanish and English, a first.
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+<!--
+    - [GitHub Actions Security in Python Packages](#post-incident-runtime-sbom-generation-from-python-memory)      
+
 ### GitHub Actions Security in Python Packages
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
+-->
 
 ### PSF Members Luncheon
 
@@ -560,13 +567,17 @@ I also got a bear hug from Carol Willing and a request to catch up soon. :)
 ### Lazy imports and the art of interpreter procrastination
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
-    
+
+<!--
+        - [Rachel Calhoun and Tim Schilling Keynote](#rachel-calhoun-and-tim-schilling-keynote)
+
 ### Rachel Calhoun and Tim Schilling Keynote
 
 ![](pycon-us-2026-recap-images/me-paolo-and-mark.jpg)
 I sat at the front with Paolo Melchiorre who gave me some photography tips. Meanwhile, we met Mark Sapiro, GNU Mailman Release Manager and Maintainer. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
+-->
 
 ### Steering Council Panel
 
@@ -722,30 +733,9 @@ Paul was an early Python user featured in the Cult Repo [Python documentary](htt
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-## Monday
+## More Favorite Talk Moments
 
-### Engine Failure
-
-I flew out Monday morning. 
-
-![](pycon-us-2026-recap-images/long-beach-airport-tarmac.jpg)
-Long Beach Airport was like nothing I've ever experienced. I felt like a VIP walking on the tarmac and using a ramp. I loved that there were palm trees all around. "Toto, we aren't in Kansas anymore."
-
-Flight #2946 from Long Beach to Dallas seemed relatively normal until the pilot accidentally said "Mayday Southwest" over the PA. No one seemed to notice, including the flight attendants who were taking orders, but I was pretty sure something bad had to have happened. Eventually, the pilot announced that the #1 engine had failed, and we were diverting to Phoenix. Everyone clapped when we landed and laughed when the flight attendant said "welcome to Phoenix." We were met on the runway by firetrucks who were there to make sure there was no fire in the engine. 
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-### PyCon Lives On
-
-Moments like this seem to break the ice and bring people closer. As my row chatted, I mentioned that I'd just taken a tour of Southwest Headquarters a few weeks earlier. It turned out the guy sitting next to me works in the Southwest Network Operations Center. His team had made one of the dashboards I'd seen on the tour, and he'd also been at PyCon US. It's a small world. 
-
-I showed him my [Southwest Headquarters Tour blog post](https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html), and he gave me additional insight into the tech they use. 
-
-He also told me Phoenix is a major "supply" hub, meaning they could find an extra plane and get us up in the air again quickly, which they did. 
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-### More Connections Made
+## More Connections Made
 
 My writing has begun to attract a community of fans. During the conference, I had a noticeable uptick in compliments about my blog posts: 
 * Eric Matthes saw my recent Southwest Headquarters Tour blog post and thought it sounded like something I would write before he knew it was mine. :)
@@ -779,6 +769,29 @@ I also had the opportunity chat with
 * Mario Munoz about the structure of his talk [Create a Python Package: From Zero to Hero](https://us.pycon.org/2026/schedule/presentation/99/)
 * Sarah Entzminger about her career path into electrical engineering
 * Paul Everitt about his [The Shift to Agentic Engineering](https://www.youtube.com/watch?v=n366hY4JZ9U&t=1s) talk at Andrew Ng's AI Dev 2026 Conference and their [Spec Driven Development with Coding Agents](https://www.deeplearning.ai/courses/spec-driven-development-with-coding-agents) collaboration
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+## Monday
+
+### Engine Failure
+
+I flew out Monday morning. 
+
+![](pycon-us-2026-recap-images/long-beach-airport-tarmac.jpg)
+Long Beach Airport was like nothing I've ever experienced. I felt like a VIP walking on the tarmac and using a ramp. I loved that there were palm trees all around. "Toto, we aren't in Kansas anymore."
+
+Flight #2946 from Long Beach to Dallas seemed relatively normal until the pilot accidentally said "Mayday Southwest" over the PA. No one seemed to notice, including the flight attendants who were taking orders, but I was pretty sure something bad had to have happened. Eventually, the pilot announced that the #1 engine had failed, and we were diverting to Phoenix. Everyone clapped when we landed and laughed when the flight attendant said "welcome to Phoenix." We were met on the runway by firetrucks who were there to make sure there was no fire in the engine. 
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### PyCon Lives On
+
+Moments like this seem to break the ice and bring people closer. As my row chatted, I mentioned that I'd just taken a tour of Southwest Headquarters a few weeks earlier. It turned out the guy sitting next to me works in the Southwest Network Operations Center. His team had made one of the dashboards I'd seen on the tour, and he'd also been at PyCon US. It's a small world. 
+
+I showed him my [Southwest Headquarters Tour blog post](https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html), and he gave me additional insight into the tech they use. 
+
+He also told me Phoenix is a major "supply" hub, meaning they could find an extra plane and get us up in the air again quickly, which they did. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
