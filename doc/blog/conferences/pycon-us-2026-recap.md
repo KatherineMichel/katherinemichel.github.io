@@ -243,7 +243,7 @@ Why should we use other languages? Two of multiple reasons:
 * "Python is slow"
 * Compiled languages are faster than interpreted ones (C, Rust extensions are faster than Python implementations)
 
-This talk focused on CPython implementation of Python. 
+This talk focused on the CPython implementation of Python. 
 
 CPython docs: [Extending Python with C or C++](https://docs.python.org/3/extending/extending.html)
 
