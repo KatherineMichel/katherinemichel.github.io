@@ -65,7 +65,7 @@ Table of Contents
     - [Running Large Language Models on Laptops: Practical Quantization Techniques in Python](#running-large-language-models-on-laptops-practical-quantization-techniques-in-python)
     - [Why Software Engineering Practices Fail in Data Engineering](#why-software-engineering-practices-fail-in-data-engineering)
     - [How to Build Your First Realtime Voice Agent in Python](#how-to-build-your-first-realtime-voice-agent-in-python)
-    - [GitHub Actions Security in Python Packages](#post-incident-runtime-sbom-generation-from-python-memory)      
+    - [GitHub Actions Security in Python Packages](#github-actions-security-in-python-packages)      
     - [Rachel Calhoun and Tim Schilling Keynote](#rachel-calhoun-and-tim-schilling-keynote)
 - [More Connections Made](#more-connections-made)
 - [Swag](#swag)
