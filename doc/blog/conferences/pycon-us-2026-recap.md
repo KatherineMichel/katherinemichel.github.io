@@ -725,6 +725,10 @@ Paul was an early Python user featured in the Cult Repo [Python documentary](htt
 
 ### Container-enabled Asyncio is All You Need
 
+![](pycon-us-2026-recap-images/container-enabled-asyncio-outline.png)
+
+![](pycon-us-2026-recap-images/container-enabled-asyncio-stdlib-moves-that-cover-most-dsl-features.png)
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Running Large Language Models on Laptops: Practical Quantization Techniques in Python
@@ -733,9 +737,9 @@ Paul was an early Python user featured in the Cult Repo [Python documentary](htt
 
 ### Why Software Engineering Practices Fail in Data Engineering
 
-![](pycon-us-2026-recap-images/why-software-engineering-practices-fail-what-dev-catches-what-slips-through)
+![](pycon-us-2026-recap-images/why-software-engineering-practices-fail-what-dev-catches-what-slips-through.png)
 
-![](pycon-us-2026-recap-images/why-software-engineering-practices-fail-the-five-layers-of-pipeline-reliability)
+![](pycon-us-2026-recap-images/why-software-engineering-practices-fail-the-five-layers-of-pipeline-reliability.png)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
