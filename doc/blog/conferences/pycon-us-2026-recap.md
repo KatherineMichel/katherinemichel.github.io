@@ -247,11 +247,20 @@ This talk focused on CPython implementation of Python.
 
 CPython docs: [Extending Python with C or C++](https://docs.python.org/3/extending/extending.html)
 
-![](pycon-us-2026-recap-images/the-art-of-extending-python-setup-and-benchmark.png)
-
 ![](pycon-us-2026-recap-images/the-art-of-extending-python-your-first-extension-1-2.png)
+Parts of the program
 
 ![](pycon-us-2026-recap-images/the-art-of-extending-python-your-first-extension-2-2.png)
+Your first CPython extension... boilerplate code example from docs with small modification
+
+Cristián gave examples for other programming languages: C++, Rust, Zig. 
+
+Binding Generators: will "grab your code" and put it into a Python module. 
+
+![](pycon-us-2026-recap-images/the-art-of-extending-python-py03.png)
+PyO3: a "simple, fantastic" binding generator for Rust to Python
+
+![](pycon-us-2026-recap-images/the-art-of-extending-python-setup-and-benchmark.png)
 
 ![](pycon-us-2026-recap-images/the-art-of-extending-python-whats-the-source-of-the-complexity.png)
 
@@ -273,7 +282,6 @@ GraalPython
 RustPython
 MicroPython
 
-![](pycon-us-2026-recap-images/the-art-of-extending-python-py03.png)
 https://pyo3.rs/v0.29.0/
 -->
 
