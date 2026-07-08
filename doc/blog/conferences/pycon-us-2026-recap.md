@@ -226,15 +226,6 @@ A good way to identify a lightning talk subject: "tell me something that's inter
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Catch Up With Guido
-
-After the first keynote, I saw Guido van Rossum standing outside the arena and chatted with him about life and work for a few minutes. I’ve had the chance to spend time with him at four conferences now. It's always a pleasure and kind of mindblowing. He attends some sessions, and I enjoy hearing him give his opinion. You always know where things stand. I am grateful for Python and the support Guido has provided for underrepresented groups. 
-
-![](pycon-us-2026-recap-images/emma-and-guido.jpg)
-Guido putting Emma Smith on the spot about the speed of Rust at her talk "[Rust for CPython](https://us.pycon.org/2026/schedule/presentation/1/)" on Saturday
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
 ### The Art of Extending Python with Other Languages
 
 Cristián Maureira-Fredes believes Python extensions are important, but many people are afraid of them. He wants to help people trust themselves and give it a try. 
@@ -298,6 +289,15 @@ https://www.qt.io/development/qt-framework/qt-bridges
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### PEP 750 - T-strings: safer and smarter string processing
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Catch Up With Guido
+
+After the first keynote, I had the chance to chat with Guido van Rossum  about life and work for a few minutes. I’ve had the chance to spend time with him at four conferences now. It's always a pleasure. He attends some sessions, and I enjoy hearing him give his opinion. You always know where things stand, which I can appreciate. I am grateful for Python and the support Guido has provided for underrepresented groups. 
+
+![](pycon-us-2026-recap-images/emma-and-guido.jpg)
+Guido putting Emma Smith on the spot about the speed of Rust at her talk "[Rust for CPython](https://us.pycon.org/2026/schedule/presentation/1/)" on Saturday
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
