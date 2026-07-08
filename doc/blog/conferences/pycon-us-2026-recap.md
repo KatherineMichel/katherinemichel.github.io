@@ -237,6 +237,16 @@ Guido putting Emma Smith on the spot about the speed of Rust at her talk "[Rust 
 
 ### The Art of Extending Python with Other Languages
 
+Cristián Maureira-Fredes believes Python extensions are important, but many people are afraid of them. He wants to help people trust themselves and give it a try. 
+
+Why should we use other languages? Two of multiple reasons: 
+* "Python is slow"
+* Compiled languages are faster than interpreted ones (C, Rust extensions are faster than Python implementations)
+
+This talk focused on CPython implementation of Python. 
+
+CPython docs: [Extending Python with C or C++](https://docs.python.org/3/extending/extending.html)
+
 ![](pycon-us-2026-recap-images/the-art-of-extending-python-setup-and-benchmark.png)
 
 ![](pycon-us-2026-recap-images/the-art-of-extending-python-your-first-extension-1-2.png)
@@ -246,8 +256,24 @@ Guido putting Emma Smith on the spot about the speed of Rust at her talk "[Rust 
 ![](pycon-us-2026-recap-images/the-art-of-extending-python-whats-the-source-of-the-complexity.png)
 
 <!--
+PyTorch- primarily C++
+DuckDB- C++
+Pydantic Core- Rust
+UV- rust (1.7% Python)
+
+Python implementation alternatives to CPython:
+PyPy
+Jython
+Pyston
+Cinder
+CircuitPython
+Pyjion
+Qt for Python / PySide
+GraalPython
+RustPython
+MicroPython
+
 ![](pycon-us-2026-recap-images/the-art-of-extending-python-py03.png)
-https://docs.python.org/3/extending/extending.html
 https://pyo3.rs/v0.29.0/
 -->
 
