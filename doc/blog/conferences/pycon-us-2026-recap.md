@@ -271,10 +271,11 @@ As an alterntive to Python's glob module, Cristián wrote his own fastglob modul
 Extensions are not the solution to everything, but extending Python with other languages motivates discussion and keeps the community active. 
 
 <!--
-PyTorch- primarily C++
-DuckDB- C++
-Pydantic Core- Rust
-UV- rust (1.7% Python)
+Python adjacent tools written in other languages
+* PyTorch- primarily C++
+* DuckDB- C++
+* Pydantic Core- Rust
+* UV- rust (1.7% Python)
 
 Python implementation alternatives to CPython:
 * PyPy
