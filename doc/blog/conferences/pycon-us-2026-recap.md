@@ -325,6 +325,12 @@ Pablo gave a keynote in both Spanish and English, a first.
 
 ### Post-Incident Runtime SBOM Generation from Python Memory
 
+![](pycon-us-2026-recap-images/post-incident-runtime-sbom-generation-whats-wrong-with-todays-sbom-tools.png)
+
+![](pycon-us-2026-recap-images/post-incident-runtime-sbom-generation-python-memory-analysis.png)
+
+![](pycon-us-2026-recap-images/post-incident-runtime-sbom-generation-1-2-3.png)
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### PSF Members Luncheon
