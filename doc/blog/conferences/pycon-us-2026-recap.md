@@ -260,9 +260,15 @@ Binding Generators: will "grab your code" and put it into a Python module.
 ![](pycon-us-2026-recap-images/the-art-of-extending-python-py03.png)
 PyO3: a "simple, fantastic" binding generator for Rust to Python
 
-![](pycon-us-2026-recap-images/the-art-of-extending-python-setup-and-benchmark.png)
-
 ![](pycon-us-2026-recap-images/the-art-of-extending-python-whats-the-source-of-the-complexity.png)
+The source of complexity: understanding the equivalent concepts across languages
+
+![](pycon-us-2026-recap-images/the-art-of-extending-python-setup-and-benchmark.png)
+As an alterntive to Python's glob module, Cristián wrote his own fastglob module in C++. An 89.7% performance improvement was achieved. 
+
+"Why we are not using C++ instead of Rust, besides safety" is a mystery to him. 
+
+Extensions are not the solution to everything, but extending Python with other languages motivates discussion and keeps the community active. 
 
 <!--
 PyTorch- primarily C++
@@ -271,18 +277,21 @@ Pydantic Core- Rust
 UV- rust (1.7% Python)
 
 Python implementation alternatives to CPython:
-PyPy
-Jython
-Pyston
-Cinder
-CircuitPython
-Pyjion
-Qt for Python / PySide
-GraalPython
-RustPython
-MicroPython
+* PyPy
+* Jython
+* Pyston
+* Cinder
+* CircuitPython
+* Pyjion
+* Qt for Python / PySide
+* GraalPython
+* RustPython
+* MicroPython
+* Mojo
+* Codon
 
 https://pyo3.rs/v0.29.0/
+https://www.qt.io/development/qt-framework/qt-bridges
 -->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
