@@ -245,6 +245,11 @@ Guido putting Emma Smith on the spot about the speed of Rust at her talk "[Rust 
 
 ![](pycon-us-2026-recap-images/the-art-of-extending-python-py03.png)
 
+<!--
+https://docs.python.org/3/extending/extending.html
+https://pyo3.rs/v0.29.0/
+-->
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### PEP 750 - T-strings: safer and smarter string processing
