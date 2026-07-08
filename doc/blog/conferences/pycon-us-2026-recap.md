@@ -546,9 +546,25 @@ I also got a bear hug from Carol Willing and a request to catch up soon. :)
 
 ### Why you, as a Python developer, should learn Rust
 
+Rust's safety and reliability guarantees:
+* Explicit mutability
+* Ownership
+* Borrowing
+
+Rust tooling:
+* Compiler warnings
+* Clippy linter
+* Rustfmt
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Lazy imports and the art of interpreter procrastination
+
+<!--
+https://peps.python.org/pep-0810/
+https://github.com/facebookincubator/cinder
+https://github.com/facebook/Lifeguard
+-->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
