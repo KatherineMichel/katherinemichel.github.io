@@ -317,6 +317,10 @@ Pablo gave a keynote in both Spanish and English, a first.
 
 ### Rust for CPython
 
+![](pycon-us-2026-recap-images/rust-for-cpython-lets-review.png)
+
+![](pycon-us-2026-recap-images/rust-for-cpython-benefits-of-adopting-rust.png)
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Post-Incident Runtime SBOM Generation from Python Memory
