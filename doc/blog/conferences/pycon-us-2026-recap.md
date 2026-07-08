@@ -745,6 +745,10 @@ Paul was an early Python user featured in the Cult Repo [Python documentary](htt
 
 ### How to Build Your First Realtime Voice Agent in Python
 
+![](pycon-us-2026-recap-images/how-to-build-your-first-realtime-voice-agent-best-practices.png)
+
+![](pycon-us-2026-recap-images/how-to-build-your-first-realtime-voice-agent-amazon-bedrock-agentcore-platform.png)
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 <!--
