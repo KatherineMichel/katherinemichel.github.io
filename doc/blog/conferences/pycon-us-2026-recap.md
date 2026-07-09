@@ -328,6 +328,8 @@ Less obvious use cases for t-strings:
 * Break large Jinja templates into smaller t-strings
 * Logging with human readable and JSON output
 
+![](pycon-us-2026-recap-images/pep750-t-strings-things-you-should-know.png)
+
 t-string PEPs on the horizon
 * [PEP 787 – Safer subprocess usage using t-strings](https://peps.python.org/pep-0787/)
 * [PEP 822 – Dedented Multiline String (d-string)](https://peps.python.org/pep-0822/)
@@ -417,14 +419,30 @@ Presenter name
 
 CPython has over a million lines of C code. 
 
+Benefits of C:
+* Performance: "decimal module 12-80x faster with C backend vs Python"
+* Portability: ported to over 80 different platforms
+* Compatibility: can easily interfact with OS APIs
+
 C has the possibility of undefined behavior: "an error in code, which may or may not be caught, either at compile time or runtime." 
 
 ![](pycon-us-2026-recap-images/rust-for-cpython-undefined-behavior-in-practice.png)
 Undefined behavior in practice. 
 
+Examples of undefined behavior
+* Spatial memory errors (buffer overflows)
+* Temporal memory errors (use after free)
+* Data races
+
+"There is no reliable way to determine if a large [C] codebase contains undefined behavior." Chris Lattner (creator of clang) 
+
 ![](pycon-us-2026-recap-images/rust-for-cpython-lets-review.png)
 
 ![](pycon-us-2026-recap-images/rust-for-cpython-benefits-of-adopting-rust.png)
+
+<!--
+PEPs 703, 734, 744
+-->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
