@@ -298,6 +298,19 @@ f-strings are missing:
 
 f-strings and t-strings look similar, but t-strings have a lot going on under the hood. 
 
+<!--
+PEP 750 – Template Strings
+https://peps.python.org/pep-0750/
+PEP 787 – Safer subprocess usage using t-strings
+https://peps.python.org/pep-0787/
+PEP 822 – Dedented Multiline String (d-string)
+https://peps.python.org/pep-0822/
+
+https://realpython.com/python-t-strings/
+https://github.com/t-strings/awesome-t-strings
+https://t-strings.help/
+-->
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Catch Up With Guido
