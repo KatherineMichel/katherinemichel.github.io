@@ -298,9 +298,9 @@ Only t-strings offer:
 
 ![](pycon-us-2026-recap-images/pep750-t-strings-basic-syntax-of-t-strings.png)
 
-![](pycon-us-2026-recap-images/pep750-t-strings-template-and-interpolation-types-1)
+![](pycon-us-2026-recap-images/pep750-t-strings-template-and-interpolation-types-1.png)
 
-![](pycon-us-2026-recap-images/pep750-t-strings-template-and-interpolation-types-2)
+![](pycon-us-2026-recap-images/pep750-t-strings-template-and-interpolation-types-2.png)
 
 ![](pycon-us-2026-recap-images/pep750-t-strings-security-first.png)
 Avoid cross-site scripting by using a t-string and html.escape() under the hood
