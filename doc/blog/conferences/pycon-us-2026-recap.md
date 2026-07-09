@@ -298,6 +298,8 @@ f-strings are missing:
 
 f-strings and t-strings look similar, but t-strings have a lot going on under the hood. 
 
+![](pycon-us-2026-recap-images/pep750-t-strings-comparing-t-strings-against-other-methods.png)
+
 <!--
 PEP 750 – Template Strings
 https://peps.python.org/pep-0750/
