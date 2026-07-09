@@ -291,16 +291,28 @@ https://www.qt.io/development/qt-framework/qt-bridges
 ![](pycon-us-2026-recap-images/pep750-t-strings-the-zen-of-python.png)
 More than one way to format a string in Python
 
+![](pycon-us-2026-recap-images/pep750-t-strings-comparing-t-strings-against-other-methods.png)
+f-strings and t-strings look similar, but t-strings have a lot going on under the hood. 
+
+Cross-site scripting
+
+XSS/HTML data sanitizing libraries:
+* tstring-html
+* ludic
+* pyhtml-enhanced
+* tdom
+
+SQL Injection data sanitizing libraries:
+* sql-string
+* t-sql
+* psycopg 3 template string queries (pip install psycopg[binary])
+
+<!--
 f-strings are missing:
 * Security
 * Transformation
 * Customization
 
-f-strings and t-strings look similar, but t-strings have a lot going on under the hood. 
-
-![](pycon-us-2026-recap-images/pep750-t-strings-comparing-t-strings-against-other-methods.png)
-
-<!--
 PEP 750 – Template Strings
 https://peps.python.org/pep-0750/
 PEP 787 – Safer subprocess usage using t-strings
