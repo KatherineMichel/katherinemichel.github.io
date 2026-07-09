@@ -390,7 +390,7 @@ D&I Workgroup's 3 initiatives:
 
 #### Anthropic
 
-Recent major initiatives
+Recent major initiatives:
 * Entered a two-year, $1.5 million PSF sponsorship (not just security or infrastructure- community outreach, developer-in-residence, everything PSF does)
 * Let's do what it takes to support PSF
 * Anthropic provides a Claude for Open Source Program- you don't have to fit the criteria on the form
