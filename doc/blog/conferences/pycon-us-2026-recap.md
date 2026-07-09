@@ -448,7 +448,9 @@ You can mitigate, but not prevent undefined behavior, plus these increase mainta
 Rust Programming Language is very effective for preventing undefined behavior. 
 
 ![](pycon-us-2026-recap-images/rust-for-cpython-benefits-of-adopting-rust.png)
-Benefits of adopting Rust... "the increased reliability in Rust largely comes from compile time correctness check. You can express things in Rust to check that your program will be correct ahead of time." 
+Benefits of adopting Rust... 
+
+"The increased reliability in Rust largely comes from compile time correctness check. You can express things in Rust to check that your program will be correct ahead of time." 
 
 "Data races are impossible... with the adoption of free-threading, multiple threads executing Python code means that data races more likely to occur." 
 
@@ -456,6 +458,18 @@ Benefits of adopting Rust... "the increased reliability in Rust largely comes fr
 Rust is not perfect. 
 
 <!--
+https://doc.rust-lang.org/nomicon/
+https://doc.rust-lang.org/nomicon/what-unsafe-does.html
+Unsafe rust- a mode that allows you to do "a few extra things." 
+One of more dangerous things- deference a raw pointer
+Relegated to unsafe because they have the potential to cause undefined behavior
+Cordones off the area that undefined behavior can happen
+What are the requirements for my unsafe function to be safe... then write your code such that you ensure that that's the case
+
+Android Team blog post
+Analyzed a comparison between C, C++, and Rust
+https://blog.google/security/rust-in-android-move-fast-fix-things/
+
 PEPs 703, 734, 744
 https://peps.python.org/pep-0703/
 https://peps.python.org/pep-0734/
