@@ -288,8 +288,12 @@ https://www.qt.io/development/qt-framework/qt-bridges
 
 ### PEP 750 - T-strings: safer and smarter string processing
 
+t-strings were accepted in [PEP 750](https://peps.python.org/pep-0750/) and implemented in Python 3.14. 
+
+f-strings and t-strings look the same. 
+
 ![](pycon-us-2026-recap-images/pep750-t-strings-the-zen-of-python.png)
-More than one way to format a string in Python... f-strings and t-strings look the same
+More than one way to format a string in Python... 
 
 Only t-strings offer:
 * Security
@@ -297,8 +301,10 @@ Only t-strings offer:
 * Customization
 
 ![](pycon-us-2026-recap-images/pep750-t-strings-basic-syntax-of-t-strings.png)
+A t-string gives you an object, not a string. You can process the object how you wish. 
 
 ![](pycon-us-2026-recap-images/pep750-t-strings-template-and-interpolation-types-1.png)
+A t-string has attributes that can be accessed through dot notation. 
 
 ![](pycon-us-2026-recap-images/pep750-t-strings-template-and-interpolation-types-2.png)
 
@@ -321,8 +327,17 @@ Less obvious use cases for t-strings:
 * Logging with human readable and JSON output
 
 <!--
-![](pycon-us-2026-recap-images/pep750-t-strings-comparing-t-strings-against-other-methods.png)
-f-strings and t-strings look similar, but only t-strings offer security and transformation functionality
+two main attribute- 
+string
+interpolation- curly bracket
+dot notation
+.string
+.values
+None- special parameters that allow you to do transformation and formatting
+.value
+.expression
+.conversion
+.format_spec
 
 PEP 750 – Template Strings
 https://peps.python.org/pep-0750/
