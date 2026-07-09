@@ -253,7 +253,7 @@ Cristián gave examples for other programming languages: C++, Rust, Zig.
 Binding Generators: will "grab your code" and put it into a Python module. 
 
 ![](pycon-us-2026-recap-images/the-art-of-extending-python-py03.png)
-PyO3: a "simple, fantastic" binding generator for Rust to Python
+[PyO3](https://pyo3.rs/v0.29.0/): a "simple, fantastic" binding generator for Rust to Python
 
 ![](pycon-us-2026-recap-images/the-art-of-extending-python-whats-the-source-of-the-complexity.png)
 The source of complexity: understanding the equivalent concepts across languages
@@ -280,7 +280,6 @@ Python implementation alternatives to CPython:
 * Codon
 
 <!--
-https://pyo3.rs/v0.29.0/
 https://www.qt.io/development/qt-framework/qt-bridges
 -->
 
@@ -308,6 +307,19 @@ A t-string has attributes that can be accessed through dot notation.
 
 ![](pycon-us-2026-recap-images/pep750-t-strings-template-and-interpolation-types-2.png)
 
+<!--
+Dot notation
+* .string is the static parts as a tuple
+* .interpolation is the value assigned to the variable inside of {}
+* .expression is the variable inside of {}
+
+.values
+None- special parameters that allow you to do transformation and formatting
+.value
+.conversion
+.format_spec
+-->
+
 ![](pycon-us-2026-recap-images/pep750-t-strings-security-first.png)
 Avoid cross-site scripting by using a t-string and html.escape() under the hood
 
@@ -330,20 +342,11 @@ t-string PEPs on the horizon
 * [PEP 787 – Safer subprocess usage using t-strings](https://peps.python.org/pep-0787/)
 * [PEP 822 – Dedented Multiline String (d-string)](https://peps.python.org/pep-0822/)
 
-<!--
-two main attribute- 
-string
-interpolation- curly bracket
-.string
-.values
-None- special parameters that allow you to do transformation and formatting
-.value
-.expression
-.conversion
-.format_spec
+More resources
+* [Real Python: Python t-strings](https://realpython.com/python-t-strings/)
+* [Awesome t-strings](https://github.com/t-strings/awesome-t-strings)
 
-https://realpython.com/python-t-strings/
-https://github.com/t-strings/awesome-t-strings
+<!--
 https://t-strings.help/
 -->
 
