@@ -265,9 +265,10 @@ As an alterntive to Python's glob module, Cristián wrote his own fastglob modul
 
 Extensions are not the solution to everything, but extending Python with other languages motivates discussion and keeps the community active. 
 
-Python implementation alternatives to CPython: PyPy, Jython, Pyston, Cinder, CircuitPython, Pyjion, Qt for Python/PySide, GraalPython, RustPython, MicroPython, Mojo, Codon
+Python implementation alternatives to CPython: PyPy, Jython, Pyston, Cinder, CircuitPython, Pyjion, Qt for Python/PySide, GraalPython, RustPython, MicroPython
 
 <!--
+Mojo, Codon
 https://www.qt.io/development/qt-framework/qt-bridges
 -->
 
@@ -427,7 +428,7 @@ Benefits of C:
 C has the possibility of undefined behavior: "an error in code, which may or may not be caught, either at compile time or runtime." 
 
 ![](pycon-us-2026-recap-images/rust-for-cpython-undefined-behavior-in-practice.png)
-Undefined behavior in practice. 
+Undefined behavior in practice
 
 Examples of undefined behavior
 * Spatial memory errors (buffer overflows)
@@ -438,7 +439,21 @@ Examples of undefined behavior
 
 ![](pycon-us-2026-recap-images/rust-for-cpython-lets-review.png)
 
+You can mitigate, but not prevent undefined behavior, plus these increase maintainer load:
+* Increase code review- a bottleneck
+* Fuzzing- OSS-Fuzz
+* Sanitizers- ASAN, TSAN, UBSAN in CI (address sanitizer, thread sanitizer, etc)
+* Analyze code with LLMs
+
+Rust Programming Language is very effective for preventing undefined behavior. 
+
 ![](pycon-us-2026-recap-images/rust-for-cpython-benefits-of-adopting-rust.png)
+Benefits of adopting Rust... "the increased reliability in Rust largely comes from compile time correctness check. You can express things in Rust to check that your program will be correct ahead of time." 
+
+"Data races are impossible... with the adoption of free-threading, multiple threads executing Python code means that data races more likely to occur." 
+
+![](pycon-us-2026-recap-images/rust-for-cpython-rust-is-not-perfect.png)
+Rust is not perfect. 
 
 <!--
 PEPs 703, 734, 744
