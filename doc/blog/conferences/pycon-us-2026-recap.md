@@ -229,7 +229,7 @@ A good way to identify a lightning talk subject: "tell me something that's inter
 ### The Art of Extending Python with Other Languages
 
 Cristián Maureira-Fredes believes Python extensions are important, but many people are afraid of them. He wants to help people trust themselves and give it a try. 
-
+  
 Why should we use other languages? Two of multiple reasons: 
 * "Python is slow"
 * Compiled languages are faster than interpreted ones (C, Rust extensions are faster than Python implementations)
@@ -260,11 +260,11 @@ As an alterntive to Python's glob module, Cristián wrote his own fastglob modul
 Extensions are not the solution to everything, but extending Python with other languages motivates discussion and keeps the community active. 
 
 <!--
-Python adjacent tools written in other languages
-* PyTorch- primarily C++
-* DuckDB- C++
-* Pydantic Core- Rust
-* UV- rust (1.7% Python)
+Python adjacent tools written in other languages: 
+* PyTorch: C++
+* DuckDB: C++
+* Pydantic Core: Rust
+* UV: Rust (1.7% Python)
 
 Python implementation alternatives to CPython:
 * PyPy
@@ -292,9 +292,10 @@ https://www.qt.io/development/qt-framework/qt-bridges
 More than one way to format a string in Python
 
 ![](pycon-us-2026-recap-images/pep750-t-strings-comparing-t-strings-against-other-methods.png)
-f-strings and t-strings look similar, but t-strings have a lot going on under the hood. 
+f-strings and t-strings look similar, but only t-strings offer security and transformation functionality
 
-Cross-site scripting
+![](pycon-us-2026-recap-images/pep750-t-strings-security-first.png)
+Avoid cross-site scripting by using a t-string and html.escape() under the hood
 
 XSS/HTML data sanitizing libraries:
 * tstring-html
@@ -306,6 +307,10 @@ SQL Injection data sanitizing libraries:
 * sql-string
 * t-sql
 * psycopg 3 template string queries (pip install psycopg[binary])
+
+Less obvious use cases for t-strings:
+* Break large Jinja templates into smaller t-strings
+* Logging with human readable and JSON output
 
 <!--
 f-strings are missing:
