@@ -265,19 +265,7 @@ As an alterntive to Python's glob module, Cristián wrote his own fastglob modul
 
 Extensions are not the solution to everything, but extending Python with other languages motivates discussion and keeps the community active. 
 
-Python implementation alternatives to CPython:
-* PyPy
-* Jython
-* Pyston
-* Cinder
-* CircuitPython
-* Pyjion
-* Qt for Python / PySide
-* GraalPython
-* RustPython
-* MicroPython
-* Mojo
-* Codon
+Python implementation alternatives to CPython: PyPy, Jython, Pyston, Cinder, CircuitPython, Pyjion, Qt for Python/PySide, GraalPython, RustPython, MicroPython, Mojo, Codon
 
 <!--
 https://www.qt.io/development/qt-framework/qt-bridges
@@ -308,6 +296,8 @@ A t-string has attributes that can be accessed through dot notation.
 ![](pycon-us-2026-recap-images/pep750-t-strings-template-and-interpolation-types-2.png)
 
 <!--
+Presenter name
+
 Dot notation
 * .string is the static parts as a tuple
 * .interpolation is the value assigned to the variable inside of {}
@@ -420,6 +410,16 @@ Pablo gave a keynote in both Spanish and English, a first.
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Rust for CPython
+
+<!--
+Presenter name
+-->
+
+CPython has over a million lines of C code. 
+
+C has the possibility of undefined behavior: "an error in code, which may or may not be caught, either at compile time or runtime." 
+
+Undefined behavior in practice. 
 
 ![](pycon-us-2026-recap-images/rust-for-cpython-lets-review.png)
 
