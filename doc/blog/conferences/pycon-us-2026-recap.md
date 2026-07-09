@@ -229,6 +229,12 @@ A good way to identify a lightning talk subject: "tell me something that's inter
 ### The Art of Extending Python with Other Languages
 
 Cristián Maureira-Fredes believes Python extensions are important, but many people are afraid of them. He wants to help people trust themselves and give it a try. 
+
+Python adjacent tools written in other languages: 
+* PyTorch: C++
+* DuckDB: C++
+* Pydantic Core: Rust
+* UV: Rust (1.7% Python)
   
 Why should we use other languages? Two of multiple reasons: 
 * "Python is slow"
@@ -259,13 +265,6 @@ As an alterntive to Python's glob module, Cristián wrote his own fastglob modul
 
 Extensions are not the solution to everything, but extending Python with other languages motivates discussion and keeps the community active. 
 
-<!--
-Python adjacent tools written in other languages: 
-* PyTorch: C++
-* DuckDB: C++
-* Pydantic Core: Rust
-* UV: Rust (1.7% Python)
-
 Python implementation alternatives to CPython:
 * PyPy
 * Jython
@@ -280,6 +279,7 @@ Python implementation alternatives to CPython:
 * Mojo
 * Codon
 
+<!--
 https://pyo3.rs/v0.29.0/
 https://www.qt.io/development/qt-framework/qt-bridges
 -->
@@ -326,11 +326,14 @@ Less obvious use cases for t-strings:
 * Break large Jinja templates into smaller t-strings
 * Logging with human readable and JSON output
 
+t-string PEPs on the horizon
+* [PEP 787 – Safer subprocess usage using t-strings](https://peps.python.org/pep-0787/)
+* [PEP 822 – Dedented Multiline String (d-string)](https://peps.python.org/pep-0822/)
+
 <!--
 two main attribute- 
 string
 interpolation- curly bracket
-dot notation
 .string
 .values
 None- special parameters that allow you to do transformation and formatting
@@ -338,13 +341,6 @@ None- special parameters that allow you to do transformation and formatting
 .expression
 .conversion
 .format_spec
-
-PEP 750 – Template Strings
-https://peps.python.org/pep-0750/
-PEP 787 – Safer subprocess usage using t-strings
-https://peps.python.org/pep-0787/
-PEP 822 – Dedented Multiline String (d-string)
-https://peps.python.org/pep-0822/
 
 https://realpython.com/python-t-strings/
 https://github.com/t-strings/awesome-t-strings
