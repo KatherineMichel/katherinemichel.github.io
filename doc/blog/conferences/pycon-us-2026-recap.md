@@ -289,6 +289,14 @@ https://www.qt.io/development/qt-framework/qt-bridges
 ### PEP 750 - T-strings: safer and smarter string processing
 
 ![](pycon-us-2026-recap-images/pep750-t-strings-the-zen-of-python.png)
+More than one way to format a string in Python
+
+f-strings are missing:
+* Security
+* Transformation
+* Customization
+
+f-strings and t-strings look similar, but t-strings have a lot going on under the hood. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
