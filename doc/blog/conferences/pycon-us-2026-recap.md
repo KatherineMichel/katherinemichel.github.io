@@ -419,6 +419,7 @@ CPython has over a million lines of C code.
 
 C has the possibility of undefined behavior: "an error in code, which may or may not be caught, either at compile time or runtime." 
 
+![](pycon-us-2026-recap-images/rust-for-cpython-undefined-behavior-in-practice.png)
 Undefined behavior in practice. 
 
 ![](pycon-us-2026-recap-images/rust-for-cpython-lets-review.png)
