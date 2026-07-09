@@ -442,6 +442,9 @@ Examples of undefined behavior
 
 <!--
 PEPs 703, 734, 744
+https://peps.python.org/pep-0703/
+https://peps.python.org/pep-0734/
+https://peps.python.org/pep-0744/
 -->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
