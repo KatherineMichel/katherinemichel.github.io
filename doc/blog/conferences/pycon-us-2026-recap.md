@@ -288,6 +288,8 @@ https://www.qt.io/development/qt-framework/qt-bridges
 
 ### PEP 750 - T-strings: safer and smarter string processing
 
+![](pycon-us-2026-recap-images/pep750-t-strings-the-zen-of-python.png)
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Catch Up With Guido
