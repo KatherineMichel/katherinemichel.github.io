@@ -289,11 +289,13 @@ https://www.qt.io/development/qt-framework/qt-bridges
 ### PEP 750 - T-strings: safer and smarter string processing
 
 ![](pycon-us-2026-recap-images/pep750-t-strings-the-zen-of-python.png)
-More than one way to format a string in Python
+More than one way to format a string in Python... f-strings and t-strings look the same
 
-![](pycon-us-2026-recap-images/pep750-t-strings-comparing-t-strings-against-other-methods.png)
-f-strings and t-strings look similar, but only t-strings offer security and transformation functionality
-
+Only t-strings offer:
+* Security
+* Transformation
+* Customization
+  
 ![](pycon-us-2026-recap-images/pep750-t-strings-security-first.png)
 Avoid cross-site scripting by using a t-string and html.escape() under the hood
 
@@ -313,10 +315,8 @@ Less obvious use cases for t-strings:
 * Logging with human readable and JSON output
 
 <!--
-f-strings are missing:
-* Security
-* Transformation
-* Customization
+![](pycon-us-2026-recap-images/pep750-t-strings-comparing-t-strings-against-other-methods.png)
+f-strings and t-strings look similar, but only t-strings offer security and transformation functionality
 
 PEP 750 – Template Strings
 https://peps.python.org/pep-0750/
