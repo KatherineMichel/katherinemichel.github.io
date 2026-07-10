@@ -437,11 +437,13 @@ Examples of undefined behavior
 
 ![](pycon-us-2026-recap-images/rust-for-cpython-lets-review.png)
 
-You can mitigate, but not prevent undefined behavior, plus these increase maintainer load:
+You can mitigate, but not prevent undefined behavior:
 * Increase code review- a bottleneck
 * Fuzzing- OSS-Fuzz
 * Sanitizers- ASAN, TSAN, UBSAN in CI (address sanitizer, thread sanitizer, etc)
 * Analyze code with LLMs
+
+All of these are currently being done and increase maintainer workload at a time when maintainers are already being stretched thin. 
 
 Rust Programming Language is very effective for preventing undefined behavior. 
 
