@@ -511,7 +511,7 @@ There are different types of SBOMs
 This talk focuses on Runtime SBOMs, because most SBOM tools only give a static view
 
 SBOM issues
-* SBOM reads metadata/config and estimated intalled version, not actual version
+* SBOM reads metadata/config and estimates intalled version, not actual version
 * Different SBOM tools parse configuration files in different ways
 * Python's dynamic nature is a "nightmare from a security perspective"
 
