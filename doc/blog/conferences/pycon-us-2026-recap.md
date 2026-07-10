@@ -496,6 +496,10 @@ https://peps.python.org/pep-0744/
 
 ### Post-Incident Runtime SBOM Generation from Python Memory
 
+<!--
+Presenter name
+-->
+
 Simple question: "After a Python application has been compromised, can we still figure out what packages are loaded and running?"
 
 Not what's in requirements.txt. Not what `pip freeze` tells you.
@@ -507,8 +511,9 @@ There are different types of SBOMs
 * Deployed SBOM- components installed in your environment
 * Runtime SBOM- exact components (and their versions) used by the application
 
-![](pycon-us-2026-recap-images/post-incident-runtime-sbom-generation-whats-wrong-with-todays-sbom-tools.png)
 This talk focuses on Runtime SBOMs, because most SBOM tools only give a static view
+
+![](pycon-us-2026-recap-images/post-incident-runtime-sbom-generation-whats-wrong-with-todays-sbom-tools.png)
 
 SBOM issues
 * SBOM reads metadata/config and estimates intalled version, not actual version
@@ -520,9 +525,13 @@ SBOM issues
 
 Solution: We can recover Runtime SBOMs through memory forensics. 
 
+"Memory forensics is the process of capturing and analyzing RAM to recover the system's runtime state at the time of capture." 
+
 ![](pycon-us-2026-recap-images/post-incident-runtime-sbom-generation-what-is-memory-forensics.png)
+At the kernel-level, popular memory forensics tool [Volatility 3](https://github.com/volatilityfoundation/volatility3) records what is running in operating system memory, including Python process. Hala and her research partner created another tool on top of Volatility 3 called [MEM-SBOM](https://github.com/HalaAli198/MEM-SBOM) to parse the Python process from memory. 
 
 ![](pycon-us-2026-recap-images/post-incident-runtime-sbom-generation-python-memory-analysis.png)
+Python memory analysis
 
 ![](pycon-us-2026-recap-images/post-incident-runtime-sbom-generation-from-import-to-module-objects.png)
 
