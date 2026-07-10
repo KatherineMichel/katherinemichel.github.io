@@ -453,6 +453,12 @@ Rust is not perfect.
 
 Rust isolates to unsafe mode features that could potentially create undefined behavior. [The Rustonomicon](https://doc.rust-lang.org/nomicon/) is a book about unsafe mode. 
 
+<!--
+Android Team blog post
+Analyzed a comparison between C, C++, and Rust
+https://blog.google/security/rust-in-android-move-fast-fix-things/
+-->
+
 Emma: "If you told me, 'hey if you write things in this language, you'll see a 1000x reduction in vulnerabilities,' I'd say, 'sign me up!'
 
 Rust was designed to be safe, has been deployed safely, and engineers are more productive with it. Emma credits compile time checks as creating confidence in code. For large changes especially, significantly fewer revisions. 
@@ -474,10 +480,6 @@ Controversial take: "Making Rust required to build CPython would be great."
 * Would it prevent people from building Python?
 
 <!--
-Android Team blog post
-Analyzed a comparison between C, C++, and Rust
-https://blog.google/security/rust-in-android-move-fast-fix-things/
-
 https://doc.rust-lang.org/nomicon/what-unsafe-does.html
 One of more dangerous things- de-reference a raw pointer
 
