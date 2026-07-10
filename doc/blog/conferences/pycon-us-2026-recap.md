@@ -459,7 +459,7 @@ Rust isolates to unsafe mode features that could potentially create undefined be
 
 "Our historical data for C and C++ shows a density of closer to 1,000 memory safety vulnerabilities per MLOC. Our Rust code is currently tracking at a density orders of magnitude lower: a more than 1000x reduction." [Android Team blog post](https://blog.google/security/rust-in-android-move-fast-fix-things/) comparing C, C++, and Rust
 
-Emma: "If you told me, 'hey if you write things in this language, you'll see a 1000x reduction in vulnerabilities,' I'd say, 'sign me up!'
+Emma: "If you told me, 'hey if you write things in this language, you'll see a 1000x reduction in vulnerabilities,' I'd say, 'sign me up!'"
 
 ![](pycon-us-2026-recap-images/rust-for-cpython-rust-in-android.png)
 Rust was designed to be safe, has been deployed safely, and engineers are more productive with it. Emma credits compile time checks as creating confidence in code. For large changes especially, significantly fewer revisions. 
