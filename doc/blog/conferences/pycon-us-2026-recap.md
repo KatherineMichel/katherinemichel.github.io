@@ -461,6 +461,7 @@ https://blog.google/security/rust-in-android-move-fast-fix-things/
 
 Emma: "If you told me, 'hey if you write things in this language, you'll see a 1000x reduction in vulnerabilities,' I'd say, 'sign me up!'
 
+![](pycon-us-2026-recap-images/rust-for-cpython-rust-in-android.png)
 Rust was designed to be safe, has been deployed safely, and engineers are more productive with it. Emma credits compile time checks as creating confidence in code. For large changes especially, significantly fewer revisions. 
 
 A Rust for CPython proposal for Python 3.16 is up for debate by the Steering Council. 
@@ -468,6 +469,8 @@ A Rust for CPython proposal for Python 3.16 is up for debate by the Steering Cou
 * Rust code will have a C fall-back (otherwise, if you do not have Rust installed or available on your platform, you won't be able to run the module)
 
 For reference: [Rust experiment in Linux kernel](https://lore.kernel.org/lkml/20251213000042.23072-1-ojeda@kernel.org/) that became permanent. 
+
+![](pycon-us-2026-recap-images/rust-for-cpython-python-316.png)
 
 Goals beyond Python 3.16
 * Gather feedback from CPython distributors
