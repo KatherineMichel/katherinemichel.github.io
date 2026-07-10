@@ -270,6 +270,10 @@ https://www.qt.io/development/qt-framework/qt-bridges
 
 ### PEP 750 - T-strings: safer and smarter string processing
 
+<!--
+Presenter name
+-->
+
 t-strings were accepted in [PEP 750](https://peps.python.org/pep-0750/) and implemented in Python 3.14. 
 
 f-strings and t-strings look the same. 
@@ -453,11 +457,7 @@ Rust is not perfect.
 
 Rust isolates to unsafe mode features that could potentially create undefined behavior. [The Rustonomicon](https://doc.rust-lang.org/nomicon/) is a book about unsafe mode. 
 
-<!--
-Android Team blog post
-Analyzed a comparison between C, C++, and Rust
-https://blog.google/security/rust-in-android-move-fast-fix-things/
--->
+"Our historical data for C and C++ shows a density of closer to 1,000 memory safety vulnerabilities per MLOC. Our Rust code is currently tracking at a density orders of magnitude lower: a more than 1000x reduction." [Android Team blog post](https://blog.google/security/rust-in-android-move-fast-fix-things/) comparing C, C++, and Rust
 
 Emma: "If you told me, 'hey if you write things in this language, you'll see a 1000x reduction in vulnerabilities,' I'd say, 'sign me up!'
 
