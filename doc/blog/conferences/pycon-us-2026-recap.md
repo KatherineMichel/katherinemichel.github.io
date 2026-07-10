@@ -520,9 +520,11 @@ SBOM issues
 
 Solution: We can recover Runtime SBOMs through memory forensics. 
 
+![](pycon-us-2026-recap-images/post-incident-runtime-sbom-generation-what-is-memory-forensics.png)
+
 ![](pycon-us-2026-recap-images/post-incident-runtime-sbom-generation-python-memory-analysis.png)
 
-![](pycon-us-2026-recap-images/post-incident-runtime-sbom-generation-1-2-3.png)
+![](pycon-us-2026-recap-images/post-incident-runtime-sbom-generation-from-import-to-module-objects.png)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
