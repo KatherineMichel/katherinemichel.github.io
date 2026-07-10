@@ -535,7 +535,17 @@ At the kernel-level, popular memory forensics tool [Volatility 3](https://github
 ![](pycon-us-2026-recap-images/post-incident-runtime-sbom-generation-python-memory-analysis.png)
 Python memory analysis
 
+Process
+* Parse the header of the executable file
+* Identify Python runtime entry point
+* Access main interpreter
+* Access Python process threads and garbage collector
+* Access all stacks and all function call chain
+* Parse a double-linked list and recover three generations of objects from the garbage collector
+* Objects, modules, dictionaries, functions
+
 ![](pycon-us-2026-recap-images/post-incident-runtime-sbom-generation-from-import-to-module-objects.png)
+When Python creates a module, it is represented in memory as a Py module object. It has name, package, version (optional), file, loader, spec dunder methods. 
 
 ![](pycon-us-2026-recap-images/post-incident-runtime-sbom-generation-mem-sbom-novel-runtime-sbom-generation-tool.png)
 
