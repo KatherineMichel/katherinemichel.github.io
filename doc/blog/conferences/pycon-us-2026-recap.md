@@ -541,7 +541,7 @@ Process
 * Access main interpreter
 * Access Python process threads and garbage collector
 * Access all stacks and all function call chain
-* Parse a double-linked list and recover three generations of objects from the garbage collector
+* Recover three generations of objects from the garbage collector by parsing a double-linked list 
 * Objects, modules, dictionaries, functions
 
 ![](pycon-us-2026-recap-images/post-incident-runtime-sbom-generation-from-import-to-module-objects.png)
