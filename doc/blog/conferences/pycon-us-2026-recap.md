@@ -496,7 +496,26 @@ https://peps.python.org/pep-0744/
 
 ### Post-Incident Runtime SBOM Generation from Python Memory
 
+Simple question: "After a Python application has been compromised, can we still figure out what packages are loaded and running?"
+
+Not what's in requirements.txt. Not what `pip freeze` tells you.
+
+"A Software Bill of Materials is a structured inventory of all software components, their versions, dependencies, and relationships." 
+
+There are different types of SBOMs
+* Build SBOM- packages used when you build code
+* Deployed SBOM- components installed in your environment
+* Runtime SBOM- exact components (and their versions) used by the application
+
 ![](pycon-us-2026-recap-images/post-incident-runtime-sbom-generation-whats-wrong-with-todays-sbom-tools.png)
+This talk focuses on Runtime SBOMs, because most SBOM tools only give a static view
+
+SBOM issues
+* SBOM reads metadata/config and estimated intalled version, not actual version
+* Different SBOM tools parse configuration files in different ways
+* Python's dynamic nature is a "nightmare from a security perspective"
+
+Same packaged handled differently in same codebase
 
 ![](pycon-us-2026-recap-images/post-incident-runtime-sbom-generation-python-memory-analysis.png)
 
