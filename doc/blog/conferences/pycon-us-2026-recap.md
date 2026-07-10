@@ -537,6 +537,10 @@ Python memory analysis
 
 ![](pycon-us-2026-recap-images/post-incident-runtime-sbom-generation-from-import-to-module-objects.png)
 
+![](pycon-us-2026-recap-images/post-incident-runtime-sbom-generation-mem-sbom-novel-runtime-sbom-generation-tool.png)
+
+![](pycon-us-2026-recap-images/post-incident-runtime-sbom-generation-when-modules-hide-look-deeper.png)
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### PSF Members Luncheon
