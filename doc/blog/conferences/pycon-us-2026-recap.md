@@ -151,15 +151,9 @@ I chatted with Sam Doran, principal software engineer, Ansible Core Team Member,
 * [Linux for Dummies](https://www.amazon.com/Linux-Dummies-9th-Richard-Blum/dp/0470467010)
 * [RHEL Lightspeed](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/10/html/interacting_with_the_command-line_assistant_powered_by_rhel_lightspeed/introducing-rhel-lightspeed-for-rhel-systems): a CLI connected to an AI chat-bot built on [Block's Goose](https://github.com/aaif-goose/goose) to provide answers from Red Hat's knowledge base
 * Red Hat Certified Specialist (RHCS)
-* Red Hat Adanced Systems Troubleshooting article
+* [Red Hat Enterprise Linux Diagnostics and Troubleshooting](https://www.redhat.com/en/services/training/rh342-red-hat-enterprise-linux-diagnostics-and-troubleshooting)
   
 <!---
-In addition to being a Python, Django, and React developer, I am a RHEL Admin and Ansible playbook developer.
-
-https://www.redhat.com/en/services/certification/rhcs-red-hat-enterprise-linux-diagnostics-and-troubleshooting#candidate-guidance
-
-Red Hat Adanced Systems Troubleshooting article
-
 https://github.com/rhel-lightspeed
 https://goose-docs.ai/
 -->
@@ -265,7 +259,7 @@ As an alterntive to Python's glob module, Cristián wrote his own fastglob modul
 
 Extensions are not the solution to everything, but extending Python with other languages motivates discussion and keeps the community active. 
 
-Python implementation alternatives to CPython: PyPy, Jython, Pyston, Cinder, CircuitPython, Pyjion, Qt for Python/PySide, GraalPython, RustPython, MicroPython
+Python implementation alternatives to CPython: PyPy, Jython, Pyston, Cinder, CircuitPython, Pyjion, Qt for Python/PySide, GraalPython, RustPython, MicroPython, Moji
 
 <!--
 Mojo, Codon
@@ -457,18 +451,35 @@ Benefits of adopting Rust...
 ![](pycon-us-2026-recap-images/rust-for-cpython-rust-is-not-perfect.png)
 Rust is not perfect. 
 
-<!--
-https://doc.rust-lang.org/nomicon/
-https://doc.rust-lang.org/nomicon/what-unsafe-does.html
-Unsafe rust- a mode that allows you to do "a few extra things." 
-One of more dangerous things- deference a raw pointer
-Relegated to unsafe because they have the potential to cause undefined behavior
-Cordones off the area that undefined behavior can happen
-What are the requirements for my unsafe function to be safe... then write your code such that you ensure that that's the case
+Rust isolates to unsafe mode features that could potentially create undefined behavior. [The Rustonomicon](https://doc.rust-lang.org/nomicon/) is a book about unsafe mode. 
 
+Emma: "If you told me, 'hey if you write things in this language, you'll see a 1000x reduction in vulnerabilities,' I'd say, 'sign me up!'
+
+Rust was designed to be safe, has been deployed safely, and engineers are more productive with it. Emma credits compile time checks as creating confidence in code. For large changes especially, significantly fewer revisions. 
+
+A Rust for CPython proposal for Python 3.16 is up for debate by the Steering Council. 
+* Rust will be experimental
+* Rust code will have a C fall-back (otherwise, if you do not have Rust installed or available on your platform, you won't be able to run the module)
+
+For reference: [Rust experiment in Linux kernel](https://lore.kernel.org/lkml/20251213000042.23072-1-ojeda@kernel.org/) that became permanent. 
+
+Goals beyond Python 3.16
+* Gather feedback from CPython distributors
+* Fix/mitigate platform issues
+* Introduce Rust in more places, especially those that deal with untrusted input
+* Stabilize an official Rust API (a replacement or used with PyO3- users could write extensions in Rust with same APIs used for Python)
+
+Controversial take: "Making Rust required to build CPython would be great."
+* Is this feasible?
+* Would it prevent people from building Python?
+
+<!--
 Android Team blog post
 Analyzed a comparison between C, C++, and Rust
 https://blog.google/security/rust-in-android-move-fast-fix-things/
+
+https://doc.rust-lang.org/nomicon/what-unsafe-does.html
+One of more dangerous things- de-reference a raw pointer
 
 PEPs 703, 734, 744
 https://peps.python.org/pep-0703/
