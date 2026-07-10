@@ -515,7 +515,10 @@ SBOM issues
 * Different SBOM tools parse configuration files in different ways
 * Python's dynamic nature is a "nightmare from a security perspective"
 
-Same packaged handled differently in same codebase
+![](pycon-us-2026-recap-images/post-incident-runtime-sbom-generation-same-package-different-runtime-states.png)
+"How can we trust the filesystem?" Package shared by Django and Celery is treated differently by each tool
+
+Solution: We can recover Runtime SBOMs through memory forensics. 
 
 ![](pycon-us-2026-recap-images/post-incident-runtime-sbom-generation-python-memory-analysis.png)
 
