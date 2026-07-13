@@ -52,6 +52,7 @@ Table of Contents
     - [Why you, as a Python developer, should learn Rust](#why-you-as-a-python-developer-should-learn-rust)
     - [Lazy imports and the art of interpreter procrastination](#lazy-imports-and-the-art-of-interpreter-procrastination)
     - [Paolo and Mark](#paolo-and-mark)
+    - [Rachel Calhoun and Tim Schilling Keynote](#rachel-calhoun-and-tim-schilling-keynote)
     - [Steering Council Panel](#steering-council-panel)
     - [Python Software Foundation Update](#python-software-foundation-update)
     - [Closing](#closing)
@@ -64,7 +65,6 @@ Table of Contents
     - [Why Software Engineering Practices Fail in Data Engineering](#why-software-engineering-practices-fail-in-data-engineering)
     - [GitHub Actions Security in Python Packages](#github-actions-security-in-python-packages)
     - [Learning Computer Science with Python and Music(21)](#learning-computer-science-with-python-and-music21)        
-    - [Rachel Calhoun and Tim Schilling Keynote](#rachel-calhoun-and-tim-schilling-keynote)
 - [More Connections Made](#more-connections-made)
 - [Swag](#swag)
 - [Monday](#monday)
@@ -813,6 +813,10 @@ During the closing plenary, I sat at the front with Paolo Melchiorre who gave me
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+### Rachel Calhoun and Tim Schilling Keynote
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
 ### Steering Council Panel
 
 The Steering Council members are Barry Warsaw, Donghee Na, Pablo Galindo Salgado, Savannah Ostrowski, and Thomas Wouters. 
@@ -1026,10 +1030,6 @@ Paul was an early Python user featured in the Cult Repo [Python documentary](htt
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Learning Computer Science with Python and Music(21)
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-### Rachel Calhoun and Tim Schilling Keynote
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
