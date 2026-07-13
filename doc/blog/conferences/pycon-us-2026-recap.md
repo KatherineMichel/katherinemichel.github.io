@@ -795,6 +795,10 @@ In Rust, mutability is opt-in.
 
 "Ownership and borrowing rules ensure memory safety at compile time without garbage collection." 
 
+![](pycon-us-2026-recap-images/why-you-as-a-python-developer-what-does-this-output.png)
+
+![](pycon-us-2026-recap-images/why-you-as-a-python-developer-to-mutate.png)
+
 Rust tooling:
 * Compiler warnings
 * [Clippy linter](https://doc.rust-lang.org/clippy/)
