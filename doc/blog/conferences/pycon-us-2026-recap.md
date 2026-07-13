@@ -61,9 +61,7 @@ Table of Contents
     - [L'Opera](#lopera)
 - [More Favorite Talk Moments](#more-favorite-talk-moments)
     - [Container-enabled Asyncio is All You Need](#container-enabled-asyncio-is-all-you-need)
-    - [Running Large Language Models on Laptops: Practical Quantization Techniques in Python](#running-large-language-models-on-laptops-practical-quantization-techniques-in-python)
     - [Why Software Engineering Practices Fail in Data Engineering](#why-software-engineering-practices-fail-in-data-engineering)
-    - [How to Build Your First Realtime Voice Agent in Python](#how-to-build-your-first-realtime-voice-agent-in-python)
     - [GitHub Actions Security in Python Packages](#github-actions-security-in-python-packages)
     - [Learning Computer Science with Python and Music(21)](#learning-computer-science-with-python-and-music21)        
     - [Rachel Calhoun and Tim Schilling Keynote](#rachel-calhoun-and-tim-schilling-keynote)
@@ -987,9 +985,13 @@ Paul was an early Python user featured in the Cult Repo [Python documentary](htt
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+<!--
+    - [Running Large Language Models on Laptops: Practical Quantization Techniques in Python](#running-large-language-models-on-laptops-practical-quantization-techniques-in-python)
+
 ### Running Large Language Models on Laptops: Practical Quantization Techniques in Python
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
+-->
 
 ### Why Software Engineering Practices Fail in Data Engineering
 
@@ -999,6 +1001,9 @@ Paul was an early Python user featured in the Cult Repo [Python documentary](htt
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+<!--
+    - [How to Build Your First Realtime Voice Agent in Python](#how-to-build-your-first-realtime-voice-agent-in-python)
+
 ### How to Build Your First Realtime Voice Agent in Python
 
 ![](pycon-us-2026-recap-images/how-to-build-your-first-realtime-voice-agent-best-practices.png)
@@ -1007,7 +1012,6 @@ Paul was an early Python user featured in the Cult Repo [Python documentary](htt
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-<!--
     - [Anatomy of a Phishing Campaign](#anatomy-of-a-phishing-campaign)
 
 ### Anatomy of a Phishing Campaign
