@@ -794,9 +794,10 @@ Rust's safety and reliability guarantees:
 In Rust, mutability is opt-in. 
 
 ![](pycon-us-2026-recap-images/why-you-as-a-python-developer-what-does-this-output.png)
-In the Python example on the right, we do not know where the list might be mutated. In the Rust example on the left, numbers is set to a vector. The `a` sign indicates it is being passed as a reference. We know [0, 1, 2, 3] will be printed because numbers vector is immutable. 
+In the Python example on the right, we do not know where the list might be mutated. In the Rust example on the left, numbers is set to a vector. The `&` sign indicates it is being passed as a reference. We know [0, 1, 2, 3] will be printed because numbers vector is immutable. 
 
 ![](pycon-us-2026-recap-images/why-you-as-a-python-developer-to-mutate.png)
+Explicit mutability: in order to mutate, both the variable and reference must be declared as mutable. `&mut` enables the vector to be mutated by the function it is passed to. We do not know what will be printed. In this way, Rust isolates the places where data might change.  
 
 "Ownership and borrowing rules ensure memory safety at compile time without garbage collection." 
 
@@ -814,8 +815,6 @@ Rust forces you to think about how your program could fail and address it. Learn
 [Rust Book](https://doc.rust-lang.org/book/) is a great resource for those who want to learn. 
 
 <!--
-`&mut` enables the list to be mutated by the function it is passed to. In this way, Rust isolates the places where data might change. 
-
 Unique to rust and steepest learning curve. 
 No memory leaks, when to free variables, when no longer used... without gc, so performance benefits. 
 
