@@ -59,7 +59,7 @@ Table of Contents
     - [Ice Cream Selfie](#ice-cream-selfie)
     - [RevSys After Party](#revsys-after-party)
     - [L'Opera](#lopera)
-- [More Favorite Talk Moments](#more-favorite-talk-moments)
+- [More Favorite Talk Snippets](#more-favorite-talk-snippets)
     - [Container-enabled Asyncio is All You Need](#container-enabled-asyncio-is-all-you-need)
     - [Why Software Engineering Practices Fail in Data Engineering](#why-software-engineering-practices-fail-in-data-engineering)
     - [GitHub Actions Security in Python Packages](#github-actions-security-in-python-packages)
@@ -967,7 +967,7 @@ Paul was an early Python user featured in the Cult Repo [Python documentary](htt
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-## More Favorite Talk Moments
+## More Favorite Talk Snippets
 
 <!--
     - [Lin Qiao Keynote](#lin-qiao-keynote)
@@ -979,7 +979,9 @@ Paul was an early Python user featured in the Cult Repo [Python documentary](htt
 
 ### Container-enabled Asyncio is All You Need
 
+<!--
 ![](pycon-us-2026-recap-images/container-enabled-asyncio-outline.png)
+-->
 
 ![](pycon-us-2026-recap-images/container-enabled-asyncio-stdlib-moves-that-cover-most-dsl-features.png)
 
