@@ -784,15 +784,57 @@ I also got a bear hug from Carol Willing and a request to catch up soon. :)
 
 ### Why you, as a Python developer, should learn Rust
 
+Main philosophical difference between Rust and Python: "Rust surfaces many Python runtime errors at compile time." Rust has an emphasis on type and memory-safety."
+
 Rust's safety and reliability guarantees:
 * Explicit mutability
 * Ownership
 * Borrowing
 
+In Rust, mutability is opt-in. 
+
+"Ownership and borrowing rules ensure memory safety at compile time without garbage collection." 
+
 Rust tooling:
 * Compiler warnings
-* Clippy linter
-* Rustfmt
+* [Clippy linter](https://doc.rust-lang.org/clippy/)
+* [Rustfmt](https://github.com/rust-lang/rustfmt)
+
+Rust and Python have advantages and disadvantages. Knowing them both enables you to use the one that best fits the use case. 
+
+Rust enforces safety concepts that also matter in Python. 
+
+Rust forces you to think about how your program could fail and address it. Learning this habit will help you when writing Python code. It is even more important in Python, because you don't have the Rust compiler to catch errors. 
+
+[Rust Book](https://doc.rust-lang.org/book/) is a great resource for those who want to learn. 
+
+<!--
+Unique to rust and steepest learning curve. 
+No memory leaks, when to free variables, when no longer used... without gc, so performance benefits. 
+
+&mut enables list to be mutated by function it is passed to
+Rust isolates the places where data might change
+
+https://doc.rust-lang.org/rust-by-example/std/vec.html
+
+https://doc.rust-lang.org/rust-by-example/std/option.html
+
+Some Rust strengths:
+* Good performance
+* Reliable code
+* Systems programming
+
+Some Python strengths:
+* Iterate quickly
+* Simple scripting
+* Data science
+
+Cost- more maintenance effort, easier to make mistakes. 
+
+null safety
+handling all cases
+mutability when sharing data
+-->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
