@@ -983,11 +983,13 @@ Paul was an early Python user featured in the Cult Repo [Python documentary](htt
 
 ### Container-enabled Asyncio is All You Need
 
-<!--
-![](pycon-us-2026-recap-images/container-enabled-asyncio-outline.png)
--->
+Don't reach for a DSL too early. 
+
+![](pycon-us-2026-recap-images/container-enabled-async-where-the-pain-shows-up.png)
+Where the pain shows up
 
 ![](pycon-us-2026-recap-images/container-enabled-asyncio-stdlib-moves-that-cover-most-dsl-features.png)
+stdlib moves that cover most "DSL features"
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
