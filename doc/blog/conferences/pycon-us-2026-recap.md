@@ -784,7 +784,9 @@ I also got a bear hug from Carol Willing and a request to catch up soon. :)
 
 ### Why you, as a Python developer, should learn Rust
 
-Main philosophical difference between Rust and Python: "Rust surfaces many Python runtime errors at compile time." Rust has an emphasis on type and memory-safety."
+Main philosophical difference between Rust and Python: "Rust surfaces many Python runtime errors at compile time." 
+
+Rust has an emphasis on type and memory-safety.
 
 Rust's safety and reliability guarantees:
 * Explicit mutability
