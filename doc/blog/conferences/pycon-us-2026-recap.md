@@ -49,7 +49,6 @@ Table of Contents
     - [Python Software Foundation Security Engineers Update](#python-software-foundation-security-engineers-update)
     - [Chatting With Emma](#chatting-with-emma)
     - [PyLadies Lunch](#pyladies-lunch)
-    - [Learning Computer Science with Python and Music(21)](#learning-computer-science-with-python-and-music21)      
     - [Why you, as a Python developer, should learn Rust](#why-you-as-a-python-developer-should-learn-rust)
     - [Lazy imports and the art of interpreter procrastination](#lazy-imports-and-the-art-of-interpreter-procrastination)
     - [Paolo and Mark](#paolo-and-mark)
@@ -65,7 +64,8 @@ Table of Contents
     - [Running Large Language Models on Laptops: Practical Quantization Techniques in Python](#running-large-language-models-on-laptops-practical-quantization-techniques-in-python)
     - [Why Software Engineering Practices Fail in Data Engineering](#why-software-engineering-practices-fail-in-data-engineering)
     - [How to Build Your First Realtime Voice Agent in Python](#how-to-build-your-first-realtime-voice-agent-in-python)
-    - [GitHub Actions Security in Python Packages](#github-actions-security-in-python-packages)      
+    - [GitHub Actions Security in Python Packages](#github-actions-security-in-python-packages)
+    - [Learning Computer Science with Python and Music(21)](#learning-computer-science-with-python-and-music21)        
     - [Rachel Calhoun and Tim Schilling Keynote](#rachel-calhoun-and-tim-schilling-keynote)
 - [More Connections Made](#more-connections-made)
 - [Swag](#swag)
@@ -784,10 +784,6 @@ I also got a bear hug from Carol Willing and a request to catch up soon. :)
   
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Learning Computer Science with Python and Music(21)
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
 ### Why you, as a Python developer, should learn Rust
 
 Rust's safety and reliability guarantees:
@@ -1020,6 +1016,10 @@ Paul was an early Python user featured in the Cult Repo [Python documentary](htt
 -->
 
 ### GitHub Actions Security in Python Packages
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Learning Computer Science with Python and Music(21)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
