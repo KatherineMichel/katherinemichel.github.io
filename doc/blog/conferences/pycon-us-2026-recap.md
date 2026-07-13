@@ -1027,6 +1027,10 @@ Paul was an early Python user featured in the Cult Repo [Python documentary](htt
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 -->
 
+### Learning Computer Science with Python and Music(21)
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
 ### Container-enabled Asyncio is All You Need
 
 Don't reach for a DSL too early. 
@@ -1074,10 +1078,6 @@ stdlib moves that cover most "DSL features"
 -->
 
 ### GitHub Actions Security in Python Packages
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-### Learning Computer Science with Python and Music(21)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
