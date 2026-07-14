@@ -868,6 +868,10 @@ mutability when sharing data
 
 ### Lazy imports and the art of interpreter procrastination
 
+"Lazy imports is a new feature in 3.15 that allows for the user to defer importing a module until it is actually used." 
+
+![](pycon-us-2026-recap-images/lazy-imports-and-the-art-of-interpreter-procrastination-adoption.png)
+
 <!--
 https://peps.python.org/pep-0810/
 https://github.com/facebookincubator/cinder
