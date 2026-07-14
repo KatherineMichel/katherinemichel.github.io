@@ -1071,8 +1071,10 @@ Paul was an early Python user featured in the Cult Repo [Python documentary](htt
 
 Don't reach for a DSL too early. 
 
+<!--
 ![](pycon-us-2026-recap-images/container-enabled-async-where-the-pain-shows-up.png)
 Where the pain shows up
+-->
 
 ![](pycon-us-2026-recap-images/container-enabled-asyncio-stdlib-moves-that-cover-most-dsl-features.png)
 stdlib moves that cover most "DSL features"
@@ -1089,7 +1091,9 @@ stdlib moves that cover most "DSL features"
 
 ### Why Software Engineering Practices Fail in Data Engineering
 
+<!--
 ![](pycon-us-2026-recap-images/why-software-engineering-practices-fail-what-dev-catches-what-slips-through.png)
+-->
 
 ![](pycon-us-2026-recap-images/why-software-engineering-practices-fail-the-five-layers-of-pipeline-reliability.png)
 
