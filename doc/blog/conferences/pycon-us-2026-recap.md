@@ -813,11 +813,16 @@ Ownership fix:
 * Clone- create new memory allocation containing same value and pass it to function as copy without transferring ownership
 * Borrowing- passing by reference, share data in differences places without transferring ownership
 
+![](pycon-us-2026-recap-images/why-you-as-a-python-developer-single-borrows.png)
+
 Borrowing rules:
 * Owned data has to outlives borrows, because original value has to outlive references
 * You can borrow immutably or mutably (as long as variable defined as such)
 * You can have multiple immutable borrows, but not an immutable and mutable borrow at the same time or multiple mutable borrows
 * "You can have as many immutable borrows as you want or one mutable borrow"
+
+![](pycon-us-2026-recap-images/why-you-as-a-python-developer-multiple-immutable.png)
+![](pycon-us-2026-recap-images/why-you-as-a-python-developer-mutable-and-immutable-borrowing.png)
 
 Safety guarantee: "'Fearless concurrency'- if it compiles, it is thread safe!" 
 
