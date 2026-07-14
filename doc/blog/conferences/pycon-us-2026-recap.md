@@ -807,21 +807,22 @@ In this way, Rust isolates the places where data might change.
 
 Unlike C, if you allocate on the heap, Rust does not require you to use malloc and free memory allocation. 
 
-In Rust, if you pass a variable by value to a function, the ownership is transferred to that function. That function now owns the underlying memory allocation. If the value is not saved anywhere, original variable can go out of scope and program will not compile. 
+In Rust, if you pass a variable by value to a function, the ownership is transferred to that function. That function now owns the underlying memory allocation. If the value is not saved anywhere, the original variable can go out of scope, and the program will not compile. 
 
 Ownership fix:
 * Clone- create new memory allocation containing same value and pass it to function as copy without transferring ownership
 * Borrowing- passing by reference, share data in differences places without transferring ownership
 
 ![](pycon-us-2026-recap-images/why-you-as-a-python-developer-single-borrows.png)
+A single immutable and mutable borrow
 
 Borrowing rules:
-* Owned data has to outlives borrows, because original value has to outlive references
-* You can borrow immutably or mutably (as long as variable defined as such)
-* You can have multiple immutable borrows, but not an immutable and mutable borrow at the same time or multiple mutable borrows
-* "You can have as many immutable borrows as you want or one mutable borrow"
+* Owned data has to outlives borrows, because the original value has to outlive references
+* You can borrow immutably or mutably (as long as the variable is defined as such)
+* You can have multiple immutable borrows, but not an immutable and mutable borrow at the same time or multiple mutable borrows ("You can have as many immutable borrows as you want or one mutable borrow")
 
 ![](pycon-us-2026-recap-images/why-you-as-a-python-developer-multiple-immutable.png)
+
 ![](pycon-us-2026-recap-images/why-you-as-a-python-developer-mutable-and-immutable-borrowing.png)
 
 Safety guarantee: "'Fearless concurrency'- if it compiles, it is thread safe!" 
