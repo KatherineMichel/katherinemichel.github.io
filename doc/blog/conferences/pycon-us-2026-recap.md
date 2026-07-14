@@ -870,12 +870,20 @@ mutability when sharing data
 
 "Lazy imports is a new feature in 3.15 that allows for the user to defer importing a module until it is actually used." 
 
+Lazy Imports at Scale:
+* -70% startup time
+* increased throughput
+* -70% memory
+
+![](pycon-us-2026-recap-images/lazy-imports-and-the-art-of-interpreter-procrastination-the-history.png)
+
 ![](pycon-us-2026-recap-images/lazy-imports-and-the-art-of-interpreter-procrastination-adoption.png)
+
+[Lifeguard for lazy imports](https://github.com/facebook/Lifeguard)
 
 <!--
 https://peps.python.org/pep-0810/
 https://github.com/facebookincubator/cinder
-https://github.com/facebook/Lifeguard
 -->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
