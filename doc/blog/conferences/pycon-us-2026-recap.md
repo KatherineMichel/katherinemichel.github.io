@@ -892,7 +892,7 @@ Python import crash course:
 * "Python finds the required module by looking at its built modules and the configured directories in sys.path"
 * "It loads the file into memory, compiling it if needed.
 * "It Executes the module, running all of its top level code, creating functions, classes, variables, and also recursively executing other import statements."
-* A single import quickly cascades into a lot of real an dpossibly expensive code execution."
+* A single import quickly cascades into a lot of real and possibly expensive code execution."
 
 "Lazy imports is a new feature in 3.15 that allows for the user to defer importing a module until it is actually used." 
 
@@ -913,13 +913,15 @@ Lazy Imports at Scale at Meta:
 * -70% memory for other executables
 * OOM (out of memory exception) replaced by stability
 
+The appetite for lazy imports grew, and they were implemented by companies that could maintain a fork. 
+
 ![](pycon-us-2026-recap-images/lazy-imports-and-the-art-of-interpreter-procrastination-the-history.png)
-Aggressive implementation of lazy imports in [Cinder](https://github.com/facebookincubator/cinder), HRT enabled lazy imports across the firm, followed by Google, plus additional art, some available since Python 3.5
+In addition to Meta's aggressive implementation of lazy imports in [Cinder](https://github.com/facebookincubator/cinder), HRT enabled lazy imports across the firm, followed by Google. 
 
 "Lazy imports is a common feature in other programming languages. The demand was there." [Pep 810](https://peps.python.org/pep-0810/) was born. 
 
 Explicit Lazy Imports:
-* Local behavior: lazy import is isolated to only import marked with lazy keyword, not global
+* Local behavior: lazy import is isolated to only import marked with lazy keyword
 * Explicit semantics: "binding is created in the importing module immediately, but the target module is not imported until the first time it is used." 
 * Control: "only triggered by the importing code itself"
 * Granular mechanism: can adopt incrementally
