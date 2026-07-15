@@ -888,7 +888,15 @@ mutability when sharing data
 
 by Brittany Reynoso
 
+Python import crash course:
+* "Python finds the required module by looking at its built modules and the configured directories in sys.path"
+* "It loads the file into memory, compiling it if needed.
+* "It Executes the module, running all of its top level code, creating functions, classes, variables, and also recursively executing other import statements."
+* A single import quickly cascades into a lot of real an dpossibly expensive code execution."
+
 "Lazy imports is a new feature in 3.15 that allows for the user to defer importing a module until it is actually used." 
+
+![](pycon-us-2026-recap-images/lazy-imports-and-the-art-of-interpreter-procrastination-instagram-dependency-graph.png)
 
 Lazy Imports at Scale:
 * -70% startup time
@@ -1085,7 +1093,13 @@ Paul was an early Python user featured in the Cult Repo [Python documentary](htt
 
 ### Learning Computer Science with Python and Music(21)
 
-by Michael Scott Asato Cuthbert
+by Michael Scott Asato Cuthbert (Myke)
+
+On a personal note: for decades, my mom worked as a music therapist, church organist, school accompanist, and piano teacher. Myke's energy, passion, and creativity unexpectedly touched me in a way that a talk hadn't in a while. 
+
+Key takeaways:
+* Working with music and making music with Pyton can be absollutely magical
+* The abstract and the applied have so much to offer each other and can keep going over and over
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
