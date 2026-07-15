@@ -410,9 +410,7 @@ Pablo gave a keynote in both Spanish and English, a first.
 
 ### Rust for CPython
 
-<!--
-Presenter name
--->
+by Emma Smith
 
 CPython has over a million lines of C code. 
 
@@ -437,8 +435,8 @@ Examples of undefined behavior
 
 You can mitigate, but not prevent undefined behavior:
 * Increase code review- a bottleneck
-* Fuzzing- OSS-Fuzz
-* Sanitizers- ASAN, TSAN, UBSAN in CI (address sanitizer, thread sanitizer, etc)
+* Fuzzing- [OSS-Fuzz](https://github.com/google/oss-fuzz)
+* Sanitizers- ASAN, TSAN, UBSAN in CI (address sanitizer, thread sanitizer, undefined behavior sanitizer etc)
 * Analyze code with LLMs
 
 All of these are currently being done and increase maintainer workload at a time when maintainers are already being stretched thin. 
@@ -482,7 +480,14 @@ Controversial take: "Making Rust required to build CPython would be great."
 * Is this feasible?
 * Would it prevent people from building Python?
 
+[Rust for CPython website](https://rust-for-cpython.com/)
+
 <!--
+port zlib
+
+Mojo- 
+Community project rust py rust python, was much slower than cpython
+
 https://doc.rust-lang.org/nomicon/what-unsafe-does.html
 One of more dangerous things- de-reference a raw pointer
 
@@ -496,9 +501,7 @@ https://peps.python.org/pep-0744/
 
 ### Post-Incident Runtime SBOM Generation from Python Memory
 
-<!--
-Presenter name
--->
+by Hala Ali
 
 Simple question: "After a Python application has been compromised, can we still figure out what packages are loaded and running?"
 
