@@ -49,6 +49,7 @@ Table of Contents
     - [Python Software Foundation Security Engineers Update](#python-software-foundation-security-engineers-update)
     - [Chatting With Emma](#chatting-with-emma)
     - [PyLadies Lunch](#pyladies-lunch)
+    - [Learning Computer Science with Python and Music(21)](#learning-computer-science-with-python-and-music21)        
     - [Why you, as a Python developer, should learn Rust](#why-you-as-a-python-developer-should-learn-rust)
     - [Lazy imports and the art of interpreter procrastination](#lazy-imports-and-the-art-of-interpreter-procrastination)
     - [Paolo and Mark](#paolo-and-mark)
@@ -64,7 +65,6 @@ Table of Contents
     - [Container-enabled Asyncio is All You Need](#container-enabled-asyncio-is-all-you-need)
     - [Why Software Engineering Practices Fail in Data Engineering](#why-software-engineering-practices-fail-in-data-engineering)
     - [GitHub Actions Security in Python Packages](#github-actions-security-in-python-packages)
-    - [Learning Computer Science with Python and Music(21)](#learning-computer-science-with-python-and-music21)        
 - [More Connections Made](#more-connections-made)
 - [Swag](#swag)
 - [Monday](#monday)
@@ -796,6 +796,18 @@ I also got a bear hug from Carol Willing and a request to catch up soon. :)
   
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+### Learning Computer Science with Python and Music(21)
+
+by Michael Scott Asato Cuthbert (Myke)
+
+On a personal note: for decades, my mom worked as a music therapist, church organist, school accompanist, and piano teacher. Myke's energy, passion, and creativity unexpectedly touched me in a way that a talk hadn't in a while. 
+
+Key takeaways:
+* Working with music and making music with Pyton can be absollutely magical
+* The abstract and the applied have so much to offer each other and can keep going over and over
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
 ### Why you, as a Python developer, should learn Rust
 
 by Daniel Szoke
@@ -929,6 +941,7 @@ Explicit Lazy Imports:
 Make an import lazy: `lazy import foo`
 
 ![](pycon-us-2026-recap-images/lazy-imports-and-the-art-of-interpreter-procrastination-adoption.png)
+Adoption tips
 
 [Lifeguard for lazy imports](https://github.com/facebook/Lifeguard)
 
@@ -1107,19 +1120,6 @@ Paul was an early Python user featured in the Cult Repo [Python documentary](htt
 ### Lin Qiao Keynote
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
--->
-
-### Learning Computer Science with Python and Music(21)
-
-by Michael Scott Asato Cuthbert (Myke)
-
-On a personal note: for decades, my mom worked as a music therapist, church organist, school accompanist, and piano teacher. Myke's energy, passion, and creativity unexpectedly touched me in a way that a talk hadn't in a while. 
-
-Key takeaways:
-* Working with music and making music with Pyton can be absollutely magical
-* The abstract and the applied have so much to offer each other and can keep going over and over
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Container-enabled Asyncio is All You Need
 
@@ -1127,37 +1127,30 @@ by Niels Bantlin
 
 Don't reach for a DSL too early. 
 
-<!--
 ![](pycon-us-2026-recap-images/container-enabled-async-where-the-pain-shows-up.png)
 Where the pain shows up
--->
 
 ![](pycon-us-2026-recap-images/container-enabled-asyncio-stdlib-moves-that-cover-most-dsl-features.png)
 stdlib moves that cover most "DSL features"
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-<!--
     - [Running Large Language Models on Laptops: Practical Quantization Techniques in Python](#running-large-language-models-on-laptops-practical-quantization-techniques-in-python)
 
 ### Running Large Language Models on Laptops: Practical Quantization Techniques in Python
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
--->
 
 ### Why Software Engineering Practices Fail in Data Engineering
 
 by Constance Martineau
 
-<!--
 ![](pycon-us-2026-recap-images/why-software-engineering-practices-fail-what-dev-catches-what-slips-through.png)
--->
 
 ![](pycon-us-2026-recap-images/why-software-engineering-practices-fail-the-five-layers-of-pipeline-reliability.png)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-<!--
     - [How to Build Your First Realtime Voice Agent in Python](#how-to-build-your-first-realtime-voice-agent-in-python)
 
 ### How to Build Your First Realtime Voice Agent in Python
@@ -1173,7 +1166,6 @@ by Constance Martineau
 ### Anatomy of a Phishing Campaign
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
--->
 
 ### GitHub Actions Security in Python Packages
 
@@ -1181,7 +1173,6 @@ by Andrew Nesbitt
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-<!--
 What Python Developers Need to Know About Hardware
 -->
 
