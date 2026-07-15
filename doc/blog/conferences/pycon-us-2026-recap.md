@@ -257,7 +257,7 @@ As an alterntive to Python's glob module, Cristián wrote his own fastglob modul
 
 Extensions are not the solution to everything, but extending Python with other languages motivates discussion and keeps the community active. 
 
-Python implementation alternatives to CPython: PyPy, Jython, Pyston, Cinder, CircuitPython, Pyjion, Qt for Python/PySide, GraalPython, RustPython, MicroPython, Mojo
+Python implementation alternatives to CPython mentioned in the talk: PyPy, Jython, Pyston, Cinder, CircuitPython, Pyjion, Qt for Python/PySide, GraalPython, RustPython, MicroPython, Mojo
 
 <!--
 Mojo, Codon
