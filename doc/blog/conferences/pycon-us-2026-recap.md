@@ -120,7 +120,7 @@ Although the Queen Mary was larger, faster, and more sophisticated, members of m
 A fantastic view of the Los Angeles River and Long Beach Shoreline Marina from a deck on the Queen Mary
 
 ![](pycon-us-2026-recap-images/queen-mary-grand-salon.jpg)
-Formerly the First Class Dining Salon, now the Grand Salon. Many of the Queen Mary's floors, stairs, walls, ceilings, artworks are original. It is one of the largest and most pristine Art Deco collections in the world. 
+Formerly the First Class Dining Salon, now the Grand Salon. Many of the Queen Mary's floors, stairs, walls, ceilings, artworks are original. It is one of the largest and most pristine Art Deco collections in the world. Our tour guide absolutely loves his job on the Queen Mary. 
 
 ![](pycon-us-2026-recap-images/queen-mary-1930s-gps.jpg)
 One of many beautiful artworks on the ship and a 1930s version of GPS. A boat in the center of the artwork could be moved to inform the passengers of the ship's progress. 
@@ -149,7 +149,7 @@ I chatted with Sam Doran, principal software engineer, Ansible Core Team Member,
 * [Linux for Dummies](https://www.amazon.com/Linux-Dummies-9th-Richard-Blum/dp/0470467010)
 * [RHEL Lightspeed](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/10/html/interacting_with_the_command-line_assistant_powered_by_rhel_lightspeed/introducing-rhel-lightspeed-for-rhel-systems): a CLI connected to an AI chat-bot built on [Block's Goose](https://github.com/aaif-goose/goose) to provide answers from Red Hat's knowledge base
 * Red Hat Certified Specialist (RHCS)
-* [Red Hat Enterprise Linux Diagnostics and Troubleshooting](https://www.redhat.com/en/services/training/rh342-red-hat-enterprise-linux-diagnostics-and-troubleshooting)
+* [Red Hat Enterprise Linux Diagnostics and Troubleshooting](https://www.redhat.com/en/services/training/rh342-red-hat-enterprise-linux-diagnostics-and-troubleshooting) course
   
 <!---
 https://github.com/rhel-lightspeed
@@ -220,7 +220,9 @@ A good way to identify a lightning talk subject: "tell me something that's inter
 
 ### The Art of Extending Python with Other Languages
 
-Cristián Maureira-Fredes believes Python extensions are important, but many people are afraid of them. He wants to help people trust themselves and give it a try. 
+by Cristián Maureira-Fredes
+
+Cristián believes Python extensions are important, but many people are afraid of them. He wants to help people trust themselves and give it a try. 
 
 Python adjacent tools written in other languages: 
 * PyTorch: C++
@@ -257,7 +259,7 @@ As an alterntive to Python's glob module, Cristián wrote his own fastglob modul
 
 Extensions are not the solution to everything, but extending Python with other languages motivates discussion and keeps the community active. 
 
-Python implementation alternatives to CPython: PyPy, Jython, Pyston, Cinder, CircuitPython, Pyjion, Qt for Python/PySide, GraalPython, RustPython, MicroPython, Moji
+Python implementation alternatives to CPython: PyPy, Jython, Pyston, Cinder, CircuitPython, Pyjion, Qt for Python/PySide, GraalPython, RustPython, MicroPython, Mojo
 
 <!--
 Mojo, Codon
@@ -268,9 +270,7 @@ https://www.qt.io/development/qt-framework/qt-bridges
 
 ### PEP 750 - T-strings: safer and smarter string processing
 
-<!--
-Presenter name
--->
+by Vinícius Gubiani Ferreira
 
 t-strings were accepted in [PEP 750](https://peps.python.org/pep-0750/) and implemented in Python 3.14. 
 
@@ -292,19 +292,17 @@ A t-string has attributes that can be accessed through dot notation.
 
 ![](pycon-us-2026-recap-images/pep750-t-strings-template-and-interpolation-types-2.png)
 
-<!--
-Presenter name
-
 Dot notation
+* .interpolations is the metadata object
 * .string is the static parts as a tuple
-* .interpolation is the value assigned to the variable inside of {}
+* .value is the evaluated result
 * .expression is the variable inside of {}
-
-.values
+* .conversion is a string representation choice (!r or !s for repr() or str())
+* .format_spec is a formatting spec (example: decimal places)
+  
+<!--
 None- special parameters that allow you to do transformation and formatting
-.value
-.conversion
-.format_spec
+.values
 -->
 
 ![](pycon-us-2026-recap-images/pep750-t-strings-security-first.png)
@@ -325,19 +323,21 @@ Less obvious use cases for t-strings:
 * Break large Jinja templates into smaller t-strings
 * Logging with human readable and JSON output
 
-![](pycon-us-2026-recap-images/pep750-t-strings-things-you-should-know.png)
+Things you should know:
+* No automatic string output: you need to convert the t-string to a string yourself
+* Performance: you are trading speed for security (extra checks, allocating/deallocating memory)
+* Complexity/UX: new concept to learn (mentioned legacy template)
+* Partial standardization: t-strings offer new functionality, but no specific inplementation is enforced
 
 t-string PEPs on the horizon
 * [PEP 787 – Safer subprocess usage using t-strings](https://peps.python.org/pep-0787/)
 * [PEP 822 – Dedented Multiline String (d-string)](https://peps.python.org/pep-0822/)
 
 More resources
+* [Python 3.14's new T-Strings: what's the big deal?](https://www.youtube.com/watch?v=tVhiar5LSQQ)
 * [Real Python: Python t-strings](https://realpython.com/python-t-strings/)
+* [t-strings Help](https://t-strings.help/)
 * [Awesome t-strings](https://github.com/t-strings/awesome-t-strings)
-
-<!--
-https://t-strings.help/
--->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
