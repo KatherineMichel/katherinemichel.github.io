@@ -896,23 +896,39 @@ Python import crash course:
 
 "Lazy imports is a new feature in 3.15 that allows for the user to defer importing a module until it is actually used." 
 
-![](pycon-us-2026-recap-images/lazy-imports-and-the-art-of-interpreter-procrastination-instagram-dependency-graph.png)
+"The power of Lazy Imports goes beyond any single module. 
 
-Lazy Imports at Scale:
+![](pycon-us-2026-recap-images/lazy-imports-and-the-art-of-interpreter-procrastination-instagram-dependency-graph.png)
+Real Instagram Django dependency graph, January 2022, before lazy imports
+
+Pain points
+* Loading over 28,000 modules at startup
+* Reloads up to 2 minutes
+* Circular dependency nightmare
+
+Lazy Imports at Scale at Meta:
+* Load 12x fewer modules
 * -70% startup time
-* increased throughput
-* -70% memory
+* increased throughput for Django servers
+* -70% memory for other executables
+* OOM (out of memory exception) replaced by stability
 
 ![](pycon-us-2026-recap-images/lazy-imports-and-the-art-of-interpreter-procrastination-the-history.png)
+Aggressive implementation of lazy imports in [Cinder](https://github.com/facebookincubator/cinder), HRT enabled lazy imports across the firm, followed by Google, plus additional art, some available since Python 3.5
+
+"Lazy imports is a common feature in other programming languages. The demand was there." [Pep 810](https://peps.python.org/pep-0810/) was born. 
+
+Explicit Lazy Imports:
+* Local behavior: lazy import is isolated to only import marked with lazy keyword, not global
+* Explicit semantics: "binding is created in the importing module immediately, but the target module is not imported until the first time it is used." 
+* Control: "only triggered by the importing code itself"
+* Granular mechanism: can adopt incrementally
+
+Make an import lazy: `lazy import foo`
 
 ![](pycon-us-2026-recap-images/lazy-imports-and-the-art-of-interpreter-procrastination-adoption.png)
 
 [Lifeguard for lazy imports](https://github.com/facebook/Lifeguard)
-
-<!--
-https://peps.python.org/pep-0810/
-https://github.com/facebookincubator/cinder
--->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
