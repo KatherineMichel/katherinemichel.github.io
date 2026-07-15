@@ -61,10 +61,6 @@ Table of Contents
     - [Ice Cream Selfie](#ice-cream-selfie)
     - [RevSys After Party](#revsys-after-party)
     - [L'Opera](#lopera)
-- [More Favorite Talk Snippets](#more-favorite-talk-snippets)
-    - [Container-enabled Asyncio is All You Need](#container-enabled-asyncio-is-all-you-need)
-    - [Why Software Engineering Practices Fail in Data Engineering](#why-software-engineering-practices-fail-in-data-engineering)
-    - [GitHub Actions Security in Python Packages](#github-actions-security-in-python-packages)
 - [More Connections Made](#more-connections-made)
 - [Swag](#swag)
 - [Monday](#monday)
@@ -1112,9 +1108,14 @@ Paul was an early Python user featured in the Cult Repo [Python documentary](htt
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+<!--
 ## More Favorite Talk Snippets
 
-<!--
+- [More Favorite Talk Snippets](#more-favorite-talk-snippets)
+    - [Container-enabled Asyncio is All You Need](#container-enabled-asyncio-is-all-you-need)
+    - [Why Software Engineering Practices Fail in Data Engineering](#why-software-engineering-practices-fail-in-data-engineering)
+    - [GitHub Actions Security in Python Packages](#github-actions-security-in-python-packages)
+    
     - [Lin Qiao Keynote](#lin-qiao-keynote)
 
 ### Lin Qiao Keynote
