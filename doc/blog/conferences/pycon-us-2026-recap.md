@@ -517,6 +517,7 @@ There are different types of SBOMs
 This talk focuses on Runtime SBOMs, because most SBOM tools only give a static view
 
 ![](pycon-us-2026-recap-images/post-incident-runtime-sbom-generation-whats-wrong-with-todays-sbom-tools.png)
+What's wrong with today's SBOM tools?
 
 SBOM issues
 * SBOM reads metadata/config and estimates intalled version, not actual version
@@ -524,14 +525,14 @@ SBOM issues
 * Python's dynamic nature is a "nightmare from a security perspective"
 
 ![](pycon-us-2026-recap-images/post-incident-runtime-sbom-generation-same-package-different-runtime-states.png)
-"How can we trust the filesystem?" Package shared by Django and Celery is treated differently by each tool
+"How can we trust the filesystem?" An example of a package shared by Django and Celery being treated differently by each tool
 
 Solution: We can recover Runtime SBOMs through memory forensics. 
 
 "Memory forensics is the process of capturing and analyzing RAM to recover the system's runtime state at the time of capture." 
 
 ![](pycon-us-2026-recap-images/post-incident-runtime-sbom-generation-what-is-memory-forensics.png)
-At the kernel-level, popular memory forensics tool [Volatility 3](https://github.com/volatilityfoundation/volatility3) records what is running in operating system memory, including Python process. Hala and her research partner created another tool on top of Volatility 3 called [MEM-SBOM](https://github.com/HalaAli198/MEM-SBOM) to parse the Python process from memory. 
+At the kernel-level, popular memory forensics tool [Volatility 3](https://github.com/volatilityfoundation/volatility3) records what is running in operating system memory, including a Python process. Hala and her research partner created another tool on top of Volatility 3 called [MEM-SBOM](https://github.com/HalaAli198/MEM-SBOM) to parse the Python process from memory. 
 
 ![](pycon-us-2026-recap-images/post-incident-runtime-sbom-generation-python-memory-analysis.png)
 Python memory analysis
@@ -550,7 +551,9 @@ When Python creates a module, it is represented in memory as a Py module object.
 
 ![](pycon-us-2026-recap-images/post-incident-runtime-sbom-generation-mem-sbom-novel-runtime-sbom-generation-tool.png)
 
+<!--
 ![](pycon-us-2026-recap-images/post-incident-runtime-sbom-generation-when-modules-hide-look-deeper.png)
+-->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
