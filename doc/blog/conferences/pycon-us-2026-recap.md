@@ -551,6 +551,14 @@ When Python creates a module, it is represented in memory as a Py module object.
 
 ![](pycon-us-2026-recap-images/post-incident-runtime-sbom-generation-mem-sbom-novel-runtime-sbom-generation-tool.png)
 
+How MEM-SBOM works:
+* Identify entrypoint of Python runtime
+* There could be a number of processes- parse memory of every process to recover all modules
+* Filter out build and standard library modules, focus on app and third-party modules, group them under parent package
+* Work around optional version name by using regex to get name and version of installed packages cached in memory by the Python interpreter. Because installed name is different from runtime name, normalize installed name and query PyPI to get runtime name.
+* Use [CycloneDX standard](https://cyclonedx.org/) to write the SBOM to a JSON file. SBOMs can be input into vulnerability detection tools such as [Anchore](https://anchore.com/platform/secure/) to provide vulnerabilities and CVEs for your app.
+* The entire app is not vulnerable. We need to identify the impacted module in memory. Parse the bytecode of each module and function to identify the transitive relationship of how they relay upon each other. We do not need to update the entire app to fix a vulnerability, only the modules in question that have a code path between them. 
+
 <!--
 ![](pycon-us-2026-recap-images/post-incident-runtime-sbom-generation-when-modules-hide-look-deeper.png)
 -->
@@ -790,6 +798,8 @@ I also got a bear hug from Carol Willing and a request to catch up soon. :)
 
 ### Why you, as a Python developer, should learn Rust
 
+by Daniel Szoke
+
 Main philosophical difference between Rust and Python: "Rust surfaces many Python runtime errors at compile time." 
 
 Rust has an emphasis on type and memory-safety.
@@ -873,6 +883,8 @@ mutability when sharing data
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Lazy imports and the art of interpreter procrastination
+
+by Brittany Reynoso
 
 "Lazy imports is a new feature in 3.15 that allows for the user to defer importing a module until it is actually used." 
 
