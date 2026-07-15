@@ -434,7 +434,7 @@ Examples of undefined behavior
 You can mitigate, but not prevent undefined behavior:
 * Increase code review- a bottleneck
 * Fuzzing- [OSS-Fuzz](https://github.com/google/oss-fuzz)
-* Sanitizers- ASAN, TSAN, UBSAN in CI (address sanitizer, thread sanitizer, undefined behavior sanitizer etc)
+* Sanitizers- ASAN, TSAN, UBSAN in CI (address sanitizer, thread sanitizer, undefined behavior sanitizer, etc.)
 * Analyze code with LLMs
 
 All of these are currently being done and increase maintainer workload at a time when maintainers are already being stretched thin. 
@@ -555,7 +555,7 @@ How MEM-SBOM works:
 * Filter out build and standard library modules, focus on app and third-party modules, group them under parent package
 * Work around optional version name by using regex to get name and version of installed packages cached in memory by the Python interpreter. Because installed name is different from runtime name, normalize installed name and query PyPI to get runtime name.
 * Use [CycloneDX standard](https://cyclonedx.org/) to write the SBOM to a JSON file. SBOMs can be input into vulnerability detection tools such as [Anchore](https://anchore.com/platform/secure/) to provide vulnerabilities and CVEs for your app.
-* The entire app is not vulnerable. We need to identify the impacted module in memory. Parse the bytecode of each module and function to identify the transitive relationship of how they relay upon each other. We do not need to update the entire app to fix a vulnerability, only the modules in question that have a code path between them. 
+* The entire app is not vulnerable. We need to identify the impacted module in memory. Parse the bytecode of each module and function to identify the transitive relationship/how they rely upon each other. We do not need to update the entire app to fix a vulnerability, only the modules in question that have a code path between them. 
 
 <!--
 ![](pycon-us-2026-recap-images/post-incident-runtime-sbom-generation-when-modules-hide-look-deeper.png)
