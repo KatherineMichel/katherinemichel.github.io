@@ -1085,9 +1085,13 @@ Paul was an early Python user featured in the Cult Repo [Python documentary](htt
 
 ### Learning Computer Science with Python and Music(21)
 
+by Michael Scott Asato Cuthbert
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Container-enabled Asyncio is All You Need
+
+by Niels Bantlin
 
 Don't reach for a DSL too early. 
 
@@ -1110,6 +1114,8 @@ stdlib moves that cover most "DSL features"
 -->
 
 ### Why Software Engineering Practices Fail in Data Engineering
+
+by Constance Martineau
 
 <!--
 ![](pycon-us-2026-recap-images/why-software-engineering-practices-fail-what-dev-catches-what-slips-through.png)
@@ -1138,6 +1144,8 @@ stdlib moves that cover most "DSL features"
 -->
 
 ### GitHub Actions Security in Python Packages
+
+by Andrew Nesbitt
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
