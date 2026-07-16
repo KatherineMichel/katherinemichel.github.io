@@ -821,13 +821,41 @@ Key takeaways:
 * "Working with music and making music with Python can be absolutely magical"
 * "The abstract and the applied have so much to offer each other and can keep going over and over"
 
-<!--
-Representations of music:
-* Music as audio/words spoken: frequencies, wav, mp3
-* Symbolic music representation/words written on a page: notes, scales, xml file
--->
+Despite a small presence in the standard library, Python has an incredibly rich music ecosystem: librosa, demucs, magenta, spleeter, pedalboard, sounddevice, pyo, PyDub, pretty_midi, Spotipy, Madmom, Audiocraft/MusicGen, musicaiz, riffusion, Muskits, muspy, athenaCL, and many more. 
+
+Simplified representations of music:
+* Music as metadata: playlists, extracting lyrics
+* Music as audio (think words spoken): making beats, changing effects, frequencies, wav, mp3
+* Music as symbolic representation (think words written on a page): notes, scales, xml file
+
+If you focus on audio without symbolic representation, it's comparable to "working with speech in a system that did not have a concept of a string or a character."
+
+Myke has been using Python for 20 years. When he got started, there were no programming tools for working with scores. So, he created [music21](https://music21.org/music21docs/). 
   
-Music(21)
+![](pycon-us-2026-recap-images/learning-computer-science-with-python-and-music-21-learn-cs-fundamentals.png)
+
+Examples of things you can do with it
+* Visualize differences in note/interval use across regions in China
+* Compare chord motion commonality in 1950s versus late 20s
+* Find hidden quotations in medieval music
+* Analyze scores for auto-music synthesis
+* Identify pieces mistakenly attributed to Bach
+* Check if songs in minor keys use more sad lyrics (no)
+
+[Computational Music Theory and Analysis](https://ocw.mit.edu/courses/21m-383-computational-music-theory-and-analysis-spring-2023/pages/about-the-course-and-music21/)
+* Using for loops to label excerpts of Bach
+* Using depth-first search (DFS) or breadth-first search (BFS) to search musical scores
+* Identity vs. Equality vs. Equivalence in notes
+* Melodic minor scale as directed graph
+* Ontologies vs. Meronomies
+
+Myke touched on the lack of diversity among music available for doing computational analysis on a large scale. 
+
+Patterns that work for applied projects
+* Cut a large task into smaller ones to assign to get great results
+* Make software tools "batteries included" so students get "bit by the bug" from day 1
+* Code and unlock- have students create their own simple tool, then move on to state of the art tool and see edge cases and efficiencies
+
 ![](pycon-us-2026-recap-images/learning-computer-science-with-python-and-music-21-learn-cs-fundamentals.png)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
