@@ -33,7 +33,6 @@ Table of Contents
     - [Saturday Sponsor Talks](#saturday-sponsor-talks)
         - [Anthropic](#anthropic)
         - [Hudson River Trading](#hudson-river-trading)          
-    - [Pablo Galindo Salgado Keynote](#pablo-galindo-salgado)
     - [Rust for CPython](#rust-for-cpython)
     - [Post-Incident Runtime SBOM Generation from Python Memory](#post-incident-runtime-sbom-generation-from-python-memory)
     - [PSF Members Luncheon](#psf-members-luncheon)
@@ -42,7 +41,6 @@ Table of Contents
     - [PyLadies Auction](#pyladies-auction)
 - [Sunday](#sunday)
     - [Marina and Beach](#marina-and-beach)
-    - [Amanda Casari Keynote](#amanda-casari-keynote)
     - [Sunday Sponsor Talks](#sunday-sponsor-talks)
         - [Google](#google)
         - [Fastly](#fastly)  
@@ -53,7 +51,6 @@ Table of Contents
     - [Why you, as a Python developer, should learn Rust](#why-you-as-a-python-developer-should-learn-rust)
     - [Lazy imports and the art of interpreter procrastination](#lazy-imports-and-the-art-of-interpreter-procrastination)
     - [Paolo and Mark](#paolo-and-mark)
-    - [Rachel Calhoun and Tim Schilling Keynote](#rachel-calhoun-and-tim-schilling-keynote)
     - [Steering Council Panel](#steering-council-panel)
     - [Python Software Foundation Update](#python-software-foundation-update)
     - [Closing](#closing)
@@ -400,11 +397,15 @@ At a time of uncertainty, Hudson River Trading is ramping up.
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+<!--
+    - [Pablo Galindo Salgado Keynote](#pablo-galindo-salgado)
+
 ### Pablo Galindo Salgado Keynote
 
 Pablo gave a keynote in both Spanish and English, a first. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
+-->
 
 ### Rust for CPython
 
@@ -636,13 +637,15 @@ Alamitos Beach
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+<!--
+    - [Amanda Casari Keynote](#amanda-casari-keynote)
+
 ### Amanda Casari Keynote
 
-<!--
 Marc Gibbons- got a shoutout in keynote
--->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
+-->
 
 ### Sunday Sponsor Talks
 
@@ -952,9 +955,13 @@ During the closing plenary, I sat at the front with Paolo Melchiorre who gave me
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+<!--
+    - [Rachel Calhoun and Tim Schilling Keynote](#rachel-calhoun-and-tim-schilling-keynote)
+
 ### Rachel Calhoun and Tim Schilling Keynote
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
+-->
 
 ### Steering Council Panel
 
