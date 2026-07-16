@@ -857,6 +857,7 @@ Patterns that work for applied projects
 * Code and unlock- have students create their own simple tool, then move on to state of the art tool and see edge cases and efficiencies
 
 ![](pycon-us-2026-recap-images/learning-computer-science-with-python-and-music-21-learn-cs-fundamentals.png)
+Apply these skill to your own learning
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
