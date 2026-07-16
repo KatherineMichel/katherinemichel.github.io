@@ -801,13 +801,21 @@ I also got a bear hug from Carol Willing and a request to catch up soon. :)
 
 by Michael Scott Asato Cuthbert (Myke)
 
-On a personal note: for decades, my mom worked as a music therapist, church organist, school accompanist, and piano teacher. Myke's energy, passion, and creativity unexpectedly touched me in a way that a talk hadn't in a while. 
+On a personal note from Kati: for decades, my mom worked as a music therapist, church organist, school accompanist, and piano teacher. Myke's energy, passion, and creativity unexpectedly touched me in a way that few others have. 
 
-Myke is interested in "how computers could change the arts and humanities and especially music [his] field... history, theory, composition." 
+Myke is interested in "how computers could change the arts and humanities and especially music [his] field... history, theory, and composition." 
 
 Standard paradigm: apply CS knowledge to other fields to grow knowledge. 
 
-Myke saw the opposite. Arts and humanities could make knowledge flow in the reverse to CS and programming. 
+Myke saw the opposite. Arts and humanities-inspired applications could make knowledge flow in the reverse to CS and programming. 
+
+A Python-based programming class could not only create new insights into music, but teach and reinforce fundamental computer science skills. 
+
+Furthermore, moving beyond the narrow group of apps appearing repeatedly in courses (build a poker bot, design a database) and instead applying computer science to other fields, creates learning opportunities that resonote more closely with the interests of students of races and genders underrepresented, freeing their incredible talent and creativity, and enabling them to achieve an appreciation for and fluency in altorithms and other computer science fundamentals. 
+
+Python has been invaluable for creating a "rapid motion" back-and-forth between abstraction and application. 
+
+To be "still motivated by a problem when you arrive at the solution" is key. 
 
 Key takeaways:
 * "Working with music and making music with Python can be absolutely magical"
