@@ -801,7 +801,7 @@ by Michael Scott Asato Cuthbert (Myke)
 On a personal note: for decades, my mom worked as a music therapist, church organist, school accompanist, and piano teacher. Myke's energy, passion, and creativity unexpectedly touched me in a way that a talk hadn't in a while. 
 
 Key takeaways:
-* Working with music and making music with Pyton can be absollutely magical
+* Working with music and making music with Python can be absollutely magical
 * The abstract and the applied have so much to offer each other and can keep going over and over
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
@@ -833,10 +833,10 @@ In this way, Rust isolates the places where data might change.
 
 Unlike C, if you allocate on the heap, Rust does not require you to use malloc and free memory allocation. 
 
-In Rust, if you pass a variable by value to a function, the ownership is transferred to that function. That function now owns the underlying memory allocation. If the value is not saved anywhere, the original variable can go out of scope, and the program will not compile. 
+In Rust, if you pass a variable by value to a function, the ownership is transferred to that function. That function now owns the underlying memory allocation. The original variable can go out of scope, and the program will not compile. 
 
 Ownership fix:
-* Clone- create a new memory allocation containing the same value and pass it to function as copy without transferring ownership
+* Clone- create a new memory allocation containing the same value and pass it to the function as copy without transferring ownership
 * Borrowing- pass by reference, share data in differences places without transferring ownership
 
 ![](pycon-us-2026-recap-images/why-you-as-a-python-developer-single-borrows.png)
@@ -901,12 +901,12 @@ by Brittany Reynoso
 Python import crash course:
 * "Python finds the required module by looking at its built modules and the configured directories in sys.path"
 * "It loads the file into memory, compiling it if needed.
-* "It Executes the module, running all of its top level code, creating functions, classes, variables, and also recursively executing other import statements."
-* A single import quickly cascades into a lot of real and possibly expensive code execution."
+* "It executes the module, running all of its top level code, creating functions, classes, variables, and also recursively executing other import statements."
+* "A single import quickly cascades into a lot of real and possibly expensive code execution."
 
 "Lazy imports is a new feature in 3.15 that allows for the user to defer importing a module until it is actually used." 
 
-"The power of Lazy Imports goes beyond any single module. 
+"The power of Lazy Imports goes beyond any single module."
 
 ![](pycon-us-2026-recap-images/lazy-imports-and-the-art-of-interpreter-procrastination-instagram-dependency-graph.png)
 Real Instagram Django dependency graph, January 2022, before lazy imports
