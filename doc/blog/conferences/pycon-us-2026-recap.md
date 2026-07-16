@@ -20,7 +20,7 @@ Table of Contents
         - [AWS and Valkey](#aws-and-valkey)
 - [Friday](#friday)
     - [Welcome](#welcome)
-    - [Friay Sponsor Talks](#friday-sponsor-talks)
+    - [Friday Sponsor Talks](#friday-sponsor-talks)
         - [Nvidia](#nvidia)
         - [Meta](#meta)
     - [PSF Welcome](#psf-welcome)
