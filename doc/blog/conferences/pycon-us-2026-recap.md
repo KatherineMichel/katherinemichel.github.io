@@ -820,7 +820,7 @@ Representations of music:
 -->
   
 Music(21)
-
+![](pycon-us-2026-recap-images/learning-computer-science-with-python-and-music-21-learn-cs-fundamentals.png)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
