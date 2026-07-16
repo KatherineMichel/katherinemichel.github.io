@@ -832,7 +832,7 @@ If you focus on audio without symbolic representation, it's comparable to "worki
 
 Myke has been using Python for 20 years. When he got started, there were no programming tools for working with scores. So, he created [music21](https://music21.org/music21docs/). 
   
-![](pycon-us-2026-recap-images/learning-computer-science-with-python-and-music-21-learn-cs-fundamentals.png)
+![](pycon-us-2026-recap-images/learning-computer-science-with-python-and-music-21-analyzing-music.png)
 
 Examples of things you can do with it
 * Visualize differences in note/interval use across regions in China
@@ -858,6 +858,8 @@ Patterns that work for applied projects
 
 ![](pycon-us-2026-recap-images/learning-computer-science-with-python-and-music-21-learn-cs-fundamentals.png)
 Apply these skill to your own learning
+
+Final note: "Have the courage to embrace applications, knowing that they will reinforce abstract skills and notions and let the streams of nourishing knowledge flow in all directions." 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
