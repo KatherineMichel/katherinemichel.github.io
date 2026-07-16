@@ -803,9 +803,24 @@ by Michael Scott Asato Cuthbert (Myke)
 
 On a personal note: for decades, my mom worked as a music therapist, church organist, school accompanist, and piano teacher. Myke's energy, passion, and creativity unexpectedly touched me in a way that a talk hadn't in a while. 
 
+Myke is interested in "how computers could change the arts and humanities and especially music [his] field... history, theory, composition." 
+
+Standard paradigm: apply CS knowledge to other fields to grow knowledge. 
+
+Myke saw the opposite. Arts and humanities could make knowledge flow in the reverse to CS and programming. 
+
 Key takeaways:
-* Working with music and making music with Python can be absollutely magical
-* The abstract and the applied have so much to offer each other and can keep going over and over
+* "Working with music and making music with Python can be absolutely magical"
+* "The abstract and the applied have so much to offer each other and can keep going over and over"
+
+<!--
+Representations of music:
+* Music as audio/words spoken: frequencies, wav, mp3
+* Symbolic music representation/words written on a page: notes, scales, xml file
+-->
+  
+Music(21)
+
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
