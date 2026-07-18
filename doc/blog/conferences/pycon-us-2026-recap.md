@@ -1184,6 +1184,7 @@ I also had the opportunity chat with
 ## Swag
 
 ![](pycon-us-2026-recap-images/swag.jpg)
+Lerner Python shirt, JetBrains Bag, PyCon US conference t-shirt, yet another cute Jane Street shirt, Hudson River Trading socks, Red Hat socks, I <3 Mauritius keychain, Python Morsels sticker, Tic-Tac-Toe Choose Your Own Adventure Zine by Al Sweigart, Bloomberg notebook and pen
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
