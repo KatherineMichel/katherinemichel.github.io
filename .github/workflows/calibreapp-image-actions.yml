@@ -24,8 +24,6 @@ on:
   workflow_dispatch:
   # schedule:
     # - cron: '00 23 * * 0'
-  schedule:
-    - cron: '59 21 * * *'
 jobs:
   build:
     name: calibreapp/image-actions
