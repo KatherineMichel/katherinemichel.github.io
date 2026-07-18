@@ -397,16 +397,6 @@ At a time of uncertainty, Hudson River Trading is ramping up.
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-<!--
-    - [Pablo Galindo Salgado Keynote](#pablo-galindo-salgado)
-
-### Pablo Galindo Salgado Keynote
-
-Pablo gave a keynote in both Spanish and English, a first. 
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
--->
-
 ### Rust for CPython
 
 by Emma Smith
@@ -637,16 +627,6 @@ Alamitos Beach
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-<!--
-    - [Amanda Casari Keynote](#amanda-casari-keynote)
-
-### Amanda Casari Keynote
-
-Marc Gibbons- got a shoutout in keynote
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
--->
-
 ### Sunday Sponsor Talks
 
 #### Google
@@ -751,13 +731,6 @@ Sources of Python security news;
 Security is a journey and everyone has a role to play. Share knowledge and help each other. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-<!--
-    - [Posters](#posters)
-### Posters
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
--->
 
 ### Chatting with Emma
 
@@ -1171,75 +1144,6 @@ Paul was an early Python user featured in the Cult Repo [Python documentary](htt
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-<!--
-## More Favorite Talk Snippets
-
-- [More Favorite Talk Snippets](#more-favorite-talk-snippets)
-    - [Container-enabled Asyncio is All You Need](#container-enabled-asyncio-is-all-you-need)
-    - [Why Software Engineering Practices Fail in Data Engineering](#why-software-engineering-practices-fail-in-data-engineering)
-    - [GitHub Actions Security in Python Packages](#github-actions-security-in-python-packages)
-    
-    - [Lin Qiao Keynote](#lin-qiao-keynote)
-
-### Lin Qiao Keynote
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-### Container-enabled Asyncio is All You Need
-
-by Niels Bantlin
-
-Don't reach for a DSL too early. 
-
-![](pycon-us-2026-recap-images/container-enabled-async-where-the-pain-shows-up.png)
-Where the pain shows up
-
-![](pycon-us-2026-recap-images/container-enabled-asyncio-stdlib-moves-that-cover-most-dsl-features.png)
-stdlib moves that cover most "DSL features"
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-    - [Running Large Language Models on Laptops: Practical Quantization Techniques in Python](#running-large-language-models-on-laptops-practical-quantization-techniques-in-python)
-
-### Running Large Language Models on Laptops: Practical Quantization Techniques in Python
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-### Why Software Engineering Practices Fail in Data Engineering
-
-by Constance Martineau
-
-![](pycon-us-2026-recap-images/why-software-engineering-practices-fail-what-dev-catches-what-slips-through.png)
-
-![](pycon-us-2026-recap-images/why-software-engineering-practices-fail-the-five-layers-of-pipeline-reliability.png)
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-    - [How to Build Your First Realtime Voice Agent in Python](#how-to-build-your-first-realtime-voice-agent-in-python)
-
-### How to Build Your First Realtime Voice Agent in Python
-
-![](pycon-us-2026-recap-images/how-to-build-your-first-realtime-voice-agent-best-practices.png)
-
-![](pycon-us-2026-recap-images/how-to-build-your-first-realtime-voice-agent-amazon-bedrock-agentcore-platform.png)
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-    - [Anatomy of a Phishing Campaign](#anatomy-of-a-phishing-campaign)
-
-### Anatomy of a Phishing Campaign
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-### GitHub Actions Security in Python Packages
-
-by Andrew Nesbitt
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-What Python Developers Need to Know About Hardware
--->
-
 ## More Connections Made
 
 My writing has begun to attract a community of fans. During the conference, I had a noticeable uptick in compliments about my blog posts: 
@@ -1278,6 +1182,8 @@ I also had the opportunity chat with
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Swag
+
+![](pycon-us-2026-recap-images/swag.jpg)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
