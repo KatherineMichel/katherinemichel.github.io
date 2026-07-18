@@ -248,7 +248,7 @@ Binding Generators: will "grab your code" and put it into a Python module.
 The source of complexity: understanding the equivalent concepts across languages
 
 ![](pycon-us-2026-recap-images/the-art-of-extending-python-setup-and-benchmark.png)
-As an alterntive to Python's glob module, Cristián wrote his own fastglob module in C++. An 89.7% performance improvement was achieved. 
+As an alternative to Python's glob module, Cristián wrote his own fastglob module in C++. An 89.7% performance improvement was achieved. 
 
 "Why we are not using C++ instead of Rust, besides safety" is a mystery to him. 
 
@@ -322,7 +322,7 @@ Things you should know:
 * No automatic string output: you need to convert the t-string to a string yourself
 * Performance: you are trading speed for security (extra checks, allocating/deallocating memory)
 * Complexity/UX: new concept to learn (mentioned legacy template)
-* Partial standardization: t-strings offer new functionality, but no specific inplementation is enforced
+* Partial standardization: t-strings offer new functionality, but no specific implementation is enforced
 
 t-string PEPs on the horizon
 * [PEP 787 – Safer subprocess usage using t-strings](https://peps.python.org/pep-0787/)
@@ -406,7 +406,7 @@ CPython has over a million lines of C code.
 Benefits of C:
 * Performance: "decimal module 12-80x faster with C backend vs Python"
 * Portability: ported to over 80 different platforms
-* Compatibility: can easily interfact with OS APIs
+* Compatibility: can easily interact with OS APIs
 
 C has the possibility of undefined behavior: "an error in code, which may or may not be caught, either at compile time or runtime." 
 
@@ -509,7 +509,7 @@ This talk focuses on Runtime SBOMs, because most SBOM tools only give a static v
 What's wrong with today's SBOM tools?
 
 SBOM issues
-* SBOM reads metadata/config and estimates intalled version, not actual version
+* SBOM reads metadata/config and estimates installed version, not actual version
 * Different SBOM tools parse configuration files in different ways
 * Python's dynamic nature is a "nightmare from a security perspective"
 
@@ -560,13 +560,13 @@ Executive Director Deb Nicholson gave a PSF Update.
 
 At a high-level, PSF health is good, but reconfiguring is going on. 
 
-PyCon US is a huge part of the the PSF's revenue. PyCon US is expensive and struggling. Food and beveraged increased from $400k in Salt Lake City to $500k in Pittsburgh to $600k in Long Beach. As the cost of events goes up, either expenses can be cut or ticket price can be increased. It has also become less appealing to visit the US. PyCon US would normally expect 500-700 more attendees. International attendees tend to plan earlier. Nationals tend to plan last minute. PSF was able to get a hotel bookings penalty from $250,000 down to $150,000. 
+PyCon US is a huge part of the PSF's revenue. PyCon US is expensive and struggling. Food and beverage increased from $400k in Salt Lake City to $500k in Pittsburgh to $600k in Long Beach. As the cost of events goes up, either expenses can be cut or ticket price can be increased. It has also become less appealing to visit the US. PyCon US would normally expect 500-700 more attendees. International attendees tend to plan earlier. Nationals tend to plan last minute. PSF was able to get a hotel bookings penalty from $250,000 down to $150,000. 
 
 PyCon US will not be moved outside of the US. Perhaps VIPs could receive funding to make other events feel first class. The [Python Language Summit](https://ep2026.europython.eu/language-summit/) will take place at EuroPython this year. 
 
-PSF plans to diversity revenue so PyCon US is not the only revenue service. Service-based revenue arond PyPI is a future goal
+PSF plans to diversify revenue so PyCon US is not the only revenue service. Service-based revenue around PyPI is a future goal
 
-Downloads, packages, and accounts keeps going up. More malware will happen. PSF is setting up the tech side of the house up for more growth and is fundraising for short-term security and project management roles. 
+Downloads, packages, and accounts keep going up. More malware will happen. PSF is setting up the tech side of the house up for more growth and is fundraising for short-term security and project management roles. 
 
 PSF launched "Community Partners Program" and reopened meetup support. 
 
@@ -784,7 +784,7 @@ Myke saw the opposite. Arts and humanities-inspired applications could make know
 
 A Python-based programming class could not only create new insights into music, but teach and reinforce fundamental computer science skills. 
 
-Furthermore, moving beyond the narrow group of apps appearing repeatedly in courses (build a poker bot, design a database) and instead applying computer science to other fields, creates learning opportunities that resonote more closely with the interests of students of races and genders underrepresented, freeing their incredible talent and creativity, and enabling them to achieve an appreciation for and fluency in altorithms and other computer science fundamentals. 
+Furthermore, moving beyond the narrow group of apps appearing repeatedly in courses (build a poker bot, design a database) and instead applying computer science to other fields, creates learning opportunities that resonate more closely with the interests of students of races and genders underrepresented, freeing their incredible talent and creativity, and enabling them to achieve an appreciation for and fluency in algorithms and other computer science fundamentals. 
 
 Python has been invaluable for creating a "rapid motion" back-and-forth between abstraction and application. 
 
@@ -830,7 +830,7 @@ Patterns that work for applied projects
 * Code and unlock- have students create their own simple tool, then move on to state of the art tool and see edge cases and efficiencies
 
 ![](pycon-us-2026-recap-images/learning-computer-science-with-python-and-music-21-learn-cs-fundamentals.png)
-Apply these skill to your own learning
+Apply these skills to your own learning
 
 Final note: "Have the courage to embrace applications, knowing that they will reinforce abstract skills and notions and let the streams of nourishing knowledge flow in all directions." 
 
@@ -1019,7 +1019,7 @@ Opinions on using Rust for Standard Library modules: Rust is popular. Rust incre
 
 Should standard library (aka batteries) shrink, stay stable, or continue expanding: some very old batteries have been removed, but not much has been done. It is a mixed bag. How do you reconcile the slow release of modules versus higher velocity when left out versus the ease of downloading Python and having an amazing suite of functionality? One opinion is that the standard library should not grow much more. Python should only have the batteries that are essential for bootstrapping and interoperability between packages. The overhead of maintaining packages in the standard library into perpetuity is painful and costly. PyPI is an amazing package registry and packages should be hosted there anytime remotely possible.  
 
-Evolving Python's governance: the governance structure should be re-evaluted on an ongoing basis. The team has grown and changed a lot since the initial governance model was put in place, but that doesn't mean it needs to be dramatically changed. Two year terms or term limits are being considered. 
+Evolving Python's governance: the governance structure should be re-evaluated on an ongoing basis. The team has grown and changed a lot since the initial governance model was put in place, but that doesn't mean it needs to be dramatically changed. Two year terms or term limits are being considered. 
 
 Python 3.15 major features:
 * Lazy imports
