@@ -1213,7 +1213,9 @@ He also told me Phoenix is a major "supply" hub, meaning they could find an extr
 
 ## Until Next Time
 
-Thank you to everyone who made PyCon US 2026 special. The conference returns to Long Beach May 12-18, 2027. 
+Thank you to everyone who made PyCon US 2026 special. The replays are in the process of being published at the [PyCon US YouTube Channel](https://www.youtube.com/c/pyconus). 
+
+The conference returns to Long Beach May 12-18, 2027. 
 
 See you next year!
 
