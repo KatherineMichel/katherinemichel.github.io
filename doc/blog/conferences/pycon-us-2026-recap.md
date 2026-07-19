@@ -1,6 +1,6 @@
 ---
 blogpost: true
-date: July 31, 2026
+date: July 19, 2026
 location: Long Beach California
 category: Conferences
 tags: python, django, pycon, community, networking, talks, travel
