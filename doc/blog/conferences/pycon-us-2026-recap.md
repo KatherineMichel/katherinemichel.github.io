@@ -155,7 +155,7 @@ Sam also shared with me his preferred, alternative explanation of idempotency: d
 
 #### AWS and Valkey
 
-Working in a database and caching space, Valkey is near-and-dear to my heart. At the AWS Booth, I had the chance to connect with Jen Madriaga who works closely with Valkey Team. AWS has played a major role in the creation of Valkey and its donation to the Linux Foundation. 
+Working in a database and caching space, [Valkey](https://valkey.io/) is near-and-dear to my heart. At the AWS Booth, I had the chance to connect with Jen Madriaga who works closely with Valkey Team. AWS has played a major role in the creation of Valkey and its donation to the Linux Foundation. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -180,7 +180,7 @@ PyCon US 2026 fun facts:
 #### Nvidia
 
 Recent major initiatives:
-* Cuda Python 1.0
+* [Cuda Python 1.0](https://developer.nvidia.com/blog/nvidia-cuda-13-3-enhances-gpu-development-with-tile-programming-in-c-compiler-autotuning-and-python-updates/#release_of_cuda_python_10)
 * Pythonic APIs for Cuda
 * Packaging: creating a packaging console, working on wheel variance, teaching packaging how to know about modern hardware
 * Contributions to CPython, free-threaded Python
@@ -192,10 +192,10 @@ This is Meta's 10th year of sponsoring the PSF.
 
 Recent major initiatives:
 * Helped land lazy imports in CPython
-* Developed Life Guard, an open source project to help teams adopt lazy imports more safely
+* Developed [Lifeguard](https://github.com/facebook/Lifeguard), an open source project to help teams adopt lazy imports more safely
 * Tested free-threaded Python internally and demonstrated approximately 30% savings in real product use case
 * Contributing to work on unified PyTorch native stack for AI development
-* Developed TritorX, writing GPU Kernels directly in Python
+* Developed [TritorX](https://arxiv.org/abs/2512.10977), writing GPU Kernels directly in Python
 
 ### PSF Welcome
 
@@ -370,7 +370,7 @@ https://www.amazon.com/gp/product/B086W1YQG9/ref=kinw_myk_ro_title
 
 Panel Members: Débora Azevedo, Alla Barbalat, Georgi Ker, Theresa Seyram Agbenyegah (Stancy), Abhijeet Mote
 
-"As you can see, the D&I Workgroup is comprised of a lot of people from around the world, including Iran and Reuben from Tel Aviv. For us, there's no war. We communicate every month, and Reuben talks to Ali to check if everyone is okay. And that's something... that's very important for us." 
+"As you can see, the [D&I Workgroup](https://wiki.python.org/psf/DiversityandInclusionWG) is comprised of a lot of people from around the world, including Iran and Reuben from Tel Aviv. For us, there's no war. We communicate every month, and Reuben talks to Ali to check if everyone is okay. And that's something... that's very important for us." 
 
 D&I Workgroup's 3 initiatives: 
 * Concentrate on outreach to communities (D&I/community)
@@ -384,7 +384,7 @@ D&I Workgroup's 3 initiatives:
 Recent major initiatives:
 * Entered a two-year, $1.5 million PSF sponsorship (not just security or infrastructure- community outreach, developer-in-residence, everything PSF does)
 * Let's do what it takes to support PSF
-* Anthropic provides a Claude for Open Source Program- you don't have to fit the criteria on the form
+* Anthropic provides a [Claude for Open Source Program](https://claude.com/contact-sales/claude-for-oss)- you don't have to fit the criteria on the form
 * Anthropic handed out free Claude Max for a month vouchers
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
@@ -568,11 +568,11 @@ PSF plans to diversify revenue so PyCon US is not the only revenue service. Serv
 
 Downloads, packages, and accounts keep going up. More malware will happen. PSF is setting up the tech side of the house up for more growth and is fundraising for short-term security and project management roles. 
 
-PSF launched "Community Partners Program" and reopened meetup support. 
+PSF launched "[Community Partners Program](https://www.python.org/psf/community-partners/)" and reopened meetup support. 
 
 DjangoCon US Opportunity Grants budget was cut in half. PSF increased its grants budget from $300k to $450k to $600k, then paused it in 2025. It could re-open in Q4, providing a percentage of requested money. Grant application decision times have been reduced. The process was made less confusing, because applicants with non-profit experience got faster responses, creating inequality. 
 
-Packaging Council was approved by all parties. It is an open field, with no incumbents running. The election will be at the same time as the PSF Board Election. 
+[Packaging Council](https://blog.python.org/2026/06/2026-packaging-council-election-dates/) was approved by all parties. It is an open field, with no incumbents running. The election will be at the same time as the PSF Board Election. 
 
 Deb would like to coordinate better with the DSF. 
 
@@ -666,7 +666,7 @@ Attacks are moving upstream. Exploits are transitive, projects inherit malware. 
 
 Audit and pin your dependencies.
 
-The Security Team constantly monitors and quarantines with the help of a widening group of researchers in the community. The Security Team, Alpha-Omega, and OpenSSF are in communication to identify emerging threats and collaborate to stop them. This goes beyond fixing to mitigating and coordinating with security teams of other projects to release advisories simultaneously. 
+The Security Team constantly monitors and quarantines with the help of a widening group of researchers in the community. The Security Team, [Alpha-Omega](https://openssf.org/community/alpha-omega/), and [OpenSSF](https://openssf.org/) are in communication to identify emerging threats and collaborate to stop them. This goes beyond fixing to mitigating and coordinating with security teams of other projects to release advisories simultaneously. 
 
 Secrets between ecosystems are a target. SDK monorepos can contain dependencies of multiple languages and secrets to multiple publishing platforms in the CI system. 
 
@@ -685,7 +685,7 @@ We live in a world today where we need to rely on other ecosystems. If you use a
 
 Homework: go home and delete one token from a project. 
 
-"[The Python Package Index has Completed its Second Audit](https://blog.pypi.org/posts/2026-04-16-pypi-completes-second-audit/)." Trail of Bits conducted the audit ([audit report](https://github.com/trailofbits/publications/blob/master/reviews/2026-04-pypi-warehouse-securityreview.pdf)) and wrote code queries to add to the CI/CD to mitigate in the future. The two high severity issues have been fixed. 
+"[The Python Package Index has Completed its Second Audit](https://blog.pypi.org/posts/2026-04-16-pypi-completes-second-audit/)." [Trail of Bits](https://trailofbits.com/) conducted the audit ([audit report](https://github.com/trailofbits/publications/blob/master/reviews/2026-04-pypi-warehouse-securityreview.pdf)) and wrote code queries to add to the CI/CD to mitigate in the future. The two high severity issues have been fixed. 
 
 ![](pycon-us-2026-recap-images/security-update-audit.jpg)
 Audit results
@@ -778,7 +778,7 @@ On a personal note from me: for decades, my mom worked as a music therapist, chu
 
 Myke is interested in "how computers could change the arts and humanities and especially music [his] field... history, theory, and composition." 
 
-Standard paradigm: apply CS knowledge to other fields to grow knowledge. 
+The standard paradigm is to apply CS knowledge to other fields to grow knowledge. 
 
 Myke saw the opposite. Arts and humanities-inspired applications could make knowledge flow in the reverse to CS and programming. 
 
@@ -982,14 +982,6 @@ During the closing plenary, I sat at the front with Paolo Melchiorre who gave me
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-<!--
-    - [Rachel Calhoun and Tim Schilling Keynote](#rachel-calhoun-and-tim-schilling-keynote)
-
-### Rachel Calhoun and Tim Schilling Keynote
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
--->
-
 ### Steering Council Panel
 
 The Steering Council members are Barry Warsaw, Donghee Na, Pablo Galindo Salgado, Savannah Ostrowski, and Thomas Wouters. 
@@ -1151,22 +1143,6 @@ My writing has begun to attract a community of fans. During the conference, I ha
 * Keith Murray revealed that as a Director of Python discord and Python subreddit moderator, he has directly witnessed the positive impact of my writing on underrepresented individuals
 * Jeremy Tanner sought me out to thank me for my writing and told me it is a resource shared among his network
 * Paul Everitt expressed his appreciation that I am not a "normie"
-
-<!--- 
-Steven liu
-impact of AI on education
-Selfish reasons to have more kids
-Moshe z
-
-Phillip
-
-Rob Ludwick
-
-Rob, Catherine, Paul, jon
-Paul Hildegard Disney character 
-Josh gaac 
-Bernie Madison 
--->
 
 I also had the opportunity chat with 
 * Python Security Developer-in-Residence Seth Larson about the outstanding Security Track and learned of the sprinting he would do on a Python Security Policy and Threat Model ([issue](https://github.com/python/devguide/issues/1803) and [draft PR](https://github.com/python/devguide/pull/1804))
