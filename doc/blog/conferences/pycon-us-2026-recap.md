@@ -774,7 +774,7 @@ I also got a bear hug from Carol Willing and a request to catch up soon. :)
 
 by Michael Scott Asato Cuthbert (Myke)
 
-On a personal note from Kati: for decades, my mom worked as a music therapist, church organist, school accompanist, and piano teacher. Myke's energy, passion, and creativity unexpectedly touched me in a way that few others have. 
+On a personal note from me: for decades, my mom worked as a music therapist, church organist, school accompanist, and piano teacher. Myke's energy, passion, and creativity unexpectedly touched me in a way that few others have. 
 
 Myke is interested in "how computers could change the arts and humanities and especially music [his] field... history, theory, and composition." 
 
