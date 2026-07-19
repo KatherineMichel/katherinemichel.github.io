@@ -25,6 +25,7 @@ Welcome to Kati's Website!
    :maxdepth: 1
    :caption: Popular Posts:
 
+   blog/conferences/pycon-us-2026-recap.md
+   blog/travel/southwest-headquarters-tour-2026.md
    blog/conferences/pycon-us-2024-recap.md
    blog/conferences/djangocon-us-2024-recap.md
-   blog/conferences/djangocon-us-2023-recap.md
