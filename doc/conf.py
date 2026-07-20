@@ -9,6 +9,7 @@
 project = 'Portfolio'
 copyright = 'Katherine "Kati" Michel'
 author = 'Katherine "Kati" Michel'
+html_baseurl = "https://katherinemichel.github.io" # need this so that Facebook social preview photo will render correctly
 # release = '0.1'
 
 
