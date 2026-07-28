@@ -564,7 +564,7 @@ PyCon US is a huge part of the PSF's revenue. PyCon US is expensive and struggli
 
 PyCon US will not be moved outside of the US. Perhaps VIPs could receive funding to make other events feel first class. The [Python Language Summit](https://ep2026.europython.eu/language-summit/) will take place at EuroPython this year. 
 
-PSF plans to diversify revenue so PyCon US is not the only revenue service. Service-based revenue around PyPI is a future goal
+PSF plans to diversify revenue so PyCon US is not the only revenue source. Service-based revenue around PyPI is a future goal
 
 Downloads, packages, and accounts keep going up. More malware will happen. PSF is setting up the tech side of the house up for more growth and is fundraising for short-term security and project management roles. 
 
@@ -1151,9 +1151,9 @@ I also had the opportunity chat with
 * Will Vincent about building in public
 * Andy Fundinger about the potential impact of AI on Financial Services development
 * Jorge Gimeno about his testing experience, including a recommendation to check out [ISTQB](https://istqb.org/) standards
-* Mario Munoz about the structure of his talk [Create a Python Package: From Zero to Hero](https://us.pycon.org/2026/schedule/presentation/99/)
+* Mario Munoz about the structure of his talk "[Create a Python Package: From Zero to Hero](https://us.pycon.org/2026/schedule/presentation/99/)"
 * Sarah Entzminger about her career path into electrical engineering
-* Paul Everitt about his [The Shift to Agentic Engineering](https://www.youtube.com/watch?v=n366hY4JZ9U&t=1s) talk at Andrew Ng's AI Dev 2026 Conference and their [Spec Driven Development with Coding Agents](https://www.deeplearning.ai/courses/spec-driven-development-with-coding-agents) collaboration
+* Paul Everitt about his "[The Shift to Agentic Engineering](https://www.youtube.com/watch?v=n366hY4JZ9U&t=1s)" talk at Andrew Ng's AI Dev 2026 Conference and their [Spec Driven Development with Coding Agents](https://www.deeplearning.ai/courses/spec-driven-development-with-coding-agents) collaboration
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
