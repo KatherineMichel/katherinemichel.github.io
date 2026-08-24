@@ -1,6 +1,6 @@
 ---
 blogpost: true
-date: October 6, 2025
+date: August 31, 2026
 location: Chicago Illinois
 category: Conferences
 tags: python, django, djangocon, community, networking, talks, travel
