@@ -79,6 +79,7 @@ Orientation
 Presented by
 Kojo Idrissa
 
+
 Audience level:All
 Opening Remarks (Monday)
 Presented by
@@ -131,6 +132,7 @@ Scientists Meet Django: Building Bridges Between Research and Software
 Presented by
 Barkha Jain
 
+
 Audience level:All
 Opening Remarks (Tuesday)
 Presented by
@@ -182,6 +184,7 @@ Eduardo Felipe Castegnaro
 Open Spaces
 What is an Open Space?
 
+
 Audience level:All
 Opening Remarks (Wednesday)
 Presented by
@@ -230,10 +233,12 @@ Closing Remarks
 Presented by
 Keanya Phelps
 
+
 DSF Membership Open Space
 Join the Django Software Foundation board and members for a quick overview and Q&A about foundation.
 
 What is an Open Space?
+
 
 Project Introductions
 9:25 am to 9:40 am
