@@ -15,16 +15,21 @@ Table of Contents
 - [Monday](#monday)
     - [Orientation](#orientation)
     - [Monday Opening Remarks](#monday-opening-remarks)
-    - [Keynote: ](#keynote-boldly-go-building-worlds-is-there-room-for-me-on-the-bridge)
-    - [Community Update: Django Events Foundation North America](#community-update-django-events-foundation-north-america)
+    - [Keynote: Boldly Go, Building Worlds: Is there Room for me on the Bridge?](#keynote-boldly-go-building-worlds-is-there-room-for-me-on-the-bridge)
+    - [Good Conduct: How Django Modernized Its Code of Conduct](#)
+    - [Pragmatic AI: How to gain trust with user-centered AI adoption](#)
 - [Tuesday](#tuesday)
     - [Tuesday Opening Remarks](#tuesday-opening-remarks)
-    - [Keynote: ](#keynote-)
-    - [Community Update: Python Software Foundation](#community-update-python-software-foundation)
+    - [Keynote: Emails from my Grandad](#keynote-)
+    - [Batteries vs. Speed: The Django/FastAPI Debate](#)
+    - [The Testing Pyramid in Practice for Django](#)
 - [Wednesday](#wednesday)
     - [Wednesday Opening Remarks](#wednesday-opening-remarks)
-    - [Keynote: ](#keynote-)
-    - [Community Update: Django Software Foundation](#community-update-django-software-foundation)
+    - [Keynote: Django 6: The Most Exciting Release Ever](#keynote-)
+    - [Wishlist granted: HTMX without betraying your Django views](#)
+    - [Modern Django Deployments in 2026](#)
+    - [The Django UUID Story](#)
+    - [Closing Remarks](#closing-remarks)
 
 Disclaimer: the content of this post is a reflection of my career journey and not specific to my work at JPMorganChase.
 
@@ -107,7 +112,44 @@ Thank you for being vulnerable, Dawn.
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Community Update: 
+### Good Conduct: How Django Modernized Its Code of Conduct
+
+by Dan Ryan
+
+<!--
+"Coming home has been fun." Dan led the frontend team for the Obama 2012 Campaign. 
+
+A long-time Django user, Dan volunteered to serve on the Code of Conduct Committee. He eventually became the chair and helped to modernize the Code of Conduct.
+
+"This was my first contribution to Django. Code isn't the only way in." 
+
+https://www.python.org/psf/records/board/minutes/2025-03-12/
+https://github.com/psf/policies/pull/35
+https://pyfound.blogspot.com/2019/09/the-python-software-foundation-has_24.html
+https://pyfound.blogspot.com/2019/09/the-python-software-foundation-has_24.html
+Adopted by over 100 organizations, including some of the biggest players
+https://www.contributor-covenant.org/
+https://beeware.org/community/code-of-conduct/
+
+Ada Initiative -> PyCon 2013 -> CC3 -> PSF, OpenJS, Mozilla, Microsoft
+https://www.djangoproject.com/weblog/2026/aug/24/coc-block-tackle/
+New AI policy
+Weapons policy
+
+https://github.com/django/code-of-conduct/pull/91
+https://github.com/django/code-of-conduct/pull/97
+-->
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Pragmatic AI: How to gain trust with user-centered AI adoption
+
+<!--
+https://wagtail.org/blog/ai-in-the-cms-steering-the-ecosystem/
+https://docs.wagtail.org/en/stable/
+https://guide.wagtail.org/en/
+https://www.wagtail.space/
+-->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -117,11 +159,15 @@ Thank you for being vulnerable, Dawn.
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Keynote: 
+### Keynote: Emails from my Grandad
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Community Update: 
+### Batteries vs. Speed: The Django/FastAPI Debate
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### The Testing Pyramid in Practice for Django
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -131,11 +177,23 @@ Thank you for being vulnerable, Dawn.
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Keynote: 
+### Keynote: Django 6: The Most Exciting Release Ever
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Community Update: Django Software Foundation
+### Wishlist granted: HTMX without betraying your Django views
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Modern Django Deployments in 2026
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### The Django UUID Story
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Closing Remarks
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
