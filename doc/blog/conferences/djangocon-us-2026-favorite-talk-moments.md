@@ -94,8 +94,7 @@ Lessons Learned
 * Sometimes opportunity knocked, and she wasn't ready, but she tried her best anyway
 * You also don't have to "build the world." (Dawn also contends with strong Black woman trope)
 * "You are allowed to be exhausted without giving up. Sometimes surviving is progress."
-* She is always asking for more. Don't ask, am I good enough? For a Black woman this creates difficult, high friction conversations, direct feedback frequently. It's exhausting.
-* It's easier to have a conversation when you are not on your back foot.
+* She is always asking for more. Don't ask, am I good enough? For a Black woman this creates difficult, high friction conversations, direct feedback frequently. It's exhausting. It's easier to have a conversation when you are not on your back foot.
 * Rejection is the risk of authenticity. 
 
 "Being the first or only is lonely"
