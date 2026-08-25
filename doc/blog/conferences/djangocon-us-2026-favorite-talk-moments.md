@@ -15,7 +15,7 @@ Table of Contents
 - [Monday](#monday)
     - [Orientation](#orientation)
     - [Monday Opening Remarks](#monday-opening-remarks)
-    - [Keynote: ](#keynote-)
+    - [Keynote: ](#keynote-boldly-go-building-worlds-is-there-room-for-me-on-the-bridge)
     - [Community Update: Django Events Foundation North America](#community-update-django-events-foundation-north-america)
 - [Tuesday](#tuesday)
     - [Tuesday Opening Remarks](#tuesday-opening-remarks)
