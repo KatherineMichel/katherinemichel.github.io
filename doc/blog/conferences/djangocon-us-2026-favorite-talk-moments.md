@@ -13,6 +13,7 @@ Table of Contents
 
 - [Intro](#intro)
 - [Monday](#monday)
+    - [Orientation](#orientation)
     - [Monday Opening Remarks](#monday-opening-remarks)
     - [Keynote: ](#keynote-)
     - [Community Update: Django Events Foundation North America](#community-update-django-events-foundation-north-america)
@@ -29,15 +30,81 @@ Disclaimer: the content of this post is a reflection of my career journey and no
 
 ## Intro
 
+DjangoCon US 2026 took place in Chicago, Illinois from August 24-28. I attended online this year.  
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Monday
 
-### Monday Opening Remarks
+### Orientation
+
+by Kojo Idrissa
+
+Set your priorities. Why are YOU here? Direct your time and energy properly. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Keynote: 
+### Monday Opening Remarks
+
+by Keanya Phelps
+
+"This community is extremely giving and considerate, respectful. I used to say 'they' as far as Django and DjangoCon, but now I say 'we.'"
+
+DjangoCon US 2027 will take place in Riverside, California from September 13-17. 
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Keynote: Boldly Go, Building Worlds: Is there Room for me on the Bridge?
+
+by Dawn Wages
+
+Dawn is calling all of us to dream with her. 
+
+"You all, the Django Community, saw me from a nervous and quiet and unsure person hiding in the back of a conference room to raising my hand and even calling myself a leader." 
+
+Dawn spent a long time not being scared. 
+
+I appreciate that Dawn revealed the influences that instilled within her grit, tenacity, and a love for technology, heavily influenced by her parents
+* An HBO series called Happily Ever After and Twilight Zone (also one of my favorites)
+* Watching Star Trek Next Generation with her father
+* Her parents teaching her about the first Black woman astronaut and taking her to space museums
+* Her mom keeping copies of Ebony Magazine with beautiful Black women on the covers, creating the voice she would hear about Black women in the future ("she intentionally wrote the script")
+* Her dad dancing with Funkadelic and Stevie Wonder
+
+Afrofuturism: "There are Black people in the future- an interdisciplinary vision intersecting with imagination, technology, Black culture, liberation and mysticism" (inspired by Ytasha L. Womack's Afrofuturism: The World of Black Sci-Fi and Fantasy Culture)
+
+For those who have not seen themselves in the future through science fiction and speculative fiction, it is necessary to say and visualize that there are Black people in the future. 
+
+Dawn and some friends created [An Anti-Racist Ethical Source License for Open Source Projects](https://attheroot.dev/). She would love to make new iterations. 
+
+Seminal works
+
+Star Trek pushed boundaries
+
+Afrofuturism "provides a lens on how I've learned to dream."
+
+How to be a builder
+* Do the work in public
+* Make room for people who don't have a seat at the table
+* Stay accountable to your crew
+
+Lessons Learned
+* Dawn was always who she needed to be and did not need to change to be worthy of any opportunity she reached for
+* She stays ready so she doesn't have to get ready when opportunity knocks (filling in as last minute speaker at important conference)
+* Sometimes opportunity knocked, and she wasn't ready, but she tried her best anyway
+* You also don't have to "build the world." (Dawn also contends with strong Black woman trope)
+* "You are allowed to be exhausted without giving up. Sometimes surviving is progress."
+* She is always asking for more. Don't ask, am I good enough? For a Black woman this creates difficult, high friction conversations, direct feedback frequently. It's exhausting.
+* It's easier to have a conversation when you are not on your back foot.
+* Rejection is the risk of authenticity. 
+
+"Being the first or only is lonely"
+
+Dawn would take being "rounded, complex, unique, strong over easy access any day," because it's made her who she is today.  
+
+Your experience matters. You belong here. Is there room for me? Yes, Dawn is making room. 
+
+Thank you for being vulnerable, Dawn. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
