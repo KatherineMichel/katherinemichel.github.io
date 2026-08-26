@@ -157,9 +157,46 @@ https://www.wagtail.space/
 
 ### Tuesday Opening Remarks
 
+by Peter Grandstaff
+
+Organizing DjangoCon US is a huge endeavor. "Getting involved in organizing and running this conference has been a hugely enriching factor in my life. My life is so much bigger and better, because of the work I've done here." If you want to get involved, talk to an organizer, talk to Peter. Get in touch. 
+
+DjangoCon US 2027 ticket prices are the lowest they will be at extra early bird. 
+
+"Hey, we don't do there here." 
+
+Get the word out about the conference. We want everyone who would want to be at DjangoCon US to know about it. 
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Keynote: Emails from my Grandad
+
+by Sarah Boyce
+
+Sarah's talk is through a lens of contributing to open source projects. 
+
+Who we do code review?
+* Code works
+* Code fits project itself (conforms to coding style, etc.)
+* Knowledge-exchange is distributed to contributors and wider community and maintainable (fix issues, extend without asking original author)
+
+[Thanks for the Feedback: The Science and Art of Receiving Feedback Well](https://www.amazon.com/dp/0670014664)
+
+Psychological triggers
+* Truth: you believe the feedback is wrong (be open, curious: others might come to same conclusion, it's worth engaging, honest mistake?) 
+* Relationship: affected by who is giving review (a person you don't like, a person you don't know, an intimidating person, etc.)
+* Identity: the feedback feels bigger than what it actually is (rather than see it as one small piece of work among all of your work, you begin to have self-doubt as if it reflects heavily upon who you are as a developer)
+
+Advice
+* Sarah also points out that mergers also make mistakes. You should feel confident and capable of questioning their feedback, just like anyone else. 
+* Growth mindset
+* This is just the first draft, don't worry too much about mistakes. Respond, fix problems, engage. End result is what matters. 
+
+Hidden agenda: get more reviews for Django PRs. PRs in the Django review queue sometimes take months to get reviewed. This is becoming worse in the rise of AI. 
+
+What worse than receiving a review is receiving no review at all. A review is someone investing in your work. Human attention is limited commodity. Sarah believes most people would prefer to receive a clumsy, imperfect review over no review at all. The collaboration is the joy. 
+
+Django needs you to do code review. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
