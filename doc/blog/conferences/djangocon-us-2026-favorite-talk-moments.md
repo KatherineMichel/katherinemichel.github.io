@@ -188,7 +188,7 @@ Psychological triggers
 * Identity: the feedback feels bigger than what it actually is (rather than see it as one small piece of work among all of your work, you begin to have self-doubt as if it reflects heavily upon who you are as a developer)
 
 Advice
-* Sarah also points out that mergers also make mistakes. You should feel confident and capable of questioning their feedback, just like anyone else. 
+* Mergers also make mistakes. You should feel confident and capable of questioning their feedback, just like anyone else. 
 * Growth mindset
 * This is just the first draft, don't worry too much about mistakes. Respond, fix problems, engage. End result is what matters. 
 
@@ -197,6 +197,14 @@ Hidden agenda: get more reviews for Django PRs. PRs in the Django review queue s
 What worse than receiving a review is receiving no review at all. A review is someone investing in your work. Human attention is limited commodity. Sarah believes most people would prefer to receive a clumsy, imperfect review over no review at all. The collaboration is the joy. 
 
 Django needs you to do code review. 
+
+Issues brought up on Q&A
+* PR authors tend to get more attention than reviewers (co-author is an idea, but messy)
+* it took Paolo months to have the courage to open a PR. Language was a barrier. Sara believes pair programming can help.
+* In-person sprints are good place for pairing. [Django on the Med](https://djangomed.eu/) shout-out.
+* Due to release timeline, be strategic about when asking for help, to include features
+* How to avoid triggering PR author: be polite, be empathetic, clear is still kind
+* You can tell when a person is upset and handle it
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
