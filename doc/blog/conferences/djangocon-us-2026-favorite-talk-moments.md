@@ -210,6 +210,20 @@ Issues brought up on Q&A
 
 ### Batteries vs. Speed: The Django/FastAPI Debate
 
+by Calvin Hendryx-Parker and Frank Wiles
+
+No wrong answers. Tradeoffs. 
+
+Django + Django Ninja versus Fast API
+
+<!--
+Most people still use DRF
+
+https://github.com/sixfeetup/2026_DjangoCon_BatteriesVsSpeed
+
+https://github.com/dj-bolt/django-bolt
+-->
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### The Testing Pyramid in Practice for Django
