@@ -201,6 +201,10 @@ References
 
 Tim Schilling: I want to convince you to contribute to Django
 
+Tackle tech debt, Chicago-style
+
+Some Final Inspiration
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Tuesday
