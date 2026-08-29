@@ -124,9 +124,11 @@ Contributor Convenant, adopted by over 100 organizations, including some of the 
 
 This talk was about the people management side. Dan published a blog post about the technical side: [The Block and Tackle of Django's Code of Conduct Working Group](https://www.djangoproject.com/weblog/2026/aug/24/coc-block-tackle/). 
 
-AI-generated content: "Own your contributions, review them before you post, apply your own expertise- misuse of AI-generated content is a Code of Conduct violation." 
+AI-generated content: "Own your contributions, review them before you post, apply your own expertise- misuse of AI-generated content is a Code of Conduct violation." The possibility of a significant amount of Django code being written by AI and its ownership then being in question is a real concern. 
 
 They spent the most time on the weapons policy. They didn't want to be US-centric. They gave guidance to events. Events implement their own policy. 
+
+"Assume good intent" is a weaponed phrase. You should not assume any intent. Look at impact. 
 
 References
 * [Talk Slides](https://django-coc-2026.dryan.com/#slide-1)
