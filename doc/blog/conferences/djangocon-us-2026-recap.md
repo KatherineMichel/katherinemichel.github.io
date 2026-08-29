@@ -182,7 +182,7 @@ Other steps for Wagtail and AI: [product strategy](https://wagtail.org/product-s
 More links and resources
 
 Issues brought up during Q&A
-* What was involved in making docs easier for AI to read. Made sure content was in Markdown and added copy options on user guide
+* What was involved in making docs easier for AI to read? Made sure content was in Markdown and added copy options on user guide
 * Wagtail has added a write API and Thibaud is experimenting with a docs builder. Despite the beauty of Wagtail, CMSes are going to become "clearinghouses and sources of truth" for AI. Wagtail is laying the foundation for whatever direction things go. 
 
 References
