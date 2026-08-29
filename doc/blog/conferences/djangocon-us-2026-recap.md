@@ -196,7 +196,7 @@ References
 * Jim Anderson: normalize talking about imposter syndrome
 * Jon Gould: [Tech Hiring Has a Fraud Problem](https://foxleytalent.com/blog/fake-candidates-tech-hiring/)
 * Eric Holscher: 16 years ago, Read the Docs was created in the same basement as Django in Lawrence, Kansas. Ethical ads made Read the Docs sustainable. The DSF is at similar inflection point of hiring executive director and working toward sustainability.
-* Jeanette O'Brien: Kudos to Jeanette for giving her first conference talk From Figma to Django. "Premature structure is its own trap- just like no structure at all."
+* Jeanette O'Brien: Figma to Django. "Premature structure is its own trap- just like no structure at all."
 * Eric Sherman: Chicago reversed the flow of the Chicago River and raised the city 14 feet in the air, [Raising of Chicago Wikipedia article](https://en.wikipedia.org/wiki/Raising_of_Chicago)
 
 Tim Schilling: I want to convince you to contribute to Django
@@ -204,6 +204,36 @@ Tim Schilling: I want to convince you to contribute to Django
 Tackle tech debt, Chicago-style
 
 Some Final Inspiration
+
+<!--
+Kudos to Jeanette for giving her first conference talk From 
+-->
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Search-as-you-type for 54 Million Names: PostgreSQL + Django for Fuzzy Name Matching at Scale
+
+Summary
+
+References
+* [Demo](https://fuzzy-demo.caktus-built.com/)
+* [GitHub Repo](https://github.com/caktus/talk-fuzzy-name-search)
+* [Fuzzy String Matching in Django and PostgreSQL](https://www.caktusgroup.com/blog/2026/08/21/fuzzy-string-matching-django-postgresql/)
+* [Falsehoods Programmers Believe About Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
+* [Fuzzy Name Matching in Postgres](https://www.crunchydata.com/blog/fuzzy-name-matching-in-postgresql)
+* [PostreSQL fuzzystrmatch](https://www.postgresql.org/docs/18/fuzzystrmatch.html)
+* [PostreSQL Soundex](https://www.postgresql.org/docs/18/fuzzystrmatch.html#FUZZYSTRMATCH-SOUNDEX)
+* [PostreSQL Daitch Mokotoff](https://www.postgresql.org/docs/18/fuzzystrmatch.html#FUZZYSTRMATCH-DAITCH-MOKOTOFF)
+* [PostreSQL Levenshtein Distance](https://www.postgresql.org/docs/18/fuzzystrmatch.html#FUZZYSTRMATCH-LEVENSHTEIN)
+* [Django Trigram Matching](https://docs.djangoproject.com/en/6.1/ref/contrib/postgres/search/#trigram-similarity)
+* [PostreSQL B-Tree Index](https://www.postgresql.org/docs/current/btree.html)
+
+<!--
+https://en.wikipedia.org/wiki/Levenshtein_distance
+b-tree index for case insensitive prefix matching
+https://en.wikipedia.org/wiki/B-tree#Index_performance
+https://github.com/moj-analytical-services/splink
+-->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
