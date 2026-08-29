@@ -18,6 +18,7 @@ Table of Contents
     - [Keynote: Boldly Go, Building Worlds: Is there Room for me on the Bridge?](#keynote-boldly-go-building-worlds-is-there-room-for-me-on-the-bridge)
     - [Good Conduct: How Django Modernized Its Code of Conduct](#)
     - [Pragmatic AI: How to gain trust with user-centered AI adoption](#)
+    - [Monday Lightning Talks](#monday-lightning-talks)
 - [Tuesday](#tuesday)
     - [Tuesday Opening Remarks](#tuesday-opening-remarks)
     - [Keynote: Emails from my Grandad](#keynote-)
@@ -173,12 +174,32 @@ Other things they've done
 
 Other steps for Wagtail and AI: [product strategy](https://wagtail.org/product-strategy/)
 
+More links and resources
+
+Issues brought up during Q&A
+* What was involved in making docs easier for AI to read. Made sure content was in Markdown and added copy options on user guide
+* Wagtail has added a write API and Thibaud is experimenting with a doc builder. Despite the beauty of Wagtail, CMSes are going to become clearinghouses and sources of truth for AI. Wagtail is laying the foundation for whatever direction things go. 
+
 References
 * [AI in the CMS: steering the ecosystem](https://wagtail.org/blog/ai-in-the-cms-steering-the-ecosystem/)
 * Open weight models are catching up, [Epoch Capabilities Index](https://epoch.ai/benchmarks?view=graph&tab=eci)
-* [Wagtail Documentation](https://docs.wagtail.org/en/stable/)
-* [Wagtail User Guide](https://guide.wagtail.org/en/)
+* [Wagtail Documentation](https://docs.wagtail.org/en/stable/) (for developers)
+* [Wagtail User Guide](https://guide.wagtail.org/en/) (for average users)
 * [Wagtail Space 2026](https://wagtail.org/wagtail-space-2026/)
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Monday Lightning Talks
+
+References
+* Marc Gibbons: [django-absurd](https://github.com/lincolnloop/django-absurd) based on [django-absurd](https://github.com/earendil-works/absurd)
+* Jim Anderson: normalize talking about imposter syndrome
+* Jon Gould: [Tech Hiring Has a Fraud Problem](https://foxleytalent.com/blog/fake-candidates-tech-hiring/)
+* Eric Holscher: 16 years ago, Read the Docs was created in the same basement as Django in Lawrence, Kansas. Ethical ads made Read the Docs sustainable. The DSF is at similar inflection point of hiring executive director and working toward sustainability.
+* Jeanette O'Brien: Kudos to Jeanette for giving her first conference talk From Figma to Django. "Premature structure is its own trap- just like no structure at all."
+* Eric Sherman: Chicago reversed the flow of the Chicago River and raised the city 14 feet in the air, [Raising of Chicago Wikipedia article](https://en.wikipedia.org/wiki/Raising_of_Chicago)
+
+Tim Schilling: I want to convince you to contribute to Django
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
