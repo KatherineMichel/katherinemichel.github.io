@@ -76,14 +76,14 @@ I appreciate that Dawn revealed the influences that instilled within her grit, t
 * Her mom keeping copies of Ebony Magazine with beautiful Black women on the covers, creating the voice she would hear about Black women in the future ("she intentionally wrote the script")
 * Her dad dancing with Funkadelic and Stevie Wonder
 
-Afrofuturism: "There are Black people in the future- an interdisciplinary vision intersecting with imagination, technology, Black culture, liberation and mysticism" (inspired by Ytasha L. Womack's Afrofuturism: The World of Black Sci-Fi and Fantasy Culture)
+Afrofuturism: "There are Black people in the future- an interdisciplinary vision intersecting with imagination, technology, Black culture, liberation and mysticism" (inspired by Ytasha L. Womack's [Afrofuturism: The World of Black Sci-Fi and Fantasy Culture](https://www.amazon.com/dp/1613747969?lv=shuf&channelId=500&plpRedirect=mhFallback))
 
 For those who have not seen themselves in the future through science fiction and speculative fiction, it is necessary to say and visualize that there are Black people in the future. 
 
 Dawn and some friends created [An Anti-Racist Ethical Source License for Open Source Projects](https://attheroot.dev/). She would love to make new iterations. 
 
 ![](djangocon-us-2026-recap-images/seminal-works-for-me.png)
-Seminal works
+Seminal works for Dawn
 
 Star Trek pushed boundaries. 
 
@@ -98,7 +98,7 @@ Lessons Learned
 * Dawn was always who she needed to be and did not need to change to be worthy of any opportunity she reached for
 * She stays ready so she doesn't have to get ready when opportunity knocks (filling in as last minute speaker at important conference)
 * Sometimes opportunity knocked, and she wasn't ready, but she tried her best anyway
-* You also don't have to "build the world." (Dawn also contends with strong Black woman trope)
+* You also don't have to "build the world." (Dawn contends with strong Black woman trope)
 * "You are allowed to be exhausted without giving up. Sometimes surviving is progress."
 * She is always asking for more. Don't ask, am I good enough? For a Black woman this creates difficult, high friction conversations, direct feedback frequently. It's exhausting. It's easier to have a conversation when you are not on your back foot.
 * Rejection is the risk of authenticity. 
@@ -121,13 +121,13 @@ A long-time Django user, Dan volunteered to serve on the Code of Conduct Committ
 
 Why now? "We kept running into issues where people were being jerks. And there was no language that said, 'you can't be a jerk.'" 
 
-Contributor Convenant, adopted by over 100 organizations, including some of the biggest players, has lineage back to the original Django Code of Conduct, which borrowed from the the PyCon 2013 Code of Conduct and Ada Initiative. Pipeline: Ada Initiative -> PyCon 2013 -> Original Django Code of Conduct -> Contributor Covenant 3 -> PSF, OpenJS, Mozilla, Microsoft
+Contributor Convenant, adopted by over 100 organizations, including some of the biggest players, has lineage back to the original Django Code of Conduct, which borrowed from the PyCon 2013 Code of Conduct and Ada Initiative. Pipeline: Ada Initiative -> PyCon 2013 -> Original Django Code of Conduct -> Contributor Covenant 3 -> PSF, OpenJS, Mozilla, Microsoft
 
 This talk was about the people management side. Dan published a blog post about the technical side: [The Block and Tackle of Django's Code of Conduct Working Group](https://www.djangoproject.com/weblog/2026/aug/24/coc-block-tackle/). 
 
 AI-generated content: "Own your contributions, review them before you post, apply your own expertise- misuse of AI-generated content is a Code of Conduct violation." The possibility of a significant amount of Django code being written by AI and its ownership then being in question is a real concern. 
 
-They spent the most time on the weapons policy. They didn't want to be US-centric. They gave guidance to events. Events implement their own policy. 
+The CoC Working Group spent the most time on the weapons policy. They didn't want to be US-centric. They gave guidance to events. Events implement their own policy. 
 
 "Assume good intent" is a weaponed phrase. You should not assume any intent. Look at impact. 
 
