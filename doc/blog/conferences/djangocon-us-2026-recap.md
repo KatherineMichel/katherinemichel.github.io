@@ -213,7 +213,7 @@ Django needs you to do code review.
 
 Issues brought up during Q&A
 * PR authors tend to get more attention than reviewers (co-author is an idea, but messy)
-* it took Paolo months to have the courage to open a PR. Language was a barrier. Sara believes pair programming can help.
+* it took Paolo months to have the courage to open a PR. Language was a barrier. Sarah believes pair programming can help.
 * In-person sprints are good place for pairing. [Django on the Med](https://djangomed.eu/) shout-out.
 * Due to release timeline, be strategic about when asking for help, to include features
 * How to avoid triggering PR author: be polite, be empathetic, clear is still kind
