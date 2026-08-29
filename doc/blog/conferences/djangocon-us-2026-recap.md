@@ -84,7 +84,7 @@ Dawn and some friends created [An Anti-Racist Ethical Source License for Open So
 
 Seminal works
 
-Star Trek pushed boundaries
+Star Trek pushed boundaries. 
 
 Afrofuturism "provides a lens on how I've learned to dream."
 
@@ -150,11 +150,15 @@ https://github.com/django/code-of-conduct/pull/97
 
 ### Pragmatic AI: How to gain trust with user-centered AI adoption
 
+by Meagan Voss
+
+References
+* [AI in the CMS: steering the ecosystem](https://wagtail.org/blog/ai-in-the-cms-steering-the-ecosystem/)
+* [Wagtail Space 2026](https://wagtail.org/wagtail-space-2026/)
+
 <!--
-https://wagtail.org/blog/ai-in-the-cms-steering-the-ecosystem/
 https://docs.wagtail.org/en/stable/
 https://guide.wagtail.org/en/
-https://www.wagtail.space/
 -->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
