@@ -169,12 +169,16 @@ Wagtail's AI Guiding Principles
 * Only the right AI (want evidence of benefit)
 * Human in the loop (human is in control)
 
+![](djangocon-us-2026-recap-images/pragmatic-ai-wagtail-ai-package.png)
 [Wagtail AI package](https://wagtail.org/wagtail-ai/)
 
+![](djangocon-us-2026-recap-images/pragmatic-ai-other-things-weve-done.png)
 Other things they've done
 
+![](djangocon-us-2026-recap-images/pragmatic-ai-our-next-steps-for-wagtail-and-ai.png)
 Other steps for Wagtail and AI: [product strategy](https://wagtail.org/product-strategy/)
 
+![](djangocon-us-2026-recap-images/pragmatic-ai-more-links-and-resources.png)
 More links and resources
 
 Issues brought up during Q&A
