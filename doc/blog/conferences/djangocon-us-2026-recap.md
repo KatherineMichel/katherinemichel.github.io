@@ -137,7 +137,7 @@ Issues brought up during Q&A
 
 References
 * [Talk Slides](https://django-coc-2026.dryan.com/#slide-1)
-* [Django adopts a Code of Conduct (2013](https://www.djangoproject.com/weblog/2013/jul/31/django-adopts-code-of-conduct/)
+* [Django adopts a Code of Conduct (2013)](https://www.djangoproject.com/weblog/2013/jul/31/django-adopts-code-of-conduct/)
 * [BeeWare Community Code of Conduct](https://beeware.org/community/code-of-conduct/)
 * [Contributor Covenant](https://www.contributor-covenant.org/)
 * [Code of Conduct Sources](https://github.com/django/code-of-conduct/blob/main/sources.md)
