@@ -82,6 +82,7 @@ For those who have not seen themselves in the future through science fiction and
 
 Dawn and some friends created [An Anti-Racist Ethical Source License for Open Source Projects](https://attheroot.dev/). She would love to make new iterations. 
 
+![](djangocon-us-2026-recap-images/seminal-works-for-me.png)
 Seminal works
 
 Star Trek pushed boundaries. 
