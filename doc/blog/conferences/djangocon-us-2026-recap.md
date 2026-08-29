@@ -102,9 +102,7 @@ Lessons Learned
 * She is always asking for more. Don't ask, am I good enough? For a Black woman this creates difficult, high friction conversations, direct feedback frequently. It's exhausting. It's easier to have a conversation when you are not on your back foot.
 * Rejection is the risk of authenticity. 
 
-"Being the first or only is lonely"
-
-Dawn would take being "rounded, complex, unique, strong over easy access any day," because it's made her who she is today.  
+"Being the first or only is lonely." Dawn would take being "rounded, complex, unique, strong over easy access any day," because it's made her who she is today.  
 
 Your experience matters. You belong here. Is there room for me? Yes, Dawn is making room. 
 
@@ -116,26 +114,32 @@ Thank you for being vulnerable, Dawn.
 
 by Dan Ryan
 
-<!--
-"Coming home has been fun." Dan led the frontend team for the Obama 2012 Campaign. 
-
 A long-time Django user, Dan volunteered to serve on the Code of Conduct Committee. He eventually became the chair and helped to modernize the Code of Conduct.
 
 "This was my first contribution to Django. Code isn't the only way in." 
 
+Why now? "We kept running into issues where people were being jerks. And there was no language that said, 'you can't be a jerk.'" 
+
+Contributor Convenant, adopted by over 100 organizations, including some of the biggest players, has lineage back to the original Django Code of Conduct, which borrowed from the the PyCon 2013 Code of Conduct and Ada Initiative. Pipeline: Ada Initiative -> PyCon 2013 -> Original Django Code of Conduct -> Contributor Covenant 3 -> PSF, OpenJS, Mozilla, Microsoft
+
+This talk was about the people management side. Dan published a blog post about the technical side: [The Block and Tackle of Django's Code of Conduct Working Group](https://www.djangoproject.com/weblog/2026/aug/24/coc-block-tackle/). 
+
+AI-generated content: "Own your contributions, review them before you post, apply your own expertise- misuse of AI-generated content is a Code of Conduct violation." 
+
+They spent the most time on the weapons policy. They didn't want to be US-centric. They gave guidance to events. Events implement their own policy. 
+
+References
+* [Talk Slides](https://django-coc-2026.dryan.com/#slide-1)
+* [Django adopts a Code of Conduct (2013](https://www.djangoproject.com/weblog/2013/jul/31/django-adopts-code-of-conduct/)
+* [BeeWare Community Code of Conduct](https://beeware.org/community/code-of-conduct/)
+* [Contributor Covenant](https://www.contributor-covenant.org/)
+* [Code of Conduct Sources](https://github.com/django/code-of-conduct/blob/main/sources.md)
+
+<!--
+"Coming home has been fun." Dan led the frontend team for the Obama 2012 Campaign. 
 https://www.python.org/psf/records/board/minutes/2025-03-12/
 https://github.com/psf/policies/pull/35
 https://pyfound.blogspot.com/2019/09/the-python-software-foundation-has_24.html
-https://pyfound.blogspot.com/2019/09/the-python-software-foundation-has_24.html
-Adopted by over 100 organizations, including some of the biggest players
-https://www.contributor-covenant.org/
-https://beeware.org/community/code-of-conduct/
-
-Ada Initiative -> PyCon 2013 -> CC3 -> PSF, OpenJS, Mozilla, Microsoft
-https://www.djangoproject.com/weblog/2026/aug/24/coc-block-tackle/
-New AI policy
-Weapons policy
-
 https://github.com/django/code-of-conduct/pull/91
 https://github.com/django/code-of-conduct/pull/97
 -->
