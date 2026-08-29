@@ -127,9 +127,10 @@ Pipeline: Ada Initiative -> PyCon 2013 -> Original Django Code of Conduct -> Con
 
 This talk was about the people management side. Dan published a blog post about the technical side: [The Block and Tackle of Django's Code of Conduct Working Group](https://www.djangoproject.com/weblog/2026/aug/24/coc-block-tackle/). 
 
-AI-generated content: "Own your contributions, review them before you post, apply your own expertise- misuse of AI-generated content is a Code of Conduct violation." The possibility of a significant amount of Django code being written by AI and its ownership then being in question is a real concern. 
+AI-generated content: "Own your contributions, review them before you post, apply your own expertise- misuse of AI-generated content is a Code of Conduct violation."  
 
 Issues brought up during Q&A
+* The possibility of a significant amount of Django code being written by AI and its ownership then being in question is a real concern.
 * The CoC Working Group spent the most time on the weapons policy. They didn't want to be US-centric. They gave guidance to events. Events implement their own policy.
 * "Assume good intent" is a weaponed phrase. You should not assume any intent. Look at impact. 
 
@@ -176,7 +177,7 @@ Organizing DjangoCon US is a huge endeavor. "Getting involved in organizing and 
 
 DjangoCon US 2027 ticket prices are the lowest they will be at extra early bird. 
 
-"Hey, we don't do there here." 
+"Hey, we don't do that here." 
 
 Get the word out about the conference. We want everyone who would want to be at DjangoCon US to know about it. 
 
