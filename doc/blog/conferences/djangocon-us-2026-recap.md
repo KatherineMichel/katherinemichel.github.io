@@ -71,7 +71,7 @@ Dawn is calling all of us to dream with her.
 
 Dawn spent a long time not being scared. 
 
-I appreciate that Dawn revealed the influences that instilled within her grit, tenacity, and a love for technology, heavily influenced by her parents
+I appreciate that Dawn revealed the influences that instilled within her grit, tenacity, and a love for technology, heavily influenced by her parents:
 * An HBO series called Happily Ever After and Twilight Zone (also one of my favorites)
 * Watching Star Trek Next Generation with her father
 * Her parents teaching her about the first Black woman astronaut and taking her to space museums
@@ -91,12 +91,12 @@ Star Trek pushed boundaries.
 
 Afrofuturism "provides a lens on how I've learned to dream."
 
-How to be a builder
+How to be a builder:
 * Do the work in public
 * Make room for people who don't have a seat at the table
 * Stay accountable to your crew
 
-Lessons Learned
+Lessons Learned:
 * Dawn was always who she needed to be and did not need to change to be worthy of any opportunity she reached for
 * She stays ready so she doesn't have to get ready when opportunity knocks (example: filling in as last minute speaker at important conference)
 * Sometimes opportunity knocked, and she wasn't ready, but she tried her best anyway
@@ -131,12 +131,12 @@ This talk was about the people management side. Dan published a blog post about 
 
 AI-generated content: "Own your contributions, review them before you post, apply your own expertise- misuse of AI-generated content is a Code of Conduct violation."  
 
-Issues brought up during Q&A
+Issues brought up during Q&A:
 * The possibility of a significant amount of Django code being written by AI and its ownership then being in question is a real concern.
 * The CoC Working Group spent the most time on the weapons policy. They didn't want to be US-centric. They gave guidance to events. Events implement their own policy.
 * "Assume good intent" is a weaponed phrase. You should not assume any intent. Look at impact. 
 
-References
+References:
 * [Talk Slides](https://django-coc-2026.dryan.com/#slide-1)
 * [Django adopts a Code of Conduct (2013)](https://www.djangoproject.com/weblog/2013/jul/31/django-adopts-code-of-conduct/)
 * [BeeWare Community Code of Conduct](https://beeware.org/community/code-of-conduct/)
@@ -162,7 +162,7 @@ Wagtail serves a lot of people beyond Torchbox and its clients.
 
 A small team with a healthy skepticism of AI hype, the Wagtail team has adopted a balanced AI policy that respects users' autonomy and choice. Wagtail users are responding through PyPI downloads and shoutouts. 
 
-Wagtail's AI Guiding Principles
+Wagtail's AI Guiding Principles:
 * No AI dependency in Wagtail core (not forcing AI on anyone)
 * Responsible approach to AI (example: model with lower environmental impact)
 * Model and provider agnostic (not picking a horse in this race)
@@ -181,11 +181,11 @@ Other steps for Wagtail and AI: [product strategy](https://wagtail.org/product-s
 ![](djangocon-us-2026-recap-images/pragmatic-ai-more-links-and-resources.png)
 More links and resources
 
-Issues brought up during Q&A
+Issues brought up during Q&A:
 * What was involved in making docs easier for AI to read? Made sure content was in Markdown and added copy options on user guide
 * Wagtail has added a write API and Thibaud is experimenting with a docs builder. Despite the beauty of Wagtail, CMSes are going to become "clearinghouses and sources of truth" for AI. Wagtail is laying the foundation for whatever direction things go. 
 
-References
+References:
 * [AI in the CMS: steering the ecosystem](https://wagtail.org/blog/ai-in-the-cms-steering-the-ecosystem/)
 * Open weight models are catching up, [Epoch Capabilities Index](https://epoch.ai/benchmarks?view=graph&tab=eci)
 * [Wagtail Documentation](https://docs.wagtail.org/en/stable/) (for developers)
@@ -196,7 +196,13 @@ References
 
 ### Monday Lightning Talks
 
-References
+![](djangocon-us-2026-recap-images/lightning-talk-first-your-skills-are-desired.png)
+Tim Schilling: I want to convince you to contribute to Django
+
+![](djangocon-us-2026-recap-images/lightning-talk-tackle-tech-debt-chicago-style.png)
+Eric Sherman: Tackle tech debt, Chicago-style
+
+Topics of interest to me:
 * Marc Gibbons: [django-absurd](https://github.com/lincolnloop/django-absurd) based on [django-absurd](https://github.com/earendil-works/absurd)
 * Jim Anderson: normalize talking about imposter syndrome
 * Jon Gould: [Tech Hiring Has a Fraud Problem](https://foxleytalent.com/blog/fake-candidates-tech-hiring/)
@@ -204,23 +210,13 @@ References
 * Jeanette O'Brien: From Figma to Django. "Premature structure is its own trap- just like no structure at all."
 * Eric Sherman: Chicago reversed the flow of the Chicago River and raised the city 14 feet in the air, [Raising of Chicago Wikipedia article](https://en.wikipedia.org/wiki/Raising_of_Chicago)
 
-![](djangocon-us-2026-recap-images/lightning-talk-first-your-skills-are-desired.png)
-Tim Schilling: I want to convince you to contribute to Django
-
-![](djangocon-us-2026-recap-images/lightning-talk-tackle-tech-debt-chicago-style.png)
-Eric Sherman: Tackle tech debt, Chicago-style
-
-<!--
-Some Final Inspiration
--->
-
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Search-as-you-type for 54 Million Names: PostgreSQL + Django for Fuzzy Name Matching at Scale
 
 Summary
 
-References
+References:
 * [Demo](https://fuzzy-demo.caktus-built.com/)
 * [GitHub Repo](https://github.com/caktus/talk-fuzzy-name-search)
 * [Fuzzy String Matching in Django and PostgreSQL](https://www.caktusgroup.com/blog/2026/08/21/fuzzy-string-matching-django-postgresql/)
@@ -280,12 +276,12 @@ Who we do code review?
 
 [Thanks for the Feedback: The Science and Art of Receiving Feedback Well](https://www.amazon.com/dp/0670014664)
 
-Psychological triggers
+Psychological triggers:
 * Truth: you believe the feedback is wrong (be open, curious: others might come to same conclusion, it's worth engaging, honest mistake?) 
 * Relationship: affected by who is giving review (a person you don't like, a person you don't know, an intimidating person, etc.)
 * Identity: the feedback feels bigger than what it actually is (rather than see it as one small piece of work among all of your work, you begin to have self-doubt as if it reflects heavily upon who you are as a developer)
 
-Advice
+Advice:
 * Mergers also make mistakes. You should feel confident and capable of questioning their feedback, just like anyone else. 
 * Growth mindset
 * This is just the first draft, don't worry too much about mistakes. Respond, fix problems, engage. End result is what matters. 
@@ -296,7 +292,7 @@ What worse than receiving a review is receiving no review at all. A review is so
 
 Django needs you to do code review. 
 
-Issues brought up during Q&A
+Issues brought up during Q&A:
 * PR authors tend to get more attention than reviewers (co-author is an idea, but messy)
 * it took Paolo months to have the courage to open a PR. Language was a barrier. Sarah believes pair programming can help.
 * In-person sprints are good place for pairing. [Django on the Med](https://djangomed.eu/) shout-out.
@@ -359,11 +355,6 @@ GeoDjango at City Scale: Spatial Data for Urban Systems
 Presented by
 Drishti Jain
 
-
-Audience level:All
-Lightning Talks (Monday)
-Presented by
-Andrew Mshar
 
 Search-as-you-type for 54 Million Names: PostgreSQL + Django for Fuzzy Name Matching at Scale
 Presented by
