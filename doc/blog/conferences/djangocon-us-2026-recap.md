@@ -37,7 +37,11 @@ Disclaimer: the content of this post is a reflection of my career journey and no
 
 ## Intro
 
-DjangoCon US 2026 took place in Chicago, Illinois from August 24-28. I attended online this year.  
+DjangoCon US 2026 took place in Chicago, Illinois from August 24-28. I attended online. 
+
+This year, I paid more attention to the lightning talks (I usually take an early lunch) and also included some of the rich info discussed during the Q&A after talks.  
+
+These notes are specific to my interests and leave out info that might be of interest to you. I highly recommend watching the talks yourself when they are posted on YouTube!
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -169,17 +173,25 @@ Wagtail's AI Guiding Principles:
 * Only the right AI (want evidence of benefit)
 * Human in the loop (human is in control)
 
-![](djangocon-us-2026-recap-images/pragmatic-ai-wagtail-ai-package.png)
-[Wagtail AI package](https://wagtail.org/wagtail-ai/)
+[Wagtail AI package](https://wagtail.org/wagtail-ai/):
+* Multiple vendor options
+* User decides how much AI to use and where
+* User control over prompts and tokens
+* Focus on common, repeatable tasks on content publishing
 
 ![](djangocon-us-2026-recap-images/pragmatic-ai-other-things-weve-done.png)
 Other things they've done
 
-![](djangocon-us-2026-recap-images/pragmatic-ai-our-next-steps-for-wagtail-and-ai.png)
 Other steps for Wagtail and AI: [product strategy](https://wagtail.org/product-strategy/)
+* Next major release includes a fully supported write API
+* Continue our sustainability and quality research
+* Pursue agent-ready publishing
+* Create agent skills to improve DX experience
 
+<!--
 ![](djangocon-us-2026-recap-images/pragmatic-ai-more-links-and-resources.png)
 More links and resources
+-->
 
 Issues brought up during Q&A:
 * What was involved in making docs easier for AI to read? Made sure content was in Markdown and added copy options on user guide
@@ -202,7 +214,7 @@ Tim Schilling: I want to convince you to contribute to Django
 ![](djangocon-us-2026-recap-images/lightning-talk-tackle-tech-debt-chicago-style.png)
 Eric Sherman: Tackle tech debt, Chicago-style
 
-Topics of interest to me:
+More topics of interest to me:
 * Marc Gibbons: [django-absurd](https://github.com/lincolnloop/django-absurd) based on [django-absurd](https://github.com/earendil-works/absurd)
 * Jim Anderson: normalize talking about imposter syndrome
 * Jon Gould: [Tech Hiring Has a Fraud Problem](https://foxleytalent.com/blog/fake-candidates-tech-hiring/)
