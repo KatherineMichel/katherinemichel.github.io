@@ -103,7 +103,7 @@ Lessons Learned
 * She is always asking for more. Don't ask, am I good enough? For a Black woman this creates difficult, high friction conversations, direct feedback frequently. It's exhausting. It's easier to have a conversation when you are not on your back foot.
 * Rejection is the risk of authenticity. 
 
-"Being the first or only is lonely." Dawn would take being "rounded, complex, unique, strong over easy access any day," because it's made her who she is today.  
+"Being the first or only is lonely." But, Dawn would take being "rounded, complex, unique, strong over easy access any day," because it's made her who she is today.  
 
 Your experience matters. You belong here. Is there room for me? Yes, Dawn is making room. 
 
