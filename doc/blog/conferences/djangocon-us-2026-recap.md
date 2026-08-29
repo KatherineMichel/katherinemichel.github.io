@@ -156,14 +156,29 @@ https://github.com/django/code-of-conduct/pull/97
 
 by Meagan Voss
 
+Wagtail serves a lot of people beyond Torchbox and its clients. 
+
+A small team with a healthy skepticism of AI hype, the Wagtail team has adopted a balanced AI policy that respects users' autonomy and choice.
+
+Wagtail's AI Guiding Principles
+* No AI dependency in Wagtail core (not forcing AI on anyone)
+* Responsible approach to AI (example: model with lower environmental impact)
+* Model and provider agnostic (not picking a horse in this race)
+* Only the right AI (want evidence of benefit)
+* Human in the loop (human is in control)
+
+[Wagtail AI package](https://wagtail.org/wagtail-ai/)
+
+Other things they've done
+
+Other steps for Wagtail and AI: [product strategy](https://wagtail.org/product-strategy/)
+
 References
 * [AI in the CMS: steering the ecosystem](https://wagtail.org/blog/ai-in-the-cms-steering-the-ecosystem/)
+* Open weight models are catching up, [Epoch Capabilities Index](https://epoch.ai/benchmarks?view=graph&tab=eci)
+* [Wagtail Documentation](https://docs.wagtail.org/en/stable/)
+* [Wagtail User Guide](https://guide.wagtail.org/en/)
 * [Wagtail Space 2026](https://wagtail.org/wagtail-space-2026/)
-
-<!--
-https://docs.wagtail.org/en/stable/
-https://guide.wagtail.org/en/
--->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
