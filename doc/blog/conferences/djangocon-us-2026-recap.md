@@ -185,7 +185,7 @@ References
 * [AI in the CMS: steering the ecosystem](https://wagtail.org/blog/ai-in-the-cms-steering-the-ecosystem/)
 * Open weight models are catching up, [Epoch Capabilities Index](https://epoch.ai/benchmarks?view=graph&tab=eci)
 * [Wagtail Documentation](https://docs.wagtail.org/en/stable/) (for developers)
-* [Wagtail User Guide](https://guide.wagtail.org/en/) (for average users)
+* [Wagtail User Guide](https://guide.wagtail.org/en/) (for regular users/editors)
 * [Wagtail Space 2026](https://wagtail.org/wagtail-space-2026/)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
