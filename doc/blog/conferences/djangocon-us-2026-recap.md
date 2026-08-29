@@ -158,7 +158,7 @@ by Meagan Voss
 
 Wagtail serves a lot of people beyond Torchbox and its clients. 
 
-A small team with a healthy skepticism of AI hype, the Wagtail team has adopted a balanced AI policy that respects users' autonomy and choice.
+A small team with a healthy skepticism of AI hype, the Wagtail team has adopted a balanced AI policy that respects users' autonomy and choice. Wagtail users are responding through PyPI downloads and shoutouts. 
 
 Wagtail's AI Guiding Principles
 * No AI dependency in Wagtail core (not forcing AI on anyone)
@@ -290,9 +290,6 @@ GeoDjango at City Scale: Spatial Data for Urban Systems
 Presented by
 Drishti Jain
 
-Pragmatic AI: How to gain trust with user-centered AI adoption
-Presented by
-Meagen Voss
 
 Audience level:All
 Lightning Talks (Monday)
