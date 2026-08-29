@@ -200,11 +200,15 @@ References
 * Jeanette O'Brien: From Figma to Django. "Premature structure is its own trap- just like no structure at all."
 * Eric Sherman: Chicago reversed the flow of the Chicago River and raised the city 14 feet in the air, [Raising of Chicago Wikipedia article](https://en.wikipedia.org/wiki/Raising_of_Chicago)
 
+![](djangocon-us-2026-recap-images/lightning-talk-first-your-skills-are-desired.png)
 Tim Schilling: I want to convince you to contribute to Django
 
-Tackle tech debt, Chicago-style
+![](djangocon-us-2026-recap-images/lightning-talk-tackle-tech-debt-chicago-style.png)
+Eric Sherman: Tackle tech debt, Chicago-style
 
+<!--
 Some Final Inspiration
+-->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
