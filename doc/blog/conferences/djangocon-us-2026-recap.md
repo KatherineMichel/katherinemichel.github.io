@@ -129,9 +129,9 @@ This talk was about the people management side. Dan published a blog post about 
 
 AI-generated content: "Own your contributions, review them before you post, apply your own expertise- misuse of AI-generated content is a Code of Conduct violation." The possibility of a significant amount of Django code being written by AI and its ownership then being in question is a real concern. 
 
-The CoC Working Group spent the most time on the weapons policy. They didn't want to be US-centric. They gave guidance to events. Events implement their own policy. 
-
-"Assume good intent" is a weaponed phrase. You should not assume any intent. Look at impact. 
+Issues brought up during Q&A
+* The CoC Working Group spent the most time on the weapons policy. They didn't want to be US-centric. They gave guidance to events. Events implement their own policy.
+* "Assume good intent" is a weaponed phrase. You should not assume any intent. Look at impact. 
 
 References
 * [Talk Slides](https://django-coc-2026.dryan.com/#slide-1)
@@ -211,7 +211,7 @@ What worse than receiving a review is receiving no review at all. A review is so
 
 Django needs you to do code review. 
 
-Issues brought up on Q&A
+Issues brought up during Q&A
 * PR authors tend to get more attention than reviewers (co-author is an idea, but messy)
 * it took Paolo months to have the courage to open a PR. Language was a barrier. Sara believes pair programming can help.
 * In-person sprints are good place for pairing. [Django on the Med](https://djangomed.eu/) shout-out.
@@ -270,26 +270,6 @@ https://github.com/dj-bolt/django-bolt
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 <!--
-Audience level:All
-Orientation
-Presented by
-Kojo Idrissa
-
-
-Audience level:All
-Opening Remarks (Monday)
-Presented by
-Keanya Phelps
-
-Audience level:All
-Boldly Go, Building Worlds: Is there Room for me on the Bridge?
-Presented by
-Dawn Wages
-
-Good Conduct: How Django Modernized Its Code of Conduct
-Presented by
-Dan Ryan
-
 GeoDjango at City Scale: Spatial Data for Urban Systems
 Presented by
 Drishti Jain
@@ -329,15 +309,7 @@ Presented by
 Barkha Jain
 
 
-Audience level:All
-Opening Remarks (Tuesday)
-Presented by
-Peter Grandstaff
-
-Audience level:All
-Keynote: Emails from my Grandad
-Presented by
-Sarah Boyce
+Tuesday
 
 Batteries vs. Speed: The Django/FastAPI Debate
 Presented by
@@ -376,9 +348,6 @@ Elizabeth Christensen
 Keeping Pace with Django: Evolving Through 15 years of Updates
 Presented by
 Eduardo Felipe Castegnaro
-
-Open Spaces
-What is an Open Space?
 
 
 Audience level:All
@@ -434,11 +403,6 @@ DSF Membership Open Space
 Join the Django Software Foundation board and members for a quick overview and Q&A about foundation.
 
 What is an Open Space?
-
-
-Project Introductions
-9:25 am to 9:40 am
-Sauganash Ballroom (West)
 
 Learn to Contribute to Django
 Presented by
