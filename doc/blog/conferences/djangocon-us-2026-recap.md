@@ -96,7 +96,7 @@ How to be a builder
 
 Lessons Learned
 * Dawn was always who she needed to be and did not need to change to be worthy of any opportunity she reached for
-* She stays ready so she doesn't have to get ready when opportunity knocks (filling in as last minute speaker at important conference)
+* She stays ready so she doesn't have to get ready when opportunity knocks (example: filling in as last minute speaker at important conference)
 * Sometimes opportunity knocked, and she wasn't ready, but she tried her best anyway
 * You also don't have to "build the world." (Dawn contends with strong Black woman trope)
 * "You are allowed to be exhausted without giving up. Sometimes surviving is progress."
