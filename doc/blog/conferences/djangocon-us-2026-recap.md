@@ -353,6 +353,11 @@ by Monica Oyugi
 
 by Sarah Abderemane
 
+<!--
+The interactive part was very clever. 
+Recently read about Sarah's desire to be better at public speaking. 
+-->
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### What's New in Postgres 18 & 19
@@ -413,12 +418,6 @@ Django has a [new features repo](https://github.com/django/new-features) for pro
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Auto-prefetching with model field fetch modes in Django 6.1
-
-by Jacob Walls
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
 ### Wednesday Lightning Talks
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
@@ -441,7 +440,7 @@ Notes
 * [psycopg driver](https://www.psycopg.org/) is needed for Postgres
 * Tools: Docker, White Noise, Nginx, CDN, Redis, RabbitMQ, Celery, RQ
 * collect static command, media is uploaded by users, so can't trust it. Have to put it somewhere else.
-* auth: how to do password reset, email, passkey, sms ("a mistake here in production will get you in the news in a way you don't want to be."
+* auth: how to do password reset, email, passkey, sms ("a mistake here in production will get you in the news in a way you don't want to be")
 * In prod, with public internet, everything is a threat
 * https is not enough, because it does not protect session cookies
 * Once a page is loaded we cannot trust it to not run someone's script. CSP middleware addresses this. 
@@ -480,6 +479,95 @@ Will most excited about Qubity, pass service on VPS
 
 by Paolo Melchiorre
 
+<!--
+https://docs.djangoproject.com/en/1.8/releases/1.8/
+https://docs.djangoproject.com/en/1.8/releases/1.8/#new-data-types
+https://docs.djangoproject.com/en/1.8/ref/models/fields/#django.db.models.UUIDField
+Paolo was not involved in Django
+Founded with Carlton
+Django on the Med
+Python Pescara
+Old project
+Two main problems
+Slow like-based search *
+Internal IDs exposed publicly
+https://docs.djangoproject.com/en/1.8/howto/writing-migrations/#migrations-that-add-unique-fields
+First time to suggest improvement
+https://github.com/django/django/pull/8246
+https://docs.djangoproject.com/en/6.1/topics/performance/
+You have to work at the proper level. Database in this case. 
+Additional modules
+https://www.postgresql.org/docs/9.4/release-9-4.html
+gen_random_uuid()
+One query: RandomUUID()
+UUID migration benchmark
+https://code.djangoproject.com/ticket/27996
+He was mentored in Markus
+opening issue, setting flags, updating docs
+Completed during sprint
+https://github.com/django/django/pull/8265
+https://docs.djangoproject.com/en/2.0/releases/2.0/#django-contrib-postgres
+https://docs.djangoproject.com/en/2.0/ref/contrib/postgres/functions/#django.contrib.postgres.functions.RandomUUID
+https://code.djangoproject.com/ticket/4682
+https://code.djangoproject.com/ticket/19463
+Feature people wanted for a long time
+https://code.djangoproject.com/ticket/470
+https://github.com/django/django/pull/16092
+https://docs.djangoproject.com/en/5.0/releases/5.0/
+https://docs.djangoproject.com/en/5.0/releases/5.0/#database-computed-default-values
+https://docs.python.org/3/whatsnew/3.14.html
+https://docs.python.org/3/whatsnew/3.14.html#uuid
+https://docs.python.org/3/library/uuid.html
+https://www.postgresql.org/docs/current/release-18.html
+Django on the Med
+Simon and Lily
+Proposal to add new UUID version 7 support in Postgres
+Research if support had evolved for other databases
+https://github.com/django/new-features/issues/85
+https://www.paulox.net/2025/11/14/how-to-use-uuidv7-in-python-django-and-postgresql/
+Paolo continued experimenting with this stack, including Django 5.2
+Tried to see difference in support between Postgres and SQLite
+SQLite- already able to store UUID version 7 directly in UUID field
+SQL put the value in the SQL query, because it's generated at Python level?
+More interested in Postgres
+Did similar experiment as 8 years before: created custom database function locally
+The first one was to use the generation of UUID version 7. 
+The second one was to extract the time from the timestamp part of the UUID
+He used a generative field to experiment with the 2nd one
+https://www.paulox.net/2023/11/24/database-generated-columns-part-2-django-and-postgresql/
+Created an item with database default UUID version 7
+And another field that was automatically generated from the previous one. 
+With the database function, he was able to extract the datetime from the database layer
+This is the query you will find if you generate from postgres
+If you try locally, you will find the difference between this code and the code that we generated with SQLite is the fact that there is no UUID in the query here. 
+The value comes from the default and the query on you directly to generated information. 
+The UUID and the part that is abstracted from the UUID
+If you have only to read it, it's not so different than what you had already in SQLite, but having an additional column, you can do something like that
+You can use it directly there. 
+Date/time from the UUID and perform some filter
+Some query, maybe you can use in the admin filter, or you can have other ideas to use it in various ways. 
+https://github.com/django/django/pull/20101
+Django on the Med label
+https://github.com/django/django/issues?q=state%3Aopen%20label%3A%22Django%20on%20the%20Med%20%F0%9F%8F%96%EF%B8%8F%22
+https://docs.djangoproject.com/en/6.1/releases/6.1/#models
+https://docs.djangoproject.com/en/6.1/ref/models/database-functions/#django.db.models.functions.UUID4
+https://docs.djangoproject.com/en/6.1/ref/models/database-functions/#uuid7
+Generate the version of UUID you need in your project, you can use it as a database default not only in postgres like he experimented in his article in Django 5.2. But in Django 6.1, you can use in other types of database
+MySQL does not support UUID at all
+Store, type, generate, default
+Changelog
+Things changed when he proposed to add something to Django and people helped him. He was not able to create the perfect pr
+Got feedback, continued contributing, step, was not the one who created the pr, but he tried to share ideas
+What he is saying is contributing and being part of sprints is important. It's been very important. In my career, it changed everything
+Perfect moment to ask you to do the same
+Ask for help, experiment something, contribute back to Django
+Something you like, features you want. Something you already prepared or worked on in the past. 
+DjangoCon Europe 2027
+Photo of mountains in Northern Italy
+Innsbruck Austria
+https://2027.djangocon.eu/
+-->
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Snippets
@@ -502,6 +590,12 @@ Keanya, thank you for chairing two unforgettable conferences!
 ### Polyglot Persistence with Django: When One Database Isn't Enough
 
 by Abigail Afi Gbadago
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Auto-prefetching with model field fetch modes in Django 6.1
+
+by Jacob Walls
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -564,6 +658,7 @@ Frank Wiles
 The Testing Pyramid in Practice for Django
 Presented by
 Monica Oyugi
+
 
 One URL to Rule Them All: Dynamic Landing Pages in Wagtail
 Presented by
@@ -629,9 +724,6 @@ Presented by
 Natalia
 
 
-Modern Django Deployments in 2026
-Presented by
-Will Vincent
 
 The Django UUID Story
 Presented by
