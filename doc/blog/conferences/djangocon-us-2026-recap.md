@@ -25,9 +25,11 @@ Table of Contents
     - [Keynote: Emails from my Grandad](#keynote-)
     - [Batteries vs. Speed: The Django/FastAPI Debate](#)
     - [The Testing Pyramid in Practice for Django](#)
+    - [Tuesday Lightning Talks](#tuesday-lightning-talks)
 - [Wednesday](#wednesday)
     - [Wednesday Opening Remarks](#wednesday-opening-remarks)
     - [Keynote: Django 6: The Most Exciting Release Ever](#keynote-)
+    - [Wednesday Lightning Talks](#wednesday-lightning-talks)
     - [Modern Django Deployments in 2026](#)
     - [The Django UUID Story](#)
     - [Closing Remarks](#closing-remarks)
@@ -335,6 +337,10 @@ by Monica Oyugi
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+### Tuesday Lightning Talks
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
 ### Polyglot Persistence with Django: When One Database Isn't Enough
 
 by Abigail Afi Gbadago
@@ -365,6 +371,10 @@ by Eduardo Felipe Castegnaro
 
 by Drew Winstel
 
+Inspired by Django Under the Hood, Day 3 is deep-dive day. 
+
+If you want to help organize DjangoCon US next year, email hello@djangocon.us. DjangoCon US has a lot of jobs. Let them what you are interested in. 
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Keynote: Django 6: The Most Exciting Release Ever
@@ -391,11 +401,19 @@ Template partials is the feature Karen is most excited about.
 
 ![](djangocon-us-2026-recap-images/dango-6-the-most-exciting-more-exciting-in-6-1.png)
 
+<!--
+https://github.com/django/new-features
+-->
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Auto-prefetching with model field fetch modes in Django 6.1
 
 by Jacob Walls
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Wednesday Lightning Talks
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -431,9 +449,17 @@ by Paolo Melchiorre
 
 by Keanya Phelps
 
+Keanya, thank you for chairing two unforgettable conferences! 
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+
 <!--
+The power of Miscellaneous section
+Using multiple databases
+Background tasks demo-ed
+
+
 GeoDjango at City Scale: Spatial Data for Urban Systems
 Presented by
 Drishti Jain
@@ -481,10 +507,12 @@ One URL to Rule Them All: Dynamic Landing Pages in Wagtail
 Presented by
 Chrissy Wainwright
 
+
 Audience level:All
 Lightning Talks (Tuesday)
 Presented by
 Andrew Mshar
+
 
 Who Goes There? Actively Detecting Intruders With Cyber Deception Tools
 Presented by
@@ -493,6 +521,7 @@ Dwayne McDaniel
 Polyglot Persistence with Django: When One Database Isn't Enough
 Presented by
 Abigail Afi Gbadago
+
 
 50 shades of green - One contribution to the Django world
 Presented by
@@ -508,22 +537,20 @@ Eduardo Felipe Castegnaro
 
 
 Audience level:All
-Opening Remarks (Wednesday)
-Presented by
-Drew Winstel
-
-Audience level:All
 Keynote: Django 6: The Most Exciting Release Ever
 Presented by
 Karen Tracey
+
 
 Scaling Django: Mastering Database Routers with AWS Aurora
 Presented by
 Leonardo Batista
 
+
 Auto-prefetching with model field fetch modes in Django 6.1
 Presented by
 Jacob Walls
+
 
 Enter the Ecosystem: Contributing to Django Open Source Projects
 Presented by
@@ -534,9 +561,11 @@ Lightning Talks (Wednesday)
 Presented by
 Andrew Mshar
 
+
 Wishlist granted: HTMX without betraying your Django views
 Presented by
 Natalia
+
 
 Modern Django Deployments in 2026
 Presented by
@@ -546,14 +575,11 @@ The Django UUID Story
 Presented by
 Paolo Melchiorre
 
+
 But did you know the browser already does that?
 Presented by
 James Stuckey Weber
 
-Audience level:All
-Closing Remarks
-Presented by
-Keanya Phelps
 
 
 DSF Membership Open Space
