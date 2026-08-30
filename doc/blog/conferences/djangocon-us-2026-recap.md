@@ -371,13 +371,23 @@ by Drew Winstel
 
 by Karen Tracey
 
+Django has been around for 21 years of releases. Nearly 20 years ago, Karen started using Django for a hobby project, before Django 1.0 release. She had some issues and almost immediately created a report and was invited to create a patch. She started to help develop Django and became a Django Core Developer. 
+
+Although Karen highlights four big things, there are "little gems throughout the release notes." Read the full notes, including Miscellaneous (this is the second reference of the conference to the importance of this section). There might be functionality that would appeal to your project or address a pain point. 
+
+These are in the order of Karen's increasing level of excitement. 
+
 ![](djangocon-us-2026-recap-images/django-6-the-most-exciting-release-ever-python-modern-email-api.png)
+Karen feels that this feature reflects Django's health, because it indicates that Django is picking up Python's new features. 
 
 ![](djangocon-us-2026-recap-images/django-6-the-most-exciting-content-security-policy.png)
+Karen thinks it's "excellent that Django has incorporated that into the base," because it makes it visible to Django developers that they need to decide and implement a CSP. 
 
 ![](djangocon-us-2026-recap-images/django-6-the-most-exciting-background-tasks.png)
+Karen points out that Celery is often more complexity than is necessary. She's happy that standardization for enqueuing and execution is happening. She would like to see at least one production-ready backend be included in Django 4.0. 
 
 ![](djangocon-us-2026-recap-images/django-6-the-most-exciting-template-partials.png)
+Template partials is the feature Karen is most excited about. 
 
 ![](djangocon-us-2026-recap-images/dango-6-the-most-exciting-more-exciting-in-6-1.png)
 
