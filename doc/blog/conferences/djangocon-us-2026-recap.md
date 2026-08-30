@@ -209,9 +209,6 @@ References:
 ![](djangocon-us-2026-recap-images/lightning-talk-first-your-skills-are-desired.png)
 Tim Schilling: I want to convince you to contribute to Django
 
-![](djangocon-us-2026-recap-images/lightning-talk-tackle-tech-debt-chicago-style.png)
-Eric Sherman: Tackle tech debt, Chicago-style
-
 More topics of interest to me:
 * Marc Gibbons: [django-absurd](https://github.com/lincolnloop/django-absurd) based on [django-absurd](https://github.com/earendil-works/absurd)
 * Jim Anderson: normalize talking about imposter syndrome
@@ -219,6 +216,9 @@ More topics of interest to me:
 * Eric Holscher: 16 years ago, Read the Docs was created in the same basement as Django in Lawrence, Kansas. Ethical ads made Read the Docs sustainable. The DSF is at similar inflection point of hiring an executive director and working toward sustainability.
 * Jeanette O'Brien: From Figma to Django. "Premature structure is its own trap- just like no structure at all."
 * Eric Sherman: Chicago reversed the flow of the Chicago River and raised the city 14 feet in the air, [Raising of Chicago Wikipedia article](https://en.wikipedia.org/wiki/Raising_of_Chicago)
+
+![](djangocon-us-2026-recap-images/lightning-talk-tackle-tech-debt-chicago-style.png)
+Eric Sherman: Tackle tech debt, Chicago-style
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -358,6 +358,8 @@ https://github.com/dj-bolt/django-bolt
 
 ### Keynote: Django 6: The Most Exciting Release Ever
 
+by Karen Tracey
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Auto-prefetching with model field fetch modes in Django 6.1
@@ -369,6 +371,10 @@ https://github.com/dj-bolt/django-bolt
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Modern Django Deployments in 2026
+
+Ecosystem
+
+Deployment architecture
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
