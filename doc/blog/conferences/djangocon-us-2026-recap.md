@@ -427,11 +427,52 @@ by Jacob Walls
 
 by Will Vincent
 
+"90% of Django deployments are the same." Will wants to prove that using his mental model. He did not talk about tooling. He wanted to talk about the things that don't change. 
+
 ![](djangocon-us-2026-recap-images/modern-django-deployments-in-2026-ecosystem.png)
-Ecosystem
+Shortlist of providers
 
 ![](djangocon-us-2026-recap-images/modern-django-deployments-in-2026-step-10.png)
 Deployment architecture
+
+Notes
+* Now we have WSGI/ASGI (based on Django Channels)
+* Django supports five databases out of the box: Postgres, SQLite, MySQL, Oracle DB, MongoDB
+* [psycopg driver](https://www.psycopg.org/) is needed for Postgres
+* Tools: Docker, White Noise, Nginx, CDN, Redis, RabbitMQ, Celery, RQ
+* collect static command, media is uploaded by users, so can't trust it. Have to put it somewhere else.
+* auth: how to do password reset, email, passkey, sms ("a mistake here in production will get you in the news in a way you don't want to be."
+* In prod, with public internet, everything is a threat
+* https is not enough, because it does not protect session cookies
+* Once a page is loaded we cannot trust it to not run someone's script. CSP middleware addresses this. 
+* TLS, secure cookies, debug setting, allowed hosts
+* Hardening doesn't make anything faster
+* Background workers (in prod milliseconds matter), message brokers, tasks
+* Performance: caching ("two copies of truth, and we have to know when to throw away the stale one"), n workers, indices, model fetch modes
+* When people say Django is slow (sometimes Fast API is faster), it's not Django/Python. It's the database
+* Resist the urge to prematurely optimize (wait for real traffic to determine which pages are slow, don't sprinkle indices like candy ahead of time)
+* Locally, you will get an error message. In prod, use monitoring, Sentry, logs. 
+
+Issues brought up during Q&A:
+* Will would love to see some "magic" added such as a flag or other mechanism to "flip a switch" to go from local mode to prod mode to deploy to a platform as a service or app pack. A lightweight way to deploy could help newcomers and those "afraid of Django."
+* Will is considering open sourcing his own deployment checklist (yes, please). Django also has a [deployment checklist](https://docs.djangoproject.com/en/6.1/howto/deployment/checklist/). Will suggests to start by running the Django management command 'manage.py deploy --check' to assess your deployment readiness. Will suggested also to ask AI for a deployment checklist. 
+* When is Django Cloud deploy as a service coming out? (for context, Fast API has Fast API Cloud).
+* Will does not use AI for deployment, but he has heard people say they are doing infra, terraform, kubernetes, etc. and it works well. It is really saving time and doing it well?
+
+Remember when: 
+* [cdi](https://docs.python.org/3/library/cgi.html) and [mod_python](https://en.wikipedia.org/wiki/Mod_python)
+* Multiple settings.py files
+* Jacob Kaplan-Moss talk "[Assets in Django Without Losing Your Hair](https://www.youtube.com/watch?v=E613X3RBegI)" 
+
+<!--
+Email service is another api key
+mailers dictionary (Django 6.1)
+emails_wild deprecated in Django 7.1
+
+Q&A
+Calvin/Frank- bias to people with money, big sites, go to Amazon
+Will most excited about Qubity, pass service on VPS
+-->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
