@@ -460,7 +460,7 @@ Issues brought up during Q&A:
 * Will does not use AI for deployment, but he has heard people say they are doing infra, terraform, kubernetes, etc. and it works well. It is really saving time and doing it well?
 
 Remember when: 
-* [cdi](https://docs.python.org/3/library/cgi.html) and [mod_python](https://en.wikipedia.org/wiki/Mod_python)
+* [cgi](https://docs.python.org/3/library/cgi.html) and [mod_python](https://en.wikipedia.org/wiki/Mod_python)
 * Multiple settings.py files
 * Jacob Kaplan-Moss talk "[Assets in Django Without Losing Your Hair](https://www.youtube.com/watch?v=E613X3RBegI)" 
 
