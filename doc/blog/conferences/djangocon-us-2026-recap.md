@@ -28,7 +28,6 @@ Table of Contents
 - [Wednesday](#wednesday)
     - [Wednesday Opening Remarks](#wednesday-opening-remarks)
     - [Keynote: Django 6: The Most Exciting Release Ever](#keynote-)
-    - [Wishlist granted: HTMX without betraying your Django views](#)
     - [Modern Django Deployments in 2026](#)
     - [The Django UUID Story](#)
     - [Closing Remarks](#closing-remarks)
@@ -390,11 +389,15 @@ by Jacob Walls
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+<!--
 ### Wishlist granted: HTMX without betraying your Django views
+
+    - [Wishlist granted: HTMX without betraying your Django views](#)
 
 by Natalia
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
+-->
 
 ### Modern Django Deployments in 2026
 
