@@ -400,19 +400,19 @@ Although Karen highlights four big things, there are "little gems throughout the
 
 These are in the order of Karen's increasing level of excitement. 
 
-![](djangocon-us-2026-recap-images/django-6-the-most-exciting-release-ever-python-modern-email-api.png)
+![](djangocon-us-2026-recap-images/django-6-the-most-exciting-release-ever-python-modern-email-api.pn)
 Karen feels that this feature reflects Django's health, because it indicates that Django is picking up Python's new features. 
 
-![](djangocon-us-2026-recap-images/django-6-the-most-exciting-content-security-policy.png)
+![](djangocon-us-2026-recap-images/django-6-the-most-exciting-content-security-policy.pn)
 Karen thinks it's "excellent that Django has incorporated that into the base," because it makes it visible to Django developers that they need to decide and implement a CSP. 
 
-![](djangocon-us-2026-recap-images/django-6-the-most-exciting-background-tasks.png)
+![](djangocon-us-2026-recap-images/django-6-the-most-exciting-background-tasks.pn)
 Karen points out that Celery is often more complexity than is necessary. She's happy that standardization for enqueuing and execution is happening. She would like to see at least one production-ready backend be included in Django 4.0. 
 
-![](djangocon-us-2026-recap-images/django-6-the-most-exciting-template-partials.png)
+![](djangocon-us-2026-recap-images/django-6-the-most-exciting-template-partials.pn)
 Template partials is the feature Karen is most excited about. 
 
-![](djangocon-us-2026-recap-images/dango-6-the-most-exciting-more-exciting-in-6-1.png)
+![](djangocon-us-2026-recap-images/dango-6-the-most-exciting-more-exciting-in-6-1.pn)
 
 Django has a [new features repo](https://github.com/django/new-features) for proposing new features
 
