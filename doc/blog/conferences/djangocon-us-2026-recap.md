@@ -357,6 +357,12 @@ by Elizabeth Christensen
 
 by Eduardo Felipe Castegnaro
 
+![](djangocon-us-2026-recap-images/keeping-page-with-django-django-evolved.png)
+
+![](djangocon-us-2026-recap-images/keeping-pace-with-django-django-evolved-2.png)
+
+![](djangocon-us-2026-recap-images/keeping-page-with-django-read-the-release-notes.png)
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Wednesday
