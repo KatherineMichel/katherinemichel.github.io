@@ -372,6 +372,16 @@ by Drew Winstel
 
 by Karen Tracey
 
+![](djangocon-us-2026-recap-images/django-6-the-most-exciting-release-ever-python-modern-email-api.png)
+
+![](djangocon-us-2026-recap-images/django-6-the-most-exciting-content-security-policy.png)
+
+![](djangocon-us-2026-recap-images/django-6-the-most-exciting-background-tasks.png)
+
+![](djangocon-us-2026-recap-images/django-6-the-most-exciting-template-partials.png)
+
+![](djangocon-us-2026-recap-images/dango-6-the-most-exciting-more-exciting-in-6-1.png)
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Auto-prefetching with model field fetch modes in Django 6.1
