@@ -210,7 +210,7 @@ References:
 ![](djangocon-us-2026-recap-images/lightning-talk-first-your-skills-are-desired.png)
 Tim Schilling: I want to convince you to contribute to Django
 
-More topics of interest to me:
+Topics of interest to me:
 * Marc Gibbons: [django-absurd](https://github.com/lincolnloop/django-absurd) based on [django-absurd](https://github.com/earendil-works/absurd)
 * Jim Anderson: normalize talking about imposter syndrome
 * Jon Gould: [Tech Hiring Has a Fraud Problem](https://foxleytalent.com/blog/fake-candidates-tech-hiring/)
