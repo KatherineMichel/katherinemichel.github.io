@@ -341,12 +341,6 @@ by Monica Oyugi
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Polyglot Persistence with Django: When One Database Isn't Enough
-
-by Abigail Afi Gbadago
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
 ### 50 shades of green - One contribution to the Django world
 
 by Sarah Abderemane
@@ -401,9 +395,7 @@ Template partials is the feature Karen is most excited about.
 
 ![](djangocon-us-2026-recap-images/dango-6-the-most-exciting-more-exciting-in-6-1.png)
 
-<!--
-https://github.com/django/new-features
--->
+Django has a [new features repo](https://github.com/django/new-features) for proposing new features
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -416,16 +408,6 @@ by Jacob Walls
 ### Wednesday Lightning Talks
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
-
-<!--
-### Wishlist granted: HTMX without betraying your Django views
-
-    - [Wishlist granted: HTMX without betraying your Django views](#)
-
-by Natalia
-
-🔝 <sub>[**back to top**](#table-of-contents)</sub>
--->
 
 ### Modern Django Deployments in 2026
 
@@ -453,6 +435,23 @@ Keanya, thank you for chairing two unforgettable conferences!
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+<!--
+### Polyglot Persistence with Django: When One Database Isn't Enough
+
+by Abigail Afi Gbadago
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Wishlist granted: HTMX without betraying your Django views
+
+    - [Wishlist granted: HTMX without betraying your Django views](#)
+
+by Natalia
+
+https://github.com/nessita/djangocon2026/tree/main/wishlists
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+-->
 
 <!--
 The power of Miscellaneous section
