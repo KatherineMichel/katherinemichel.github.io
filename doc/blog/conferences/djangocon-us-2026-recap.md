@@ -335,6 +335,8 @@ https://github.com/dj-bolt/django-bolt
 
 by Monica Oyugi
 
+![](djangocon-us-2026-recap-images/testing-pyramid-in-practice-for-django-where-this-talk.png)
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Tuesday Lightning Talks
