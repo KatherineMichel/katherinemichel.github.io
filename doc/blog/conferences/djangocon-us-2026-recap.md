@@ -182,16 +182,14 @@ Wagtail's AI Guiding Principles:
 ![](djangocon-us-2026-recap-images/pragmatic-ai-other-things-weve-done.png)
 Other things they've done
 
-Other steps for Wagtail and AI: [product strategy](https://wagtail.org/product-strategy/)
+Other steps for Wagtail and AI: [product strategy](https://wagtail.org/product-strategy/):
 * Next major release includes a fully supported write API
 * Continue our sustainability and quality research
 * Pursue agent-ready publishing
 * Create agent skills to improve DX experience
 
-<!--
 ![](djangocon-us-2026-recap-images/pragmatic-ai-more-links-and-resources.png)
 More links and resources
--->
 
 Issues brought up during Q&A:
 * What was involved in making docs easier for AI to read? Made sure content was in Markdown and added copy options on user guide
@@ -250,7 +248,7 @@ https://github.com/moj-analytical-services/splink
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
-###
+### Using Django to deliver public transit benefits securely and privately
 
 <!--
 https://docs.calitp.org/benefits/
@@ -336,6 +334,22 @@ https://github.com/dj-bolt/django-bolt
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+### Polyglot Persistence with Django: When One Database Isn't Enough
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### 50 shades of green - One contribution to the Django world
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### What's New in Postgres 18 & 19
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Keeping Pace with Django: Evolving Through 15 years of Updates
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
 ## Wednesday
 
 ### Wednesday Opening Remarks
@@ -343,6 +357,10 @@ https://github.com/dj-bolt/django-bolt
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Keynote: Django 6: The Most Exciting Release Ever
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Auto-prefetching with model field fetch modes in Django 6.1
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -376,6 +394,7 @@ Gerald Carlton
 Using Django to deliver public transit benefits securely and privately
 Presented by
 Scott Cranfill
+
 
 Taming Your Templates: Component-Based Frontends in Django
 Presented by
