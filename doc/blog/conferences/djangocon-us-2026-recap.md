@@ -20,18 +20,24 @@ Table of Contents
     - [Pragmatic AI: How to gain trust with user-centered AI adoption](#pragmatic-ai-how-to-gain-trust-with-user-centered-ai-adoption)
     - [Monday Lightning Talks](#monday-lightning-talks)
     - [Search-as-you-type for 54 Million Names: PostgreSQL + Django for Fuzzy Name Matching at Scale](#search-as-you-type-for-54-million-names-postgresql--django-for-fuzzy-name-matching-at-scale)
+    - [Using Django to deliver public transit benefits securely and privately](#)
 - [Tuesday](#tuesday)
     - [Tuesday Opening Remarks](#tuesday-opening-remarks)
     - [Keynote: Emails from my Grandad](#keynote-)
     - [Batteries vs. Speed: The Django/FastAPI Debate](#)
     - [The Testing Pyramid in Practice for Django](#)
     - [Tuesday Lightning Talks](#tuesday-lightning-talks)
+    - [50 shades of green - One contribution to the Django world](#)
+    - [What's New in Postgres 18 & 19](#)
+    - [Keeping Pace with Django: Evolving Through 15 years of Updates](#)
 - [Wednesday](#wednesday)
     - [Wednesday Opening Remarks](#wednesday-opening-remarks)
     - [Keynote: Django 6: The Most Exciting Release Ever](#keynote-)
+    - [Auto-prefetching with model field fetch modes in Django 6.1](#)      
     - [Wednesday Lightning Talks](#wednesday-lightning-talks)
     - [Modern Django Deployments in 2026](#)
     - [The Django UUID Story](#)
+    - [Snippets](#snippets)
     - [Closing Remarks](#closing-remarks)
 
 Disclaimer: the content of this post is a reflection of my career journey and not specific to my work at JPMorganChase.
@@ -189,9 +195,6 @@ Other steps for Wagtail and AI: [product strategy](https://wagtail.org/product-s
 * Pursue agent-ready publishing
 * Create agent skills to improve DX experience
 
-![](djangocon-us-2026-recap-images/pragmatic-ai-more-links-and-resources.png)
-More links and resources
-
 Issues brought up during Q&A:
 * What was involved in making docs easier for AI to read? Made sure content was in Markdown and added copy options on user guide
 * Wagtail has added a write API and Thibaud is experimenting with a docs builder. Despite the beauty of Wagtail, CMSes are going to become "clearinghouses and sources of truth" for AI. Wagtail is laying the foundation for whatever direction things go. 
@@ -202,6 +205,9 @@ References:
 * [Wagtail Documentation](https://docs.wagtail.org/en/stable/) (for developers)
 * [Wagtail User Guide](https://guide.wagtail.org/en/) (for regular users/editors)
 * [Wagtail Space 2026](https://wagtail.org/wagtail-space-2026/)
+
+![](djangocon-us-2026-recap-images/pragmatic-ai-more-links-and-resources.png)
+More links and resources
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -432,6 +438,14 @@ Deployment architecture
 ### The Django UUID Story
 
 by Paolo Melchiorre
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Snippets
+
+by various
+
+
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
