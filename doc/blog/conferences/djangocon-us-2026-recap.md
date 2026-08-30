@@ -332,27 +332,39 @@ https://github.com/dj-bolt/django-bolt
 
 ### The Testing Pyramid in Practice for Django
 
+by Monica Oyugi
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Polyglot Persistence with Django: When One Database Isn't Enough
+
+by Abigail Afi Gbadago
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### 50 shades of green - One contribution to the Django world
 
+by Sarah Abderemane
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### What's New in Postgres 18 & 19
 
+by Elizabeth Christensen
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Keeping Pace with Django: Evolving Through 15 years of Updates
+
+by Eduardo Felipe Castegnaro
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Wednesday
 
 ### Wednesday Opening Remarks
+
+by Drew Winstel
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -364,25 +376,37 @@ by Karen Tracey
 
 ### Auto-prefetching with model field fetch modes in Django 6.1
 
+by Jacob Walls
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Wishlist granted: HTMX without betraying your Django views
+
+by Natalia
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Modern Django Deployments in 2026
 
+by Will Vincent
+
+![](djangocon-us-2026-recap-images/modern-django-deployments-in-2026-ecosystem.png)
 Ecosystem
 
+![](djangocon-us-2026-recap-images/modern-django-deployments-in-2026-step-10.png)
 Deployment architecture
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### The Django UUID Story
 
+by Paolo Melchiorre
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Closing Remarks
+
+by Keanya Phelps
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
