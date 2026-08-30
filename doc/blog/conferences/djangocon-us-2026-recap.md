@@ -370,11 +370,100 @@ by Elizabeth Christensen
 
 by Eduardo Felipe Castegnaro
 
+<!--
+When Django did not have swappable user models- rough times
+1.3 to 5.2- 21 versions
+
+2016- decided to only do LTS, starting skipping updates
+Onsign is a CMS
+
+Our use case requires some advanced SQL
+Recursive Common Table Expressions
+https://sqlite.org/lang_with.html
+https://www.postgresql.org/docs/current/queries-with.html
+Don't map as cleanly into Django ORM
+9-year-old ticket to add into Django
+Among 1% of Django users that require so many raw queries in their database
+That's not what Django was supposed to be
+Queryset.raw(), Queryset.extra(), cursor.execute()
+Their usage is outside of the scope of regular users
+
+Framework keeps improving nonstop, you reap the rewards nonstop
+Queryset.filter() on RawSQL
+extra() and RawSQL()
+With new release cycle, they will be able to pick and choose when to migrate
+Easier to adopt new versions
+-->
+
 ![](djangocon-us-2026-recap-images/keeping-page-with-django-django-evolved.png)
 
 ![](djangocon-us-2026-recap-images/keeping-pace-with-django-django-evolved-2.png)
 
 ![](djangocon-us-2026-recap-images/keeping-page-with-django-read-the-release-notes.png)
+
+Eduardo doesn't know if he is weird, but he thinks the release notes are fun to read, and he sometimes comes across little jokes. 
+
+How to read the Django release notes
+* What's new (a.k.a. New toys). When you get new toys, you also have to let go of some old ones. 
+* Backwards incompatible changes: these changes will currently break production. You will need to make updates and plan to minimize downtime. 
+* Features deprecated: changes to Django's API will break production eventually. You will have to update your code to avoid. See Django's [Deprecation Policy](https://docs.djangoproject.com/en/dev/internals/release-process/#deprecation-policy). 
+* Features removed: after the deprecation timeframe is over, you will not get a warning. The code will just break. 
+* Miscellaneous: his favorite section, because there is so much good stuff in there
+
+Deprecation timeframe
+* If LTS, you have a lot of time. If minor version, less time.
+* With the new release cycle, you will potentially have four years of deprecated feature before it's removed
+
+<!--
+Ideally whenever you are working on an update, if you remove everything deprecated you will never reach this point
+
+Features removed
+See next slides
+Update to Django 5.2
+
+The Time Django Did Us Dirty
+Once in the past 15 years, a point release had a change that broke us
+Django 3.11 release notes
+https://docs.djangoproject.com/en/6.1/releases/3.1.1/#bugfixes
+We have a lot of raw
+This change was not mentioned anywhere else
+3.2 was relatively light in terms of deprecations
+Deployed it to staging and it broke in a few hours
+
+Sometimes we monkey patch
+A decision that is right for Django might not be right for you. 
+Agree to disagree
+Have to look out for everyone, all the uses cases that don't have as much technical means as our company
+That doesn't mean that the decision is right for us in particular. And that is on us. 
+If something breaks due to our monkey patching of Django, it is on us to fix it. 
+We will monkey patch it away
+We have a catalog of 7 different monkey patches on top of Django for different things
+Discussed in the mailing list or in the track
+
+If you work 15 years in a project, you reap what you sow.
+Framework
+
+
+
+Backwards incompatible changes Example
+Live-migrating from Postgres 9.5 to 17
+We don't want to be a burden on the Django community to support really old versions
+
+What's new example
+Needed a way to log users out of all sessions
+https://docs.djangoproject.com/en/6.1/releases/1.7/#django-contrib-auth
+AbstractBaseUser.get_session_auth_hash()
+changing a user's password now invalidates all old sessions
+
+Features Deprecated
+Deprecated url() to re_path() (Django 3.1)
+
+
+Features Deprecated
+Two years or four years
+
+After the deprecation policy timeframe passes, the old shim is removed from Django
+-->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -404,7 +493,7 @@ These are in the order of Karen's increasing level of excitement.
 Karen feels that this feature reflects Django's health, because it indicates that Django is picking up Python's new features. 
 
 ![](djangocon-us-2026-recap-images/django-6-the-most-exciting-content-security-policy.png)
-Karen thinks it's "excellent that Django has incorporated that into the base," because it makes it visible to Django developers that they need to decide and implement a CSP. 
+Karen thinks it's "excellent that Django has incorporated [CSP] into the base," because it makes it visible to Django developers that they need to decide and implement a CSP. 
 
 ![](djangocon-us-2026-recap-images/django-6-the-most-exciting-background-tasks.png)
 Karen points out that Celery is often more complexity than is necessary. She's happy that standardization for enqueuing and execution is happening. She would like to see at least one production-ready backend be included in Django 4.0. 
