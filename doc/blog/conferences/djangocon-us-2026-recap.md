@@ -370,37 +370,18 @@ by Elizabeth Christensen
 
 by Eduardo Felipe Castegnaro
 
-<!--
-When Django did not have swappable user models- rough times
-1.3 to 5.2- 21 versions
+Eduardo has been working on the Onsign CMS codebase for the past 15 years. He has lived through 21 Django versions- Django 1.3- 5.2.
 
-2016- decided to only do LTS, starting skipping updates
-Onsign is a CMS
-
-Our use case requires some advanced SQL
-Recursive Common Table Expressions
-https://sqlite.org/lang_with.html
-https://www.postgresql.org/docs/current/queries-with.html
-Don't map as cleanly into Django ORM
-9-year-old ticket to add into Django
-Among 1% of Django users that require so many raw queries in their database
-That's not what Django was supposed to be
-Queryset.raw(), Queryset.extra(), cursor.execute()
-Their usage is outside of the scope of regular users
-
-Framework keeps improving nonstop, you reap the rewards nonstop
-Queryset.filter() on RawSQL
-extra() and RawSQL()
-With new release cycle, they will be able to pick and choose when to migrate
-Easier to adopt new versions
--->
+Onsign's use case requires some advanced SQL. Their Recursive Common Table Expressions do not map cleanly to the Django ORM, resulting in use of Queryset.raw(), Queryset.extra(), and cursor.execute() that puts the Onsign Team among the 1% of Django users who require extensive raw queries in their database outside of the scope of regular users. 
 
 ![](djangocon-us-2026-recap-images/keeping-page-with-django-django-evolved.png)
+"If the framework keeps improving nonstop, you get to reap the rewards!"
 
+<!--
 ![](djangocon-us-2026-recap-images/keeping-pace-with-django-django-evolved-2.png)
+-->
 
 ![](djangocon-us-2026-recap-images/keeping-page-with-django-read-the-release-notes.png)
-
 Eduardo doesn't know if he is weird, but he thinks the release notes are fun to read, and he sometimes comes across little jokes. 
 
 How to read the Django release notes
@@ -417,19 +398,6 @@ Deprecation timeframe
 <!--
 Ideally whenever you are working on an update, if you remove everything deprecated you will never reach this point
 
-Features removed
-See next slides
-Update to Django 5.2
-
-The Time Django Did Us Dirty
-Once in the past 15 years, a point release had a change that broke us
-Django 3.11 release notes
-https://docs.djangoproject.com/en/6.1/releases/3.1.1/#bugfixes
-We have a lot of raw
-This change was not mentioned anywhere else
-3.2 was relatively light in terms of deprecations
-Deployed it to staging and it broke in a few hours
-
 Sometimes we monkey patch
 A decision that is right for Django might not be right for you. 
 Agree to disagree
@@ -443,7 +411,21 @@ Discussed in the mailing list or in the track
 If you work 15 years in a project, you reap what you sow.
 Framework
 
+After the deprecation policy timeframe passes, the old shim is removed from Django
+-->
 
+<!--
+When Django did not have swappable user models- rough times
+
+Recursive Common Table Expressions
+https://sqlite.org/lang_with.html
+https://www.postgresql.org/docs/current/queries-with.html
+9-year-old ticket to add into Django
+That's not what Django was supposed to be
+Queryset.raw(), Queryset.extra(), cursor.execute()
+
+Queryset.filter() on RawSQL
+extra() and RawSQL()
 
 Backwards incompatible changes Example
 Live-migrating from Postgres 9.5 to 17
@@ -458,11 +440,25 @@ changing a user's password now invalidates all old sessions
 Features Deprecated
 Deprecated url() to re_path() (Django 3.1)
 
+Features removed
+See next slides
+Update to Django 5.2
+
+The Time Django Did Us Dirty
+Once in the past 15 years, a point release had a change that broke us
+Django 3.11 release notes
+https://docs.djangoproject.com/en/6.1/releases/3.1.1/#bugfixes
+We have a lot of raw
+This change was not mentioned anywhere else
+3.2 was relatively light in terms of deprecations
+Deployed it to staging and it broke in a few hours
+
+2016- decided to only do LTS, starting skipping updates
+With new release cycle, they will be able to pick and choose when to migrate
+Easier to adopt new versions
 
 Features Deprecated
 Two years or four years
-
-After the deprecation policy timeframe passes, the old shim is removed from Django
 -->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
