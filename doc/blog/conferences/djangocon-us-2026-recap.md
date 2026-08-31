@@ -372,7 +372,7 @@ by Eduardo Felipe Castegnaro
 
 Eduardo has been working on the Onsign CMS codebase for the past 15 years. He has lived through 21 Django versions- Django 1.3- 5.2.
 
-Onsign's use case requires some advanced SQL. Their Recursive Common Table Expressions do not map cleanly to the Django ORM, resulting in use of Queryset.raw(), Queryset.extra(), and cursor.execute() that puts the Onsign Team among the 1% of Django users who require extensive raw queries in their database outside of the scope of regular users. 
+Onsign's use case requires some advanced SQL. The Recursive Common Table Expressions they use do not map cleanly to the Django ORM, resulting in use of Queryset.raw(), Queryset.extra(), and cursor.execute() that puts the Onsign Team among the 1% of Django users who require extensive raw queries in their database outside of the scope of regular users. A nine-year-old ticket exists to add Recursive Common Table Expressions support to Django. 
 
 ![](djangocon-us-2026-recap-images/keeping-page-with-django-django-evolved.png)
 "If the framework keeps improving nonstop, you get to reap the rewards!"
@@ -440,10 +440,6 @@ changing a user's password now invalidates all old sessions
 Features Deprecated
 Deprecated url() to re_path() (Django 3.1)
 
-Features removed
-See next slides
-Update to Django 5.2
-
 The Time Django Did Us Dirty
 Once in the past 15 years, a point release had a change that broke us
 Django 3.11 release notes
@@ -452,6 +448,11 @@ We have a lot of raw
 This change was not mentioned anywhere else
 3.2 was relatively light in terms of deprecations
 Deployed it to staging and it broke in a few hours
+
+
+Features removed
+See next slides
+Update to Django 5.2
 
 2016- decided to only do LTS, starting skipping updates
 With new release cycle, they will be able to pick and choose when to migrate
