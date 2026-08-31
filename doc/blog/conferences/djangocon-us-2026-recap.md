@@ -240,8 +240,6 @@ Eric Sherman: Tackle tech debt, Chicago-style
 
 ### Search-as-you-type for 54 Million Names: PostgreSQL + Django for Fuzzy Name Matching at Scale
 
-Summary
-
 References:
 * [Demo](https://fuzzy-demo.caktus-built.com/)
 * [GitHub Repo](https://github.com/caktus/talk-fuzzy-name-search)
@@ -334,10 +332,10 @@ No wrong answers. Tradeoffs.
 
 Django + Django Ninja versus Fast API
 
+[Benchmarking repo](https://github.com/sixfeetup/2026_DjangoCon_BatteriesVsSpeed)
+
 <!--
 Most people still use DRF
-
-https://github.com/sixfeetup/2026_DjangoCon_BatteriesVsSpeed
 
 https://github.com/dj-bolt/django-bolt
 -->
@@ -524,6 +522,17 @@ Django has a [new features repo](https://github.com/django/new-features) for pro
 
 ### Wednesday Lightning Talks
 
+<!--
+https://docs.djangoproject.com/en/6.1/releases/4.2/
+https://github.com/django/django/pull/11337/changes/ca3329c65f80c2de692da51e776e19140ff1f1c3
+bug fix that didn't make it into the release notes
+https://code.djangoproject.com/ticket/35623
+https://github.com/django/django/pull/18465
+Read the docs
+Read the code
+Understand what's going on
+-->
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Modern Django Deployments in 2026
@@ -615,9 +624,7 @@ https://code.djangoproject.com/ticket/19463
 Feature people wanted for a long time
 https://code.djangoproject.com/ticket/470
 https://github.com/django/django/pull/16092
-https://docs.djangoproject.com/en/5.0/releases/5.0/
 https://docs.djangoproject.com/en/5.0/releases/5.0/#database-computed-default-values
-https://docs.python.org/3/whatsnew/3.14.html
 https://docs.python.org/3/whatsnew/3.14.html#uuid
 https://docs.python.org/3/library/uuid.html
 https://www.postgresql.org/docs/current/release-18.html
@@ -701,6 +708,8 @@ Keanya, thank you for chairing two unforgettable conferences!
 ### Polyglot Persistence with Django: When One Database Isn't Enough
 
 by Abigail Afi Gbadago
+
+ERD Diagram
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -798,10 +807,6 @@ Sarah Abderemane
 What's New in Postgres 18 & 19
 Presented by
 Elizabeth Christensen
-
-Keeping Pace with Django: Evolving Through 15 years of Updates
-Presented by
-Eduardo Felipe Castegnaro
 
 
 Audience level:All
