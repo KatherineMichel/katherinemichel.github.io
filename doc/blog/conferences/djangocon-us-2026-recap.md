@@ -184,10 +184,7 @@ Wagtail's AI Guiding Principles:
 * Multiple vendor options
 * User decides how much AI to use and where
 * User control over prompts and tokens
-* Focus on common, repeatable tasks on content publishing
-
-![](djangocon-us-2026-recap-images/pragmatic-ai-other-things-weve-done.png)
-Other things they've done
+* Focus on common, repeatable tasks in content publishing
 
 Other steps for Wagtail and AI: [product strategy](https://wagtail.org/product-strategy/):
 * Next major release includes a fully supported write API
@@ -206,8 +203,15 @@ References:
 * [Wagtail User Guide](https://guide.wagtail.org/en/) (for regular users/editors)
 * [Wagtail Space 2026](https://wagtail.org/wagtail-space-2026/)
 
+See the talk slides for many more references
+
+<!--
+![](djangocon-us-2026-recap-images/pragmatic-ai-other-things-weve-done.png)
+Other things they've done
+
 ![](djangocon-us-2026-recap-images/pragmatic-ai-more-links-and-resources.png)
 More links and resources
+-->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -420,9 +424,6 @@ When Django did not have swappable user models- rough times
 Recursive Common Table Expressions
 https://sqlite.org/lang_with.html
 https://www.postgresql.org/docs/current/queries-with.html
-9-year-old ticket to add into Django
-That's not what Django was supposed to be
-Queryset.raw(), Queryset.extra(), cursor.execute()
 
 Queryset.filter() on RawSQL
 extra() and RawSQL()
