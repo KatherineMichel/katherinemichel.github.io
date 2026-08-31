@@ -51,7 +51,7 @@ This year, I paid more attention to the lightning talks (I usually take an early
 These notes are specific to my interests and leave out info that might be of interest to you. I highly recommend watching the talks yourself when they are posted on YouTube!
 
 My favorite conference cross-pollination:
-* Contributing to Django ecosystem deep dives: Sarah Boyce, Sarah Abderemane, Paolo Melchiorre, and references to Paolo's work by Elizabeth Christensen (I've had an offer to be mentored to contribute again to CPython and now I want to contribute to Django, too!)
+* Contributing to Django ecosystem deep dives: Sarah Boyce, Sarah Abderemane, Paolo Melchiorre, references to Paolo's work by Elizabeth Christensen, Andrew Selzer, Francisco's Day 2 Lightning Talk
 * Release notes deep dives by Karen Tracey and Eduardo Felipe Castegnaro from different angles, with both recommending Miscellaneous section!
 * Bartek Pawlik's moving Django Photos Lightning Talk 
 
@@ -410,10 +410,6 @@ Onsign's use case requires some advanced SQL. The Recursive Common Table Express
 ![](djangocon-us-2026-recap-images/keeping-page-with-django-django-evolved.png)
 "If the framework keeps improving nonstop, you get to reap the rewards!"
 
-<!--
-![](djangocon-us-2026-recap-images/keeping-pace-with-django-django-evolved-2.png)
--->
-
 ![](djangocon-us-2026-recap-images/keeping-page-with-django-read-the-release-notes.png)
 Eduardo doesn't know if he is weird, but he thinks the release notes are fun to read, and he sometimes comes across little jokes. 
 
@@ -435,6 +431,10 @@ Examples of changes
 * The one time in fifteen years that a point release "did them dirty": in Django 3.1.1, [QuerySet.order_by() fix](https://docs.djangoproject.com/en/6.1/releases/3.1.1/#bugfixes) was an obscure reference, but broke prod
 
 Onsign Team has discussions with the Django Community in the tracker or mailing list. Django has to look out for everyone. A decision that is right for Django might not be right for Onsign Team. They have seven different monkey patches on top of Django. If it breaks, it's on the them to fix. 
+
+<!--
+![](djangocon-us-2026-recap-images/keeping-pace-with-django-django-evolved-2.png)
+-->
 
 <!--
 Ideally whenever you are working on an update, if you remove everything deprecated you will never reach this point
@@ -578,9 +578,7 @@ https://docs.djangoproject.com/en/1.8/releases/1.8/
 https://docs.djangoproject.com/en/1.8/releases/1.8/#new-data-types
 https://docs.djangoproject.com/en/1.8/ref/models/fields/#django.db.models.UUIDField
 Paolo was not involved in Django
-Founded with Carlton
-Django on the Med
-Python Pescara
+
 Old project
 Two main problems
 Slow like-based search *
@@ -613,6 +611,7 @@ https://docs.python.org/3/whatsnew/3.14.html
 https://docs.python.org/3/whatsnew/3.14.html#uuid
 https://docs.python.org/3/library/uuid.html
 https://www.postgresql.org/docs/current/release-18.html
+
 Django on the Med
 Simon and Lily
 Proposal to add new UUID version 7 support in Postgres
@@ -646,6 +645,7 @@ https://github.com/django/django/issues?q=state%3Aopen%20label%3A%22Django%20on%
 https://docs.djangoproject.com/en/6.1/releases/6.1/#models
 https://docs.djangoproject.com/en/6.1/ref/models/database-functions/#django.db.models.functions.UUID4
 https://docs.djangoproject.com/en/6.1/ref/models/database-functions/#uuid7
+
 Generate the version of UUID you need in your project, you can use it as a database default not only in postgres like he experimented in his article in Django 5.2. But in Django 6.1, you can use in other types of database
 MySQL does not support UUID at all
 Store, type, generate, default
@@ -656,6 +656,13 @@ What he is saying is contributing and being part of sprints is important. It's b
 Perfect moment to ask you to do the same
 Ask for help, experiment something, contribute back to Django
 Something you like, features you want. Something you already prepared or worked on in the past. 
+-->
+
+<!--
+Founded with Carlton
+Django on the Med
+Python Pescara
+
 DjangoCon Europe 2027
 Photo of mountains in Northern Italy
 Innsbruck Austria
