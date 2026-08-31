@@ -371,6 +371,14 @@ Recently read about Sarah's desire to be better at public speaking.
 
 by Elizabeth Christensen
 
+![](djangocon-us-2026-recap-images/whats-new-in-postgres-18-and-19-uuid-v7.png)
+
+![](djangocon-us-2026-recap-images/whats-new-in-postgres-18-and-19-uuid-v7-django-orm.png)
+
+![](djangocon-us-2026-recap-images/whats-new-in-postgres-18-and-19-uuid-v7-data-migration.png)
+
+![](djangocon-us-2026-recap-images/whats-new-in-postgres-18-and-19-virtual-generated-columns.png)
+
 Paolo's contributions to the Django ORM have inspired me to go further in understanding how potential new features are identified, tested, and added to Django. 
 
 <!--
@@ -383,8 +391,10 @@ Paolo has put this in Django
 
 UUID Migration
 Virtual Generated Columns
+
 See Paolo's Talk
 Possett conference
+https://posetteconf.com/speakers/paolo-melchiorre/
 
 "Homage to the great Paolo."
 Involved in making sure would be supported to Django ORM
