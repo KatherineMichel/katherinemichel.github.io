@@ -523,6 +523,7 @@ Django has a [new features repo](https://github.com/django/new-features) for pro
 ### Wednesday Lightning Talks
 
 <!--
+Francisco
 https://docs.djangoproject.com/en/6.1/releases/4.2/
 https://github.com/django/django/pull/11337/changes/ca3329c65f80c2de692da51e776e19140ff1f1c3
 bug fix that didn't make it into the release notes
@@ -531,6 +532,30 @@ https://github.com/django/django/pull/18465
 Read the docs
 Read the code
 Understand what's going on
+
+Annette Lewis
+What's Hiding Behind This Button?
+Questions to ask before you build
+
+Daily Reese
+Uses new Django backend task framework
+
+Mariana?
+firefox.com codebase
+https://github.com/mozmeao/springfield
+https://docs.flare.io/product-specifications
+https://mozmeao.github.io/platform-docs/
+
+Django Photos Through the Years
+https://www.flickr.com/photos/djangocon/
+
+Josh
+Template Diagnostics in Your Editor
+https://github.com/joshuadavidthomas/django-language-server
+https://github.com/joshuadavidthomas/django-language-server/blob/main/docs/why.md
+Static Toml
+Python AST, finding exceptions in template tags, tracing back
+https://github.com/joshuadavidthomas/djls-vscode
 -->
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
