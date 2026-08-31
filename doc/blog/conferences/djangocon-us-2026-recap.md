@@ -46,9 +46,14 @@ Disclaimer: the content of this post is a reflection of my career journey and no
 
 DjangoCon US 2026 took place in Chicago, Illinois from August 24-28. I attended online. 
 
-This year, I paid more attention to the lightning talks (I usually take an early lunch) and also included some of the rich info discussed during the Q&A after talks.  
+This year, I paid more attention to the lightning talks (I usually take an early lunch) and also included in my recap some of the rich info discussed during the Q&A after talks.  
 
 These notes are specific to my interests and leave out info that might be of interest to you. I highly recommend watching the talks yourself when they are posted on YouTube!
+
+My favorite conference cross-pollination:
+* Contributing to Django ecosystem deep dives: Sarah Boyce, Sarah Abderemane, Paolo Melchiorre, and references to Paolo's work by Elizabeth Christensen (I've had an offer to be mentored to contribute again to CPython and now I want to contribute to Django, too!)
+* Release notes deep dives by Karen Tracey and Eduardo Felipe Castegnaro from different angles, with both recommending Miscellaneous section!
+* Bartek Pawlik's moving Django Photos Lightning Talk 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -423,18 +428,16 @@ Deprecation timeframe
 * If LTS, you have a lot of time. If minor version, less time.
 * With the new release cycle, you will potentially have four years of deprecated feature before it's removed
 
+Examples of changes
+* What's new example: in Django 1.7, replacing a custom solution for logging a user out of all sessions in the event of a password reset with a [built-in solution](https://docs.djangoproject.com/en/6.1/topics/auth/default/#session-invalidation-on-password-change)
+* Backwards incompatible changes example: live-migrating from Postgres 9.5 to 17 (Onsign Team does not want to be a burden to Django Community to support old versions)
+* Feature deprecated example: in Django 3.1, changing [django.conf.urls.url() to django.urls.re_path()](https://docs.djangoproject.com/en/6.1/releases/3.1/#id2)
+* The one time in fifteen years that a point release "did them dirty": in Django 3.1.1, [QuerySet.order_by() fix](https://docs.djangoproject.com/en/6.1/releases/3.1.1/#bugfixes) was an obscure reference, but broke prod
+
+Onsign Team has discussions with the Django Community in the tracker or mailing list. Django has to look out for everyone. A decision that is right for Django might not be right for Onsign Team. They have seven different monkey patches on top of Django. If it breaks, it's on the them to fix. 
+
 <!--
 Ideally whenever you are working on an update, if you remove everything deprecated you will never reach this point
-
-Sometimes we monkey patch
-A decision that is right for Django might not be right for you. 
-Agree to disagree
-Have to look out for everyone, all the uses cases that don't have as much technical means as our company
-That doesn't mean that the decision is right for us in particular. And that is on us. 
-If something breaks due to our monkey patching of Django, it is on us to fix it. 
-We will monkey patch it away
-We have a catalog of 7 different monkey patches on top of Django for different things
-Discussed in the mailing list or in the track
 
 If you work 15 years in a project, you reap what you sow.
 Framework
@@ -452,28 +455,8 @@ https://www.postgresql.org/docs/current/queries-with.html
 Queryset.filter() on RawSQL
 extra() and RawSQL()
 
-Backwards incompatible changes Example
-Live-migrating from Postgres 9.5 to 17
-We don't want to be a burden on the Django community to support really old versions
-
-What's new example
-Needed a way to log users out of all sessions
 https://docs.djangoproject.com/en/6.1/releases/1.7/#django-contrib-auth
 AbstractBaseUser.get_session_auth_hash()
-changing a user's password now invalidates all old sessions
-
-Features Deprecated
-Deprecated url() to re_path() (Django 3.1)
-
-The Time Django Did Us Dirty
-Once in the past 15 years, a point release had a change that broke us
-Django 3.11 release notes
-https://docs.djangoproject.com/en/6.1/releases/3.1.1/#bugfixes
-We have a lot of raw
-This change was not mentioned anywhere else
-3.2 was relatively light in terms of deprecations
-Deployed it to staging and it broke in a few hours
-
 
 Features removed
 See next slides
