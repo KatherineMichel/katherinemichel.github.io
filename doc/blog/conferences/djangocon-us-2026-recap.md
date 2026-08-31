@@ -290,14 +290,12 @@ by Sarah Boyce
 
 Sarah's talk is through a lens of contributing to open source projects. 
 
-Who we do code review?
+Why we do code review?
 * Code works
 * Code fits project itself (conforms to coding style, etc.)
 * Knowledge-exchange is distributed to contributors and wider community and maintainable (fix issues, extend without asking original author)
 
-[Thanks for the Feedback: The Science and Art of Receiving Feedback Well](https://www.amazon.com/dp/0670014664)
-
-Psychological triggers:
+Psychological triggers from [Thanks for the Feedback: The Science and Art of Receiving Feedback Well](https://www.amazon.com/dp/0670014664):
 * Truth: you believe the feedback is wrong (be open, curious: others might come to same conclusion, it's worth engaging, honest mistake?) 
 * Relationship: affected by who is giving review (a person you don't like, a person you don't know, an intimidating person, etc.)
 * Identity: the feedback feels bigger than what it actually is (rather than see it as one small piece of work among all of your work, you begin to have self-doubt as if it reflects heavily upon who you are as a developer)
@@ -367,6 +365,30 @@ Recently read about Sarah's desire to be better at public speaking.
 ### What's New in Postgres 18 & 19
 
 by Elizabeth Christensen
+
+Paolo's contributions to the Django ORM have inspired me to go further in understanding how potential new features are identified, tested, and added to Django. 
+
+<!--
+Fall release
+randomized string, primary keys or ids into urls
+not great for db, because can't index them
+uuid standards committee
+UUID v7
+Paolo has put this in Django
+
+UUID Migration
+Virtual Generated Columns
+See Paolo's Talk
+Possett conference
+
+"Homage to the great Paolo."
+Involved in making sure would be supported to Django ORM
+-->
+
+References
+* [Postgres Association](https://postgresql.us/)
+* [PostgreSQL 19.0 Release Notes](https://www.postgresql.org/docs/release/19.0/)
+* [PostgreSQL 18.0 Release Notes](https://www.postgresql.org/docs/release/18.0/)
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
