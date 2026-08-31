@@ -385,6 +385,8 @@ Possett conference
 Involved in making sure would be supported to Django ORM
 -->
 
+![](djangocon-us-2026-recap-images/whats-new-in-postgres-18-and-19-closing.png)
+
 References
 * [Postgres Association](https://postgresql.us/)
 * [PostgreSQL 19.0 Release Notes](https://www.postgresql.org/docs/release/19.0/)
