@@ -294,8 +294,8 @@ by Sarah Boyce
 Sarah's talk is through a lens of contributing to open source projects. 
 
 Why we do code review?
-* Code works
-* Code fits project itself (conforms to coding style, etc.)
+* Make sure the code works
+* Make sure the code fits the project itself (conforms to coding style, etc.)
 * Knowledge-exchange is distributed to contributors and wider community and maintainable (fix issues, extend without asking original author)
 
 Psychological triggers from [Thanks for the Feedback: The Science and Art of Receiving Feedback Well](https://www.amazon.com/dp/0670014664):
