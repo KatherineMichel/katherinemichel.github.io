@@ -193,7 +193,7 @@ Wagtail's AI Guiding Principles:
 
 Other steps for Wagtail and AI: [product strategy](https://wagtail.org/product-strategy/):
 * Next major release includes a fully supported write API
-* Continue our sustainability and quality research
+* Continue their sustainability and quality research
 * Pursue agent-ready publishing
 * Create agent skills to improve DX experience
 
