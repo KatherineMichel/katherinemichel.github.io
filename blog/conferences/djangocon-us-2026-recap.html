@@ -1,0 +1,948 @@
+<!DOCTYPE html>
+
+<html lang="en" data-content_root="../../">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta property="og:title" content="DjangoCon US 2026 Recap" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://katherinemichel.github.io/blog/conferences/djangocon-us-2026-recap.html" />
+<meta property="og:site_name" content="Portfolio" />
+<meta property="og:description" content="Table of Contents: Intro, Monday- Orientation, Monday Opening Remarks, Keynote: Boldly Go, Building Worlds: Is there Room for me on the Bridge?, Good Conduct: How Django Modernized Its Code of Cond..." />
+<meta property="og:image:width" content="1146" />
+<meta property="og:image:height" content="600" />
+<meta property="og:image" content="https://katherinemichel.github.io/_images/social_previews/summary_blog_conferences_djangocon-us-2026-recap_6d5cb548.png" />
+<meta property="og:image:alt" content="Table of Contents: Intro, Monday- Orientation, Monday Opening Remarks, Keynote: Boldly Go, Building Worlds: Is there Room for me on the Bridge?, Good Conduct: How Django Modernized Its Code of Cond..." />
+<meta name="description" content="Table of Contents: Intro, Monday- Orientation, Monday Opening Remarks, Keynote: Boldly Go, Building Worlds: Is there Room for me on the Bridge?, Good Conduct: How Django Modernized Its Code of Cond..." />
+<meta name="twitter:card" content="summary_large_image" />
+
+    <title>DjangoCon US 2026 Recap &#8212; Portfolio  documentation</title>
+    <link rel="stylesheet" type="text/css" href="../../_static/pygments.css?v=d1102ebc" />
+    <link rel="stylesheet" type="text/css" href="../../_static/basic.css?v=b08954a9" />
+    <link rel="stylesheet" type="text/css" href="../../_static/alabaster.css?v=27fed22d" />
+    <script src="../../_static/documentation_options.js?v=5929fcd5"></script>
+    <script src="../../_static/doctools.js?v=fd6eb6e6"></script>
+    <script src="../../_static/sphinx_highlight.js?v=6ffebe34"></script>
+    <link rel="canonical" href="https://katherinemichel.github.io/blog/conferences/djangocon-us-2026-recap.html" />
+    <link rel="index" title="Index" href="../../genindex.html" />
+    <link rel="search" title="Search" href="../../search.html" /> 
+   
+  <link rel="stylesheet" href="../../_static/custom.css" type="text/css" />
+  
+
+  
+  
+   
+  </head><body>
+  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          
+
+          <div class="body" role="main">
+             <section id="djangocon-us-2026-recap">
+<h1>DjangoCon US 2026 Recap<a class="headerlink" href="#djangocon-us-2026-recap" title="Link to this heading">¶</a></h1>
+<section id="table-of-contents">
+<h2>Table of Contents<a class="headerlink" href="#table-of-contents" title="Link to this heading">¶</a></h2>
+<ul class="simple">
+<li><p><a class="reference internal" href="#intro">Intro</a></p></li>
+<li><p><a class="reference internal" href="#monday">Monday</a></p>
+<ul>
+<li><p><a class="reference internal" href="#orientation">Orientation</a></p></li>
+<li><p><a class="reference internal" href="#monday-opening-remarks">Monday Opening Remarks</a></p></li>
+<li><p><a class="reference internal" href="#keynote-boldly-go-building-worlds-is-there-room-for-me-on-the-bridge">Keynote: Boldly Go, Building Worlds: Is there Room for me on the Bridge?</a></p></li>
+<li><p><a class="reference internal" href="#good-conduct-how-django-modernized-its-code-of-conduct">Good Conduct: How Django Modernized Its Code of Conduct</a></p></li>
+<li><p><a class="reference internal" href="#pragmatic-ai-how-to-gain-trust-with-user-centered-ai-adoption">Pragmatic AI: How to gain trust with user-centered AI adoption</a></p></li>
+<li><p><a class="reference internal" href="#monday-lightning-talks">Monday Lightning Talks</a></p></li>
+<li><p><a class="reference internal" href="#search-as-you-type-for-54-million-names-postgresql-django-for-fuzzy-name-matching-at-scale">Search-as-you-type for 54 Million Names: PostgreSQL + Django for Fuzzy Name Matching at Scale</a></p></li>
+<li><p><a class="reference internal" href="#"><span class="xref myst">Using Django to deliver public transit benefits securely and privately</span></a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#tuesday">Tuesday</a></p>
+<ul>
+<li><p><a class="reference internal" href="#tuesday-opening-remarks">Tuesday Opening Remarks</a></p></li>
+<li><p><a class="reference internal" href="#keynote-"><span class="xref myst">Keynote: Emails from my Grandad</span></a></p></li>
+<li><p><a class="reference internal" href="#"><span class="xref myst">Batteries vs. Speed: The Django/FastAPI Debate</span></a></p></li>
+<li><p><a class="reference internal" href="#"><span class="xref myst">The Testing Pyramid in Practice for Django</span></a></p></li>
+<li><p><a class="reference internal" href="#tuesday-lightning-talks">Tuesday Lightning Talks</a></p></li>
+<li><p><a class="reference internal" href="#"><span class="xref myst">50 shades of green - One contribution to the Django world</span></a></p></li>
+<li><p><a class="reference internal" href="#"><span class="xref myst">What’s New in Postgres 18 &amp; 19</span></a></p></li>
+<li><p><a class="reference internal" href="#"><span class="xref myst">Keeping Pace with Django: Evolving Through 15 years of Updates</span></a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#wednesday">Wednesday</a></p>
+<ul>
+<li><p><a class="reference internal" href="#wednesday-opening-remarks">Wednesday Opening Remarks</a></p></li>
+<li><p><a class="reference internal" href="#keynote-"><span class="xref myst">Keynote: Django 6: The Most Exciting Release Ever</span></a></p></li>
+<li><p><a class="reference internal" href="#"><span class="xref myst">Auto-prefetching with model field fetch modes in Django 6.1</span></a></p></li>
+<li><p><a class="reference internal" href="#wednesday-lightning-talks">Wednesday Lightning Talks</a></p></li>
+<li><p><a class="reference internal" href="#"><span class="xref myst">Modern Django Deployments in 2026</span></a></p></li>
+<li><p><a class="reference internal" href="#"><span class="xref myst">The Django UUID Story</span></a></p></li>
+<li><p><a class="reference internal" href="#snippets">Snippets</a></p></li>
+<li><p><a class="reference internal" href="#closing-remarks">Closing Remarks</a></p></li>
+</ul>
+</li>
+</ul>
+<p>Disclaimer: the content of this post is a reflection of my career journey and not specific to my work at JPMorganChase.</p>
+</section>
+<section id="intro">
+<h2>Intro<a class="headerlink" href="#intro" title="Link to this heading">¶</a></h2>
+<p>DjangoCon US 2026 took place in Chicago, Illinois from August 24-28. I attended online.</p>
+<p>This year, I paid more attention to the lightning talks (I usually take an early lunch) and also included in my recap some of the rich info discussed during the Q&amp;A after talks.</p>
+<p>These notes are specific to my interests and leave out info that might be of interest to you. I highly recommend watching the talks yourself when they are posted on YouTube!</p>
+<p>My favorite conference cross-pollination:</p>
+<ul class="simple">
+<li><p>Contributing to Django ecosystem deep dives: Sarah Boyce, Sarah Abderemane, Paolo Melchiorre, references to Paolo’s work by Elizabeth Christensen, Andrew Selzer, Francisco’s Day 2 Lightning Talk</p></li>
+<li><p>Release notes deep dives by Karen Tracey and Eduardo Felipe Castegnaro from different angles, with both recommending Miscellaneous section!</p></li>
+<li><p>Bartek Pawlik’s moving Django Photos Lightning Talk</p></li>
+</ul>
+<p>🔝 <sub><a class="reference internal" href="#table-of-contents"><strong>back to top</strong></a></sub></p>
+</section>
+<section id="monday">
+<h2>Monday<a class="headerlink" href="#monday" title="Link to this heading">¶</a></h2>
+<section id="orientation">
+<h3>Orientation<a class="headerlink" href="#orientation" title="Link to this heading">¶</a></h3>
+<p>by Kojo Idrissa</p>
+<p>Set your priorities. Why are YOU here? Direct your time and energy properly.</p>
+<p>🔝 <sub><a class="reference internal" href="#table-of-contents"><strong>back to top</strong></a></sub></p>
+</section>
+<section id="monday-opening-remarks">
+<h3>Monday Opening Remarks<a class="headerlink" href="#monday-opening-remarks" title="Link to this heading">¶</a></h3>
+<p>by Keanya Phelps</p>
+<p>“This community is extremely giving and considerate, respectful. I used to say ‘they’ as far as Django and DjangoCon, but now I say ‘we.’”</p>
+<p>DjangoCon US 2027 will take place in Riverside, California from September 13-17.</p>
+<p>🔝 <sub><a class="reference internal" href="#table-of-contents"><strong>back to top</strong></a></sub></p>
+</section>
+<section id="keynote-boldly-go-building-worlds-is-there-room-for-me-on-the-bridge">
+<h3>Keynote: Boldly Go, Building Worlds: Is there Room for me on the Bridge?<a class="headerlink" href="#keynote-boldly-go-building-worlds-is-there-room-for-me-on-the-bridge" title="Link to this heading">¶</a></h3>
+<p>by Dawn Wages</p>
+<p>Dawn is calling all of us to dream with her.</p>
+<p>“You all, the Django Community, saw me from a nervous and quiet and unsure person hiding in the back of a conference room to raising my hand and even calling myself a leader.”</p>
+<p>Dawn spent a long time not being scared.</p>
+<p>I appreciate that Dawn revealed the influences that instilled within her grit, tenacity, and a love for technology, heavily influenced by her parents:</p>
+<ul class="simple">
+<li><p>An HBO series called Happily Ever After and Twilight Zone (also one of my favorites)</p></li>
+<li><p>Watching Star Trek Next Generation with her father</p></li>
+<li><p>Her parents teaching her about the first Black woman astronaut and taking her to space museums</p></li>
+<li><p>Her mom keeping copies of Ebony Magazine with beautiful Black women on the covers, creating the voice she would hear about Black women in the future (“she intentionally wrote the script”)</p></li>
+<li><p>Her dad dancing with Funkadelic and Stevie Wonder</p></li>
+</ul>
+<p>Afrofuturism: “There are Black people in the future- an interdisciplinary vision intersecting with imagination, technology, Black culture, liberation and mysticism” (inspired by Ytasha L. Womack’s <a class="reference external" href="https://www.amazon.com/dp/1613747969?lv=shuf&amp;channelId=500&amp;plpRedirect=mhFallback">Afrofuturism: The World of Black Sci-Fi and Fantasy Culture</a>)</p>
+<p>For those who have not seen themselves in the future through science fiction and speculative fiction, it is necessary to say and visualize that there are Black people in the future.</p>
+<p>Dawn and some friends created <a class="reference external" href="https://attheroot.dev/">An Anti-Racist Ethical Source License for Open Source Projects</a>. She would love to make new iterations.</p>
+<p><img alt="" src="../../_images/seminal-works-for-me.png" />
+Seminal works for Dawn</p>
+<p>Star Trek pushed boundaries.</p>
+<p>Afrofuturism “provides a lens on how I’ve learned to dream.”</p>
+<p>How to be a builder:</p>
+<ul class="simple">
+<li><p>Do the work in public</p></li>
+<li><p>Make room for people who don’t have a seat at the table</p></li>
+<li><p>Stay accountable to your crew</p></li>
+</ul>
+<p>Lessons Learned:</p>
+<ul class="simple">
+<li><p>Dawn was always who she needed to be and did not need to change to be worthy of any opportunity she reached for</p></li>
+<li><p>She stays ready so she doesn’t have to get ready when opportunity knocks (example: filling in as last minute speaker at important conference)</p></li>
+<li><p>Sometimes opportunity knocked, and she wasn’t ready, but she tried her best anyway</p></li>
+<li><p>You also don’t have to “build the world.” (Dawn contends with strong Black woman trope)</p></li>
+<li><p>“You are allowed to be exhausted without giving up. Sometimes surviving is progress.”</p></li>
+<li><p>She is always asking for more. Don’t ask, am I good enough? For a Black woman this creates difficult, high friction conversations, direct feedback frequently. It’s exhausting. It’s easier to have a conversation when you are not on your back foot.</p></li>
+<li><p>Rejection is the risk of authenticity.</p></li>
+</ul>
+<p>“Being the first or only is lonely.” But, Dawn would take being “rounded, complex, unique, strong over easy access any day,” because it’s made her who she is today.</p>
+<p>Your experience matters. You belong here. Is there room for me? Yes, Dawn is making room.</p>
+<p>Thank you for being vulnerable, Dawn.</p>
+<p>🔝 <sub><a class="reference internal" href="#table-of-contents"><strong>back to top</strong></a></sub></p>
+</section>
+<section id="good-conduct-how-django-modernized-its-code-of-conduct">
+<h3>Good Conduct: How Django Modernized Its Code of Conduct<a class="headerlink" href="#good-conduct-how-django-modernized-its-code-of-conduct" title="Link to this heading">¶</a></h3>
+<p>by Dan Ryan</p>
+<p>A long-time Django user, Dan volunteered to serve on the Code of Conduct Committee. He eventually became the chair and helped to modernize the Code of Conduct.</p>
+<p>“This was my first contribution to Django. Code isn’t the only way in.”</p>
+<p>Why now? “We kept running into issues where people were being jerks. And there was no language that said, ‘you can’t be a jerk.’”</p>
+<p>Contributor Convenant, adopted by over 100 organizations, including some of the biggest players, has lineage back to the original Django Code of Conduct, which borrowed from the PyCon 2013 Code of Conduct and Ada Initiative.</p>
+<p>Pipeline: Ada Initiative -&gt; PyCon 2013 -&gt; Original Django Code of Conduct -&gt; Contributor Covenant 3 -&gt; PSF, OpenJS, Mozilla, Microsoft</p>
+<p>This talk was about the people management side. Dan published a blog post about the technical side: <a class="reference external" href="https://www.djangoproject.com/weblog/2026/aug/24/coc-block-tackle/">The Block and Tackle of Django’s Code of Conduct Working Group</a>.</p>
+<p>AI-generated content: “Own your contributions, review them before you post, apply your own expertise- misuse of AI-generated content is a Code of Conduct violation.”</p>
+<p>Issues brought up during Q&amp;A:</p>
+<ul class="simple">
+<li><p>The possibility of a significant amount of Django code being written by AI and its ownership then being in question is a real concern.</p></li>
+<li><p>The CoC Working Group spent the most time on the weapons policy. They didn’t want to be US-centric. They gave guidance to events. Events implement their own policy.</p></li>
+<li><p>“Assume good intent” is a weaponed phrase. You should not assume any intent. Look at impact.</p></li>
+</ul>
+<p>References:</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://django-coc-2026.dryan.com/#slide-1">Talk Slides</a></p></li>
+<li><p><a class="reference external" href="https://www.djangoproject.com/weblog/2013/jul/31/django-adopts-code-of-conduct/">Django adopts a Code of Conduct (2013)</a></p></li>
+<li><p><a class="reference external" href="https://beeware.org/community/code-of-conduct/">BeeWare Community Code of Conduct</a></p></li>
+<li><p><a class="reference external" href="https://www.contributor-covenant.org/">Contributor Covenant</a></p></li>
+<li><p><a class="reference external" href="https://github.com/django/code-of-conduct/blob/main/sources.md">Code of Conduct Sources</a></p></li>
+</ul>
+<!--
+"Coming home has been fun." Dan led the frontend team for the Obama 2012 Campaign. 
+https://www.python.org/psf/records/board/minutes/2025-03-12/
+https://github.com/psf/policies/pull/35
+https://pyfound.blogspot.com/2019/09/the-python-software-foundation-has_24.html
+https://github.com/django/code-of-conduct/pull/91
+https://github.com/django/code-of-conduct/pull/97
+-->
+<p>🔝 <sub><a class="reference internal" href="#table-of-contents"><strong>back to top</strong></a></sub></p>
+</section>
+<section id="pragmatic-ai-how-to-gain-trust-with-user-centered-ai-adoption">
+<h3>Pragmatic AI: How to gain trust with user-centered AI adoption<a class="headerlink" href="#pragmatic-ai-how-to-gain-trust-with-user-centered-ai-adoption" title="Link to this heading">¶</a></h3>
+<p>by Meagan Voss</p>
+<p>Wagtail serves a lot of people beyond Torchbox and its clients.</p>
+<p>A small team with a healthy skepticism of AI hype, the Wagtail team has adopted a balanced AI policy that respects users’ autonomy and choice. Wagtail users are responding through PyPI downloads and shoutouts.</p>
+<p>Wagtail’s AI Guiding Principles:</p>
+<ul class="simple">
+<li><p>No AI dependency in Wagtail core (not forcing AI on anyone)</p></li>
+<li><p>Responsible approach to AI (example: model with lower environmental impact)</p></li>
+<li><p>Model and provider agnostic (not picking a horse in this race)</p></li>
+<li><p>Only the right AI (want evidence of benefit)</p></li>
+<li><p>Human in the loop (human is in control)</p></li>
+</ul>
+<p><a class="reference external" href="https://wagtail.org/wagtail-ai/">Wagtail AI package</a>:</p>
+<ul class="simple">
+<li><p>Multiple vendor options</p></li>
+<li><p>User decides how much AI to use and where</p></li>
+<li><p>User control over prompts and tokens</p></li>
+<li><p>Focus on common, repeatable tasks in content publishing</p></li>
+</ul>
+<p>Other steps for Wagtail and AI: <a class="reference external" href="https://wagtail.org/product-strategy/">product strategy</a>:</p>
+<ul class="simple">
+<li><p>Next major release includes a fully supported write API</p></li>
+<li><p>Continue their sustainability and quality research</p></li>
+<li><p>Pursue agent-ready publishing</p></li>
+<li><p>Create agent skills to improve DX experience</p></li>
+</ul>
+<p>Issues brought up during Q&amp;A:</p>
+<ul class="simple">
+<li><p>What was involved in making docs easier for AI to read? Made sure content was in Markdown and added copy options on user guide</p></li>
+<li><p>Wagtail has added a write API and Thibaud is experimenting with a docs builder. Despite the beauty of Wagtail, CMSes are going to become “clearinghouses and sources of truth” for AI. Wagtail is laying the foundation for whatever direction things go.</p></li>
+</ul>
+<p>References:</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://wagtail.org/blog/ai-in-the-cms-steering-the-ecosystem/">AI in the CMS: steering the ecosystem</a></p></li>
+<li><p>Open weight models are catching up, <a class="reference external" href="https://epoch.ai/benchmarks?view=graph&amp;tab=eci">Epoch Capabilities Index</a></p></li>
+<li><p><a class="reference external" href="https://docs.wagtail.org/en/stable/">Wagtail Documentation</a> (for developers)</p></li>
+<li><p><a class="reference external" href="https://guide.wagtail.org/en/">Wagtail User Guide</a> (for regular users/editors)</p></li>
+<li><p><a class="reference external" href="https://wagtail.org/wagtail-space-2026/">Wagtail Space 2026</a></p></li>
+</ul>
+<p>See the talk slides for many more references</p>
+<!--
+![](djangocon-us-2026-recap-images/pragmatic-ai-other-things-weve-done.png)
+Other things they've done
+
+![](djangocon-us-2026-recap-images/pragmatic-ai-more-links-and-resources.png)
+More links and resources
+-->
+<p>🔝 <sub><a class="reference internal" href="#table-of-contents"><strong>back to top</strong></a></sub></p>
+</section>
+<section id="monday-lightning-talks">
+<h3>Monday Lightning Talks<a class="headerlink" href="#monday-lightning-talks" title="Link to this heading">¶</a></h3>
+<p><img alt="" src="../../_images/lightning-talk-first-your-skills-are-desired.png" />
+Tim Schilling: I want to convince you to contribute to Django</p>
+<p>Some topics of interest to me:</p>
+<ul class="simple">
+<li><p>Marc Gibbons: <a class="reference external" href="https://github.com/lincolnloop/django-absurd">django-absurd</a> based on <a class="reference external" href="https://github.com/earendil-works/absurd">django-absurd</a></p></li>
+<li><p>Jim Anderson: normalize talking about imposter syndrome</p></li>
+<li><p>Jon Gould: <a class="reference external" href="https://foxleytalent.com/blog/fake-candidates-tech-hiring/">Tech Hiring Has a Fraud Problem</a></p></li>
+<li><p>Eric Holscher: 16 years ago, Read the Docs was created in the same basement as Django in Lawrence, Kansas. Ethical ads made Read the Docs sustainable. The DSF is at similar inflection point of hiring an executive director and working toward sustainability.</p></li>
+<li><p>Jeanette O’Brien: From Figma to Django. “Premature structure is its own trap- just like no structure at all.”</p></li>
+<li><p>Eric Sherman: Chicago reversed the flow of the Chicago River and raised the city 14 feet in the air, <a class="reference external" href="https://en.wikipedia.org/wiki/Raising_of_Chicago">Raising of Chicago Wikipedia article</a></p></li>
+</ul>
+<p><img alt="" src="../../_images/lightning-talk-tackle-tech-debt-chicago-style.png" />
+Eric Sherman: Tackle tech debt, Chicago-style</p>
+<p>🔝 <sub><a class="reference internal" href="#table-of-contents"><strong>back to top</strong></a></sub></p>
+</section>
+<section id="search-as-you-type-for-54-million-names-postgresql-django-for-fuzzy-name-matching-at-scale">
+<h3>Search-as-you-type for 54 Million Names: PostgreSQL + Django for Fuzzy Name Matching at Scale<a class="headerlink" href="#search-as-you-type-for-54-million-names-postgresql-django-for-fuzzy-name-matching-at-scale" title="Link to this heading">¶</a></h3>
+<p>References:</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://fuzzy-demo.caktus-built.com/">Demo</a></p></li>
+<li><p><a class="reference external" href="https://github.com/caktus/talk-fuzzy-name-search">GitHub Repo</a></p></li>
+<li><p><a class="reference external" href="https://www.caktusgroup.com/blog/2026/08/21/fuzzy-string-matching-django-postgresql/">Fuzzy String Matching in Django and PostgreSQL</a></p></li>
+<li><p><a class="reference external" href="https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/">Falsehoods Programmers Believe About Names</a></p></li>
+<li><p><a class="reference external" href="https://www.crunchydata.com/blog/fuzzy-name-matching-in-postgresql">Fuzzy Name Matching in Postgres</a></p></li>
+<li><p><a class="reference external" href="https://www.postgresql.org/docs/18/fuzzystrmatch.html">PostreSQL fuzzystrmatch</a></p></li>
+<li><p><a class="reference external" href="https://www.postgresql.org/docs/18/fuzzystrmatch.html#FUZZYSTRMATCH-SOUNDEX">PostreSQL Soundex</a></p></li>
+<li><p><a class="reference external" href="https://www.postgresql.org/docs/18/fuzzystrmatch.html#FUZZYSTRMATCH-DAITCH-MOKOTOFF">PostreSQL Daitch Mokotoff</a></p></li>
+<li><p><a class="reference external" href="https://www.postgresql.org/docs/18/fuzzystrmatch.html#FUZZYSTRMATCH-LEVENSHTEIN">PostreSQL Levenshtein Distance</a></p></li>
+<li><p><a class="reference external" href="https://docs.djangoproject.com/en/6.1/ref/contrib/postgres/search/#trigram-similarity">Django Trigram Matching</a></p></li>
+<li><p><a class="reference external" href="https://www.postgresql.org/docs/current/btree.html">PostreSQL B-Tree Index</a></p></li>
+</ul>
+<!--
+https://en.wikipedia.org/wiki/Levenshtein_distance
+b-tree index for case insensitive prefix matching
+https://en.wikipedia.org/wiki/B-tree#Index_performance
+https://github.com/moj-analytical-services/splink
+-->
+<p>🔝 <sub><a class="reference internal" href="#table-of-contents"><strong>back to top</strong></a></sub></p>
+</section>
+<section id="using-django-to-deliver-public-transit-benefits-securely-and-privately">
+<h3>Using Django to deliver public transit benefits securely and privately<a class="headerlink" href="#using-django-to-deliver-public-transit-benefits-securely-and-privately" title="Link to this heading">¶</a></h3>
+<!--
+https://docs.calitp.org/benefits/
+https://github.com/cal-itp/benefits
+-->
+<p>🔝 <sub><a class="reference internal" href="#table-of-contents"><strong>back to top</strong></a></sub></p>
+</section>
+</section>
+<section id="tuesday">
+<h2>Tuesday<a class="headerlink" href="#tuesday" title="Link to this heading">¶</a></h2>
+<section id="tuesday-opening-remarks">
+<h3>Tuesday Opening Remarks<a class="headerlink" href="#tuesday-opening-remarks" title="Link to this heading">¶</a></h3>
+<p>by Peter Grandstaff</p>
+<p>Organizing DjangoCon US is a huge endeavor. “Getting involved in organizing and running this conference has been a hugely enriching factor in my life. My life is so much bigger and better, because of the work I’ve done here.” If you want to get involved, talk to an organizer, talk to Peter. Get in touch.</p>
+<p>DjangoCon US 2027 ticket prices are the lowest they will be at extra early bird.</p>
+<p>“Hey, we don’t do that here.”</p>
+<p>Get the word out about the conference. We want everyone who would want to be at DjangoCon US to know about it.</p>
+<p>🔝 <sub><a class="reference internal" href="#table-of-contents"><strong>back to top</strong></a></sub></p>
+</section>
+<section id="keynote-emails-from-my-grandad">
+<h3>Keynote: Emails from my Grandad<a class="headerlink" href="#keynote-emails-from-my-grandad" title="Link to this heading">¶</a></h3>
+<p>by Sarah Boyce</p>
+<p>Sarah’s talk is through a lens of contributing to open source projects.</p>
+<p>Why we do code review?</p>
+<ul class="simple">
+<li><p>Make sure the code works</p></li>
+<li><p>Make sure the code fits the project itself (conforms to coding style, etc.)</p></li>
+<li><p>Knowledge-exchange is distributed to contributors and wider community and maintainable (fix issues, extend without asking original author)</p></li>
+</ul>
+<p>Psychological triggers from <a class="reference external" href="https://www.amazon.com/dp/0670014664">Thanks for the Feedback: The Science and Art of Receiving Feedback Well</a>:</p>
+<ul class="simple">
+<li><p>Truth: you believe the feedback is wrong (be open, curious: others might come to same conclusion, it’s worth engaging, honest mistake?)</p></li>
+<li><p>Relationship: affected by who is giving review (a person you don’t like, a person you don’t know, an intimidating person, etc.)</p></li>
+<li><p>Identity: the feedback feels bigger than what it actually is (rather than see it as one small piece of work among all of your work, you begin to have self-doubt as if it reflects heavily upon who you are as a developer)</p></li>
+</ul>
+<p>Advice:</p>
+<ul class="simple">
+<li><p>Mergers also make mistakes. You should feel confident and capable of questioning their feedback, just like anyone else.</p></li>
+<li><p>Growth mindset</p></li>
+<li><p>This is just the first draft, don’t worry too much about mistakes. Respond, fix problems, engage. The end result is what matters.</p></li>
+</ul>
+<p>Hidden agenda: get more reviews for Django PRs. PRs in the Django review queue sometimes take months to get reviewed. This is becoming worse due to the rise of AI.</p>
+<p>What’s worse than receiving a review is receiving no review at all. A review is someone investing in your work. Human attention is a limited commodity. Sarah believes most people would prefer to receive a clumsy, imperfect review over no review at all. The collaboration is the joy.</p>
+<p>Django needs you to do code review.</p>
+<p>Issues brought up during Q&amp;A:</p>
+<ul class="simple">
+<li><p>PR authors tend to get more attention than reviewers (co-author is an idea, but messy)</p></li>
+<li><p>It took Paolo months to have the courage to open a PR. Language was a barrier. Sarah believes pair programming can help.</p></li>
+<li><p>In-person sprints are good place for pairing. <a class="reference external" href="https://djangomed.eu/">Django on the Med</a> shout-out.</p></li>
+<li><p>Due to the release timeline, be strategic about when you ask for help, to get features included</p></li>
+<li><p>How to avoid triggering PR author: be polite, be empathetic, clear is still kind</p></li>
+<li><p>You can tell when a person is upset and handle it</p></li>
+</ul>
+<p>🔝 <sub><a class="reference internal" href="#table-of-contents"><strong>back to top</strong></a></sub></p>
+</section>
+<section id="batteries-vs-speed-the-django-fastapi-debate">
+<h3>Batteries vs. Speed: The Django/FastAPI Debate<a class="headerlink" href="#batteries-vs-speed-the-django-fastapi-debate" title="Link to this heading">¶</a></h3>
+<p>by Calvin Hendryx-Parker and Frank Wiles</p>
+<p>No wrong answers. Tradeoffs.</p>
+<p>Django + Django Ninja versus Fast API</p>
+<p><a class="reference external" href="https://github.com/sixfeetup/2026_DjangoCon_BatteriesVsSpeed">Benchmarking repo</a></p>
+<!--
+Most people still use DRF
+
+https://github.com/dj-bolt/django-bolt
+-->
+<p>🔝 <sub><a class="reference internal" href="#table-of-contents"><strong>back to top</strong></a></sub></p>
+</section>
+<section id="the-testing-pyramid-in-practice-for-django">
+<h3>The Testing Pyramid in Practice for Django<a class="headerlink" href="#the-testing-pyramid-in-practice-for-django" title="Link to this heading">¶</a></h3>
+<p>by Monica Oyugi</p>
+<p><img alt="" src="../../_images/testing-pyramid-in-practice-for-django-where-this-talk.png" /></p>
+<p>🔝 <sub><a class="reference internal" href="#table-of-contents"><strong>back to top</strong></a></sub></p>
+</section>
+<section id="tuesday-lightning-talks">
+<h3>Tuesday Lightning Talks<a class="headerlink" href="#tuesday-lightning-talks" title="Link to this heading">¶</a></h3>
+<p>🔝 <sub><a class="reference internal" href="#table-of-contents"><strong>back to top</strong></a></sub></p>
+</section>
+<section id="shades-of-green-one-contribution-to-the-django-world">
+<h3>50 shades of green - One contribution to the Django world<a class="headerlink" href="#shades-of-green-one-contribution-to-the-django-world" title="Link to this heading">¶</a></h3>
+<p>by Sarah Abderemane</p>
+<!--
+The interactive part was very clever. 
+Recently read about Sarah's desire to be better at public speaking. 
+-->
+<p>🔝 <sub><a class="reference internal" href="#table-of-contents"><strong>back to top</strong></a></sub></p>
+</section>
+<section id="what-s-new-in-postgres-18-19">
+<h3>What’s New in Postgres 18 &amp; 19<a class="headerlink" href="#what-s-new-in-postgres-18-19" title="Link to this heading">¶</a></h3>
+<p>by Elizabeth Christensen</p>
+<p><img alt="" src="../../_images/whats-new-in-postgres-18-and-19-uuid-v7.png" /></p>
+<p><img alt="" src="../../_images/whats-new-in-postgres-18-and-19-uuid-v7-django-orm.png" /></p>
+<p><img alt="" src="../../_images/whats-new-in-postgres-18-and-19-uuid-v7-data-migration.png" /></p>
+<p><img alt="" src="../../_images/whats-new-in-postgres-18-and-19-virtual-generated-columns.png" /></p>
+<p>Paolo’s contributions to the Django ORM have inspired me to go further in understanding how potential new features are identified, tested, and added to Django.</p>
+<!--
+Fall release
+randomized string, primary keys or ids into urls
+not great for db, because can't index them
+uuid standards committee
+UUID v7
+Paolo has put this in Django
+
+UUID Migration
+Virtual Generated Columns
+
+See Paolo's Talk
+Possett conference
+https://posetteconf.com/speakers/paolo-melchiorre/
+
+"Homage to the great Paolo."
+Involved in making sure would be supported to Django ORM
+-->
+<p><img alt="" src="../../_images/whats-new-in-postgres-18-and-19-closing.png" /></p>
+<p>References</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://postgresql.us/">Postgres Association</a></p></li>
+<li><p><a class="reference external" href="https://www.postgresql.org/docs/release/19.0/">PostgreSQL 19.0 Release Notes</a></p></li>
+<li><p><a class="reference external" href="https://www.postgresql.org/docs/release/18.0/">PostgreSQL 18.0 Release Notes</a></p></li>
+</ul>
+<p>🔝 <sub><a class="reference internal" href="#table-of-contents"><strong>back to top</strong></a></sub></p>
+</section>
+<section id="keeping-pace-with-django-evolving-through-15-years-of-updates">
+<h3>Keeping Pace with Django: Evolving Through 15 years of Updates<a class="headerlink" href="#keeping-pace-with-django-evolving-through-15-years-of-updates" title="Link to this heading">¶</a></h3>
+<p>by Eduardo Felipe Castegnaro</p>
+<p>Eduardo has been working on the Onsign CMS codebase for the past 15 years. He has lived through 21 Django versions- Django 1.3- 5.2.</p>
+<p>Onsign’s use case requires some advanced SQL. The Recursive Common Table Expressions they use do not map cleanly to the Django ORM, resulting in use of Queryset.raw(), Queryset.extra(), and cursor.execute() that puts the Onsign Team among the 1% of Django users who require extensive raw queries in their database outside of the scope of regular users. A nine-year-old ticket exists to add Recursive Common Table Expressions support to Django.</p>
+<p><img alt="" src="../../_images/keeping-page-with-django-django-evolved.png" />
+“If the framework keeps improving nonstop, you get to reap the rewards!”</p>
+<p><img alt="" src="../../_images/keeping-page-with-django-read-the-release-notes.png" />
+Eduardo doesn’t know if he is weird, but he thinks the release notes are fun to read, and he sometimes comes across little jokes.</p>
+<p>How to read the Django release notes</p>
+<ul class="simple">
+<li><p>What’s new (a.k.a. New toys). When you get new toys, you also have to let go of some old ones.</p></li>
+<li><p>Backwards incompatible changes: these changes will currently break production. You will need to make updates and plan to minimize downtime.</p></li>
+<li><p>Features deprecated: changes to Django’s API will break production eventually. You will have to update your code to avoid. See Django’s <a class="reference external" href="https://docs.djangoproject.com/en/dev/internals/release-process/#deprecation-policy">Deprecation Policy</a>.</p></li>
+<li><p>Features removed: after the deprecation timeframe is over, you will not get a warning. The code will just break.</p></li>
+<li><p>Miscellaneous: his favorite section, because there is so much good stuff in there</p></li>
+</ul>
+<p>Deprecation timeframe</p>
+<ul class="simple">
+<li><p>If LTS, you have a lot of time. If minor version, less time.</p></li>
+<li><p>With the new release cycle, you will potentially have four years of deprecated feature before it’s removed</p></li>
+</ul>
+<p>Examples of changes</p>
+<ul class="simple">
+<li><p>What’s new example: in Django 1.7, replacing a custom solution for logging a user out of all sessions in the event of a password reset with a <a class="reference external" href="https://docs.djangoproject.com/en/6.1/topics/auth/default/#session-invalidation-on-password-change">built-in solution</a></p></li>
+<li><p>Backwards incompatible changes example: live-migrating from Postgres 9.5 to 17 (Onsign Team does not want to be a burden to Django Community to support old versions)</p></li>
+<li><p>Feature deprecated example: in Django 3.1, changing <a class="reference external" href="https://docs.djangoproject.com/en/6.1/releases/3.1/#id2">django.conf.urls.url() to django.urls.re_path()</a></p></li>
+<li><p>The one time in fifteen years that a point release “did them dirty”: in Django 3.1.1, <a class="reference external" href="https://docs.djangoproject.com/en/6.1/releases/3.1.1/#bugfixes">QuerySet.order_by() fix</a> was an obscure reference, but broke prod</p></li>
+</ul>
+<p>Onsign Team has discussions with the Django Community in the tracker or mailing list. Django has to look out for everyone. A decision that is right for Django might not be right for Onsign Team. They have seven different monkey patches on top of Django. If it breaks, it’s on the them to fix.</p>
+<!--
+![](djangocon-us-2026-recap-images/keeping-pace-with-django-django-evolved-2.png)
+-->
+<!--
+Ideally whenever you are working on an update, if you remove everything deprecated you will never reach this point
+
+If you work 15 years in a project, you reap what you sow.
+Framework
+
+After the deprecation policy timeframe passes, the old shim is removed from Django
+-->
+<!--
+When Django did not have swappable user models- rough times
+
+Recursive Common Table Expressions
+https://sqlite.org/lang_with.html
+https://www.postgresql.org/docs/current/queries-with.html
+
+Queryset.filter() on RawSQL
+extra() and RawSQL()
+
+https://docs.djangoproject.com/en/6.1/releases/1.7/#django-contrib-auth
+AbstractBaseUser.get_session_auth_hash()
+
+Features removed
+See next slides
+Update to Django 5.2
+
+2016- decided to only do LTS, starting skipping updates
+With new release cycle, they will be able to pick and choose when to migrate
+Easier to adopt new versions
+
+Features Deprecated
+Two years or four years
+-->
+<p>🔝 <sub><a class="reference internal" href="#table-of-contents"><strong>back to top</strong></a></sub></p>
+</section>
+</section>
+<section id="wednesday">
+<h2>Wednesday<a class="headerlink" href="#wednesday" title="Link to this heading">¶</a></h2>
+<section id="wednesday-opening-remarks">
+<h3>Wednesday Opening Remarks<a class="headerlink" href="#wednesday-opening-remarks" title="Link to this heading">¶</a></h3>
+<p>by Drew Winstel</p>
+<p>Inspired by Django Under the Hood, Day 3 is deep-dive day.</p>
+<p>If you want to help organize DjangoCon US next year, email hello&#64;djangocon.us. DjangoCon US has a lot of jobs. Let them what you are interested in.</p>
+<p>🔝 <sub><a class="reference internal" href="#table-of-contents"><strong>back to top</strong></a></sub></p>
+</section>
+<section id="keynote-django-6-the-most-exciting-release-ever">
+<h3>Keynote: Django 6: The Most Exciting Release Ever<a class="headerlink" href="#keynote-django-6-the-most-exciting-release-ever" title="Link to this heading">¶</a></h3>
+<p>by Karen Tracey</p>
+<p>Django has been around for 21 years of releases. Nearly 20 years ago, Karen started using Django for a hobby project, before Django 1.0 release. She had some issues and almost immediately created a report and was invited to create a patch. She started to help develop Django and became a Django Core Developer.</p>
+<p>Although Karen highlights four big things, there are “little gems throughout the release notes.” Read the full notes, including Miscellaneous (this is the second reference of the conference to the importance of this section). There might be functionality that would appeal to your project or address a pain point.</p>
+<p>These are in the order of Karen’s increasing level of excitement.</p>
+<p><img alt="" src="../../_images/django-6-the-most-exciting-release-ever-python-modern-email-api.png" />
+Karen feels that this feature reflects Django’s health, because it indicates that Django is picking up Python’s new features.</p>
+<p><img alt="" src="../../_images/django-6-the-most-exciting-content-security-policy.png" />
+Karen thinks it’s “excellent that Django has incorporated [CSP] into the base,” because it makes it visible to Django developers that they need to decide and implement a CSP.</p>
+<p><img alt="" src="../../_images/django-6-the-most-exciting-background-tasks.png" />
+Karen points out that Celery is often more complexity than is necessary. She’s happy that standardization for enqueuing and execution is happening. She would like to see at least one production-ready backend be included in Django 4.0.</p>
+<p><img alt="" src="../../_images/django-6-the-most-exciting-template-partials.png" />
+Template partials is the feature Karen is most excited about.</p>
+<p><img alt="" src="../../_images/dango-6-the-most-exciting-more-exciting-in-6-1.png" /></p>
+<p>Django has a <a class="reference external" href="https://github.com/django/new-features">new features repo</a> for proposing new features</p>
+<p>🔝 <sub><a class="reference internal" href="#table-of-contents"><strong>back to top</strong></a></sub></p>
+</section>
+<section id="wednesday-lightning-talks">
+<h3>Wednesday Lightning Talks<a class="headerlink" href="#wednesday-lightning-talks" title="Link to this heading">¶</a></h3>
+<!--
+Francisco
+https://docs.djangoproject.com/en/6.1/releases/4.2/
+https://github.com/django/django/pull/11337/changes/ca3329c65f80c2de692da51e776e19140ff1f1c3
+bug fix that didn't make it into the release notes
+https://code.djangoproject.com/ticket/35623
+https://github.com/django/django/pull/18465
+Read the docs
+Read the code
+Understand what's going on
+
+Annette Lewis
+What's Hiding Behind This Button?
+Questions to ask before you build
+
+Daily Reese
+Uses new Django backend task framework
+
+Mariana?
+firefox.com codebase
+https://github.com/mozmeao/springfield
+https://docs.flare.io/product-specifications
+https://mozmeao.github.io/platform-docs/
+
+Django Photos Through the Years
+https://www.flickr.com/photos/djangocon/
+
+Josh
+Template Diagnostics in Your Editor
+https://github.com/joshuadavidthomas/django-language-server
+https://github.com/joshuadavidthomas/django-language-server/blob/main/docs/why.md
+Static Toml
+Python AST, finding exceptions in template tags, tracing back
+https://github.com/joshuadavidthomas/djls-vscode
+-->
+<p>🔝 <sub><a class="reference internal" href="#table-of-contents"><strong>back to top</strong></a></sub></p>
+</section>
+<section id="modern-django-deployments-in-2026">
+<h3>Modern Django Deployments in 2026<a class="headerlink" href="#modern-django-deployments-in-2026" title="Link to this heading">¶</a></h3>
+<p>by Will Vincent</p>
+<p>“90% of Django deployments are the same.” Will wants to prove that using his mental model. He did not talk about tooling. He wanted to talk about the things that don’t change.</p>
+<p><img alt="" src="../../_images/modern-django-deployments-in-2026-ecosystem.png" />
+Shortlist of providers</p>
+<p><img alt="" src="../../_images/modern-django-deployments-in-2026-step-10.png" />
+Deployment architecture</p>
+<p>Notes</p>
+<ul class="simple">
+<li><p>Now we have WSGI/ASGI (based on Django Channels)</p></li>
+<li><p>Django supports five databases out of the box: Postgres, SQLite, MySQL, Oracle DB, MongoDB</p></li>
+<li><p><a class="reference external" href="https://www.psycopg.org/">psycopg driver</a> is needed for Postgres</p></li>
+<li><p>Tools: Docker, White Noise, Nginx, CDN, Redis, RabbitMQ, Celery, RQ</p></li>
+<li><p>collect static command, media is uploaded by users, so can’t trust it. Have to put it somewhere else.</p></li>
+<li><p>auth: how to do password reset, email, passkey, sms (“a mistake here in production will get you in the news in a way you don’t want to be”)</p></li>
+<li><p>In prod, with public internet, everything is a threat</p></li>
+<li><p>https is not enough, because it does not protect session cookies</p></li>
+<li><p>Once a page is loaded we cannot trust it to not run someone’s script. CSP middleware addresses this.</p></li>
+<li><p>TLS, secure cookies, debug setting, allowed hosts</p></li>
+<li><p>Hardening doesn’t make anything faster</p></li>
+<li><p>Background workers (in prod milliseconds matter), message brokers, tasks</p></li>
+<li><p>Performance: caching (“two copies of truth, and we have to know when to throw away the stale one”), n workers, indices, model fetch modes</p></li>
+<li><p>When people say Django is slow (sometimes Fast API is faster), it’s not Django/Python. It’s the database</p></li>
+<li><p>Resist the urge to prematurely optimize (wait for real traffic to determine which pages are slow, don’t sprinkle indices like candy ahead of time)</p></li>
+<li><p>Locally, you will get an error message. In prod, use monitoring, Sentry, logs.</p></li>
+</ul>
+<p>Issues brought up during Q&amp;A:</p>
+<ul class="simple">
+<li><p>Will would love to see some “magic” added such as a flag or other mechanism to “flip a switch” to go from local mode to prod mode to deploy to a platform as a service or app pack. A lightweight way to deploy could help newcomers and those “afraid of Django.”</p></li>
+<li><p>Will is considering open sourcing his own deployment checklist (yes, please). Django also has a <a class="reference external" href="https://docs.djangoproject.com/en/6.1/howto/deployment/checklist/">deployment checklist</a>. Will suggests to start by running the Django management command ‘manage.py deploy –check’ to assess your deployment readiness. Will suggested also to ask AI for a deployment checklist.</p></li>
+<li><p>When is Django Cloud deploy as a service coming out? (for context, Fast API has Fast API Cloud).</p></li>
+<li><p>Will does not use AI for deployment, but he has heard people say they are doing infra, terraform, kubernetes, etc. and it works well. It is really saving time and doing it well?</p></li>
+</ul>
+<p>Remember when:</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://docs.python.org/3/library/cgi.html">cgi</a> and <a class="reference external" href="https://en.wikipedia.org/wiki/Mod_python">mod_python</a></p></li>
+<li><p>Multiple settings.py files</p></li>
+<li><p>Jacob Kaplan-Moss talk “<a class="reference external" href="https://www.youtube.com/watch?v=E613X3RBegI">Assets in Django Without Losing Your Hair</a>”</p></li>
+</ul>
+<!--
+Email service is another api key
+mailers dictionary (Django 6.1)
+emails_wild deprecated in Django 7.1
+
+Q&A
+Calvin/Frank- bias to people with money, big sites, go to Amazon
+Will most excited about Qubity, pass service on VPS
+-->
+<p>🔝 <sub><a class="reference internal" href="#table-of-contents"><strong>back to top</strong></a></sub></p>
+</section>
+<section id="the-django-uuid-story">
+<h3>The Django UUID Story<a class="headerlink" href="#the-django-uuid-story" title="Link to this heading">¶</a></h3>
+<p>by Paolo Melchiorre</p>
+<!--
+https://docs.djangoproject.com/en/1.8/releases/1.8/
+https://docs.djangoproject.com/en/1.8/releases/1.8/#new-data-types
+https://docs.djangoproject.com/en/1.8/ref/models/fields/#django.db.models.UUIDField
+Paolo was not involved in Django
+
+Old project
+Two main problems
+Slow like-based search *
+Internal IDs exposed publicly
+https://docs.djangoproject.com/en/1.8/howto/writing-migrations/#migrations-that-add-unique-fields
+First time to suggest improvement
+https://github.com/django/django/pull/8246
+https://docs.djangoproject.com/en/6.1/topics/performance/
+You have to work at the proper level. Database in this case. 
+Additional modules
+https://www.postgresql.org/docs/9.4/release-9-4.html
+gen_random_uuid()
+One query: RandomUUID()
+UUID migration benchmark
+https://code.djangoproject.com/ticket/27996
+He was mentored in Markus
+opening issue, setting flags, updating docs
+Completed during sprint
+https://github.com/django/django/pull/8265
+https://docs.djangoproject.com/en/2.0/releases/2.0/#django-contrib-postgres
+https://docs.djangoproject.com/en/2.0/ref/contrib/postgres/functions/#django.contrib.postgres.functions.RandomUUID
+https://code.djangoproject.com/ticket/4682
+https://code.djangoproject.com/ticket/19463
+Feature people wanted for a long time
+https://code.djangoproject.com/ticket/470
+https://github.com/django/django/pull/16092
+https://docs.djangoproject.com/en/5.0/releases/5.0/#database-computed-default-values
+https://docs.python.org/3/whatsnew/3.14.html#uuid
+https://docs.python.org/3/library/uuid.html
+https://www.postgresql.org/docs/current/release-18.html
+
+Django on the Med
+Simon and Lily
+Proposal to add new UUID version 7 support in Postgres
+Research if support had evolved for other databases
+https://github.com/django/new-features/issues/85
+https://www.paulox.net/2025/11/14/how-to-use-uuidv7-in-python-django-and-postgresql/
+Paolo continued experimenting with this stack, including Django 5.2
+Tried to see difference in support between Postgres and SQLite
+SQLite- already able to store UUID version 7 directly in UUID field
+SQL put the value in the SQL query, because it's generated at Python level?
+More interested in Postgres
+Did similar experiment as 8 years before: created custom database function locally
+The first one was to use the generation of UUID version 7. 
+The second one was to extract the time from the timestamp part of the UUID
+He used a generative field to experiment with the 2nd one
+https://www.paulox.net/2023/11/24/database-generated-columns-part-2-django-and-postgresql/
+Created an item with database default UUID version 7
+And another field that was automatically generated from the previous one. 
+With the database function, he was able to extract the datetime from the database layer
+This is the query you will find if you generate from postgres
+If you try locally, you will find the difference between this code and the code that we generated with SQLite is the fact that there is no UUID in the query here. 
+The value comes from the default and the query on you directly to generated information. 
+The UUID and the part that is abstracted from the UUID
+If you have only to read it, it's not so different than what you had already in SQLite, but having an additional column, you can do something like that
+You can use it directly there. 
+Date/time from the UUID and perform some filter
+Some query, maybe you can use in the admin filter, or you can have other ideas to use it in various ways. 
+https://github.com/django/django/pull/20101
+Django on the Med label
+https://github.com/django/django/issues?q=state%3Aopen%20label%3A%22Django%20on%20the%20Med%20%F0%9F%8F%96%EF%B8%8F%22
+https://docs.djangoproject.com/en/6.1/releases/6.1/#models
+https://docs.djangoproject.com/en/6.1/ref/models/database-functions/#django.db.models.functions.UUID4
+https://docs.djangoproject.com/en/6.1/ref/models/database-functions/#uuid7
+
+Generate the version of UUID you need in your project, you can use it as a database default not only in postgres like he experimented in his article in Django 5.2. But in Django 6.1, you can use in other types of database
+MySQL does not support UUID at all
+Store, type, generate, default
+Changelog
+Things changed when he proposed to add something to Django and people helped him. He was not able to create the perfect pr
+Got feedback, continued contributing, step, was not the one who created the pr, but he tried to share ideas
+What he is saying is contributing and being part of sprints is important. It's been very important. In my career, it changed everything
+Perfect moment to ask you to do the same
+Ask for help, experiment something, contribute back to Django
+Something you like, features you want. Something you already prepared or worked on in the past. 
+-->
+<!--
+Founded with Carlton
+Django on the Med
+Python Pescara
+
+DjangoCon Europe 2027
+Photo of mountains in Northern Italy
+Innsbruck Austria
+https://2027.djangocon.eu/
+-->
+<p>🔝 <sub><a class="reference internal" href="#table-of-contents"><strong>back to top</strong></a></sub></p>
+</section>
+<section id="snippets">
+<h3>Snippets<a class="headerlink" href="#snippets" title="Link to this heading">¶</a></h3>
+<p>by various</p>
+<p>🔝 <sub><a class="reference internal" href="#table-of-contents"><strong>back to top</strong></a></sub></p>
+</section>
+<section id="closing-remarks">
+<h3>Closing Remarks<a class="headerlink" href="#closing-remarks" title="Link to this heading">¶</a></h3>
+<p>by Keanya Phelps</p>
+<p>Keanya, thank you for chairing two unforgettable conferences!</p>
+<p>🔝 <sub><a class="reference internal" href="#table-of-contents"><strong>back to top</strong></a></sub></p>
+<!--
+### Polyglot Persistence with Django: When One Database Isn't Enough
+
+by Abigail Afi Gbadago
+
+ERD Diagram
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Auto-prefetching with model field fetch modes in Django 6.1
+
+by Jacob Walls
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Wishlist granted: HTMX without betraying your Django views
+
+    - [Wishlist granted: HTMX without betraying your Django views](#)
+
+by Natalia
+
+https://github.com/nessita/djangocon2026/tree/main/wishlists
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+-->
+<!--
+The power of Miscellaneous section
+Using multiple databases
+Background tasks demo-ed
+
+
+GeoDjango at City Scale: Spatial Data for Urban Systems
+Presented by
+Drishti Jain
+
+
+Search-as-you-type for 54 Million Names: PostgreSQL + Django for Fuzzy Name Matching at Scale
+Presented by
+Tobias McNulty
+Gerald Carlton
+
+Using Django to deliver public transit benefits securely and privately
+Presented by
+Scott Cranfill
+
+
+Taming Your Templates: Component-Based Frontends in Django
+Presented by
+Kasey Kelly
+
+Teach Django Tasks to speak Celery: Building a Celery backend for Django Tasks
+Presented by
+Matías Bordese
+
+Agents All the Way Down: How AI Coding Agents Changed How I Write Django
+Presented by
+Josh Thomas
+
+Scientists Meet Django: Building Bridges Between Research and Software
+Presented by
+Barkha Jain
+
+
+Tuesday
+
+Batteries vs. Speed: The Django/FastAPI Debate
+Presented by
+Calvin Hendryx-Parker
+Frank Wiles
+
+The Testing Pyramid in Practice for Django
+Presented by
+Monica Oyugi
+
+
+One URL to Rule Them All: Dynamic Landing Pages in Wagtail
+Presented by
+Chrissy Wainwright
+
+
+Audience level:All
+Lightning Talks (Tuesday)
+Presented by
+Andrew Mshar
+
+
+Who Goes There? Actively Detecting Intruders With Cyber Deception Tools
+Presented by
+Dwayne McDaniel
+
+Polyglot Persistence with Django: When One Database Isn't Enough
+Presented by
+Abigail Afi Gbadago
+
+
+50 shades of green - One contribution to the Django world
+Presented by
+Sarah Abderemane
+
+What's New in Postgres 18 & 19
+Presented by
+Elizabeth Christensen
+
+
+Audience level:All
+Keynote: Django 6: The Most Exciting Release Ever
+Presented by
+Karen Tracey
+
+
+Scaling Django: Mastering Database Routers with AWS Aurora
+Presented by
+Leonardo Batista
+
+
+Auto-prefetching with model field fetch modes in Django 6.1
+Presented by
+Jacob Walls
+
+
+Enter the Ecosystem: Contributing to Django Open Source Projects
+Presented by
+Andrew Selzer
+
+Audience level:All
+Lightning Talks (Wednesday)
+Presented by
+Andrew Mshar
+
+
+Wishlist granted: HTMX without betraying your Django views
+Presented by
+Natalia
+
+
+
+The Django UUID Story
+Presented by
+Paolo Melchiorre
+
+
+But did you know the browser already does that?
+Presented by
+James Stuckey Weber
+
+
+
+DSF Membership Open Space
+Join the Django Software Foundation board and members for a quick overview and Q&A about foundation.
+
+What is an Open Space?
+
+Learn to Contribute to Django
+Presented by
+Sarah Boyce
+Jacob Walls
+
+Django New Features Review
+Presented by
+Frank Wiles
+-->
+</section>
+</section>
+</section>
+
+<div class="section ablog__blog_comments">
+       
+</div>
+
+          </div>
+          
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="Main">
+        <div class="sphinxsidebarwrapper">
+<h1 class="logo"><a href="../../index.html">Portfolio</a></h1>
+
+
+
+
+
+
+
+
+
+<search id="searchbox" style="display: none" role="search">
+    <div class="searchformwrapper">
+    <form class="search" action="../../search.html" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" placeholder="Search"/>
+      <input type="submit" value="Go" />
+    </form>
+    </div>
+</search>
+<script>document.getElementById('searchbox').style.display = "block"</script><h3>Navigation</h3>
+<p class="caption" role="heading"><span class="caption-text">Me:</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../about-me.html">About Me</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../speaker-board-and-organizer-photos.html">Speaker, Board, and Organizer Photos</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../favorite-conference-snapshots.html">Favorite Conference Snapshots</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">My Work:</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference external" href="https://katherinemichel.github.io/blog">My Blog</a></li>
+<li class="toctree-l1"><a class="reference external" href="https://katherinemichel.github.io/blog/archive">My Blog Archive</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Popular Posts:</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="pycon-us-2026-recap.html">PyCon US 2026 Recap</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../travel/southwest-headquarters-tour-2026.html">Southwest Headquarters Tour</a></li>
+<li class="toctree-l1"><a class="reference internal" href="pycon-us-2024-recap.html">PyCon US 2024 Recap</a></li>
+<li class="toctree-l1"><a class="reference internal" href="djangocon-us-2024-recap.html">DjangoCon US 2024 Recap</a></li>
+</ul>
+
+<div class="relations">
+<h3>Related Topics</h3>
+<ul>
+  <li><a href="../../index.html">Documentation overview</a><ul>
+  </ul></li>
+</ul>
+</div>
+
+
+
+
+
+
+
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="footer">
+      &#169;Katherine "Kati" Michel.
+      
+      |
+      Powered by <a href="https://www.sphinx-doc.org/">Sphinx 9.1.0</a>
+      &amp; <a href="https://alabaster.readthedocs.io">Alabaster 1.0.0</a>
+      
+      |
+      <a href="../../_sources/blog/conferences/djangocon-us-2026-recap.md.txt"
+          rel="nofollow">Page source</a>
+    </div>
+
+    
+
+    
+  </body>
+</html>
