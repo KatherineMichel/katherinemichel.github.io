@@ -306,9 +306,9 @@ Psychological triggers from [Thanks for the Feedback: The Science and Art of Rec
 Advice:
 * Mergers also make mistakes. You should feel confident and capable of questioning their feedback, just like anyone else. 
 * Growth mindset
-* This is just the first draft, don't worry too much about mistakes. Respond, fix problems, engage. End result is what matters. 
+* This is just the first draft, don't worry too much about mistakes. Respond, fix problems, engage. The end result is what matters. 
 
-Hidden agenda: get more reviews for Django PRs. PRs in the Django review queue sometimes take months to get reviewed. This is becoming worse in the rise of AI. 
+Hidden agenda: get more reviews for Django PRs. PRs in the Django review queue sometimes take months to get reviewed. This is becoming worse due to the rise of AI. 
 
 What worse than receiving a review is receiving no review at all. A review is someone investing in your work. Human attention is limited commodity. Sarah believes most people would prefer to receive a clumsy, imperfect review over no review at all. The collaboration is the joy. 
 
