@@ -352,6 +352,72 @@ by Monica Oyugi
 
 ### Tuesday Lightning Talks
 
+<!--
+Chris Williams?
+https://github.com/mistwire/RPG-AI-tutor
+Socratic method (never gives you the answer, struggle to learn, the more you struggle, the faster you level up)
+https://roadmap.sh/
+
+Natal
+Django is moving to an annual release cycle
+
+Nocturnal Flight Calls
+Classifiers
+Merlin app, Nighthawk
+Birdnet
+https://github.com/HaroldMills/Vesper
+
+Ee Durbin
+How to build a bike lane with Django
+Philly Bike Action
+bikeaction.org
+You can't pip install django-bikelane
+Greenlee Bill- requires council approval for change to road, council ordinance passed, since 2012
+Street department can't "just do things."
+Councilmanic perogative
+RCOs
+Get enough people in a specific RCO or district to contact their RCO board or council member in support
+Give email/street address, we will email occasionally with high quality actionable emails that maximise your impact
+50,000 high quality emails to 3,000 people 
+GeoDjango and PostGIS
+Two new bike lanes in Philly in last year or so
+Other tools, open source
+https://github.com/phillybikeaction
+Maybe you can build a bikelane with Django
+
+Python Paraguay
+https://blog.melizeche.com/tenes-que-escribir-el-codigo-como-aprender-a-programar-en-tiempos-de-ia/
+https://htmx.org/essays/yes-and/
+"You can outsource tasks, but you cannot delegate understanding." 
+https://gist.github.com/melizeche/1ce17c1ed19d4fd47c59e4ca1f7e0e9e
+
+AI Bot
+
+https://www.paradedb.com/
+Text search is really hard
+Postgres built in text search, hasn't changed much
+Has limitations
+max token count allowed per document of 16,383 
+Every filing on SEC
+Cost of ElasticSearch
+Best ranking algorithm- BM25 algorithm
+In Postgres, Elastic quality search
+PG search
+Django ParadeDB
+PSQL prompt
+Text search example page
+Django ORM
+facets, BM25 scoring
+Djangonic? 
+Vector Search
+create extension pgsearch
+pip install django-pgsearch
+Some edge cases where open search better, but cost/benefit, night and day
+Vector search, top k ordering, syntax highlighting
+Frank Wiles
+https://github.com/paradedb/paradedb
+-->
+
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### 50 shades of green - One contribution to the Django world
@@ -874,20 +940,4 @@ Paolo Melchiorre
 But did you know the browser already does that?
 Presented by
 James Stuckey Weber
-
-
-
-DSF Membership Open Space
-Join the Django Software Foundation board and members for a quick overview and Q&A about foundation.
-
-What is an Open Space?
-
-Learn to Contribute to Django
-Presented by
-Sarah Boyce
-Jacob Walls
-
-Django New Features Review
-Presented by
-Frank Wiles
 -->
