@@ -439,9 +439,8 @@ by Elizabeth Christensen
 
 ![](djangocon-us-2026-recap-images/whats-new-in-postgres-18-and-19-uuid-v7-django-orm.png)
 
-![](djangocon-us-2026-recap-images/whats-new-in-postgres-18-and-19-uuid-v7-data-migration.png)
-
 ![](djangocon-us-2026-recap-images/whats-new-in-postgres-18-and-19-virtual-generated-columns.png)
+Virtual generated columns enable database level computation without storing in separate column. Paolo was involved in ensuring support for this in Django ORM. See [Paolo's talk](https://posetteconf.com/speakers/paolo-melchiorre/) from Posette Conference. 
 
 Paolo's contributions to the Django ORM have inspired me to go further in understanding how potential new features are identified, tested, and added to Django. 
 
@@ -452,16 +451,7 @@ not great for db, because can't index them
 uuid standards committee
 UUID v7
 Paolo has put this in Django
-
-UUID Migration
-Virtual Generated Columns
-
-See Paolo's Talk
-Possett conference
-https://posetteconf.com/speakers/paolo-melchiorre/
-
-"Homage to the great Paolo."
-Involved in making sure would be supported to Django ORM
+Talk and blog post
 -->
 
 ![](djangocon-us-2026-recap-images/whats-new-in-postgres-18-and-19-closing.png)
